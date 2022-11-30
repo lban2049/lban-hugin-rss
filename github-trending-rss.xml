@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <atom:link href="https://localhost:3000/users/1/web_requests/9/github-trending-rss.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://localhost:3000/favicon.ico</atom:icon>
+ 
+
+ <title>github Trending RSS</title>
+ <description>github Trending RSS</description>
+ <link>https://localhost:3000</link>
+ <lastBuildDate>Tue, 29 Nov 2022 22:36:05 -0800</lastBuildDate>
+ <pubDate>Tue, 29 Nov 2022 22:36:05 -0800</pubDate>
+ <ttl>60</ttl>
+ <item>
+  <title>rolohaun / Rook</title>
+  <description>Secret hovertext: rolohaun / Rook</description>
+  <link>/rolohaun/Rook</link>
+  <guid isPermaLink="false">72</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>mindsdb / mindsdb</title>
+  <description>Secret hovertext: mindsdb / mindsdb</description>
+  <link>/mindsdb/mindsdb</link>
+  <guid isPermaLink="false">71</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>Visualize-ML / Book3_Elements-of-Mathematics</title>
+  <description>Secret hovertext: Visualize-ML / Book3_Elements-of-Mathematics</description>
+  <link>/Visualize-ML/Book3_Elements-of-Mathematics</link>
+  <guid isPermaLink="false">70</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / TypeScript</title>
+  <description>Secret hovertext: microsoft / TypeScript</description>
+  <link>/microsoft/TypeScript</link>
+  <guid isPermaLink="false">69</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>ldelossa / nvim-ide</title>
+  <description>Secret hovertext: ldelossa / nvim-ide</description>
+  <link>/ldelossa/nvim-ide</link>
+  <guid isPermaLink="false">68</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>AUTOMATIC1111 / stable-diffusion-webui</title>
+  <description>Secret hovertext: AUTOMATIC1111 / stable-diffusion-webui</description>
+  <link>/AUTOMATIC1111/stable-diffusion-webui</link>
+  <guid isPermaLink="false">67</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>bradtraversy / 50projects50days</title>
+  <description>Secret hovertext: bradtraversy / 50projects50days</description>
+  <link>/bradtraversy/50projects50days</link>
+  <guid isPermaLink="false">66</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>charlax / professional-programming</title>
+  <description>Secret hovertext: charlax / professional-programming</description>
+  <link>/charlax/professional-programming</link>
+  <guid isPermaLink="false">65</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>codecrafters-io / build-your-own-x</title>
+  <description>Secret hovertext: codecrafters-io / build-your-own-x</description>
+  <link>/codecrafters-io/build-your-own-x</link>
+  <guid isPermaLink="false">64</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>ripienaar / free-for-dev</title>
+  <description>Secret hovertext: ripienaar / free-for-dev</description>
+  <link>/ripienaar/free-for-dev</link>
+  <guid isPermaLink="false">63</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>mtdvio / every-programmer-should-know</title>
+  <description>Secret hovertext: mtdvio / every-programmer-should-know</description>
+  <link>/mtdvio/every-programmer-should-know</link>
+  <guid isPermaLink="false">62</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>wso2 / reference-architecture</title>
+  <description>Secret hovertext: wso2 / reference-architecture</description>
+  <link>/wso2/reference-architecture</link>
+  <guid isPermaLink="false">61</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>TomSchimansky / CustomTkinter</title>
+  <description>Secret hovertext: TomSchimansky / CustomTkinter</description>
+  <link>/TomSchimansky/CustomTkinter</link>
+  <guid isPermaLink="false">60</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>t3l3machus / Villain</title>
+  <description>Secret hovertext: t3l3machus / Villain</description>
+  <link>/t3l3machus/Villain</link>
+  <guid isPermaLink="false">59</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>davidfowl / TodoApi</title>
+  <description>Secret hovertext: davidfowl / TodoApi</description>
+  <link>/davidfowl/TodoApi</link>
+  <guid isPermaLink="false">58</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>Z4nzu / hackingtool</title>
+  <description>Secret hovertext: Z4nzu / hackingtool</description>
+  <link>/Z4nzu/hackingtool</link>
+  <guid isPermaLink="false">57</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>stashapp / stash</title>
+  <description>Secret hovertext: stashapp / stash</description>
+  <link>/stashapp/stash</link>
+  <guid isPermaLink="false">56</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>alan2207 / bulletproof-react</title>
+  <description>Secret hovertext: alan2207 / bulletproof-react</description>
+  <link>/alan2207/bulletproof-react</link>
+  <guid isPermaLink="false">55</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>huggingface / diffusion-models-class</title>
+  <description>Secret hovertext: huggingface / diffusion-models-class</description>
+  <link>/huggingface/diffusion-models-class</link>
+  <guid isPermaLink="false">54</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>VoronDesign / Voron-Tap</title>
+  <description>Secret hovertext: VoronDesign / Voron-Tap</description>
+  <link>/VoronDesign/Voron-Tap</link>
+  <guid isPermaLink="false">53</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>PKUFlyingPig / cs-self-learning</title>
+  <description>Secret hovertext: PKUFlyingPig / cs-self-learning</description>
+  <link>/PKUFlyingPig/cs-self-learning</link>
+  <guid isPermaLink="false">52</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>ggerganov / whisper.cpp</title>
+  <description>Secret hovertext: ggerganov / whisper.cpp</description>
+  <link>/ggerganov/whisper.cpp</link>
+  <guid isPermaLink="false">51</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>kuchin / awesome-cto</title>
+  <description>Secret hovertext: kuchin / awesome-cto</description>
+  <link>/kuchin/awesome-cto</link>
+  <guid isPermaLink="false">50</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>google / rune</title>
+  <description>Secret hovertext: google / rune</description>
+  <link>/google/rune</link>
+  <guid isPermaLink="false">49</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>google / mangle</title>
+  <description>Secret hovertext: google / mangle</description>
+  <link>/google/mangle</link>
+  <guid isPermaLink="false">48</guid>
+  <pubDate>Tue, 29 Nov 2022 22:34:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>
+      
+    
+
+
+      
+        rolohaun /
+
+      Rook
+</title>
+  <description>Secret hovertext: 
+      
+    
+
+
+      
+        rolohaun /
+
+      Rook
+</description>
+  <link>/rolohaun/Rook</link>
+  <guid isPermaLink="false">47</guid>
+  <pubDate>Tue, 29 Nov 2022 22:06:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>
+      
+    
+
+
+      
+        mindsdb /
+
+      mindsdb
+</title>
+  <description>Secret hovertext: 
+      
+    
+
+
+      
+        mindsdb /
+
+      mindsdb
+</description>
+  <link>/mindsdb/mindsdb</link>
+  <guid isPermaLink="false">46</guid>
+  <pubDate>Tue, 29 Nov 2022 22:06:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>
+      
+    
+
+
+      
+        Visualize-ML /
+
+      Book3_Elements-of-Mathematics
+</title>
+  <description>Secret hovertext: 
+      
+    
+
+
+      
+        Visualize-ML /
+
+      Book3_Elements-of-Mathematics
+</description>
+  <link>/Visualize-ML/Book3_Elements-of-Mathematics</link>
+  <guid isPermaLink="false">45</guid>
+  <pubDate>Tue, 29 Nov 2022 22:06:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>
+      
+    
+
+
+      
+        microsoft /
+
+      TypeScript
+</title>
+  <description>Secret hovertext: 
+      
+    
+
+
+      
+        microsoft /
+
+      TypeScript
+</description>
+  <link>/microsoft/TypeScript</link>
+  <guid isPermaLink="false">44</guid>
+  <pubDate>Tue, 29 Nov 2022 22:06:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>
+      
+    
+
+
+      
+        ldelossa /
+
+      nvim-ide
+</title>
+  <description>Secret hovertext: 
+      
+    
+
+
+      
+        ldelossa /
+
+      nvim-ide
+</description>
+  <link>/ldelossa/nvim-ide</link>
+  <guid isPermaLink="false">43</guid>
+  <pubDate>Tue, 29 Nov 2022 22:06:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>
+      
+    
+
+
+      
+        AUTOMATIC1111 /
+
+      stable-diffusion-webui
+</title>
+  <description>Secret hovertext: 
+      
+    
+
+
+      
+        AUTOMATIC1111 /
+
+      stable-diffusion-webui
+</description>
+  <link>/AUTOMATIC1111/stable-diffusion-webui</link>
+  <guid isPermaLink="false">42</guid>
+  <pubDate>Tue, 29 Nov 2022 22:06:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>
+      
+    
+
+
+      
+        bradtraversy /
+
+      50projects50days
+</title>
+  <description>Secret hovertext: 
+      
+    
+
+
+      
+        bradtraversy /
+
+      50projects50days
+</description>
+  <link>/bradtraversy/50projects50days</link>
+  <guid isPermaLink="false">41</guid>
+  <pubDate>Tue, 29 Nov 2022 22:06:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>
+      
+    
+
+
+      
+        charlax /
+
+      professional-programming
+</title>
+  <description>Secret hovertext: 
+      
+    
+
+
+      
+        charlax /
+
+      professional-programming
+</description>
+  <link>/charlax/professional-programming</link>
+  <guid isPermaLink="false">40</guid>
+  <pubDate>Tue, 29 Nov 2022 22:06:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>
+      
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x
+</title>
+  <description>Secret hovertext: 
+      
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x
+</description>
+  <link>/codecrafters-io/build-your-own-x</link>
+  <guid isPermaLink="false">39</guid>
+  <pubDate>Tue, 29 Nov 2022 22:06:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>
+      
+    
+
+
+      
+        ripienaar /
+
+      free-for-dev
+</title>
+  <description>Secret hovertext: 
+      
+    
+
+
+      
+        ripienaar /
+
+      free-for-dev
+</description>
+  <link>/ripienaar/free-for-dev</link>
+  <guid isPermaLink="false">38</guid>
+  <pubDate>Tue, 29 Nov 2022 22:06:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>
+      
+    
+
+
+      
+        mtdvio /
+
+      every-programmer-should-know
+</title>
+  <description>Secret hovertext: 
+      
+    
+
+
+      
+        mtdvio /
+
+      every-programmer-should-know
+</description>
+  <link>/mtdvio/every-programmer-should-know</link>
+  <guid isPermaLink="false">37</guid>
+  <pubDate>Tue, 29 Nov 2022 22:06:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>
+      
+    
+
+
+      
+        wso2 /
+
+      reference-architecture
+</title>
+  <description>Secret hovertext: 
+      
+    
+
+
+      
+        wso2 /
+
+      reference-architecture
+</description>
+  <link>/wso2/reference-architecture</link>
+  <guid isPermaLink="false">36</guid>
+  <pubDate>Tue, 29 Nov 2022 22:06:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>
+      
+    
+
+
+      
+        TomSchimansky /
+
+      CustomTkinter
+</title>
+  <description>Secret hovertext: 
+      
+    
+
+
+      
+        TomSchimansky /
+
+      CustomTkinter
+</description>
+  <link>/TomSchimansky/CustomTkinter</link>
+  <guid isPermaLink="false">35</guid>
+  <pubDate>Tue, 29 Nov 2022 22:06:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>
+      
+    
+
+
+      
+        t3l3machus /
+
+      Villain
+</title>
+  <description>Secret hovertext: 
+      
+    
+
+
+      
+        t3l3machus /
+
+      Villain
+</description>
+  <link>/t3l3machus/Villain</link>
+  <guid isPermaLink="false">34</guid>
+  <pubDate>Tue, 29 Nov 2022 22:06:43 -0800</pubDate>
+ </item>
+ <item>
+  <title>
+      
+    
+
+
+      
+        davidfowl /
+
+      TodoApi
+</title>
+  <description>Secret hovertext: 
+      
+    
+
+
+      
+        davidfowl /
+
+      TodoApi
+</description>
+  <link>/davidfowl/TodoApi</link>
+  <guid isPermaLink="false">33</guid>
+  <pubDate>Tue, 29 Nov 2022 22:06:43 -0800</pubDate>
+ </item>
+
+</channel>
+</rss>
