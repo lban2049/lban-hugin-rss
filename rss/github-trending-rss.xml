@@ -8,9 +8,114 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 30 Nov 2022 22:05:30 -0800</lastBuildDate>
- <pubDate>Wed, 30 Nov 2022 22:05:30 -0800</pubDate>
+ <lastBuildDate>Thu, 01 Dec 2022 13:00:04 -0800</lastBuildDate>
+ <pubDate>Thu, 01 Dec 2022 13:00:04 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>WasmEdge / WasmEdge</title>
+  <description>Secret hovertext: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.</description>
+  <link>https://github.com/WasmEdge/WasmEdge</link>
+  <guid isPermaLink="false">130</guid>
+  <pubDate>Thu, 01 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>isocpp / CppCoreGuidelines</title>
+  <description>Secret hovertext: The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++</description>
+  <link>https://github.com/isocpp/CppCoreGuidelines</link>
+  <guid isPermaLink="false">129</guid>
+  <pubDate>Thu, 01 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>celery / celery</title>
+  <description>Secret hovertext: Distributed Task Queue (development branch)</description>
+  <link>https://github.com/celery/celery</link>
+  <guid isPermaLink="false">128</guid>
+  <pubDate>Thu, 01 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>siyuan-note / siyuan</title>
+  <description>Secret hovertext: Build Your Eternal Digital Garden 构建你永恒的数字花园</description>
+  <link>https://github.com/siyuan-note/siyuan</link>
+  <guid isPermaLink="false">127</guid>
+  <pubDate>Thu, 01 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>hashicorp / terraform</title>
+  <description>Secret hovertext: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</description>
+  <link>https://github.com/hashicorp/terraform</link>
+  <guid isPermaLink="false">126</guid>
+  <pubDate>Thu, 01 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>strapi / strapi</title>
+  <description>Secret hovertext: 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.</description>
+  <link>https://github.com/strapi/strapi</link>
+  <guid isPermaLink="false">125</guid>
+  <pubDate>Thu, 01 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>corkami / pics</title>
+  <description>Secret hovertext: Posters, drawings...</description>
+  <link>https://github.com/corkami/pics</link>
+  <guid isPermaLink="false">124</guid>
+  <pubDate>Thu, 01 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>rfordatascience / tidytuesday</title>
+  <description>Secret hovertext: Official repo for the #tidytuesday project</description>
+  <link>https://github.com/rfordatascience/tidytuesday</link>
+  <guid isPermaLink="false">123</guid>
+  <pubDate>Thu, 01 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>midudev / libros-programacion-gratis</title>
+  <description>Secret hovertext: 📚 Lista de libros sobre programación en Español y gratis</description>
+  <link>https://github.com/midudev/libros-programacion-gratis</link>
+  <guid isPermaLink="false">122</guid>
+  <pubDate>Thu, 01 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>rwightman / pytorch-image-models</title>
+  <description>Secret hovertext: PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more</description>
+  <link>https://github.com/rwightman/pytorch-image-models</link>
+  <guid isPermaLink="false">121</guid>
+  <pubDate>Thu, 01 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>appsmithorg / appsmith</title>
+  <description>Secret hovertext: Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.</description>
+  <link>https://github.com/appsmithorg/appsmith</link>
+  <guid isPermaLink="false">120</guid>
+  <pubDate>Thu, 01 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>zu1k / zlib-searcher</title>
+  <description>Secret hovertext: search zlib/libgen index to get ipfs_cid. We don't save and provide files, we provide search. I hope everyone have a copy of the index locally, so that no need to rely on any centralized service.</description>
+  <link>https://github.com/zu1k/zlib-searcher</link>
+  <guid isPermaLink="false">119</guid>
+  <pubDate>Thu, 01 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>cugu / awesome-forensics</title>
+  <description>Secret hovertext: A curated list of awesome forensic analysis tools and resources</description>
+  <link>https://github.com/cugu/awesome-forensics</link>
+  <guid isPermaLink="false">118</guid>
+  <pubDate>Thu, 01 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>chubin / cheat.sh</title>
+  <description>Secret hovertext: the only cheat sheet you need</description>
+  <link>https://github.com/chubin/cheat.sh</link>
+  <guid isPermaLink="false">117</guid>
+  <pubDate>Thu, 01 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>grafana / grafana</title>
+  <description>Secret hovertext: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.</description>
+  <link>https://github.com/grafana/grafana</link>
+  <guid isPermaLink="false">116</guid>
+  <pubDate>Thu, 01 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
  <item>
   <title>hashicorp / vault</title>
   <description>Secret hovertext: A tool for secrets management, encryption as a service, and privileged access management</description>
@@ -185,111 +290,6 @@
   <link>https://github.com/bradtraversy/50projects50days</link>
   <guid isPermaLink="false">91</guid>
   <pubDate>Wed, 30 Nov 2022 00:03:56 -0800</pubDate>
- </item>
- <item>
-  <title>charlax / professional-programming</title>
-  <description>Secret hovertext: A collection of learning resources for curious software engineers</description>
-  <link>https://github.com/charlax/professional-programming</link>
-  <guid isPermaLink="false">90</guid>
-  <pubDate>Wed, 30 Nov 2022 00:03:56 -0800</pubDate>
- </item>
- <item>
-  <title>codecrafters-io / build-your-own-x</title>
-  <description>Secret hovertext: Master programming by recreating your favorite technologies from scratch.</description>
-  <link>https://github.com/codecrafters-io/build-your-own-x</link>
-  <guid isPermaLink="false">89</guid>
-  <pubDate>Wed, 30 Nov 2022 00:03:56 -0800</pubDate>
- </item>
- <item>
-  <title>ripienaar / free-for-dev</title>
-  <description>Secret hovertext: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev</description>
-  <link>https://github.com/ripienaar/free-for-dev</link>
-  <guid isPermaLink="false">88</guid>
-  <pubDate>Wed, 30 Nov 2022 00:03:56 -0800</pubDate>
- </item>
- <item>
-  <title>mtdvio / every-programmer-should-know</title>
-  <description>Secret hovertext: A collection of (mostly) technical things every software developer should know about</description>
-  <link>https://github.com/mtdvio/every-programmer-should-know</link>
-  <guid isPermaLink="false">87</guid>
-  <pubDate>Wed, 30 Nov 2022 00:03:56 -0800</pubDate>
- </item>
- <item>
-  <title>wso2 / reference-architecture</title>
-  <description>Secret hovertext: The Reference Architecture for Agility is a technology-neutral logical architecture based on a disaggregated cloud-based model.</description>
-  <link>https://github.com/wso2/reference-architecture</link>
-  <guid isPermaLink="false">86</guid>
-  <pubDate>Wed, 30 Nov 2022 00:03:56 -0800</pubDate>
- </item>
- <item>
-  <title>TomSchimansky / CustomTkinter</title>
-  <description>Secret hovertext: A modern and customizable python UI-library based on Tkinter</description>
-  <link>https://github.com/TomSchimansky/CustomTkinter</link>
-  <guid isPermaLink="false">85</guid>
-  <pubDate>Wed, 30 Nov 2022 00:03:56 -0800</pubDate>
- </item>
- <item>
-  <title>t3l3machus / Villain</title>
-  <description>Secret hovertext: Villain is a Windows &amp; Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.</description>
-  <link>https://github.com/t3l3machus/Villain</link>
-  <guid isPermaLink="false">84</guid>
-  <pubDate>Wed, 30 Nov 2022 00:03:56 -0800</pubDate>
- </item>
- <item>
-  <title>davidfowl / TodoApi</title>
-  <description>Secret hovertext: Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication</description>
-  <link>https://github.com/davidfowl/TodoApi</link>
-  <guid isPermaLink="false">83</guid>
-  <pubDate>Wed, 30 Nov 2022 00:03:56 -0800</pubDate>
- </item>
- <item>
-  <title>Z4nzu / hackingtool</title>
-  <description>Secret hovertext: ALL IN ONE Hacking Tool For Hackers</description>
-  <link>https://github.com/Z4nzu/hackingtool</link>
-  <guid isPermaLink="false">82</guid>
-  <pubDate>Wed, 30 Nov 2022 00:03:56 -0800</pubDate>
- </item>
- <item>
-  <title>stashapp / stash</title>
-  <description>Secret hovertext: An organizer for your porn, written in Go</description>
-  <link>https://github.com/stashapp/stash</link>
-  <guid isPermaLink="false">81</guid>
-  <pubDate>Wed, 30 Nov 2022 00:03:56 -0800</pubDate>
- </item>
- <item>
-  <title>alan2207 / bulletproof-react</title>
-  <description>Secret hovertext: 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.</description>
-  <link>https://github.com/alan2207/bulletproof-react</link>
-  <guid isPermaLink="false">80</guid>
-  <pubDate>Wed, 30 Nov 2022 00:03:56 -0800</pubDate>
- </item>
- <item>
-  <title>huggingface / diffusion-models-class</title>
-  <description>Secret hovertext: Materials for the Hugging Face Diffusion Models Course</description>
-  <link>https://github.com/huggingface/diffusion-models-class</link>
-  <guid isPermaLink="false">79</guid>
-  <pubDate>Wed, 30 Nov 2022 00:03:56 -0800</pubDate>
- </item>
- <item>
-  <title>VoronDesign / Voron-Tap</title>
-  <description>Secret hovertext: </description>
-  <link>https://github.com/VoronDesign/Voron-Tap</link>
-  <guid isPermaLink="false">78</guid>
-  <pubDate>Wed, 30 Nov 2022 00:03:55 -0800</pubDate>
- </item>
- <item>
-  <title>PKUFlyingPig / cs-self-learning</title>
-  <description>Secret hovertext: 计算机自学指南</description>
-  <link>https://github.com/PKUFlyingPig/cs-self-learning</link>
-  <guid isPermaLink="false">77</guid>
-  <pubDate>Wed, 30 Nov 2022 00:03:55 -0800</pubDate>
- </item>
- <item>
-  <title>ggerganov / whisper.cpp</title>
-  <description>Secret hovertext: Port of OpenAI's Whisper model in C/C++</description>
-  <link>https://github.com/ggerganov/whisper.cpp</link>
-  <guid isPermaLink="false">76</guid>
-  <pubDate>Wed, 30 Nov 2022 00:03:55 -0800</pubDate>
  </item>
 
 </channel>
