@@ -24,8 +24,8 @@ for url in save_list:
     print(filename + ' download succuess!')
 
 # 提交 git
-os.system("git add .")
-os.system("git commit -m 'auto update'")
-os.system("git push")
+os.system("auto-push.sh")
+# os.system("git commit -m 'auto update'")
+# os.system("git push")
 
 print('auto push success')
