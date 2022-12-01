@@ -1,5 +1,6 @@
 git add .
-git commit -m 'auto update'
+git commit -m 'auto updated'
 echo 'commit'
-git push
+sleep 1s
+git push origin main
 echo 'push'
