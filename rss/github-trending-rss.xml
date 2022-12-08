@@ -8,9 +8,121 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 07 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Wed, 07 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Thu, 08 Dec 2022 13:00:01 -0800</lastBuildDate>
+ <pubDate>Thu, 08 Dec 2022 13:00:01 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>AutumnWhj / ChatGPT-wechat-bot</title>
+  <description>Secret hovertext: ChatGPT for wechat</description>
+  <link>https://github.com/AutumnWhj/ChatGPT-wechat-bot</link>
+  <guid isPermaLink="false">368</guid>
+  <pubDate>Thu, 08 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / vscode</title>
+  <description>Secret hovertext: Visual Studio Code</description>
+  <link>https://github.com/microsoft/vscode</link>
+  <guid isPermaLink="false">367</guid>
+  <pubDate>Thu, 08 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>labteral / chatgpt-python</title>
+  <description>Secret hovertext: Unofficial Python SDK for OpenAI's ChatGPT</description>
+  <link>https://github.com/labteral/chatgpt-python</link>
+  <guid isPermaLink="false">366</guid>
+  <pubDate>Thu, 08 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>Netflix / conductor</title>
+  <description>Secret hovertext: Conductor is a microservices orchestration engine.</description>
+  <link>https://github.com/Netflix/conductor</link>
+  <guid isPermaLink="false">365</guid>
+  <pubDate>Thu, 08 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>Tencent / Hippy</title>
+  <description>Secret hovertext: Hippy is designed to easily build cross-platform dynamic apps. 👏</description>
+  <link>https://github.com/Tencent/Hippy</link>
+  <guid isPermaLink="false">364</guid>
+  <pubDate>Thu, 08 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>sudoskys / Openaibot</title>
+  <description>Secret hovertext: 🤖 Using OpenAi's Api on Telegram to achieve chatGPT func|在 Telegram 上使用 openai *API* 对话/续写 异步机器人| 👋 支持上下文对话 | 一键部署⚡️ | 非逆向</description>
+  <link>https://github.com/sudoskys/Openaibot</link>
+  <guid isPermaLink="false">363</guid>
+  <pubDate>Thu, 08 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>helix-editor / helix</title>
+  <description>Secret hovertext: A post-modern modal text editor.</description>
+  <link>https://github.com/helix-editor/helix</link>
+  <guid isPermaLink="false">362</guid>
+  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>humanloop / awesome-chatgpt</title>
+  <description>Secret hovertext: Curated list of awesome tools, demos, docs for ChatGPT and GPT-3</description>
+  <link>https://github.com/humanloop/awesome-chatgpt</link>
+  <guid isPermaLink="false">361</guid>
+  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>qunash / chatgpt-advanced</title>
+  <description>Secret hovertext: A browser extension that augments your ChatGPT prompts with web results.</description>
+  <link>https://github.com/qunash/chatgpt-advanced</link>
+  <guid isPermaLink="false">360</guid>
+  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>cpq / bare-metal-programming-guide</title>
+  <description>Secret hovertext: A bare metal programming guide on STM32 microcontroller</description>
+  <link>https://github.com/cpq/bare-metal-programming-guide</link>
+  <guid isPermaLink="false">359</guid>
+  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>airbnb / lottie-ios</title>
+  <description>Secret hovertext: An iOS library to natively render After Effects vector animations</description>
+  <link>https://github.com/airbnb/lottie-ios</link>
+  <guid isPermaLink="false">358</guid>
+  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>poteto / hiring-without-whiteboards</title>
+  <description>Secret hovertext: ⭐️ Companies that don't have a broken hiring process</description>
+  <link>https://github.com/poteto/hiring-without-whiteboards</link>
+  <guid isPermaLink="false">357</guid>
+  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>rawandahmad698 / PyChatGPT</title>
+  <description>Secret hovertext: ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.</description>
+  <link>https://github.com/rawandahmad698/PyChatGPT</link>
+  <guid isPermaLink="false">356</guid>
+  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>transitive-bullshit / chatgpt-api</title>
+  <description>Secret hovertext: Node.js client for the unofficial ChatGPT API. 🔥</description>
+  <link>https://github.com/transitive-bullshit/chatgpt-api</link>
+  <guid isPermaLink="false">355</guid>
+  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>openai / whisper</title>
+  <description>Secret hovertext: Robust Speech Recognition via Large-Scale Weak Supervision</description>
+  <link>https://github.com/openai/whisper</link>
+  <guid isPermaLink="false">354</guid>
+  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>fuergaosi233 / wechat-chatgpt</title>
+  <description>Secret hovertext: Use ChatGPT On Wechat via wechaty</description>
+  <link>https://github.com/fuergaosi233/wechat-chatgpt</link>
+  <guid isPermaLink="false">353</guid>
+  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
  <item>
   <title>f / awesome-chatgpt-prompts</title>
   <description>Secret hovertext: </description>
@@ -178,118 +290,6 @@
   <link>https://github.com/xiaolincoder/CS-Base</link>
   <guid isPermaLink="false">299</guid>
   <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>m1guelpf / chatgpt-telegram</title>
-  <description>Secret hovertext: Run your own GPTChat Telegram bot, with a single command!</description>
-  <link>https://github.com/m1guelpf/chatgpt-telegram</link>
-  <guid isPermaLink="false">298</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>altryne / chatGPT-telegram-bot</title>
-  <description>Secret hovertext: This is a very early attempt at having chatGPT work within a telegram bot</description>
-  <link>https://github.com/altryne/chatGPT-telegram-bot</link>
-  <guid isPermaLink="false">297</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>transitive-bullshit / chatgpt-api</title>
-  <description>Secret hovertext: Node.js client for the unofficial ChatGPT API.</description>
-  <link>https://github.com/transitive-bullshit/chatgpt-api</link>
-  <guid isPermaLink="false">296</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>max-sixty / aoc-gpt</title>
-  <description>Secret hovertext: Solve Advent of Code puzzles with GPT-3</description>
-  <link>https://github.com/max-sixty/aoc-gpt</link>
-  <guid isPermaLink="false">295</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>vincelwt / chatgpt-mac</title>
-  <description>Secret hovertext: ChatGPT for Mac, living in your menubar.</description>
-  <link>https://github.com/vincelwt/chatgpt-mac</link>
-  <guid isPermaLink="false">294</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>acheong08 / ChatGPT</title>
-  <description>Secret hovertext: Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.</description>
-  <link>https://github.com/acheong08/ChatGPT</link>
-  <guid isPermaLink="false">293</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>mpociot / chatgpt-vscode</title>
-  <description>Secret hovertext: A VSCode extension that allows you to use ChatGPT</description>
-  <link>https://github.com/mpociot/chatgpt-vscode</link>
-  <guid isPermaLink="false">292</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>wong2 / chat-gpt-google-extension</title>
-  <description>Secret hovertext: A browser extension to display ChatGPT response alongside Google Search results</description>
-  <link>https://github.com/wong2/chat-gpt-google-extension</link>
-  <guid isPermaLink="false">291</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>linebender / xilem</title>
-  <description>Secret hovertext: An experimental Rust native UI framework</description>
-  <link>https://github.com/linebender/xilem</link>
-  <guid isPermaLink="false">218</guid>
-  <pubDate>Sun, 04 Dec 2022 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>openai / openai-quickstart-python</title>
-  <description>Secret hovertext: Python example app from the OpenAI API quickstart tutorial</description>
-  <link>https://github.com/openai/openai-quickstart-python</link>
-  <guid isPermaLink="false">217</guid>
-  <pubDate>Sun, 04 Dec 2022 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>getify / You-Dont-Know-JS</title>
-  <description>Secret hovertext: A book series on JavaScript. @YDKJS on twitter.</description>
-  <link>https://github.com/getify/You-Dont-Know-JS</link>
-  <guid isPermaLink="false">216</guid>
-  <pubDate>Sun, 04 Dec 2022 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>fspoettel / advent-of-code-rust</title>
-  <description>Secret hovertext: 🎄Starter template for solving Advent of Code in Rust.</description>
-  <link>https://github.com/fspoettel/advent-of-code-rust</link>
-  <guid isPermaLink="false">215</guid>
-  <pubDate>Sun, 04 Dec 2022 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>recloudstream / cloudstream</title>
-  <description>Secret hovertext: Android app for streaming and downloading Movies, TV-Series and Anime.</description>
-  <link>https://github.com/recloudstream/cloudstream</link>
-  <guid isPermaLink="false">214</guid>
-  <pubDate>Sun, 04 Dec 2022 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>evrone / go-clean-template</title>
-  <description>Secret hovertext: Clean Architecture template for Golang services</description>
-  <link>https://github.com/evrone/go-clean-template</link>
-  <guid isPermaLink="false">213</guid>
-  <pubDate>Sun, 04 Dec 2022 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / PowerToys</title>
-  <description>Secret hovertext: Windows system utilities to maximize productivity</description>
-  <link>https://github.com/microsoft/PowerToys</link>
-  <guid isPermaLink="false">212</guid>
-  <pubDate>Sun, 04 Dec 2022 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>openai / openai-quickstart-node</title>
-  <description>Secret hovertext: Node.js example app from the OpenAI API quickstart tutorial</description>
-  <link>https://github.com/openai/openai-quickstart-node</link>
-  <guid isPermaLink="false">211</guid>
-  <pubDate>Sun, 04 Dec 2022 09:00:10 -0800</pubDate>
  </item>
 
 </channel>
