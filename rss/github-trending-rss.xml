@@ -8,9 +8,107 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 08 Dec 2022 13:00:01 -0800</lastBuildDate>
- <pubDate>Thu, 08 Dec 2022 13:00:01 -0800</pubDate>
+ <lastBuildDate>Fri, 09 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 09 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>donnemartin / system-design-primer</title>
+  <description>Secret hovertext: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+  <link>https://github.com/donnemartin/system-design-primer</link>
+  <guid isPermaLink="false">408</guid>
+  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>EbookFoundation / free-programming-books</title>
+  <description>Secret hovertext: 📚 Freely available programming books</description>
+  <link>https://github.com/EbookFoundation/free-programming-books</link>
+  <guid isPermaLink="false">407</guid>
+  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>trekhleb / javascript-algorithms</title>
+  <description>Secret hovertext: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings</description>
+  <link>https://github.com/trekhleb/javascript-algorithms</link>
+  <guid isPermaLink="false">406</guid>
+  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>LyraSearch / lyra</title>
+  <description>Secret hovertext: 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.</description>
+  <link>https://github.com/LyraSearch/lyra</link>
+  <guid isPermaLink="false">405</guid>
+  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>f / awesome-chatgpt-prompts</title>
+  <description>Secret hovertext: This repo includes ChatGPT promt curation to use ChatGPT better.</description>
+  <link>https://github.com/f/awesome-chatgpt-prompts</link>
+  <guid isPermaLink="false">404</guid>
+  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>lydiahallie / javascript-questions</title>
+  <description>Secret hovertext: A long list of (advanced) JavaScript questions, and their explanations ✨</description>
+  <link>https://github.com/lydiahallie/javascript-questions</link>
+  <guid isPermaLink="false">403</guid>
+  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>louislam / uptime-kuma</title>
+  <description>Secret hovertext: A fancy self-hosted monitoring tool</description>
+  <link>https://github.com/louislam/uptime-kuma</link>
+  <guid isPermaLink="false">402</guid>
+  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>ryanmcdermott / clean-code-javascript</title>
+  <description>Secret hovertext: 🛁 Clean Code concepts adapted for JavaScript</description>
+  <link>https://github.com/ryanmcdermott/clean-code-javascript</link>
+  <guid isPermaLink="false">401</guid>
+  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>rmcelreath / stat_rethinking_2023</title>
+  <description>Secret hovertext: Statistical Rethinking Course for Jan-Mar 2023</description>
+  <link>https://github.com/rmcelreath/stat_rethinking_2023</link>
+  <guid isPermaLink="false">400</guid>
+  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>izackwu / TeachYourselfCS-CN</title>
+  <description>Secret hovertext: TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS</description>
+  <link>https://github.com/izackwu/TeachYourselfCS-CN</link>
+  <guid isPermaLink="false">399</guid>
+  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>surrealdb / surrealdb</title>
+  <description>Secret hovertext: A scalable, distributed, collaborative, document-graph database, for the realtime web</description>
+  <link>https://github.com/surrealdb/surrealdb</link>
+  <guid isPermaLink="false">398</guid>
+  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>869413421 / wechatbot</title>
+  <description>Secret hovertext: 为个人微信接入ChatGPT</description>
+  <link>https://github.com/869413421/wechatbot</link>
+  <guid isPermaLink="false">397</guid>
+  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>paradigmxyz / reth</title>
+  <description>Secret hovertext: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</description>
+  <link>https://github.com/paradigmxyz/reth</link>
+  <guid isPermaLink="false">396</guid>
+  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>remix-run / react-router</title>
+  <description>Secret hovertext: Declarative routing for React</description>
+  <link>https://github.com/remix-run/react-router</link>
+  <guid isPermaLink="false">395</guid>
+  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
  <item>
   <title>AutumnWhj / ChatGPT-wechat-bot</title>
   <description>Secret hovertext: ChatGPT for wechat</description>
@@ -192,104 +290,6 @@
   <link>https://github.com/bupticybee/ChineseAiDungeonChatGPT</link>
   <guid isPermaLink="false">313</guid>
   <pubDate>Wed, 07 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>gragland / chatgpt-chrome-extension</title>
-  <description>Secret hovertext: A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.</description>
-  <link>https://github.com/gragland/chatgpt-chrome-extension</link>
-  <guid isPermaLink="false">312</guid>
-  <pubDate>Wed, 07 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>JusticeRage / Gepetto</title>
-  <description>Secret hovertext: IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering</description>
-  <link>https://github.com/JusticeRage/Gepetto</link>
-  <guid isPermaLink="false">311</guid>
-  <pubDate>Wed, 07 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>rawandahmad698 / PyChatGPT</title>
-  <description>Secret hovertext: ⚡️ TLS-based ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.</description>
-  <link>https://github.com/rawandahmad698/PyChatGPT</link>
-  <guid isPermaLink="false">310</guid>
-  <pubDate>Wed, 07 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>MariaLetta / free-gophers-pack</title>
-  <description>Secret hovertext: ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.</description>
-  <link>https://github.com/MariaLetta/free-gophers-pack</link>
-  <guid isPermaLink="false">309</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>gothinkster / realworld</title>
-  <description>Secret hovertext: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅</description>
-  <link>https://github.com/gothinkster/realworld</link>
-  <guid isPermaLink="false">308</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>timqian / chinese-independent-blogs</title>
-  <description>Secret hovertext: 中文独立博客列表</description>
-  <link>https://github.com/timqian/chinese-independent-blogs</link>
-  <guid isPermaLink="false">307</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>flutter / flutter</title>
-  <description>Secret hovertext: Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
-  <link>https://github.com/flutter/flutter</link>
-  <guid isPermaLink="false">306</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>mmabrouk / chatgpt-wrapper</title>
-  <description>Secret hovertext: API for interacting with ChatGPT using Python and from Shell.</description>
-  <link>https://github.com/mmabrouk/chatgpt-wrapper</link>
-  <guid isPermaLink="false">305</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>taranjeet / chatgpt-api</title>
-  <description>Secret hovertext: This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT</description>
-  <link>https://github.com/taranjeet/chatgpt-api</link>
-  <guid isPermaLink="false">304</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>halo-dev / halo</title>
-  <description>Secret hovertext: 好用又强大的开源建站工具。</description>
-  <link>https://github.com/halo-dev/halo</link>
-  <guid isPermaLink="false">303</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>jerryjliu / gpt_index</title>
-  <description>Secret hovertext: An index created by GPT to organize external information and answer queries!</description>
-  <link>https://github.com/jerryjliu/gpt_index</link>
-  <guid isPermaLink="false">302</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>iamadamdev / bypass-paywalls-chrome</title>
-  <description>Secret hovertext: Bypass Paywalls web browser extension for Chrome and Firefox.</description>
-  <link>https://github.com/iamadamdev/bypass-paywalls-chrome</link>
-  <guid isPermaLink="false">301</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>hodgesmr / mastodon_digest</title>
-  <description>Secret hovertext: A Python script that aggregates recent popular tweets from your Mastodon timeline</description>
-  <link>https://github.com/hodgesmr/mastodon_digest</link>
-  <guid isPermaLink="false">300</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
- </item>
- <item>
-  <title>xiaolincoder / CS-Base</title>
-  <description>Secret hovertext: 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com</description>
-  <link>https://github.com/xiaolincoder/CS-Base</link>
-  <guid isPermaLink="false">299</guid>
-  <pubDate>Tue, 06 Dec 2022 16:53:40 -0800</pubDate>
  </item>
 
 </channel>
