@@ -8,9 +8,128 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 10 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Sat, 10 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sun, 11 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 11 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>GitHubDaily / GitHubDaily</title>
+  <description>Secret hovertext: 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.</description>
+  <link>https://github.com/GitHubDaily/GitHubDaily</link>
+  <guid isPermaLink="false">448</guid>
+  <pubDate>Sun, 11 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>Grasscutters / Grasscutter</title>
+  <description>Secret hovertext: A server software reimplementation for a certain anime game.</description>
+  <link>https://github.com/Grasscutters/Grasscutter</link>
+  <guid isPermaLink="false">447</guid>
+  <pubDate>Sun, 11 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>holbertonschool / Betty</title>
+  <description>Secret hovertext: Holberton-style C code checker written in Perl</description>
+  <link>https://github.com/holbertonschool/Betty</link>
+  <guid isPermaLink="false">446</guid>
+  <pubDate>Sun, 11 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>wechaty / wechaty</title>
+  <description>Secret hovertext: Conversational RPA SDK for Chatbot Makers</description>
+  <link>https://github.com/wechaty/wechaty</link>
+  <guid isPermaLink="false">445</guid>
+  <pubDate>Sun, 11 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>UberGuidoZ / Flipper</title>
+  <description>Secret hovertext: Playground (and dump) of stuff I make or modify for the Flipper Zero</description>
+  <link>https://github.com/UberGuidoZ/Flipper</link>
+  <guid isPermaLink="false">444</guid>
+  <pubDate>Sun, 11 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>pulsar-edit / pulsar</title>
+  <description>Secret hovertext: A Community-led Hyper-Hackable Text Editor</description>
+  <link>https://github.com/pulsar-edit/pulsar</link>
+  <guid isPermaLink="false">443</guid>
+  <pubDate>Sun, 11 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>iptv-org / iptv</title>
+  <description>Secret hovertext: Collection of publicly available IPTV channels from all over the world</description>
+  <link>https://github.com/iptv-org/iptv</link>
+  <guid isPermaLink="false">442</guid>
+  <pubDate>Sun, 11 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>ange-yaghi / engine-sim</title>
+  <description>Secret hovertext: Combustion engine simulator that generates realistic audio.</description>
+  <link>https://github.com/ange-yaghi/engine-sim</link>
+  <guid isPermaLink="false">441</guid>
+  <pubDate>Sun, 11 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>tiann / KernelSU</title>
+  <description>Secret hovertext: A Kernel based root solution for Android GKI</description>
+  <link>https://github.com/tiann/KernelSU</link>
+  <guid isPermaLink="false">440</guid>
+  <pubDate>Sun, 11 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>revanced / revanced-patches</title>
+  <description>Secret hovertext: 🧩 Patches for ReVanced</description>
+  <link>https://github.com/revanced/revanced-patches</link>
+  <guid isPermaLink="false">439</guid>
+  <pubDate>Sun, 11 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>deepmind / dramatron</title>
+  <description>Secret hovertext: Dramatron uses large language models to generate coherent scripts and screenplays.</description>
+  <link>https://github.com/deepmind/dramatron</link>
+  <guid isPermaLink="false">438</guid>
+  <pubDate>Sun, 11 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>TheLastBen / fast-stable-diffusion</title>
+  <description>Secret hovertext: fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth</description>
+  <link>https://github.com/TheLastBen/fast-stable-diffusion</link>
+  <guid isPermaLink="false">437</guid>
+  <pubDate>Sun, 11 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>charmbracelet / glow</title>
+  <description>Secret hovertext: Render markdown on the CLI, with pizzazz! 💅🏻</description>
+  <link>https://github.com/charmbracelet/glow</link>
+  <guid isPermaLink="false">436</guid>
+  <pubDate>Sun, 11 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>hwchase17 / langchain</title>
+  <description>Secret hovertext: ⚡ Building applications with LLMs through composability ⚡</description>
+  <link>https://github.com/hwchase17/langchain</link>
+  <guid isPermaLink="false">435</guid>
+  <pubDate>Sun, 11 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>exaloop / codon</title>
+  <description>Secret hovertext: A high-performance, zero-overhead, extensible Python compiler using LLVM</description>
+  <link>https://github.com/exaloop/codon</link>
+  <guid isPermaLink="false">434</guid>
+  <pubDate>Sun, 11 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>shinework / photoshot</title>
+  <description>Secret hovertext: </description>
+  <link>https://github.com/shinework/photoshot</link>
+  <guid isPermaLink="false">433</guid>
+  <pubDate>Sun, 11 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>tw93 / Pake</title>
+  <description>Secret hovertext: 🤱🏻 A simple way to make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App</description>
+  <link>https://github.com/tw93/Pake</link>
+  <guid isPermaLink="false">432</guid>
+  <pubDate>Sun, 11 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
  <item>
   <title>donnemartin / system-design-primer</title>
   <description>Secret hovertext: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
@@ -171,125 +290,6 @@
   <link>https://github.com/qunash/chatgpt-advanced</link>
   <guid isPermaLink="false">360</guid>
   <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>cpq / bare-metal-programming-guide</title>
-  <description>Secret hovertext: A bare metal programming guide on STM32 microcontroller</description>
-  <link>https://github.com/cpq/bare-metal-programming-guide</link>
-  <guid isPermaLink="false">359</guid>
-  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>airbnb / lottie-ios</title>
-  <description>Secret hovertext: An iOS library to natively render After Effects vector animations</description>
-  <link>https://github.com/airbnb/lottie-ios</link>
-  <guid isPermaLink="false">358</guid>
-  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>poteto / hiring-without-whiteboards</title>
-  <description>Secret hovertext: ⭐️ Companies that don't have a broken hiring process</description>
-  <link>https://github.com/poteto/hiring-without-whiteboards</link>
-  <guid isPermaLink="false">357</guid>
-  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>rawandahmad698 / PyChatGPT</title>
-  <description>Secret hovertext: ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.</description>
-  <link>https://github.com/rawandahmad698/PyChatGPT</link>
-  <guid isPermaLink="false">356</guid>
-  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>transitive-bullshit / chatgpt-api</title>
-  <description>Secret hovertext: Node.js client for the unofficial ChatGPT API. 🔥</description>
-  <link>https://github.com/transitive-bullshit/chatgpt-api</link>
-  <guid isPermaLink="false">355</guid>
-  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>openai / whisper</title>
-  <description>Secret hovertext: Robust Speech Recognition via Large-Scale Weak Supervision</description>
-  <link>https://github.com/openai/whisper</link>
-  <guid isPermaLink="false">354</guid>
-  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>fuergaosi233 / wechat-chatgpt</title>
-  <description>Secret hovertext: Use ChatGPT On Wechat via wechaty</description>
-  <link>https://github.com/fuergaosi233/wechat-chatgpt</link>
-  <guid isPermaLink="false">353</guid>
-  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>f / awesome-chatgpt-prompts</title>
-  <description>Secret hovertext: </description>
-  <link>https://github.com/f/awesome-chatgpt-prompts</link>
-  <guid isPermaLink="false">322</guid>
-  <pubDate>Wed, 07 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>gorilla / mux</title>
-  <description>Secret hovertext: A powerful HTTP router and URL matcher for building Go web servers with 🦍</description>
-  <link>https://github.com/gorilla/mux</link>
-  <guid isPermaLink="false">321</guid>
-  <pubDate>Wed, 07 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>rolling-scopes-school / tasks</title>
-  <description>Secret hovertext: </description>
-  <link>https://github.com/rolling-scopes-school/tasks</link>
-  <guid isPermaLink="false">320</guid>
-  <pubDate>Wed, 07 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>laravel / framework</title>
-  <description>Secret hovertext: The Laravel Framework.</description>
-  <link>https://github.com/laravel/framework</link>
-  <guid isPermaLink="false">319</guid>
-  <pubDate>Wed, 07 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>PowerJob / PowerJob</title>
-  <description>Secret hovertext: Enterprise job scheduling middleware with distributed computing ability.</description>
-  <link>https://github.com/PowerJob/PowerJob</link>
-  <guid isPermaLink="false">318</guid>
-  <pubDate>Wed, 07 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>openai / gpt-3</title>
-  <description>Secret hovertext: GPT-3: Language Models are Few-Shot Learners</description>
-  <link>https://github.com/openai/gpt-3</link>
-  <guid isPermaLink="false">317</guid>
-  <pubDate>Wed, 07 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>apache / iotdb</title>
-  <description>Secret hovertext: Apache IoTDB</description>
-  <link>https://github.com/apache/iotdb</link>
-  <guid isPermaLink="false">316</guid>
-  <pubDate>Wed, 07 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>android / architecture-templates</title>
-  <description>Secret hovertext: </description>
-  <link>https://github.com/android/architecture-templates</link>
-  <guid isPermaLink="false">315</guid>
-  <pubDate>Wed, 07 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>Kaiyiwing / qwerty-learner</title>
-  <description>Secret hovertext: 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</description>
-  <link>https://github.com/Kaiyiwing/qwerty-learner</link>
-  <guid isPermaLink="false">314</guid>
-  <pubDate>Wed, 07 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>bupticybee / ChineseAiDungeonChatGPT</title>
-  <description>Secret hovertext: 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。</description>
-  <link>https://github.com/bupticybee/ChineseAiDungeonChatGPT</link>
-  <guid isPermaLink="false">313</guid>
-  <pubDate>Wed, 07 Dec 2022 09:00:07 -0800</pubDate>
  </item>
 
 </channel>
