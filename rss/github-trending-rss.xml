@@ -8,9 +8,72 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 11 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Sun, 11 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Mon, 12 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 12 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>revanced / revanced-manager</title>
+  <description>Secret hovertext: 💊 Android application to use ReVanced</description>
+  <link>https://github.com/revanced/revanced-manager</link>
+  <guid isPermaLink="false">489</guid>
+  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>expressjs / express</title>
+  <description>Secret hovertext: Fast, unopinionated, minimalist web framework for node.</description>
+  <link>https://github.com/expressjs/express</link>
+  <guid isPermaLink="false">488</guid>
+  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>kubeshark / kubeshark</title>
+  <description>Secret hovertext: The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes</description>
+  <link>https://github.com/kubeshark/kubeshark</link>
+  <guid isPermaLink="false">487</guid>
+  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>gtoxlili / wechat-chatGPT</title>
+  <description>Secret hovertext: 实现微信公众号被动返回接口的ChatGPT</description>
+  <link>https://github.com/gtoxlili/wechat-chatGPT</link>
+  <guid isPermaLink="false">486</guid>
+  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>wangrongding / wechat-bot</title>
+  <description>Secret hovertext: 🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...</description>
+  <link>https://github.com/wangrongding/wechat-bot</link>
+  <guid isPermaLink="false">485</guid>
+  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>arendst / Tasmota</title>
+  <description>Secret hovertext: Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at</description>
+  <link>https://github.com/arendst/Tasmota</link>
+  <guid isPermaLink="false">484</guid>
+  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>skydoves / chatgpt-android</title>
+  <description>Secret hovertext: 📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.</description>
+  <link>https://github.com/skydoves/chatgpt-android</link>
+  <guid isPermaLink="false">483</guid>
+  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>calistus-igwilo / nitda-blockchain-scholarship</title>
+  <description>Secret hovertext: Course materials for the NITDA Blockchain Scholarship</description>
+  <link>https://github.com/calistus-igwilo/nitda-blockchain-scholarship</link>
+  <guid isPermaLink="false">482</guid>
+  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>Stability-AI / stablediffusion</title>
+  <description>Secret hovertext: High-Resolution Image Synthesis with Latent Diffusion Models</description>
+  <link>https://github.com/Stability-AI/stablediffusion</link>
+  <guid isPermaLink="false">481</guid>
+  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
  <item>
   <title>GitHubDaily / GitHubDaily</title>
   <description>Secret hovertext: 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.</description>
@@ -227,69 +290,6 @@
   <link>https://github.com/remix-run/react-router</link>
   <guid isPermaLink="false">395</guid>
   <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>AutumnWhj / ChatGPT-wechat-bot</title>
-  <description>Secret hovertext: ChatGPT for wechat</description>
-  <link>https://github.com/AutumnWhj/ChatGPT-wechat-bot</link>
-  <guid isPermaLink="false">368</guid>
-  <pubDate>Thu, 08 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / vscode</title>
-  <description>Secret hovertext: Visual Studio Code</description>
-  <link>https://github.com/microsoft/vscode</link>
-  <guid isPermaLink="false">367</guid>
-  <pubDate>Thu, 08 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>labteral / chatgpt-python</title>
-  <description>Secret hovertext: Unofficial Python SDK for OpenAI's ChatGPT</description>
-  <link>https://github.com/labteral/chatgpt-python</link>
-  <guid isPermaLink="false">366</guid>
-  <pubDate>Thu, 08 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>Netflix / conductor</title>
-  <description>Secret hovertext: Conductor is a microservices orchestration engine.</description>
-  <link>https://github.com/Netflix/conductor</link>
-  <guid isPermaLink="false">365</guid>
-  <pubDate>Thu, 08 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>Tencent / Hippy</title>
-  <description>Secret hovertext: Hippy is designed to easily build cross-platform dynamic apps. 👏</description>
-  <link>https://github.com/Tencent/Hippy</link>
-  <guid isPermaLink="false">364</guid>
-  <pubDate>Thu, 08 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>sudoskys / Openaibot</title>
-  <description>Secret hovertext: 🤖 Using OpenAi's Api on Telegram to achieve chatGPT func|在 Telegram 上使用 openai *API* 对话/续写 异步机器人| 👋 支持上下文对话 | 一键部署⚡️ | 非逆向</description>
-  <link>https://github.com/sudoskys/Openaibot</link>
-  <guid isPermaLink="false">363</guid>
-  <pubDate>Thu, 08 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>helix-editor / helix</title>
-  <description>Secret hovertext: A post-modern modal text editor.</description>
-  <link>https://github.com/helix-editor/helix</link>
-  <guid isPermaLink="false">362</guid>
-  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>humanloop / awesome-chatgpt</title>
-  <description>Secret hovertext: Curated list of awesome tools, demos, docs for ChatGPT and GPT-3</description>
-  <link>https://github.com/humanloop/awesome-chatgpt</link>
-  <guid isPermaLink="false">361</guid>
-  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>qunash / chatgpt-advanced</title>
-  <description>Secret hovertext: A browser extension that augments your ChatGPT prompts with web results.</description>
-  <link>https://github.com/qunash/chatgpt-advanced</link>
-  <guid isPermaLink="false">360</guid>
-  <pubDate>Thu, 08 Dec 2022 09:00:07 -0800</pubDate>
  </item>
 
 </channel>
