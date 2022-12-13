@@ -8,9 +8,58 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 12 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 12 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 13 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Tue, 13 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>awslabs / eks-node-viewer</title>
+  <description>Secret hovertext: EKS Node Viewer</description>
+  <link>https://github.com/awslabs/eks-node-viewer</link>
+  <guid isPermaLink="false">521</guid>
+  <pubDate>Tue, 13 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>kingoflolz / mesh-transformer-jax</title>
+  <description>Secret hovertext: Model parallel transformers in JAX and Haiku</description>
+  <link>https://github.com/kingoflolz/mesh-transformer-jax</link>
+  <guid isPermaLink="false">520</guid>
+  <pubDate>Tue, 13 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>PlexPt / chatgpt-java</title>
+  <description>Secret hovertext: ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.</description>
+  <link>https://github.com/PlexPt/chatgpt-java</link>
+  <guid isPermaLink="false">519</guid>
+  <pubDate>Tue, 13 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>colinhacks / zod</title>
+  <description>Secret hovertext: TypeScript-first schema validation with static type inference</description>
+  <link>https://github.com/colinhacks/zod</link>
+  <guid isPermaLink="false">518</guid>
+  <pubDate>Tue, 13 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>lensterxyz / lenster</title>
+  <description>Secret hovertext: Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿</description>
+  <link>https://github.com/lensterxyz/lenster</link>
+  <guid isPermaLink="false">517</guid>
+  <pubDate>Tue, 13 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>mohammadpz / pytorch_forward_forward</title>
+  <description>Secret hovertext: Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation</description>
+  <link>https://github.com/mohammadpz/pytorch_forward_forward</link>
+  <guid isPermaLink="false">516</guid>
+  <pubDate>Tue, 13 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>eatmoreapple / openwechat</title>
+  <description>Secret hovertext: golang版微信SDK</description>
+  <link>https://github.com/eatmoreapple/openwechat</link>
+  <guid isPermaLink="false">515</guid>
+  <pubDate>Tue, 13 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
  <item>
   <title>revanced / revanced-manager</title>
   <description>Secret hovertext: 💊 Android application to use ReVanced</description>
@@ -240,55 +289,6 @@
   <description>Secret hovertext: A fancy self-hosted monitoring tool</description>
   <link>https://github.com/louislam/uptime-kuma</link>
   <guid isPermaLink="false">402</guid>
-  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>ryanmcdermott / clean-code-javascript</title>
-  <description>Secret hovertext: 🛁 Clean Code concepts adapted for JavaScript</description>
-  <link>https://github.com/ryanmcdermott/clean-code-javascript</link>
-  <guid isPermaLink="false">401</guid>
-  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>rmcelreath / stat_rethinking_2023</title>
-  <description>Secret hovertext: Statistical Rethinking Course for Jan-Mar 2023</description>
-  <link>https://github.com/rmcelreath/stat_rethinking_2023</link>
-  <guid isPermaLink="false">400</guid>
-  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>izackwu / TeachYourselfCS-CN</title>
-  <description>Secret hovertext: TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS</description>
-  <link>https://github.com/izackwu/TeachYourselfCS-CN</link>
-  <guid isPermaLink="false">399</guid>
-  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>surrealdb / surrealdb</title>
-  <description>Secret hovertext: A scalable, distributed, collaborative, document-graph database, for the realtime web</description>
-  <link>https://github.com/surrealdb/surrealdb</link>
-  <guid isPermaLink="false">398</guid>
-  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>869413421 / wechatbot</title>
-  <description>Secret hovertext: 为个人微信接入ChatGPT</description>
-  <link>https://github.com/869413421/wechatbot</link>
-  <guid isPermaLink="false">397</guid>
-  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>paradigmxyz / reth</title>
-  <description>Secret hovertext: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</description>
-  <link>https://github.com/paradigmxyz/reth</link>
-  <guid isPermaLink="false">396</guid>
-  <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>remix-run / react-router</title>
-  <description>Secret hovertext: Declarative routing for React</description>
-  <link>https://github.com/remix-run/react-router</link>
-  <guid isPermaLink="false">395</guid>
   <pubDate>Fri, 09 Dec 2022 09:00:03 -0800</pubDate>
  </item>
 
