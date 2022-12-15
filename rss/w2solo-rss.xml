@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <atom:link href="https://hrss.lban.xyz/users/1/web_requests/14/w2solo-rss.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://hrss.lban.xyz/favicon.ico</atom:icon>
+ 
+
+ <title>w2solo RSS</title>
+ <description>w2solo RSS</description>
+ <link>https://hrss.lban.xyz</link>
+ <lastBuildDate>Wed, 14 Dec 2022 22:44:15 -0800</lastBuildDate>
+ <pubDate>Wed, 14 Dec 2022 22:44:15 -0800</pubDate>
+ <ttl>60</ttl>
+ <item>
+  <title>😊迟到的自我介绍以及回顾和总结下做出海产品的这几年~</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3667</link>
+  <pubDate>Wed, 14 Dec 2022 22:36:19 -0800</pubDate>
+  <guid isPermaLink="false">578</guid>
+ </item>
+ <item>
+  <title>简约简历：一个小而美的简历制作网站</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3685</link>
+  <pubDate>Wed, 14 Dec 2022 21:56:08 -0800</pubDate>
+  <guid isPermaLink="false">579</guid>
+ </item>
+ <item>
+  <title>TinySnap：上线 2 个月收到 6 位数的收购报价，我们采访了产品背后的独立开发者</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3682</link>
+  <pubDate>Wed, 14 Dec 2022 21:22:10 -0800</pubDate>
+  <guid isPermaLink="false">575</guid>
+ </item>
+ <item>
+  <title>Chat GPT + 撩妹撩汉，那是怎么样的火花？为了寻找答案，自己开发了相关的小程序</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3683</link>
+  <pubDate>Wed, 14 Dec 2022 20:05:18 -0800</pubDate>
+  <guid isPermaLink="false">580</guid>
+ </item>
+ <item>
+  <title>终于被毕业了，被动的走上独立开发者之路</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3636</link>
+  <pubDate>Wed, 14 Dec 2022 19:52:58 -0800</pubDate>
+  <guid isPermaLink="false">581</guid>
+ </item>
+ <item>
+  <title>sssbar - 浏览器快捷搜索框</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3684</link>
+  <pubDate>Wed, 14 Dec 2022 16:43:22 -0800</pubDate>
+  <guid isPermaLink="false">582</guid>
+ </item>
+ <item>
+  <title>尝试业余独立开发一年半后</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3680</link>
+  <pubDate>Tue, 13 Dec 2022 23:33:03 -0800</pubDate>
+  <guid isPermaLink="false">583</guid>
+ </item>
+ <item>
+  <title>开源大数据比对平台—dataCompare</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3681</link>
+  <pubDate>Tue, 13 Dec 2022 18:25:59 -0800</pubDate>
+  <guid isPermaLink="false">584</guid>
+ </item>
+ <item>
+  <title>我是一名不安分的程序员~~~</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3679</link>
+  <pubDate>Mon, 12 Dec 2022 04:34:24 -0800</pubDate>
+  <guid isPermaLink="false">585</guid>
+ </item>
+ <item>
+  <title>独立产品灵感周刊 DecoHack #041 - 那些独立开发者是怎么养活自己的</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3678</link>
+  <pubDate>Sun, 11 Dec 2022 17:23:48 -0800</pubDate>
+  <guid isPermaLink="false">586</guid>
+ </item>
+ <item>
+  <title>独立开发变现周刊（第 83 期）：建在 Stripe 上的应用，年收入 70 万美元</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3677</link>
+  <pubDate>Fri, 09 Dec 2022 17:44:18 -0800</pubDate>
+  <guid isPermaLink="false">587</guid>
+ </item>
+ <item>
+  <title>独立开发变现周刊（第 80 期）：Notion 页面转成网站客服小部件，月收入 5K 美金</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3644</link>
+  <pubDate>Fri, 09 Dec 2022 17:42:15 -0800</pubDate>
+  <guid isPermaLink="false">588</guid>
+ </item>
+ <item>
+  <title>做了个知乎的 chatgpt 浏览器小插件</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3676</link>
+  <pubDate>Fri, 09 Dec 2022 03:01:58 -0800</pubDate>
+  <guid isPermaLink="false">589</guid>
+ </item>
+ <item>
+  <title>做的一款健身记录的 app，名字叫 halo 健身，欢迎爱健身的友友体验</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3672</link>
+  <pubDate>Thu, 08 Dec 2022 16:51:22 -0800</pubDate>
+  <guid isPermaLink="false">590</guid>
+ </item>
+ <item>
+  <title>文案语录类 APP，有兴趣的朋友欢迎来体验使用!</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3669</link>
+  <pubDate>Wed, 07 Dec 2022 19:19:47 -0800</pubDate>
+  <guid isPermaLink="false">591</guid>
+ </item>
+ <item>
+  <title>求教关于画板的一些功能实现</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3646</link>
+  <pubDate>Tue, 06 Dec 2022 07:47:50 -0800</pubDate>
+  <guid isPermaLink="false">592</guid>
+ </item>
+ <item>
+  <title>大家帮我看看这个插件多少大洋可以搞定</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3674</link>
+  <pubDate>Tue, 06 Dec 2022 01:28:35 -0800</pubDate>
+  <guid isPermaLink="false">593</guid>
+ </item>
+ <item>
+  <title>独立产品灵感周刊 DecoHack #040 - Google 公布 2022 年度最佳应用榜单</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3673</link>
+  <pubDate>Sun, 04 Dec 2022 22:23:44 -0800</pubDate>
+  <guid isPermaLink="false">594</guid>
+ </item>
+ <item>
+  <title>在线单词学习网站——单词森林（alpha 版 1）</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3658</link>
+  <pubDate>Fri, 02 Dec 2022 23:26:42 -0800</pubDate>
+  <guid isPermaLink="false">595</guid>
+ </item>
+ <item>
+  <title>关于 iOS 开发者账号申请的一些经验分享</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3668</link>
+  <pubDate>Thu, 01 Dec 2022 17:18:50 -0800</pubDate>
+  <guid isPermaLink="false">596</guid>
+ </item>
+ <item>
+  <title>请问大家都是如何设计自己应用的 UI 的？是不是都是用 Figma？</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3670</link>
+  <pubDate>Thu, 01 Dec 2022 06:54:32 -0800</pubDate>
+  <guid isPermaLink="false">597</guid>
+ </item>
+ <item>
+  <title>社区用户的访谈工作征集志愿者</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3642</link>
+  <pubDate>Thu, 01 Dec 2022 01:15:56 -0800</pubDate>
+  <guid isPermaLink="false">576</guid>
+ </item>
+ <item>
+  <title>一个 pm 在起名工具领域的探索</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3671</link>
+  <pubDate>Wed, 30 Nov 2022 21:10:03 -0800</pubDate>
+  <guid isPermaLink="false">598</guid>
+ </item>
+ <item>
+  <title>产品发布 2 个多月后，我接到了收购意向，然后……</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3634</link>
+  <pubDate>Tue, 29 Nov 2022 18:12:44 -0800</pubDate>
+  <guid isPermaLink="false">599</guid>
+ </item>
+ <item>
+  <title>做独立开发的你们交社保公积金吗？？</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3666</link>
+  <pubDate>Tue, 29 Nov 2022 13:02:20 -0800</pubDate>
+  <guid isPermaLink="false">600</guid>
+ </item>
+ <item>
+  <title>独立产品灵感周刊 DecoHack #039 - 制作自己的音乐墙</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3665</link>
+  <pubDate>Sun, 27 Nov 2022 10:11:21 -0800</pubDate>
+  <guid isPermaLink="false">601</guid>
+ </item>
+ <item>
+  <title>Gentleflow Studio 新产品「透明衣橱」上线了。🎉</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3647</link>
+  <pubDate>Fri, 25 Nov 2022 12:34:10 -0800</pubDate>
+  <guid isPermaLink="false">602</guid>
+ </item>
+ <item>
+  <title>App 分享的前世今生（3）</title>
+  <description>Secret hovertext: </description>
+  <link>https://w2solo.com/topics/3567</link>
+  <pubDate>Mon, 07 Nov 2022 18:16:15 -0800</pubDate>
+  <guid isPermaLink="false">577</guid>
+ </item>
+
+</channel>
+</rss>
