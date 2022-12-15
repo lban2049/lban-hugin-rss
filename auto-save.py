@@ -16,7 +16,8 @@ def urldownload(url,filename=None):
 save_list = [
     'http://localhost:3000/users/1/web_requests/9/github-trending-rss.xml',
     'http://localhost:3000/users/1/web_requests/12/v2ex-creating-rss.xml',
-    'http://localhost:3000/users/1/web_requests/14/w2solo-rss.xml'
+    'http://localhost:3000/users/1/web_requests/14/w2solo-rss.xml',
+    'http://localhost:3000/users/1/web_requests/16/Indie-Hackers-Popular-rss.xml'
 ]
 
 # 下载列表中的rss文件
