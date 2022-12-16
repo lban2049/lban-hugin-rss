@@ -8,288 +8,288 @@
  <title>v2ex creating RSS</title>
  <description>v2ex creating RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 14 Dec 2022 22:54:38 -0800</lastBuildDate>
- <pubDate>Wed, 14 Dec 2022 22:54:38 -0800</pubDate>
+ <lastBuildDate>Fri, 16 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 16 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
  <item>
+  <title>Vesta: 一个 Docker 和 Kubernetes 配置安全的快速检查工具</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/903074#reply0</link>
+  <pubDate>Fri, 16 Dec 2022 08:48:36 -0800</pubDate>
+  <guid isPermaLink="false">660</guid>
+ </item>
+ <item>
+  <title>摸了一个使用 clash-meta 内核的客户端，基于 C#/Avalonia，提供 Windows/ Linux</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902828#reply10</link>
+  <pubDate>Fri, 16 Dec 2022 08:26:13 -0800</pubDate>
+  <guid isPermaLink="false">671</guid>
+ </item>
+ <item>
+  <title>老古董 iPhone 6s plus 被国产 APP 吊打</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/903055#reply7</link>
+  <pubDate>Fri, 16 Dec 2022 08:16:20 -0800</pubDate>
+  <guid isPermaLink="false">661</guid>
+ </item>
+ <item>
+  <title>写了个 v 站抽奖小工具</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/903010#reply3</link>
+  <pubDate>Fri, 16 Dec 2022 08:04:44 -0800</pubDate>
+  <guid isPermaLink="false">662</guid>
+ </item>
+ <item>
+  <title>汇总《新冠预防及治疗指南》《新冠康复手册》》《个人防疫手册》，分享给大家</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902933#reply3</link>
+  <pubDate>Fri, 16 Dec 2022 07:55:38 -0800</pubDate>
+  <guid isPermaLink="false">665</guid>
+ </item>
+ <item>
+  <title>酷硬 R1 安装 ESXI 8：从写盘到虚拟机配置</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/901533#reply23</link>
+  <pubDate>Fri, 16 Dec 2022 05:41:24 -0800</pubDate>
+  <guid isPermaLink="false">689</guid>
+ </item>
+ <item>
+  <title>产品得到少数派推荐了，真是愉快的周五</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902915#reply3</link>
+  <pubDate>Fri, 16 Dec 2022 05:12:26 -0800</pubDate>
+  <guid isPermaLink="false">676</guid>
+ </item>
+ <item>
+  <title>大钱是赚不到了，我们赚点小钱总行吧</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902888#reply39</link>
+  <pubDate>Fri, 16 Dec 2022 04:59:19 -0800</pubDate>
+  <guid isPermaLink="false">663</guid>
+ </item>
+ <item>
+  <title>最近研究 canvas 绘图，整了个画板，也不知道有啥用</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/903041#reply0</link>
+  <pubDate>Fri, 16 Dec 2022 04:25:07 -0800</pubDate>
+  <guid isPermaLink="false">666</guid>
+ </item>
+ <item>
+  <title>这个 TG 资源搜索引擎解决了我的精神内耗-TG 喵</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902246#reply19</link>
+  <pubDate>Fri, 16 Dec 2022 02:04:23 -0800</pubDate>
+  <guid isPermaLink="false">685</guid>
+ </item>
+ <item>
+  <title>我要把 eagle 图片软件，打造成后台管理系统。</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902676#reply5</link>
+  <pubDate>Fri, 16 Dec 2022 01:45:32 -0800</pubDate>
+  <guid isPermaLink="false">682</guid>
+ </item>
+ <item>
+  <title>TabTree : Chrome 竖排标签 类似 Tab Outliner</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902248#reply11</link>
+  <pubDate>Fri, 16 Dec 2022 01:39:23 -0800</pubDate>
+  <guid isPermaLink="false">684</guid>
+ </item>
+ <item>
+  <title>做一个用完即走的图片编辑站点有前（钱）途吗？</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902899#reply6</link>
+  <pubDate>Fri, 16 Dec 2022 01:29:02 -0800</pubDate>
+  <guid isPermaLink="false">670</guid>
+ </item>
+ <item>
+  <title>PlayStation 系玩家来看看！做了个奖杯展示页面（含 API），已开源</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902983#reply1</link>
+  <pubDate>Fri, 16 Dec 2022 01:12:47 -0800</pubDate>
+  <guid isPermaLink="false">664</guid>
+ </item>
+ <item>
+  <title>利用催眠技巧绕开 OpenAI 的内容政策限制（仅供研究使用）</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902377#reply110</link>
+  <pubDate>Thu, 15 Dec 2022 23:38:27 -0800</pubDate>
+  <guid isPermaLink="false">677</guid>
+ </item>
+ <item>
+  <title>dev.com.cn 征集中文名称</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902635#reply157</link>
+  <pubDate>Thu, 15 Dec 2022 22:41:28 -0800</pubDate>
+  <guid isPermaLink="false">668</guid>
+ </item>
+ <item>
+  <title>源于昨天发起的楼层抽奖活动，我做了一个简单的等概览抽奖程序</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902922#reply5</link>
+  <pubDate>Thu, 15 Dec 2022 22:39:09 -0800</pubDate>
+  <guid isPermaLink="false">667</guid>
+ </item>
+ <item>
+  <title>关于 AI 与代码下毒的思考</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902835#reply4</link>
+  <pubDate>Thu, 15 Dec 2022 21:48:03 -0800</pubDate>
+  <guid isPermaLink="false">672</guid>
+ </item>
+ <item>
+  <title>tempbk.py 临时备份文件到 Cloudflare R2</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902402#reply3</link>
+  <pubDate>Thu, 15 Dec 2022 20:41:46 -0800</pubDate>
+  <guid isPermaLink="false">686</guid>
+ </item>
+ <item>
+  <title>关于 sssbar 发布两周有 15k 用户及新版功能</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902607#reply9</link>
+  <pubDate>Thu, 15 Dec 2022 20:08:18 -0800</pubDate>
+  <guid isPermaLink="false">678</guid>
+ </item>
+ <item>
+  <title>自制玻璃水</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902361#reply42</link>
+  <pubDate>Thu, 15 Dec 2022 19:40:14 -0800</pubDate>
+  <guid isPermaLink="false">683</guid>
+ </item>
+ <item>
+  <title>一生的信息图</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902898#reply0</link>
+  <pubDate>Thu, 15 Dec 2022 19:23:48 -0800</pubDate>
+  <guid isPermaLink="false">669</guid>
+ </item>
+ <item>
+  <title>自学 swiftUI 开发了一款收纳类的 App 想招募几个种子用户，求关注</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902779#reply8</link>
+  <pubDate>Thu, 15 Dec 2022 19:07:06 -0800</pubDate>
+  <guid isPermaLink="false">675</guid>
+ </item>
+ <item>
   <title>悟空背单词：四六级雅思托福等英语词汇应用 [送码]</title>
-  <description>Secret hovertext: </description>
+  <description></description>
+  <link>https://www.v2ex.com/t/902711#reply55</link>
+  <pubDate>Thu, 15 Dec 2022 18:45:19 -0800</pubDate>
+  <guid isPermaLink="false">673</guid>
+ </item>
+ <item>
+  <title>写了个 OpenAI 的 Teams Bot（类似于 ChatGPT），现已开源~</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902725#reply1</link>
+  <pubDate>Thu, 15 Dec 2022 09:24:42 -0800</pubDate>
+  <guid isPermaLink="false">681</guid>
+ </item>
+ <item>
+  <title>顶瓜瓜 App，让老父亲来提醒你的坐姿</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902758#reply11</link>
+  <pubDate>Thu, 15 Dec 2022 06:23:21 -0800</pubDate>
+  <guid isPermaLink="false">674</guid>
+ </item>
+ <item>
+  <title>关于 stable Diffusion 和 lsp</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902449#reply13</link>
+  <pubDate>Thu, 15 Dec 2022 04:31:38 -0800</pubDate>
+  <guid isPermaLink="false">687</guid>
+ </item>
+ <item>
+  <title>几个去水印的工具（在线测试）</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902750#reply4</link>
+  <pubDate>Thu, 15 Dec 2022 02:18:19 -0800</pubDate>
+  <guid isPermaLink="false">679</guid>
+ </item>
+ <item>
+  <title>ChatGPT 如果可以根据主题定制就好了，谁会？</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902717#reply2</link>
+  <pubDate>Thu, 15 Dec 2022 00:35:43 -0800</pubDate>
+  <guid isPermaLink="false">680</guid>
+ </item>
+ <item>
+  <title>PasteQ 剪切板历史工具(自动提示快捷键操作，无需记忆，无需鼠标)</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902353#reply19</link>
+  <pubDate>Thu, 15 Dec 2022 00:25:22 -0800</pubDate>
+  <guid isPermaLink="false">688</guid>
+ </item>
+ <item>
+  <title>我今天没羊小程序打卡来了，郭襄、杨过、杨康、王重阳和阳顶天，你是哪一个？</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/901907#reply23</link>
+  <pubDate>Wed, 14 Dec 2022 23:11:00 -0800</pubDate>
+  <guid isPermaLink="false">690</guid>
+ </item>
+ <item>
+  <title>悟空背单词：四六级雅思托福等英语词汇应用 [送码]</title>
+  <description></description>
   <link>https://www.v2ex.com/t/902711#reply0</link>
   <pubDate>Wed, 14 Dec 2022 22:13:30 -0800</pubDate>
   <guid isPermaLink="false">548</guid>
  </item>
  <item>
   <title>dev.com.cn 征集中文名称</title>
-  <description>Secret hovertext: </description>
+  <description></description>
   <link>https://www.v2ex.com/t/902635#reply73</link>
   <pubDate>Wed, 14 Dec 2022 22:10:56 -0800</pubDate>
   <guid isPermaLink="false">547</guid>
  </item>
  <item>
   <title>利用催眠技巧绕开 OpenAI 的内容政策限制（仅供研究使用）</title>
-  <description>Secret hovertext: </description>
+  <description></description>
   <link>https://www.v2ex.com/t/902377#reply107</link>
   <pubDate>Wed, 14 Dec 2022 21:54:10 -0800</pubDate>
   <guid isPermaLink="false">551</guid>
  </item>
  <item>
   <title>我要把 eagle 图片软件，打造成后台管理系统。</title>
-  <description>Secret hovertext: </description>
+  <description></description>
   <link>https://www.v2ex.com/t/902676#reply3</link>
   <pubDate>Wed, 14 Dec 2022 21:35:55 -0800</pubDate>
   <guid isPermaLink="false">549</guid>
  </item>
  <item>
   <title>从互联网整理的奥密克戎治疗方案，大家可以一起探讨一下完善这个方案</title>
-  <description>Secret hovertext: </description>
+  <description></description>
   <link>https://www.v2ex.com/t/901742#reply42</link>
   <pubDate>Wed, 14 Dec 2022 21:16:23 -0800</pubDate>
   <guid isPermaLink="false">566</guid>
  </item>
  <item>
   <title>关于 sssbar 发布两周有 15k 用户及新版功能</title>
-  <description>Secret hovertext: </description>
+  <description></description>
   <link>https://www.v2ex.com/t/902607#reply4</link>
   <pubDate>Wed, 14 Dec 2022 20:46:23 -0800</pubDate>
   <guid isPermaLink="false">550</guid>
  </item>
  <item>
   <title>APP 推广统计遇到的一个小问题</title>
-  <description>Secret hovertext: </description>
+  <description></description>
   <link>https://www.v2ex.com/t/901788#reply7</link>
   <pubDate>Wed, 14 Dec 2022 19:19:00 -0800</pubDate>
   <guid isPermaLink="false">574</guid>
  </item>
  <item>
   <title>2022 年，大家的网页设计标准是多宽？用 grid 系统吗？</title>
-  <description>Secret hovertext: </description>
+  <description></description>
   <link>https://www.v2ex.com/t/901884#reply11</link>
   <pubDate>Wed, 14 Dec 2022 19:02:25 -0800</pubDate>
   <guid isPermaLink="false">563</guid>
  </item>
  <item>
   <title>自制玻璃水</title>
-  <description>Secret hovertext: </description>
+  <description></description>
   <link>https://www.v2ex.com/t/902361#reply40</link>
   <pubDate>Wed, 14 Dec 2022 18:29:26 -0800</pubDate>
   <guid isPermaLink="false">552</guid>
- </item>
- <item>
-  <title>为了逼自己学习，在竹白搞了个专栏</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/901813#reply8</link>
-  <pubDate>Wed, 14 Dec 2022 17:58:17 -0800</pubDate>
-  <guid isPermaLink="false">572</guid>
- </item>
- <item>
-  <title>关于 stable Diffusion 和 lsp</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902449#reply11</link>
-  <pubDate>Wed, 14 Dec 2022 17:32:05 -0800</pubDate>
-  <guid isPermaLink="false">553</guid>
- </item>
- <item>
-  <title>这个 TG 资源搜索引擎解决了我的精神内耗-TG 喵</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902246#reply14</link>
-  <pubDate>Wed, 14 Dec 2022 17:18:04 -0800</pubDate>
-  <guid isPermaLink="false">562</guid>
- </item>
- <item>
-  <title>PasteQ 剪切板历史工具(自动提示快捷键操作，无需记忆，无需鼠标)</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902353#reply17</link>
-  <pubDate>Wed, 14 Dec 2022 16:34:56 -0800</pubDate>
-  <guid isPermaLink="false">555</guid>
- </item>
- <item>
-  <title>鉴于疫情严重，应该开发个微信体温 APP</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902148#reply6</link>
-  <pubDate>Wed, 14 Dec 2022 10:30:28 -0800</pubDate>
-  <guid isPermaLink="false">560</guid>
- </item>
- <item>
-  <title>酷硬 R1 安装 ESXI 8：从写盘到虚拟机配置</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/901533#reply19</link>
-  <pubDate>Wed, 14 Dec 2022 09:16:42 -0800</pubDate>
-  <guid isPermaLink="false">573</guid>
- </item>
- <item>
-  <title>TabTree : Chrome 竖排标签 类似 Tab Outliner</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902248#reply7</link>
-  <pubDate>Wed, 14 Dec 2022 04:54:52 -0800</pubDate>
-  <guid isPermaLink="false">561</guid>
- </item>
- <item>
-  <title>🤖 用 Pake 打包了个不要登录的 ChatGPT</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/901588#reply43</link>
-  <pubDate>Wed, 14 Dec 2022 03:03:06 -0800</pubDate>
-  <guid isPermaLink="false">570</guid>
- </item>
- <item>
-  <title>家用汽车未来有没有可能发展为独立的电竞空间</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902362#reply59</link>
-  <pubDate>Wed, 14 Dec 2022 02:39:47 -0800</pubDate>
-  <guid isPermaLink="false">554</guid>
- </item>
- <item>
-  <title>Ckpt2Diff：适用于 NovelAI 等 ckpt 的傻瓜式 ckpt 转 diffusers 脚本</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902440#reply2</link>
-  <pubDate>Wed, 14 Dec 2022 01:53:20 -0800</pubDate>
-  <guid isPermaLink="false">556</guid>
- </item>
- <item>
-  <title>行程卡纪念版 - xingchengka.com</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902339#reply29</link>
-  <pubDate>Wed, 14 Dec 2022 00:50:07 -0800</pubDate>
-  <guid isPermaLink="false">558</guid>
- </item>
- <item>
-  <title>分享 iOS App 海拔指南针</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902005#reply14</link>
-  <pubDate>Tue, 13 Dec 2022 23:52:22 -0800</pubDate>
-  <guid isPermaLink="false">568</guid>
- </item>
- <item>
-  <title>如果我提供一个公开的 chatGPT 服务 并把用户的问和 chatGPT 的答生成为网页内容</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/901972#reply19</link>
-  <pubDate>Tue, 13 Dec 2022 22:50:34 -0800</pubDate>
-  <guid isPermaLink="false">567</guid>
- </item>
- <item>
-  <title>请教一下， web 和 app 多端开发选 uniapp 还是 taro</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/901987#reply31</link>
-  <pubDate>Tue, 13 Dec 2022 22:25:20 -0800</pubDate>
-  <guid isPermaLink="false">565</guid>
- </item>
- <item>
-  <title>Stoat：一站式 GitHub action，可以在每个 pull request 上显示自定义控制面板</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902444#reply0</link>
-  <pubDate>Tue, 13 Dec 2022 21:43:38 -0800</pubDate>
-  <guid isPermaLink="false">557</guid>
- </item>
- <item>
-  <title>想搞个统计新冠感染者的网站，就叫”我阳了"</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/901637#reply33</link>
-  <pubDate>Tue, 13 Dec 2022 21:23:54 -0800</pubDate>
-  <guid isPermaLink="false">569</guid>
- </item>
- <item>
-  <title>tempbk.py 临时备份文件到 Cloudflare R2</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902402#reply2</link>
-  <pubDate>Tue, 13 Dec 2022 20:20:47 -0800</pubDate>
-  <guid isPermaLink="false">559</guid>
- </item>
- <item>
-  <title>开源一个 ChatGPT Go SDK，稳定可用，今早还能正常回复内容</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902101#reply21</link>
-  <pubDate>Tue, 13 Dec 2022 19:14:52 -0800</pubDate>
-  <guid isPermaLink="false">564</guid>
- </item>
- <item>
-  <title>我今天没羊小程序打卡来了，郭襄、杨过、杨康、王重阳和阳顶天，你是哪一个？</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/901907#reply22</link>
-  <pubDate>Tue, 13 Dec 2022 18:02:35 -0800</pubDate>
-  <guid isPermaLink="false">571</guid>
- </item>
- <item>
-  <title>这个 TG 资源搜索引擎解决了我的精神内耗-TG 喵</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902246#reply8</link>
-  <pubDate>Tue, 13 Dec 2022 07:18:29 -0800</pubDate>
-  <guid isPermaLink="false">522</guid>
- </item>
- <item>
-  <title>TabTree : Chrome 竖排标签 类似 Tab Outliner</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902248#reply2</link>
-  <pubDate>Tue, 13 Dec 2022 06:37:17 -0800</pubDate>
-  <guid isPermaLink="false">523</guid>
- </item>
- <item>
-  <title>请教一下， web 和 app 多端开发选 uniapp 还是 taro</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/901987#reply29</link>
-  <pubDate>Tue, 13 Dec 2022 05:06:01 -0800</pubDate>
-  <guid isPermaLink="false">530</guid>
- </item>
- <item>
-  <title>想搞个统计新冠感染者的网站，就叫”我阳了"</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/901637#reply32</link>
-  <pubDate>Tue, 13 Dec 2022 04:41:20 -0800</pubDate>
-  <guid isPermaLink="false">535</guid>
- </item>
- <item>
-  <title>开源一个 ChatGPT Go SDK，稳定可用，今早还能正常回复内容</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902101#reply18</link>
-  <pubDate>Tue, 13 Dec 2022 03:21:10 -0800</pubDate>
-  <guid isPermaLink="false">524</guid>
- </item>
- <item>
-  <title>在小程序里面发现一个 GPT 的镜像网站</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/901457#reply10</link>
-  <pubDate>Tue, 13 Dec 2022 03:05:14 -0800</pubDate>
-  <guid isPermaLink="false">541</guid>
- </item>
- <item>
-  <title>分享 iOS App 海拔指南针</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902005#reply13</link>
-  <pubDate>Tue, 13 Dec 2022 01:50:51 -0800</pubDate>
-  <guid isPermaLink="false">532</guid>
- </item>
- <item>
-  <title>从互联网整理的奥密克戎治疗方案，大家可以一起探讨一下完善这个方案</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/901742#reply41</link>
-  <pubDate>Tue, 13 Dec 2022 01:39:07 -0800</pubDate>
-  <guid isPermaLink="false">534</guid>
- </item>
- <item>
-  <title>2022 年，大家的网页设计标准是多宽？用 grid 系统吗？</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/901884#reply9</link>
-  <pubDate>Tue, 13 Dec 2022 01:28:22 -0800</pubDate>
-  <guid isPermaLink="false">533</guid>
- </item>
- <item>
-  <title>鉴于疫情严重，应该开发个微信体温 APP</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902148#reply5</link>
-  <pubDate>Tue, 13 Dec 2022 01:25:16 -0800</pubDate>
-  <guid isPermaLink="false">525</guid>
- </item>
- <item>
-  <title>记录类产品 九宫格记录法</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902154#reply4</link>
-  <pubDate>Tue, 13 Dec 2022 01:09:15 -0800</pubDate>
-  <guid isPermaLink="false">528</guid>
- </item>
- <item>
-  <title>写了一个 Mac 版 Office 备份自动恢复文件的脚本</title>
-  <description>Secret hovertext: </description>
-  <link>https://www.v2ex.com/t/902243#reply0</link>
-  <pubDate>Tue, 13 Dec 2022 00:40:49 -0800</pubDate>
-  <guid isPermaLink="false">526</guid>
  </item>
 
 </channel>

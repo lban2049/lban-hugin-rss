@@ -8,288 +8,288 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 14 Dec 2022 22:54:38 -0800</lastBuildDate>
- <pubDate>Wed, 14 Dec 2022 22:54:38 -0800</pubDate>
+ <lastBuildDate>Fri, 16 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 16 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
  <item>
+  <title>SoftwareBrothers / adminjs</title>
+  <description>AdminJS is an admin panel for apps written in node.js</description>
+  <link>https://github.com/SoftwareBrothers/adminjs</link>
+  <guid isPermaLink="false">659</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>kuchin / awesome-cto</title>
+  <description>A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups</description>
+  <link>https://github.com/kuchin/awesome-cto</link>
+  <guid isPermaLink="false">658</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / terminal</title>
+  <description>The new Windows Terminal and the original Windows console host, all in the same place!</description>
+  <link>https://github.com/microsoft/terminal</link>
+  <guid isPermaLink="false">657</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>forthespada / CS-Books</title>
+  <description>🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~</description>
+  <link>https://github.com/forthespada/CS-Books</link>
+  <guid isPermaLink="false">656</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>rocketseat-education / ignite-lab-nodejs</title>
+  <description>Microsserviço de notificações desenvolvido no Ignite Lab 04 de Node.js</description>
+  <link>https://github.com/rocketseat-education/ignite-lab-nodejs</link>
+  <guid isPermaLink="false">655</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>nostr-protocol / nostr</title>
+  <description>a truly censorship-resistant alternative to Twitter that has a chance of working</description>
+  <link>https://github.com/nostr-protocol/nostr</link>
+  <guid isPermaLink="false">654</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>nvm-sh / nvm</title>
+  <description>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</description>
+  <link>https://github.com/nvm-sh/nvm</link>
+  <guid isPermaLink="false">653</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>ossu / bioinformatics</title>
+  <description>🔬 Path to a free self-taught education in Bioinformatics!</description>
+  <link>https://github.com/ossu/bioinformatics</link>
+  <guid isPermaLink="false">652</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>coinspect / learn-evm-attacks</title>
+  <description>Learn &amp; Contribute on previously exploited vulnerabilities across several EVM projects.</description>
+  <link>https://github.com/coinspect/learn-evm-attacks</link>
+  <guid isPermaLink="false">651</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>skypilot-org / skypilot</title>
+  <description>SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.</description>
+  <link>https://github.com/skypilot-org/skypilot</link>
+  <guid isPermaLink="false">650</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / Web-Dev-For-Beginners</title>
+  <description>24 Lessons, 12 Weeks, Get Started as a Web Developer</description>
+  <link>https://github.com/microsoft/Web-Dev-For-Beginners</link>
+  <guid isPermaLink="false">649</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>Samsar4 / Ethical-Hacking-Labs</title>
+  <description>Practical Ethical Hacking Labs 🗡🛡</description>
+  <link>https://github.com/Samsar4/Ethical-Hacking-Labs</link>
+  <guid isPermaLink="false">648</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>jlevy / the-art-of-command-line</title>
+  <description>Master the command line, in one page</description>
+  <link>https://github.com/jlevy/the-art-of-command-line</link>
+  <guid isPermaLink="false">647</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>sveltejs / kit</title>
+  <description>web development, streamlined</description>
+  <link>https://github.com/sveltejs/kit</link>
+  <guid isPermaLink="false">646</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>GrowingGit / GitHub-Chinese-Top-Charts</title>
+  <description>🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。</description>
+  <link>https://github.com/GrowingGit/GitHub-Chinese-Top-Charts</link>
+  <guid isPermaLink="false">645</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>Jxck-S / plane-notify</title>
+  <description>Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet</description>
+  <link>https://github.com/Jxck-S/plane-notify</link>
+  <guid isPermaLink="false">644</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>dudykr / stc</title>
+  <description>Speedy TypeScript type checker</description>
+  <link>https://github.com/dudykr/stc</link>
+  <guid isPermaLink="false">643</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>google / osv-scanner</title>
+  <description>Vulnerability scanner written in Go which uses the data provided by https://osv.dev</description>
+  <link>https://github.com/google/osv-scanner</link>
+  <guid isPermaLink="false">642</guid>
+  <pubDate>Fri, 16 Dec 2022 09:00:01 -0800</pubDate>
+ </item>
+ <item>
   <title>vuejs / core</title>
-  <description>Secret hovertext: 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
+  <description>🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
   <link>https://github.com/vuejs/core</link>
   <guid isPermaLink="false">621</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>wesbos / pommade</title>
-  <description>Secret hovertext: A menu bar app to check your hair</description>
+  <description>A menu bar app to check your hair</description>
   <link>https://github.com/wesbos/pommade</link>
   <guid isPermaLink="false">620</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>alibaba / havenask</title>
-  <description>Secret hovertext: </description>
+  <description></description>
   <link>https://github.com/alibaba/havenask</link>
   <guid isPermaLink="false">619</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>home-assistant / frontend</title>
-  <description>Secret hovertext: 🍭 Frontend for Home Assistant</description>
+  <description>🍭 Frontend for Home Assistant</description>
   <link>https://github.com/home-assistant/frontend</link>
   <guid isPermaLink="false">618</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>Azure / azure-quickstart-templates</title>
-  <description>Secret hovertext: Azure Quickstart Templates</description>
+  <description>Azure Quickstart Templates</description>
   <link>https://github.com/Azure/azure-quickstart-templates</link>
   <guid isPermaLink="false">617</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>mui / material-ui</title>
-  <description>Secret hovertext: MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.</description>
+  <description>MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.</description>
   <link>https://github.com/mui/material-ui</link>
   <guid isPermaLink="false">616</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>dolthub / dolt</title>
-  <description>Secret hovertext: Dolt – Git for Data</description>
+  <description>Dolt – Git for Data</description>
   <link>https://github.com/dolthub/dolt</link>
   <guid isPermaLink="false">615</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>aler9 / rtsp-simple-server</title>
-  <description>Secret hovertext: ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams</description>
+  <description>ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams</description>
   <link>https://github.com/aler9/rtsp-simple-server</link>
   <guid isPermaLink="false">614</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>lencx / ChatGPT</title>
-  <description>Secret hovertext: 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)</description>
+  <description>🤖 ChatGPT Desktop Application (Mac, Windows and Linux)</description>
   <link>https://github.com/lencx/ChatGPT</link>
   <guid isPermaLink="false">613</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>nlohmann / json</title>
-  <description>Secret hovertext: JSON for Modern C++</description>
+  <description>JSON for Modern C++</description>
   <link>https://github.com/nlohmann/json</link>
   <guid isPermaLink="false">612</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>awesome-selfhosted / awesome-selfhosted</title>
-  <description>Secret hovertext: A list of Free Software network services and web applications which can be hosted on your own servers</description>
+  <description>A list of Free Software network services and web applications which can be hosted on your own servers</description>
   <link>https://github.com/awesome-selfhosted/awesome-selfhosted</link>
   <guid isPermaLink="false">611</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>norvig / pytudes</title>
-  <description>Secret hovertext: Python programs, usually short, of considerable difficulty, to perfect particular skills.</description>
+  <description>Python programs, usually short, of considerable difficulty, to perfect particular skills.</description>
   <link>https://github.com/norvig/pytudes</link>
   <guid isPermaLink="false">610</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>zas023 / JdBuyer</title>
-  <description>Secret hovertext: 京东抢购自动下单助手，GUI 支持 Windows 和 macOS</description>
+  <description>京东抢购自动下单助手，GUI 支持 Windows 和 macOS</description>
   <link>https://github.com/zas023/JdBuyer</link>
   <guid isPermaLink="false">609</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>nalgeon / sqlean</title>
-  <description>Secret hovertext: The ultimate set of SQLite extensions</description>
+  <description>The ultimate set of SQLite extensions</description>
   <link>https://github.com/nalgeon/sqlean</link>
   <guid isPermaLink="false">608</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>facebookresearch / fairseq</title>
-  <description>Secret hovertext: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.</description>
+  <description>Facebook AI Research Sequence-to-Sequence Toolkit written in Python.</description>
   <link>https://github.com/facebookresearch/fairseq</link>
   <guid isPermaLink="false">607</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>directus / directus</title>
-  <description>Secret hovertext: The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.</description>
+  <description>The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.</description>
   <link>https://github.com/directus/directus</link>
   <guid isPermaLink="false">606</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>palera1n / palera1n</title>
-  <description>Secret hovertext: iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak</description>
+  <description>iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak</description>
   <link>https://github.com/palera1n/palera1n</link>
   <guid isPermaLink="false">605</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>pola-rs / polars</title>
-  <description>Secret hovertext: Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js</description>
+  <description>Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js</description>
   <link>https://github.com/pola-rs/polars</link>
   <guid isPermaLink="false">604</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>cloneofsimo / lora</title>
-  <description>Secret hovertext: Using Low-rank adaptation to quickly fine-tune diffusion models.</description>
+  <description>Using Low-rank adaptation to quickly fine-tune diffusion models.</description>
   <link>https://github.com/cloneofsimo/lora</link>
   <guid isPermaLink="false">603</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
  <item>
   <title>awslabs / eks-node-viewer</title>
-  <description>Secret hovertext: EKS Node Viewer</description>
+  <description>EKS Node Viewer</description>
   <link>https://github.com/awslabs/eks-node-viewer</link>
   <guid isPermaLink="false">521</guid>
   <pubDate>Tue, 13 Dec 2022 09:00:08 -0800</pubDate>
  </item>
  <item>
   <title>kingoflolz / mesh-transformer-jax</title>
-  <description>Secret hovertext: Model parallel transformers in JAX and Haiku</description>
+  <description>Model parallel transformers in JAX and Haiku</description>
   <link>https://github.com/kingoflolz/mesh-transformer-jax</link>
   <guid isPermaLink="false">520</guid>
   <pubDate>Tue, 13 Dec 2022 09:00:08 -0800</pubDate>
  </item>
  <item>
   <title>PlexPt / chatgpt-java</title>
-  <description>Secret hovertext: ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.</description>
+  <description>ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.</description>
   <link>https://github.com/PlexPt/chatgpt-java</link>
   <guid isPermaLink="false">519</guid>
   <pubDate>Tue, 13 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>colinhacks / zod</title>
-  <description>Secret hovertext: TypeScript-first schema validation with static type inference</description>
-  <link>https://github.com/colinhacks/zod</link>
-  <guid isPermaLink="false">518</guid>
-  <pubDate>Tue, 13 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>lensterxyz / lenster</title>
-  <description>Secret hovertext: Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿</description>
-  <link>https://github.com/lensterxyz/lenster</link>
-  <guid isPermaLink="false">517</guid>
-  <pubDate>Tue, 13 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>mohammadpz / pytorch_forward_forward</title>
-  <description>Secret hovertext: Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation</description>
-  <link>https://github.com/mohammadpz/pytorch_forward_forward</link>
-  <guid isPermaLink="false">516</guid>
-  <pubDate>Tue, 13 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>eatmoreapple / openwechat</title>
-  <description>Secret hovertext: golang版微信SDK</description>
-  <link>https://github.com/eatmoreapple/openwechat</link>
-  <guid isPermaLink="false">515</guid>
-  <pubDate>Tue, 13 Dec 2022 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>revanced / revanced-manager</title>
-  <description>Secret hovertext: 💊 Android application to use ReVanced</description>
-  <link>https://github.com/revanced/revanced-manager</link>
-  <guid isPermaLink="false">489</guid>
-  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>expressjs / express</title>
-  <description>Secret hovertext: Fast, unopinionated, minimalist web framework for node.</description>
-  <link>https://github.com/expressjs/express</link>
-  <guid isPermaLink="false">488</guid>
-  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>kubeshark / kubeshark</title>
-  <description>Secret hovertext: The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes</description>
-  <link>https://github.com/kubeshark/kubeshark</link>
-  <guid isPermaLink="false">487</guid>
-  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>gtoxlili / wechat-chatGPT</title>
-  <description>Secret hovertext: 实现微信公众号被动返回接口的ChatGPT</description>
-  <link>https://github.com/gtoxlili/wechat-chatGPT</link>
-  <guid isPermaLink="false">486</guid>
-  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>wangrongding / wechat-bot</title>
-  <description>Secret hovertext: 🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...</description>
-  <link>https://github.com/wangrongding/wechat-bot</link>
-  <guid isPermaLink="false">485</guid>
-  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>arendst / Tasmota</title>
-  <description>Secret hovertext: Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at</description>
-  <link>https://github.com/arendst/Tasmota</link>
-  <guid isPermaLink="false">484</guid>
-  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>skydoves / chatgpt-android</title>
-  <description>Secret hovertext: 📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.</description>
-  <link>https://github.com/skydoves/chatgpt-android</link>
-  <guid isPermaLink="false">483</guid>
-  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>calistus-igwilo / nitda-blockchain-scholarship</title>
-  <description>Secret hovertext: Course materials for the NITDA Blockchain Scholarship</description>
-  <link>https://github.com/calistus-igwilo/nitda-blockchain-scholarship</link>
-  <guid isPermaLink="false">482</guid>
-  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>Stability-AI / stablediffusion</title>
-  <description>Secret hovertext: High-Resolution Image Synthesis with Latent Diffusion Models</description>
-  <link>https://github.com/Stability-AI/stablediffusion</link>
-  <guid isPermaLink="false">481</guid>
-  <pubDate>Mon, 12 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>GitHubDaily / GitHubDaily</title>
-  <description>Secret hovertext: 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.</description>
-  <link>https://github.com/GitHubDaily/GitHubDaily</link>
-  <guid isPermaLink="false">448</guid>
-  <pubDate>Sun, 11 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>Grasscutters / Grasscutter</title>
-  <description>Secret hovertext: A server software reimplementation for a certain anime game.</description>
-  <link>https://github.com/Grasscutters/Grasscutter</link>
-  <guid isPermaLink="false">447</guid>
-  <pubDate>Sun, 11 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>holbertonschool / Betty</title>
-  <description>Secret hovertext: Holberton-style C code checker written in Perl</description>
-  <link>https://github.com/holbertonschool/Betty</link>
-  <guid isPermaLink="false">446</guid>
-  <pubDate>Sun, 11 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>wechaty / wechaty</title>
-  <description>Secret hovertext: Conversational RPA SDK for Chatbot Makers</description>
-  <link>https://github.com/wechaty/wechaty</link>
-  <guid isPermaLink="false">445</guid>
-  <pubDate>Sun, 11 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>UberGuidoZ / Flipper</title>
-  <description>Secret hovertext: Playground (and dump) of stuff I make or modify for the Flipper Zero</description>
-  <link>https://github.com/UberGuidoZ/Flipper</link>
-  <guid isPermaLink="false">444</guid>
-  <pubDate>Sun, 11 Dec 2022 09:00:03 -0800</pubDate>
  </item>
 
 </channel>
