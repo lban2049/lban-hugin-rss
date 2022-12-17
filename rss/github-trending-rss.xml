@@ -8,9 +8,128 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 16 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Fri, 16 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sat, 17 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sat, 17 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>mermaid-js / mermaid</title>
+  <description>Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown</description>
+  <link>https://github.com/mermaid-js/mermaid</link>
+  <guid isPermaLink="false">730</guid>
+  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>mxrch / GHunt</title>
+  <description>🕵️‍♂️ Offensive Google framework.</description>
+  <link>https://github.com/mxrch/GHunt</link>
+  <guid isPermaLink="false">729</guid>
+  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>chartjs / Chart.js</title>
+  <description>Simple HTML5 Charts using the &lt;canvas&gt; tag</description>
+  <link>https://github.com/chartjs/Chart.js</link>
+  <guid isPermaLink="false">728</guid>
+  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>jart / blink</title>
+  <description>tiniest x86-64-linux emulator</description>
+  <link>https://github.com/jart/blink</link>
+  <guid isPermaLink="false">727</guid>
+  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>andyzys / jd_seckill</title>
+  <description>京东秒杀商品抢购</description>
+  <link>https://github.com/andyzys/jd_seckill</link>
+  <guid isPermaLink="false">726</guid>
+  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>m1guelpf / plz-cli</title>
+  <description>Copilot for your terminal</description>
+  <link>https://github.com/m1guelpf/plz-cli</link>
+  <guid isPermaLink="false">725</guid>
+  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>atom / atom</title>
+  <description>The hackable text editor</description>
+  <link>https://github.com/atom/atom</link>
+  <guid isPermaLink="false">724</guid>
+  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>musescore / MuseScore</title>
+  <description>MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!</description>
+  <link>https://github.com/musescore/MuseScore</link>
+  <guid isPermaLink="false">723</guid>
+  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>openai / openai-cookbook</title>
+  <description>Examples and guides for using the OpenAI API</description>
+  <link>https://github.com/openai/openai-cookbook</link>
+  <guid isPermaLink="false">722</guid>
+  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>carson-katri / dream-textures</title>
+  <description>Stable Diffusion built-in to the Blender shader editor</description>
+  <link>https://github.com/carson-katri/dream-textures</link>
+  <guid isPermaLink="false">721</guid>
+  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>hmartiro / riffusion-inference</title>
+  <description>Stable diffusion for real-time music generation</description>
+  <link>https://github.com/hmartiro/riffusion-inference</link>
+  <guid isPermaLink="false">720</guid>
+  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>ThePrimeagen / init.lua</title>
+  <description></description>
+  <link>https://github.com/ThePrimeagen/init.lua</link>
+  <guid isPermaLink="false">719</guid>
+  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>hmartiro / riffusion-app</title>
+  <description>Stable diffusion for real-time music generation</description>
+  <link>https://github.com/hmartiro/riffusion-app</link>
+  <guid isPermaLink="false">718</guid>
+  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>krahets / hello-algo</title>
+  <description>《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书</description>
+  <link>https://github.com/krahets/hello-algo</link>
+  <guid isPermaLink="false">717</guid>
+  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>eryajf / chatgpt-dingtalk</title>
+  <description>ChatGPT机器人在钉钉群聊中交互</description>
+  <link>https://github.com/eryajf/chatgpt-dingtalk</link>
+  <guid isPermaLink="false">716</guid>
+  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>mastodon / mastodon</title>
+  <description>Your self-hosted, globally interconnected microblogging community</description>
+  <link>https://github.com/mastodon/mastodon</link>
+  <guid isPermaLink="false">715</guid>
+  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>jackMort / ChatGPT.nvim</title>
+  <description>Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.</description>
+  <link>https://github.com/jackMort/ChatGPT.nvim</link>
+  <guid isPermaLink="false">714</guid>
+  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
  <item>
   <title>SoftwareBrothers / adminjs</title>
   <description>AdminJS is an admin panel for apps written in node.js</description>
@@ -171,125 +290,6 @@
   <link>https://github.com/Azure/azure-quickstart-templates</link>
   <guid isPermaLink="false">617</guid>
   <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>mui / material-ui</title>
-  <description>MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.</description>
-  <link>https://github.com/mui/material-ui</link>
-  <guid isPermaLink="false">616</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>dolthub / dolt</title>
-  <description>Dolt – Git for Data</description>
-  <link>https://github.com/dolthub/dolt</link>
-  <guid isPermaLink="false">615</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>aler9 / rtsp-simple-server</title>
-  <description>ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams</description>
-  <link>https://github.com/aler9/rtsp-simple-server</link>
-  <guid isPermaLink="false">614</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>lencx / ChatGPT</title>
-  <description>🤖 ChatGPT Desktop Application (Mac, Windows and Linux)</description>
-  <link>https://github.com/lencx/ChatGPT</link>
-  <guid isPermaLink="false">613</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>nlohmann / json</title>
-  <description>JSON for Modern C++</description>
-  <link>https://github.com/nlohmann/json</link>
-  <guid isPermaLink="false">612</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>awesome-selfhosted / awesome-selfhosted</title>
-  <description>A list of Free Software network services and web applications which can be hosted on your own servers</description>
-  <link>https://github.com/awesome-selfhosted/awesome-selfhosted</link>
-  <guid isPermaLink="false">611</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>norvig / pytudes</title>
-  <description>Python programs, usually short, of considerable difficulty, to perfect particular skills.</description>
-  <link>https://github.com/norvig/pytudes</link>
-  <guid isPermaLink="false">610</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>zas023 / JdBuyer</title>
-  <description>京东抢购自动下单助手，GUI 支持 Windows 和 macOS</description>
-  <link>https://github.com/zas023/JdBuyer</link>
-  <guid isPermaLink="false">609</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>nalgeon / sqlean</title>
-  <description>The ultimate set of SQLite extensions</description>
-  <link>https://github.com/nalgeon/sqlean</link>
-  <guid isPermaLink="false">608</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>facebookresearch / fairseq</title>
-  <description>Facebook AI Research Sequence-to-Sequence Toolkit written in Python.</description>
-  <link>https://github.com/facebookresearch/fairseq</link>
-  <guid isPermaLink="false">607</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>directus / directus</title>
-  <description>The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.</description>
-  <link>https://github.com/directus/directus</link>
-  <guid isPermaLink="false">606</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>palera1n / palera1n</title>
-  <description>iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak</description>
-  <link>https://github.com/palera1n/palera1n</link>
-  <guid isPermaLink="false">605</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>pola-rs / polars</title>
-  <description>Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js</description>
-  <link>https://github.com/pola-rs/polars</link>
-  <guid isPermaLink="false">604</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>cloneofsimo / lora</title>
-  <description>Using Low-rank adaptation to quickly fine-tune diffusion models.</description>
-  <link>https://github.com/cloneofsimo/lora</link>
-  <guid isPermaLink="false">603</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>awslabs / eks-node-viewer</title>
-  <description>EKS Node Viewer</description>
-  <link>https://github.com/awslabs/eks-node-viewer</link>
-  <guid isPermaLink="false">521</guid>
-  <pubDate>Tue, 13 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>kingoflolz / mesh-transformer-jax</title>
-  <description>Model parallel transformers in JAX and Haiku</description>
-  <link>https://github.com/kingoflolz/mesh-transformer-jax</link>
-  <guid isPermaLink="false">520</guid>
-  <pubDate>Tue, 13 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>PlexPt / chatgpt-java</title>
-  <description>ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.</description>
-  <link>https://github.com/PlexPt/chatgpt-java</link>
-  <guid isPermaLink="false">519</guid>
-  <pubDate>Tue, 13 Dec 2022 09:00:08 -0800</pubDate>
  </item>
 
 </channel>

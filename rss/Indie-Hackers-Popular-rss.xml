@@ -8,9 +8,65 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 16 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Fri, 16 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sat, 17 Dec 2022 13:00:03 -0800</lastBuildDate>
+ <pubDate>Sat, 17 Dec 2022 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Privacy-first Analytics - what do you use &amp; do you get the data you need?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/privacy-first-analytics-what-do-you-use-do-you-get-the-data-you-need-575e3fec28</link>
+  <pubDate>Sat, 17 Dec 2022 14:16:00 -0800</pubDate>
+  <guid isPermaLink="false">752</guid>
+ </item>
+ <item>
+  <title>Do we have an alternative to Twitter?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/do-we-have-an-alternative-to-twitter-c2074df82f</link>
+  <pubDate>Sat, 17 Dec 2022 09:56:00 -0800</pubDate>
+  <guid isPermaLink="false">753</guid>
+ </item>
+ <item>
+  <title>What's New: Pre-launch marketing strategies for founders</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/whats-new-pre-launch-marketing-strategies-for-founders-44641a30fa</link>
+  <pubDate>Sat, 17 Dec 2022 06:51:00 -0800</pubDate>
+  <guid isPermaLink="false">756</guid>
+ </item>
+ <item>
+  <title>Name 1 thing you eliminated this year that improved your life. Let's go!</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/name-1-thing-you-eliminated-this-year-that-improved-your-life-lets-go-5b9354700f</link>
+  <pubDate>Sat, 17 Dec 2022 05:47:00 -0800</pubDate>
+  <guid isPermaLink="false">750</guid>
+ </item>
+ <item>
+  <title>How Can SaaS Providers Build A Community?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-can-saas-providers-build-a-community-1053db2f35</link>
+  <pubDate>Fri, 16 Dec 2022 14:42:00 -0800</pubDate>
+  <guid isPermaLink="false">758</guid>
+ </item>
+ <item>
+  <title>Interview: Aymane Reaches $500 MRR in Just 1 Month from Emailgurus</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/interview-aymane-reaches-500-mrr-in-just-1-month-from-emailgurus-fd72a2fa10</link>
+  <pubDate>Fri, 16 Dec 2022 12:49:00 -0800</pubDate>
+  <guid isPermaLink="false">757</guid>
+ </item>
+ <item>
+  <title>New Landing Page - Feedback for B2C Fintech please!</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/new-landing-page-feedback-for-b2c-fintech-please-1b3686faf9</link>
+  <pubDate>Fri, 16 Dec 2022 12:07:00 -0800</pubDate>
+  <guid isPermaLink="false">754</guid>
+ </item>
+ <item>
+  <title>How to really piss off your customers in 13 emails (and counting!)</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-to-really-piss-off-your-customers-in-13-emails-and-counting-2d3a51b050</link>
+  <pubDate>Fri, 16 Dec 2022 08:22:00 -0800</pubDate>
+  <guid isPermaLink="false">755</guid>
+ </item>
  <item>
   <title>If/when your boss asks you to return to the office; will you continue working on your side hustle, and how?</title>
   <description></description>
@@ -31,6 +87,13 @@
   <link>https://www.indiehackers.com/post/instant-landing-page-killing-a-startup-idea-quickly-2099c29a0a</link>
   <pubDate>Thu, 15 Dec 2022 20:42:00 -0800</pubDate>
   <guid isPermaLink="false">698</guid>
+ </item>
+ <item>
+  <title>Discovering a new growth hack</title>
+  <description></description>
+  <link>https://www.indiehackers.com/product/emojiclue/discovering-a-new-growth-hack--NJM2-8a5j3P6sKGxrh7</link>
+  <pubDate>Thu, 15 Dec 2022 18:29:00 -0800</pubDate>
+  <guid isPermaLink="false">759</guid>
  </item>
  <item>
   <title>Google just picked my Chrome extension as one of their favorites of 2022</title>
@@ -87,6 +150,13 @@
   <link>https://www.indiehackers.com/post/how-to-get-the-first-least-1000-customers-on-my-website-3d448b159b</link>
   <pubDate>Thu, 15 Dec 2022 10:22:00 -0800</pubDate>
   <guid isPermaLink="false">700</guid>
+ </item>
+ <item>
+  <title>Not able to get even 100 signups on my product even though it's valuable and free</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/not-able-to-get-even-100-signups-on-my-product-even-though-its-valuable-and-free-713a9dd7f9</link>
+  <pubDate>Thu, 15 Dec 2022 10:06:00 -0800</pubDate>
+  <guid isPermaLink="false">751</guid>
  </item>
  <item>
   <title>As a founder, these were the biggest red flags I saw when interviewing non-technical candidates</title>
@@ -220,62 +290,6 @@
   <link>https://www.indiehackers.com/post/how-will-you-optimize-your-startup-during-the-recession-03a8e67d76</link>
   <pubDate>Tue, 13 Dec 2022 18:49:00 -0800</pubDate>
   <guid isPermaLink="false">628</guid>
- </item>
- <item>
-  <title>DRY your code, but RIG your cognition</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/dry-your-code-but-rig-your-cognition-4e8d8e02a8</link>
-  <pubDate>Tue, 13 Dec 2022 16:57:00 -0800</pubDate>
-  <guid isPermaLink="false">641</guid>
- </item>
- <item>
-  <title>Why I rebuilt my startup from scratch</title>
-  <description></description>
-  <link>https://www.indiehackers.com/product/monadflow/why-i-rebuilt-my-startup-from-scratch--NJBJokinpYYpEkEd-qJ</link>
-  <pubDate>Tue, 13 Dec 2022 16:31:00 -0800</pubDate>
-  <guid isPermaLink="false">627</guid>
- </item>
- <item>
-  <title>Guide to New Year email newsletters with examples</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/guide-to-new-year-email-newsletters-with-examples-3f2544e927</link>
-  <pubDate>Tue, 13 Dec 2022 15:23:00 -0800</pubDate>
-  <guid isPermaLink="false">638</guid>
- </item>
- <item>
-  <title>Are there any successful bootstrapped B2C companies?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/are-there-any-successful-bootstrapped-b2c-companies-1d019202e8</link>
-  <pubDate>Tue, 13 Dec 2022 05:23:00 -0800</pubDate>
-  <guid isPermaLink="false">625</guid>
- </item>
- <item>
-  <title>How to steal a website... and how to prevent it</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-to-steal-a-website-and-how-to-prevent-it-dbf299c5c1</link>
-  <pubDate>Tue, 13 Dec 2022 03:49:00 -0800</pubDate>
-  <guid isPermaLink="false">624</guid>
- </item>
- <item>
-  <title>Where do non-dev founders get quick code advice?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/where-do-non-dev-founders-get-quick-code-advice-82d6a6ef03</link>
-  <pubDate>Mon, 12 Dec 2022 20:48:00 -0800</pubDate>
-  <guid isPermaLink="false">626</guid>
- </item>
- <item>
-  <title>Learning to code</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/learning-to-code-21f4fccc99</link>
-  <pubDate>Mon, 12 Dec 2022 16:45:00 -0800</pubDate>
-  <guid isPermaLink="false">622</guid>
- </item>
- <item>
-  <title>10 business principles that generated us $32 000 in 6 months</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/10-business-principles-that-generated-us-32-000-in-6-months-7d7af26892</link>
-  <pubDate>Mon, 12 Dec 2022 08:26:00 -0800</pubDate>
-  <guid isPermaLink="false">636</guid>
  </item>
 
 </channel>
