@@ -8,15 +8,85 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 17 Dec 2022 13:00:03 -0800</lastBuildDate>
- <pubDate>Sat, 17 Dec 2022 13:00:03 -0800</pubDate>
+ <lastBuildDate>Sun, 18 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 18 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>You probably shouldn't work at a startup</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/you-probably-shouldnt-work-at-a-startup-df89b06da8</link>
+  <pubDate>Sun, 18 Dec 2022 09:33:00 -0800</pubDate>
+  <guid isPermaLink="false">798</guid>
+ </item>
+ <item>
+  <title>Gumroad price change is a huge disappointment for thousands of builders.</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/gumroad-price-change-is-a-huge-disappointment-for-thousands-of-builders-b6587015b5</link>
+  <pubDate>Sun, 18 Dec 2022 04:59:00 -0800</pubDate>
+  <guid isPermaLink="false">796</guid>
+ </item>
+ <item>
+  <title>AMA: Launched 3 ML startups in 2022 &amp; scaled to $200k ARR.</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/ama-launched-3-ml-startups-in-2022-scaled-to-200k-arr-723ee4331d</link>
+  <pubDate>Sat, 17 Dec 2022 23:17:00 -0800</pubDate>
+  <guid isPermaLink="false">800</guid>
+ </item>
+ <item>
+  <title>Into the unknown...</title>
+  <description></description>
+  <link>https://www.indiehackers.com/product/feedbackhq/into-the-unknown--NJXCsFQwfWunAywrUIS</link>
+  <pubDate>Sat, 17 Dec 2022 22:32:00 -0800</pubDate>
+  <guid isPermaLink="false">797</guid>
+ </item>
+ <item>
+  <title>Should I buy advertising for a free service?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/should-i-buy-advertising-for-a-free-service-da83bcc829</link>
+  <pubDate>Sat, 17 Dec 2022 17:12:00 -0800</pubDate>
+  <guid isPermaLink="false">804</guid>
+ </item>
+ <item>
+  <title>Reached 100 users. What should you do next?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/reached-100-users-what-should-you-do-next-a9451cf525</link>
+  <pubDate>Sat, 17 Dec 2022 14:39:00 -0800</pubDate>
+  <guid isPermaLink="false">799</guid>
+ </item>
+ <item>
+  <title>Privacy-first analytics - what do you use &amp; do you get the data you need?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/privacy-first-analytics-what-do-you-use-do-you-get-the-data-you-need-575e3fec28</link>
+  <pubDate>Sat, 17 Dec 2022 14:16:00 -0800</pubDate>
+  <guid isPermaLink="false">805</guid>
+ </item>
  <item>
   <title>Privacy-first Analytics - what do you use &amp; do you get the data you need?</title>
   <description></description>
   <link>https://www.indiehackers.com/post/privacy-first-analytics-what-do-you-use-do-you-get-the-data-you-need-575e3fec28</link>
   <pubDate>Sat, 17 Dec 2022 14:16:00 -0800</pubDate>
   <guid isPermaLink="false">752</guid>
+ </item>
+ <item>
+  <title>Gumroad is going to increase its fees to 10% for everyone Jan 31st.</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/gumroad-is-going-to-increase-its-fees-to-10-for-everyone-jan-31st-ff59a0963e</link>
+  <pubDate>Sat, 17 Dec 2022 13:04:00 -0800</pubDate>
+  <guid isPermaLink="false">801</guid>
+ </item>
+ <item>
+  <title>How do you deal with information overload?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-do-you-deal-with-information-overload-546fdb0e48</link>
+  <pubDate>Sat, 17 Dec 2022 12:40:00 -0800</pubDate>
+  <guid isPermaLink="false">802</guid>
+ </item>
+ <item>
+  <title>Why do you Build in Public?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/why-do-you-build-in-public-11f4422057</link>
+  <pubDate>Sat, 17 Dec 2022 10:58:00 -0800</pubDate>
+  <guid isPermaLink="false">803</guid>
  </item>
  <item>
   <title>Do we have an alternative to Twitter?</title>
@@ -145,6 +215,13 @@
   <guid isPermaLink="false">699</guid>
  </item>
  <item>
+  <title>How to get the first 1000 customers on my website?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-to-get-the-first-1000-customers-on-my-website-3d448b159b</link>
+  <pubDate>Thu, 15 Dec 2022 10:22:00 -0800</pubDate>
+  <guid isPermaLink="false">806</guid>
+ </item>
+ <item>
   <title>How to get the first least 1000 customers on my website?</title>
   <description></description>
   <link>https://www.indiehackers.com/post/how-to-get-the-first-least-1000-customers-on-my-website-3d448b159b</link>
@@ -213,83 +290,6 @@
   <link>https://www.indiehackers.com/post/its-really-hard-for-me-to-put-together-the-requirements-for-creating-a-product-becf5426b8</link>
   <pubDate>Wed, 14 Dec 2022 14:55:00 -0800</pubDate>
   <guid isPermaLink="false">639</guid>
- </item>
- <item>
-  <title>Is it possible to be "too niche"?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/is-it-possible-to-be-too-niche-28492fb95f</link>
-  <pubDate>Wed, 14 Dec 2022 14:16:00 -0800</pubDate>
-  <guid isPermaLink="false">713</guid>
- </item>
- <item>
-  <title>How much time do you spend on your competitor websites?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-much-time-do-you-spend-on-your-competitor-websites-c2de73a0cf</link>
-  <pubDate>Wed, 14 Dec 2022 14:14:00 -0800</pubDate>
-  <guid isPermaLink="false">712</guid>
- </item>
- <item>
-  <title>Please roast our BETA landing page before we relaunch and publicise it</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/please-roast-our-beta-landing-page-before-we-relaunch-and-publicise-it-74ed5651da</link>
-  <pubDate>Wed, 14 Dec 2022 13:30:00 -0800</pubDate>
-  <guid isPermaLink="false">623</guid>
- </item>
- <item>
-  <title>Tactical and motivational ideas you can try now to give you and your business a boost</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/tactical-and-motivational-ideas-you-can-try-now-to-give-you-and-your-business-a-boost-8b7de07bac</link>
-  <pubDate>Wed, 14 Dec 2022 09:46:00 -0800</pubDate>
-  <guid isPermaLink="false">629</guid>
- </item>
- <item>
-  <title>Read this if Reddit isn't working for you</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/read-this-if-reddit-isnt-working-for-you-b285d1de6d</link>
-  <pubDate>Wed, 14 Dec 2022 09:22:00 -0800</pubDate>
-  <guid isPermaLink="false">634</guid>
- </item>
- <item>
-  <title>As an Indie Hacker, are you intending on working over the holiday period?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/as-an-indie-hacker-are-you-intending-on-working-over-the-holiday-period-e3faed666e</link>
-  <pubDate>Wed, 14 Dec 2022 09:13:00 -0800</pubDate>
-  <guid isPermaLink="false">630</guid>
- </item>
- <item>
-  <title>Design for developers</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/design-for-developers-ff663fd7be</link>
-  <pubDate>Wed, 14 Dec 2022 05:33:00 -0800</pubDate>
-  <guid isPermaLink="false">633</guid>
- </item>
- <item>
-  <title>How to use AppSumo Launch to boost your business with social proof</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-to-use-appsumo-launch-to-boost-your-business-with-social-proof-1fd2784728</link>
-  <pubDate>Wed, 14 Dec 2022 01:26:00 -0800</pubDate>
-  <guid isPermaLink="false">637</guid>
- </item>
- <item>
-  <title>What will be your preferred stack to build and support a subscription based community? Landing + membership + forum/discussion + job board</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/what-will-be-your-preferred-stack-to-build-and-support-a-subscription-based-community-landing-membership-forum-discussion-job-board-0636574797</link>
-  <pubDate>Tue, 13 Dec 2022 21:53:00 -0800</pubDate>
-  <guid isPermaLink="false">635</guid>
- </item>
- <item>
-  <title>A productivity Newsletter experiment learnings: 0 to 50+ subs with Reddit</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/a-productivity-newsletter-experiment-learnings-0-to-50-subs-with-reddit-5b347424bd</link>
-  <pubDate>Tue, 13 Dec 2022 20:55:00 -0800</pubDate>
-  <guid isPermaLink="false">631</guid>
- </item>
- <item>
-  <title>How will you optimize your startup during the recession? 📉</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-will-you-optimize-your-startup-during-the-recession-03a8e67d76</link>
-  <pubDate>Tue, 13 Dec 2022 18:49:00 -0800</pubDate>
-  <guid isPermaLink="false">628</guid>
  </item>
 
 </channel>

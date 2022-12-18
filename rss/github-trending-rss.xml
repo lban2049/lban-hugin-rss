@@ -8,9 +8,93 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 17 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Sat, 17 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sun, 18 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 18 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>wbthomason / packer.nvim</title>
+  <description>A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config</description>
+  <link>https://github.com/wbthomason/packer.nvim</link>
+  <guid isPermaLink="false">771</guid>
+  <pubDate>Sun, 18 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>xiaoxian521 / vue-pure-admin</title>
+  <description>🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）</description>
+  <link>https://github.com/xiaoxian521/vue-pure-admin</link>
+  <guid isPermaLink="false">770</guid>
+  <pubDate>Sun, 18 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>CorwinDev / Discord-Bot</title>
+  <description>Discord Bot with over 400 commands and made for large servers</description>
+  <link>https://github.com/CorwinDev/Discord-Bot</link>
+  <guid isPermaLink="false">769</guid>
+  <pubDate>Sun, 18 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>codecrafters-io / build-your-own-x</title>
+  <description>Master programming by recreating your favorite technologies from scratch.</description>
+  <link>https://github.com/codecrafters-io/build-your-own-x</link>
+  <guid isPermaLink="false">768</guid>
+  <pubDate>Sun, 18 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>Developer-Y / cs-video-courses</title>
+  <description>List of Computer Science courses with video lectures.</description>
+  <link>https://github.com/Developer-Y/cs-video-courses</link>
+  <guid isPermaLink="false">767</guid>
+  <pubDate>Sun, 18 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>neovim / neovim</title>
+  <description>Vim-fork focused on extensibility and usability</description>
+  <link>https://github.com/neovim/neovim</link>
+  <guid isPermaLink="false">766</guid>
+  <pubDate>Sun, 18 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>williamboman / mason.nvim</title>
+  <description>Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.</description>
+  <link>https://github.com/williamboman/mason.nvim</link>
+  <guid isPermaLink="false">765</guid>
+  <pubDate>Sun, 18 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>davidfowl / TodoApi</title>
+  <description>Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication</description>
+  <link>https://github.com/davidfowl/TodoApi</link>
+  <guid isPermaLink="false">764</guid>
+  <pubDate>Sun, 18 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>vishalxl / nostr_console</title>
+  <description>Nostr console is an open-source twitter-like social network, direct chat app and group chat all bundled into one program. Built on the decentralized Nostr protocol.</description>
+  <link>https://github.com/vishalxl/nostr_console</link>
+  <guid isPermaLink="false">763</guid>
+  <pubDate>Sun, 18 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>google / forma</title>
+  <description>An efficient vector-graphics renderer</description>
+  <link>https://github.com/google/forma</link>
+  <guid isPermaLink="false">762</guid>
+  <pubDate>Sun, 18 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>nvim-lua / kickstart.nvim</title>
+  <description>A launch point for your personal nvim configuration</description>
+  <link>https://github.com/nvim-lua/kickstart.nvim</link>
+  <guid isPermaLink="false">761</guid>
+  <pubDate>Sun, 18 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>cmdr2 / stable-diffusion-ui</title>
+  <description>Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.</description>
+  <link>https://github.com/cmdr2/stable-diffusion-ui</link>
+  <guid isPermaLink="false">760</guid>
+  <pubDate>Sun, 18 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
  <item>
   <title>mermaid-js / mermaid</title>
   <description>Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown</description>
@@ -206,90 +290,6 @@
   <link>https://github.com/microsoft/Web-Dev-For-Beginners</link>
   <guid isPermaLink="false">649</guid>
   <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>Samsar4 / Ethical-Hacking-Labs</title>
-  <description>Practical Ethical Hacking Labs 🗡🛡</description>
-  <link>https://github.com/Samsar4/Ethical-Hacking-Labs</link>
-  <guid isPermaLink="false">648</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>jlevy / the-art-of-command-line</title>
-  <description>Master the command line, in one page</description>
-  <link>https://github.com/jlevy/the-art-of-command-line</link>
-  <guid isPermaLink="false">647</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>sveltejs / kit</title>
-  <description>web development, streamlined</description>
-  <link>https://github.com/sveltejs/kit</link>
-  <guid isPermaLink="false">646</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>GrowingGit / GitHub-Chinese-Top-Charts</title>
-  <description>🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。</description>
-  <link>https://github.com/GrowingGit/GitHub-Chinese-Top-Charts</link>
-  <guid isPermaLink="false">645</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>Jxck-S / plane-notify</title>
-  <description>Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet</description>
-  <link>https://github.com/Jxck-S/plane-notify</link>
-  <guid isPermaLink="false">644</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>dudykr / stc</title>
-  <description>Speedy TypeScript type checker</description>
-  <link>https://github.com/dudykr/stc</link>
-  <guid isPermaLink="false">643</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>google / osv-scanner</title>
-  <description>Vulnerability scanner written in Go which uses the data provided by https://osv.dev</description>
-  <link>https://github.com/google/osv-scanner</link>
-  <guid isPermaLink="false">642</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:01 -0800</pubDate>
- </item>
- <item>
-  <title>vuejs / core</title>
-  <description>🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
-  <link>https://github.com/vuejs/core</link>
-  <guid isPermaLink="false">621</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>wesbos / pommade</title>
-  <description>A menu bar app to check your hair</description>
-  <link>https://github.com/wesbos/pommade</link>
-  <guid isPermaLink="false">620</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>alibaba / havenask</title>
-  <description></description>
-  <link>https://github.com/alibaba/havenask</link>
-  <guid isPermaLink="false">619</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>home-assistant / frontend</title>
-  <description>🍭 Frontend for Home Assistant</description>
-  <link>https://github.com/home-assistant/frontend</link>
-  <guid isPermaLink="false">618</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
- </item>
- <item>
-  <title>Azure / azure-quickstart-templates</title>
-  <description>Azure Quickstart Templates</description>
-  <link>https://github.com/Azure/azure-quickstart-templates</link>
-  <guid isPermaLink="false">617</guid>
-  <pubDate>Wed, 14 Dec 2022 22:43:09 -0800</pubDate>
  </item>
 
 </channel>

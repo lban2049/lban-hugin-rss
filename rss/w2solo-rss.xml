@@ -8,9 +8,23 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 17 Dec 2022 13:00:03 -0800</lastBuildDate>
- <pubDate>Sat, 17 Dec 2022 13:00:03 -0800</pubDate>
+ <lastBuildDate>Sun, 18 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 18 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>简约简历：一个小而美的简历制作网站</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3685</link>
+  <pubDate>Sun, 18 Dec 2022 04:09:31 -0800</pubDate>
+  <guid isPermaLink="false">795</guid>
+ </item>
+ <item>
+  <title>TinySnap：上线 2 个月收到 6 位数的收购报价，我们采访了产品背后的独立开发者</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3682</link>
+  <pubDate>Sat, 17 Dec 2022 23:54:53 -0800</pubDate>
+  <guid isPermaLink="false">794</guid>
+ </item>
  <item>
   <title>HuntsBot,将自由职业进行到底!</title>
   <description></description>
