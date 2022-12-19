@@ -8,9 +8,51 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 18 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Sun, 18 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Mon, 19 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 19 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>TinySnap：上线 2 个月收到 6 位数的收购报价，我们采访了产品背后的独立开发者</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3682</link>
+  <pubDate>Mon, 19 Dec 2022 03:46:03 -0800</pubDate>
+  <guid isPermaLink="false">842</guid>
+ </item>
+ <item>
+  <title>HuntsBot,将自由职业进行到底!</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3686</link>
+  <pubDate>Sun, 18 Dec 2022 22:07:01 -0800</pubDate>
+  <guid isPermaLink="false">843</guid>
+ </item>
+ <item>
+  <title>独立产品灵感周刊 DecoHack #042 - 白嫖微信读书无限卡</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3688</link>
+  <pubDate>Sun, 18 Dec 2022 22:05:36 -0800</pubDate>
+  <guid isPermaLink="false">844</guid>
+ </item>
+ <item>
+  <title>请问大家都是如何设计自己应用的 UI 的？是不是都是用 Figma？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3670</link>
+  <pubDate>Sun, 18 Dec 2022 17:36:53 -0800</pubDate>
+  <guid isPermaLink="false">845</guid>
+ </item>
+ <item>
+  <title>尝试业余独立开发一年半后</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3680</link>
+  <pubDate>Sun, 18 Dec 2022 17:33:02 -0800</pubDate>
+  <guid isPermaLink="false">846</guid>
+ </item>
+ <item>
+  <title>创业中遇到危机了怎么办？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3687</link>
+  <pubDate>Sun, 18 Dec 2022 16:56:49 -0800</pubDate>
+  <guid isPermaLink="false">847</guid>
+ </item>
  <item>
   <title>简约简历：一个小而美的简历制作网站</title>
   <description></description>
@@ -248,27 +290,6 @@
   <link>https://w2solo.com/topics/3666</link>
   <pubDate>Tue, 29 Nov 2022 13:02:20 -0800</pubDate>
   <guid isPermaLink="false">600</guid>
- </item>
- <item>
-  <title>独立产品灵感周刊 DecoHack #039 - 制作自己的音乐墙</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3665</link>
-  <pubDate>Sun, 27 Nov 2022 10:11:21 -0800</pubDate>
-  <guid isPermaLink="false">601</guid>
- </item>
- <item>
-  <title>Gentleflow Studio 新产品「透明衣橱」上线了。🎉</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3647</link>
-  <pubDate>Fri, 25 Nov 2022 12:34:10 -0800</pubDate>
-  <guid isPermaLink="false">602</guid>
- </item>
- <item>
-  <title>App 分享的前世今生（3）</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3567</link>
-  <pubDate>Mon, 07 Nov 2022 18:16:15 -0800</pubDate>
-  <guid isPermaLink="false">577</guid>
  </item>
 
 </channel>

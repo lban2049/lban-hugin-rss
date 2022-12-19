@@ -8,9 +8,93 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 18 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Sun, 18 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Mon, 19 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 19 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>LizardByte / Sunshine</title>
+  <description>Sunshine is a Gamestream host for Moonlight.</description>
+  <link>https://github.com/LizardByte/Sunshine</link>
+  <guid isPermaLink="false">818</guid>
+  <pubDate>Mon, 19 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>mastodon / mastodon-ios</title>
+  <description>Official iOS app for Mastodon</description>
+  <link>https://github.com/mastodon/mastodon-ios</link>
+  <guid isPermaLink="false">817</guid>
+  <pubDate>Mon, 19 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>adiwajshing / Baileys</title>
+  <description>Lightweight full-featured WhatsApp Web + Multi-Device API</description>
+  <link>https://github.com/adiwajshing/Baileys</link>
+  <guid isPermaLink="false">816</guid>
+  <pubDate>Mon, 19 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>dortania / OpenCore-Legacy-Patcher</title>
+  <description>Experience macOS just like before</description>
+  <link>https://github.com/dortania/OpenCore-Legacy-Patcher</link>
+  <guid isPermaLink="false">815</guid>
+  <pubDate>Mon, 19 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>ytdl-org / youtube-dl</title>
+  <description>Command-line program to download videos from YouTube.com and other video sites</description>
+  <link>https://github.com/ytdl-org/youtube-dl</link>
+  <guid isPermaLink="false">814</guid>
+  <pubDate>Mon, 19 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>libsdl-org / SDL</title>
+  <description>Simple Directmedia Layer</description>
+  <link>https://github.com/libsdl-org/SDL</link>
+  <guid isPermaLink="false">813</guid>
+  <pubDate>Mon, 19 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>yt-dlp / yt-dlp</title>
+  <description>A youtube-dl fork with additional features and fixes</description>
+  <link>https://github.com/yt-dlp/yt-dlp</link>
+  <guid isPermaLink="false">812</guid>
+  <pubDate>Mon, 19 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>LSPosed / MagiskOnWSALocal</title>
+  <description>Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)</description>
+  <link>https://github.com/LSPosed/MagiskOnWSALocal</link>
+  <guid isPermaLink="false">811</guid>
+  <pubDate>Mon, 19 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>usememos / memos</title>
+  <description>An open-source, self-hosted memo hub with knowledge management and socialization.</description>
+  <link>https://github.com/usememos/memos</link>
+  <guid isPermaLink="false">810</guid>
+  <pubDate>Mon, 19 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>DarkFlippers / unleashed-firmware</title>
+  <description>Flipper Zero Unleashed Firmware</description>
+  <link>https://github.com/DarkFlippers/unleashed-firmware</link>
+  <guid isPermaLink="false">809</guid>
+  <pubDate>Mon, 19 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>ax / apk.sh</title>
+  <description>apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.</description>
+  <link>https://github.com/ax/apk.sh</link>
+  <guid isPermaLink="false">808</guid>
+  <pubDate>Mon, 19 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>jassics / security-study-plan</title>
+  <description>Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...</description>
+  <link>https://github.com/jassics/security-study-plan</link>
+  <guid isPermaLink="false">807</guid>
+  <pubDate>Mon, 19 Dec 2022 09:00:05 -0800</pubDate>
+ </item>
  <item>
   <title>wbthomason / packer.nvim</title>
   <description>A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config</description>
@@ -206,90 +290,6 @@
   <link>https://github.com/mastodon/mastodon</link>
   <guid isPermaLink="false">715</guid>
   <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>jackMort / ChatGPT.nvim</title>
-  <description>Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.</description>
-  <link>https://github.com/jackMort/ChatGPT.nvim</link>
-  <guid isPermaLink="false">714</guid>
-  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>SoftwareBrothers / adminjs</title>
-  <description>AdminJS is an admin panel for apps written in node.js</description>
-  <link>https://github.com/SoftwareBrothers/adminjs</link>
-  <guid isPermaLink="false">659</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>kuchin / awesome-cto</title>
-  <description>A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups</description>
-  <link>https://github.com/kuchin/awesome-cto</link>
-  <guid isPermaLink="false">658</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / terminal</title>
-  <description>The new Windows Terminal and the original Windows console host, all in the same place!</description>
-  <link>https://github.com/microsoft/terminal</link>
-  <guid isPermaLink="false">657</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>forthespada / CS-Books</title>
-  <description>🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~</description>
-  <link>https://github.com/forthespada/CS-Books</link>
-  <guid isPermaLink="false">656</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>rocketseat-education / ignite-lab-nodejs</title>
-  <description>Microsserviço de notificações desenvolvido no Ignite Lab 04 de Node.js</description>
-  <link>https://github.com/rocketseat-education/ignite-lab-nodejs</link>
-  <guid isPermaLink="false">655</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>nostr-protocol / nostr</title>
-  <description>a truly censorship-resistant alternative to Twitter that has a chance of working</description>
-  <link>https://github.com/nostr-protocol/nostr</link>
-  <guid isPermaLink="false">654</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>nvm-sh / nvm</title>
-  <description>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</description>
-  <link>https://github.com/nvm-sh/nvm</link>
-  <guid isPermaLink="false">653</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>ossu / bioinformatics</title>
-  <description>🔬 Path to a free self-taught education in Bioinformatics!</description>
-  <link>https://github.com/ossu/bioinformatics</link>
-  <guid isPermaLink="false">652</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>coinspect / learn-evm-attacks</title>
-  <description>Learn &amp; Contribute on previously exploited vulnerabilities across several EVM projects.</description>
-  <link>https://github.com/coinspect/learn-evm-attacks</link>
-  <guid isPermaLink="false">651</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>skypilot-org / skypilot</title>
-  <description>SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.</description>
-  <link>https://github.com/skypilot-org/skypilot</link>
-  <guid isPermaLink="false">650</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / Web-Dev-For-Beginners</title>
-  <description>24 Lessons, 12 Weeks, Get Started as a Web Developer</description>
-  <link>https://github.com/microsoft/Web-Dev-For-Beginners</link>
-  <guid isPermaLink="false">649</guid>
-  <pubDate>Fri, 16 Dec 2022 09:00:02 -0800</pubDate>
  </item>
 
 </channel>
