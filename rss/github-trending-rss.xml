@@ -8,9 +8,114 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 19 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 19 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 20 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Tue, 20 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>moby / moby</title>
+  <description>Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</description>
+  <link>https://github.com/moby/moby</link>
+  <guid isPermaLink="false">878</guid>
+  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>abpframework / abp</title>
+  <description>Open Source Web Application Framework for ASP.NET Core</description>
+  <link>https://github.com/abpframework/abp</link>
+  <guid isPermaLink="false">877</guid>
+  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>zsyOAOA / DifFace</title>
+  <description>DifFace: Blind Face Restoration with Diffused Error Contraction (PyTorch)</description>
+  <link>https://github.com/zsyOAOA/DifFace</link>
+  <guid isPermaLink="false">876</guid>
+  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>sindresorhus / awesome</title>
+  <description>😎 Awesome lists about all kinds of interesting topics</description>
+  <link>https://github.com/sindresorhus/awesome</link>
+  <guid isPermaLink="false">875</guid>
+  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>ventoy / Ventoy</title>
+  <description>A new bootable USB solution.</description>
+  <link>https://github.com/ventoy/Ventoy</link>
+  <guid isPermaLink="false">874</guid>
+  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>public-apis / public-apis</title>
+  <description>A collective list of free APIs</description>
+  <link>https://github.com/public-apis/public-apis</link>
+  <guid isPermaLink="false">873</guid>
+  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>komodorio / helm-dashboard</title>
+  <description>The missing UI for Helm - visualize your releases</description>
+  <link>https://github.com/komodorio/helm-dashboard</link>
+  <guid isPermaLink="false">872</guid>
+  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>kamranahmedse / developer-roadmap</title>
+  <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
+  <link>https://github.com/kamranahmedse/developer-roadmap</link>
+  <guid isPermaLink="false">871</guid>
+  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>ranaroussi / yfinance</title>
+  <description>Download market data from Yahoo! Finance's API</description>
+  <link>https://github.com/ranaroussi/yfinance</link>
+  <guid isPermaLink="false">870</guid>
+  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>yangshun / tech-interview-handbook</title>
+  <description>💯 Curated coding interview preparation materials for busy software engineers</description>
+  <link>https://github.com/yangshun/tech-interview-handbook</link>
+  <guid isPermaLink="false">869</guid>
+  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>ripienaar / free-for-dev</title>
+  <description>A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev</description>
+  <link>https://github.com/ripienaar/free-for-dev</link>
+  <guid isPermaLink="false">868</guid>
+  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>jwasham / coding-interview-university</title>
+  <description>A complete computer science study plan to become a software engineer.</description>
+  <link>https://github.com/jwasham/coding-interview-university</link>
+  <guid isPermaLink="false">867</guid>
+  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>xiaoxian521 / vue-pure-admin</title>
+  <description>🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）</description>
+  <link>https://github.com/xiaoxian521/vue-pure-admin</link>
+  <guid isPermaLink="false">866</guid>
+  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>practical-tutorials / project-based-learning</title>
+  <description>Curated list of project-based tutorials</description>
+  <link>https://github.com/practical-tutorials/project-based-learning</link>
+  <guid isPermaLink="false">865</guid>
+  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>sundowndev / phoneinfoga</title>
+  <description>Information gathering framework for phone numbers</description>
+  <link>https://github.com/sundowndev/phoneinfoga</link>
+  <guid isPermaLink="false">864</guid>
+  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
  <item>
   <title>LizardByte / Sunshine</title>
   <description>Sunshine is a Gamestream host for Moonlight.</description>
@@ -184,111 +289,6 @@
   <description>Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown</description>
   <link>https://github.com/mermaid-js/mermaid</link>
   <guid isPermaLink="false">730</guid>
-  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>mxrch / GHunt</title>
-  <description>🕵️‍♂️ Offensive Google framework.</description>
-  <link>https://github.com/mxrch/GHunt</link>
-  <guid isPermaLink="false">729</guid>
-  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>chartjs / Chart.js</title>
-  <description>Simple HTML5 Charts using the &lt;canvas&gt; tag</description>
-  <link>https://github.com/chartjs/Chart.js</link>
-  <guid isPermaLink="false">728</guid>
-  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>jart / blink</title>
-  <description>tiniest x86-64-linux emulator</description>
-  <link>https://github.com/jart/blink</link>
-  <guid isPermaLink="false">727</guid>
-  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>andyzys / jd_seckill</title>
-  <description>京东秒杀商品抢购</description>
-  <link>https://github.com/andyzys/jd_seckill</link>
-  <guid isPermaLink="false">726</guid>
-  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>m1guelpf / plz-cli</title>
-  <description>Copilot for your terminal</description>
-  <link>https://github.com/m1guelpf/plz-cli</link>
-  <guid isPermaLink="false">725</guid>
-  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>atom / atom</title>
-  <description>The hackable text editor</description>
-  <link>https://github.com/atom/atom</link>
-  <guid isPermaLink="false">724</guid>
-  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>musescore / MuseScore</title>
-  <description>MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!</description>
-  <link>https://github.com/musescore/MuseScore</link>
-  <guid isPermaLink="false">723</guid>
-  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>openai / openai-cookbook</title>
-  <description>Examples and guides for using the OpenAI API</description>
-  <link>https://github.com/openai/openai-cookbook</link>
-  <guid isPermaLink="false">722</guid>
-  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>carson-katri / dream-textures</title>
-  <description>Stable Diffusion built-in to the Blender shader editor</description>
-  <link>https://github.com/carson-katri/dream-textures</link>
-  <guid isPermaLink="false">721</guid>
-  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>hmartiro / riffusion-inference</title>
-  <description>Stable diffusion for real-time music generation</description>
-  <link>https://github.com/hmartiro/riffusion-inference</link>
-  <guid isPermaLink="false">720</guid>
-  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>ThePrimeagen / init.lua</title>
-  <description></description>
-  <link>https://github.com/ThePrimeagen/init.lua</link>
-  <guid isPermaLink="false">719</guid>
-  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>hmartiro / riffusion-app</title>
-  <description>Stable diffusion for real-time music generation</description>
-  <link>https://github.com/hmartiro/riffusion-app</link>
-  <guid isPermaLink="false">718</guid>
-  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>krahets / hello-algo</title>
-  <description>《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书</description>
-  <link>https://github.com/krahets/hello-algo</link>
-  <guid isPermaLink="false">717</guid>
-  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>eryajf / chatgpt-dingtalk</title>
-  <description>ChatGPT机器人在钉钉群聊中交互</description>
-  <link>https://github.com/eryajf/chatgpt-dingtalk</link>
-  <guid isPermaLink="false">716</guid>
-  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>mastodon / mastodon</title>
-  <description>Your self-hosted, globally interconnected microblogging community</description>
-  <link>https://github.com/mastodon/mastodon</link>
-  <guid isPermaLink="false">715</guid>
   <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
  </item>
 

@@ -8,9 +8,23 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 19 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 19 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 20 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Tue, 20 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>小市 App【Android 版】</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3689</link>
+  <pubDate>Tue, 20 Dec 2022 02:34:59 -0800</pubDate>
+  <guid isPermaLink="false">901</guid>
+ </item>
+ <item>
+  <title>尝试业余独立开发一年半后</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3680</link>
+  <pubDate>Tue, 20 Dec 2022 00:48:11 -0800</pubDate>
+  <guid isPermaLink="false">902</guid>
+ </item>
  <item>
   <title>TinySnap：上线 2 个月收到 6 位数的收购报价，我们采访了产品背后的独立开发者</title>
   <description></description>
@@ -276,20 +290,6 @@
   <link>https://w2solo.com/topics/3671</link>
   <pubDate>Wed, 30 Nov 2022 21:10:03 -0800</pubDate>
   <guid isPermaLink="false">598</guid>
- </item>
- <item>
-  <title>产品发布 2 个多月后，我接到了收购意向，然后……</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3634</link>
-  <pubDate>Tue, 29 Nov 2022 18:12:44 -0800</pubDate>
-  <guid isPermaLink="false">599</guid>
- </item>
- <item>
-  <title>做独立开发的你们交社保公积金吗？？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3666</link>
-  <pubDate>Tue, 29 Nov 2022 13:02:20 -0800</pubDate>
-  <guid isPermaLink="false">600</guid>
  </item>
 
 </channel>
