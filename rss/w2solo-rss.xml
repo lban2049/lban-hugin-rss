@@ -8,9 +8,16 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 20 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Tue, 20 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Wed, 21 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Wed, 21 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>小市 App【Android 版】</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3689</link>
+  <pubDate>Tue, 20 Dec 2022 19:47:17 -0800</pubDate>
+  <guid isPermaLink="false">950</guid>
+ </item>
  <item>
   <title>小市 App【Android 版】</title>
   <description></description>
@@ -283,13 +290,6 @@
   <link>https://w2solo.com/topics/3642</link>
   <pubDate>Thu, 01 Dec 2022 01:15:56 -0800</pubDate>
   <guid isPermaLink="false">576</guid>
- </item>
- <item>
-  <title>一个 pm 在起名工具领域的探索</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3671</link>
-  <pubDate>Wed, 30 Nov 2022 21:10:03 -0800</pubDate>
-  <guid isPermaLink="false">598</guid>
  </item>
 
 </channel>

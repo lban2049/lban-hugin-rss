@@ -8,9 +8,128 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 20 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Tue, 20 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Wed, 21 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Wed, 21 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>answerdev / answer</title>
+  <description>An open-source knowledge-based community software. You can use it quickly to build Q&amp;A community for your products, customers, teams, and more.</description>
+  <link>https://github.com/answerdev/answer</link>
+  <guid isPermaLink="false">930</guid>
+  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>m-bain / whisperX</title>
+  <description>WhisperX: Timestamp-Accurate Automatic Speech Recognition.</description>
+  <link>https://github.com/m-bain/whisperX</link>
+  <guid isPermaLink="false">929</guid>
+  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>spantaleev / matrix-docker-ansible-deploy</title>
+  <description>🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker</description>
+  <link>https://github.com/spantaleev/matrix-docker-ansible-deploy</link>
+  <guid isPermaLink="false">928</guid>
+  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>mrdbourke / pytorch-deep-learning</title>
+  <description>Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.</description>
+  <link>https://github.com/mrdbourke/pytorch-deep-learning</link>
+  <guid isPermaLink="false">927</guid>
+  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>hashicorp / vault</title>
+  <description>A tool for secrets management, encryption as a service, and privileged access management</description>
+  <link>https://github.com/hashicorp/vault</link>
+  <guid isPermaLink="false">926</guid>
+  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>H4de5-7 / powershell-obfuscation</title>
+  <description>powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus</description>
+  <link>https://github.com/H4de5-7/powershell-obfuscation</link>
+  <guid isPermaLink="false">925</guid>
+  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>THUDM / CodeGeeX</title>
+  <description>CodeGeeX: An Open Multilingual Code Generation Model</description>
+  <link>https://github.com/THUDM/CodeGeeX</link>
+  <guid isPermaLink="false">924</guid>
+  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>visenger / awesome-mlops</title>
+  <description>A curated list of references for MLOps</description>
+  <link>https://github.com/visenger/awesome-mlops</link>
+  <guid isPermaLink="false">923</guid>
+  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>acantril / learn-cantrill-io-labs</title>
+  <description>Standard and Advanced Demos for learn.cantrill.io courses</description>
+  <link>https://github.com/acantril/learn-cantrill-io-labs</link>
+  <guid isPermaLink="false">922</guid>
+  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>project-chip / connectedhomeip</title>
+  <description>Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.</description>
+  <link>https://github.com/project-chip/connectedhomeip</link>
+  <guid isPermaLink="false">921</guid>
+  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>bazelbuild / bazel</title>
+  <description>a fast, scalable, multi-language and extensible build system</description>
+  <link>https://github.com/bazelbuild/bazel</link>
+  <guid isPermaLink="false">920</guid>
+  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>sczhou / CodeFormer</title>
+  <description>[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer</description>
+  <link>https://github.com/sczhou/CodeFormer</link>
+  <guid isPermaLink="false">919</guid>
+  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>facebook / zstd</title>
+  <description>Zstandard - Fast real-time compression algorithm</description>
+  <link>https://github.com/facebook/zstd</link>
+  <guid isPermaLink="false">918</guid>
+  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>terrastruct / d2</title>
+  <description>D2 is a modern diagram scripting language that turns text to diagrams.</description>
+  <link>https://github.com/terrastruct/d2</link>
+  <guid isPermaLink="false">917</guid>
+  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>adobe-research / custom-diffusion</title>
+  <description>Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion</description>
+  <link>https://github.com/adobe-research/custom-diffusion</link>
+  <guid isPermaLink="false">916</guid>
+  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>score-spec / spec</title>
+  <description>The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.</description>
+  <link>https://github.com/score-spec/spec</link>
+  <guid isPermaLink="false">915</guid>
+  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>pocketbase / pocketbase</title>
+  <description>Open Source realtime backend in 1 file</description>
+  <link>https://github.com/pocketbase/pocketbase</link>
+  <guid isPermaLink="false">914</guid>
+  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
+ </item>
  <item>
   <title>moby / moby</title>
   <description>Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</description>
@@ -171,125 +290,6 @@
   <link>https://github.com/LSPosed/MagiskOnWSALocal</link>
   <guid isPermaLink="false">811</guid>
   <pubDate>Mon, 19 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>usememos / memos</title>
-  <description>An open-source, self-hosted memo hub with knowledge management and socialization.</description>
-  <link>https://github.com/usememos/memos</link>
-  <guid isPermaLink="false">810</guid>
-  <pubDate>Mon, 19 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>DarkFlippers / unleashed-firmware</title>
-  <description>Flipper Zero Unleashed Firmware</description>
-  <link>https://github.com/DarkFlippers/unleashed-firmware</link>
-  <guid isPermaLink="false">809</guid>
-  <pubDate>Mon, 19 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>ax / apk.sh</title>
-  <description>apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.</description>
-  <link>https://github.com/ax/apk.sh</link>
-  <guid isPermaLink="false">808</guid>
-  <pubDate>Mon, 19 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>jassics / security-study-plan</title>
-  <description>Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...</description>
-  <link>https://github.com/jassics/security-study-plan</link>
-  <guid isPermaLink="false">807</guid>
-  <pubDate>Mon, 19 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>wbthomason / packer.nvim</title>
-  <description>A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config</description>
-  <link>https://github.com/wbthomason/packer.nvim</link>
-  <guid isPermaLink="false">771</guid>
-  <pubDate>Sun, 18 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>xiaoxian521 / vue-pure-admin</title>
-  <description>🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）</description>
-  <link>https://github.com/xiaoxian521/vue-pure-admin</link>
-  <guid isPermaLink="false">770</guid>
-  <pubDate>Sun, 18 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>CorwinDev / Discord-Bot</title>
-  <description>Discord Bot with over 400 commands and made for large servers</description>
-  <link>https://github.com/CorwinDev/Discord-Bot</link>
-  <guid isPermaLink="false">769</guid>
-  <pubDate>Sun, 18 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>codecrafters-io / build-your-own-x</title>
-  <description>Master programming by recreating your favorite technologies from scratch.</description>
-  <link>https://github.com/codecrafters-io/build-your-own-x</link>
-  <guid isPermaLink="false">768</guid>
-  <pubDate>Sun, 18 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>Developer-Y / cs-video-courses</title>
-  <description>List of Computer Science courses with video lectures.</description>
-  <link>https://github.com/Developer-Y/cs-video-courses</link>
-  <guid isPermaLink="false">767</guid>
-  <pubDate>Sun, 18 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>neovim / neovim</title>
-  <description>Vim-fork focused on extensibility and usability</description>
-  <link>https://github.com/neovim/neovim</link>
-  <guid isPermaLink="false">766</guid>
-  <pubDate>Sun, 18 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>williamboman / mason.nvim</title>
-  <description>Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.</description>
-  <link>https://github.com/williamboman/mason.nvim</link>
-  <guid isPermaLink="false">765</guid>
-  <pubDate>Sun, 18 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>davidfowl / TodoApi</title>
-  <description>Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication</description>
-  <link>https://github.com/davidfowl/TodoApi</link>
-  <guid isPermaLink="false">764</guid>
-  <pubDate>Sun, 18 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>vishalxl / nostr_console</title>
-  <description>Nostr console is an open-source twitter-like social network, direct chat app and group chat all bundled into one program. Built on the decentralized Nostr protocol.</description>
-  <link>https://github.com/vishalxl/nostr_console</link>
-  <guid isPermaLink="false">763</guid>
-  <pubDate>Sun, 18 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>google / forma</title>
-  <description>An efficient vector-graphics renderer</description>
-  <link>https://github.com/google/forma</link>
-  <guid isPermaLink="false">762</guid>
-  <pubDate>Sun, 18 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>nvim-lua / kickstart.nvim</title>
-  <description>A launch point for your personal nvim configuration</description>
-  <link>https://github.com/nvim-lua/kickstart.nvim</link>
-  <guid isPermaLink="false">761</guid>
-  <pubDate>Sun, 18 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>cmdr2 / stable-diffusion-ui</title>
-  <description>Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.</description>
-  <link>https://github.com/cmdr2/stable-diffusion-ui</link>
-  <guid isPermaLink="false">760</guid>
-  <pubDate>Sun, 18 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>mermaid-js / mermaid</title>
-  <description>Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown</description>
-  <link>https://github.com/mermaid-js/mermaid</link>
-  <guid isPermaLink="false">730</guid>
-  <pubDate>Sat, 17 Dec 2022 09:00:05 -0800</pubDate>
  </item>
 
 </channel>
