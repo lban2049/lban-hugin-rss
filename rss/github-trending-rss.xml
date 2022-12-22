@@ -8,9 +8,128 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 21 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Wed, 21 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Thu, 22 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Thu, 22 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>ReactiveX / RxSwift</title>
+  <description>Reactive Programming in Swift</description>
+  <link>https://github.com/ReactiveX/RxSwift</link>
+  <guid isPermaLink="false">982</guid>
+  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>certsocietegenerale / IRM</title>
+  <description>Incident Response Methodologies 2022</description>
+  <link>https://github.com/certsocietegenerale/IRM</link>
+  <guid isPermaLink="false">981</guid>
+  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>alpkeskin / mosint</title>
+  <description>An automated e-mail OSINT tool</description>
+  <link>https://github.com/alpkeskin/mosint</link>
+  <guid isPermaLink="false">980</guid>
+  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>open-telemetry / opentelemetry-js</title>
+  <description>OpenTelemetry JavaScript Client</description>
+  <link>https://github.com/open-telemetry/opentelemetry-js</link>
+  <guid isPermaLink="false">979</guid>
+  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>yaroslav-n / tweetGPT</title>
+  <description>TweetGPT is a chrome extension that generates tweets and replies using chatGPT</description>
+  <link>https://github.com/yaroslav-n/tweetGPT</link>
+  <guid isPermaLink="false">978</guid>
+  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>nocobase / nocobase</title>
+  <description>NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.</description>
+  <link>https://github.com/nocobase/nocobase</link>
+  <guid isPermaLink="false">977</guid>
+  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>aws / aws-sdk-go</title>
+  <description>AWS SDK for the Go programming language.</description>
+  <link>https://github.com/aws/aws-sdk-go</link>
+  <guid isPermaLink="false">976</guid>
+  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>golang / go</title>
+  <description>The Go programming language</description>
+  <link>https://github.com/golang/go</link>
+  <guid isPermaLink="false">975</guid>
+  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>Tikam02 / DevOps-Guide</title>
+  <description>DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.</description>
+  <link>https://github.com/Tikam02/DevOps-Guide</link>
+  <guid isPermaLink="false">974</guid>
+  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>BlackWatch0 / JDspyder</title>
+  <description>京东预约&amp;抢购脚本，可以自定义商品链接</description>
+  <link>https://github.com/BlackWatch0/JDspyder</link>
+  <guid isPermaLink="false">973</guid>
+  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>psf / black</title>
+  <description>The uncompromising Python code formatter</description>
+  <link>https://github.com/psf/black</link>
+  <guid isPermaLink="false">972</guid>
+  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>melonjs / melonJS</title>
+  <description>a fresh &amp; lightweight javascript game engine</description>
+  <link>https://github.com/melonjs/melonJS</link>
+  <guid isPermaLink="false">971</guid>
+  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>TanStack / router</title>
+  <description>🤖 Type-safe router w/ built-in caching &amp; URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular</description>
+  <link>https://github.com/TanStack/router</link>
+  <guid isPermaLink="false">970</guid>
+  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>folke / lazy.nvim</title>
+  <description>💤 A modern plugin manager for Neovim</description>
+  <link>https://github.com/folke/lazy.nvim</link>
+  <guid isPermaLink="false">969</guid>
+  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>illacloud / illa-builder</title>
+  <description>An open-source low-code Platform for Developers.</description>
+  <link>https://github.com/illacloud/illa-builder</link>
+  <guid isPermaLink="false">968</guid>
+  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>0xmaximus / Galaxy-Bugbounty-Checklist</title>
+  <description>Tips and Tutorials for Bug Bounty and also Penetration Tests.</description>
+  <link>https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist</link>
+  <guid isPermaLink="false">967</guid>
+  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>openai / point-e</title>
+  <description>Point cloud diffusion for 3D model synthesis</description>
+  <link>https://github.com/openai/point-e</link>
+  <guid isPermaLink="false">966</guid>
+  <pubDate>Thu, 22 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
  <item>
   <title>answerdev / answer</title>
   <description>An open-source knowledge-based community software. You can use it quickly to build Q&amp;A community for your products, customers, teams, and more.</description>
@@ -171,125 +290,6 @@
   <link>https://github.com/public-apis/public-apis</link>
   <guid isPermaLink="false">873</guid>
   <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>komodorio / helm-dashboard</title>
-  <description>The missing UI for Helm - visualize your releases</description>
-  <link>https://github.com/komodorio/helm-dashboard</link>
-  <guid isPermaLink="false">872</guid>
-  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>kamranahmedse / developer-roadmap</title>
-  <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
-  <link>https://github.com/kamranahmedse/developer-roadmap</link>
-  <guid isPermaLink="false">871</guid>
-  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>ranaroussi / yfinance</title>
-  <description>Download market data from Yahoo! Finance's API</description>
-  <link>https://github.com/ranaroussi/yfinance</link>
-  <guid isPermaLink="false">870</guid>
-  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>yangshun / tech-interview-handbook</title>
-  <description>💯 Curated coding interview preparation materials for busy software engineers</description>
-  <link>https://github.com/yangshun/tech-interview-handbook</link>
-  <guid isPermaLink="false">869</guid>
-  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>ripienaar / free-for-dev</title>
-  <description>A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev</description>
-  <link>https://github.com/ripienaar/free-for-dev</link>
-  <guid isPermaLink="false">868</guid>
-  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>jwasham / coding-interview-university</title>
-  <description>A complete computer science study plan to become a software engineer.</description>
-  <link>https://github.com/jwasham/coding-interview-university</link>
-  <guid isPermaLink="false">867</guid>
-  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>xiaoxian521 / vue-pure-admin</title>
-  <description>🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）</description>
-  <link>https://github.com/xiaoxian521/vue-pure-admin</link>
-  <guid isPermaLink="false">866</guid>
-  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>practical-tutorials / project-based-learning</title>
-  <description>Curated list of project-based tutorials</description>
-  <link>https://github.com/practical-tutorials/project-based-learning</link>
-  <guid isPermaLink="false">865</guid>
-  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>sundowndev / phoneinfoga</title>
-  <description>Information gathering framework for phone numbers</description>
-  <link>https://github.com/sundowndev/phoneinfoga</link>
-  <guid isPermaLink="false">864</guid>
-  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>LizardByte / Sunshine</title>
-  <description>Sunshine is a Gamestream host for Moonlight.</description>
-  <link>https://github.com/LizardByte/Sunshine</link>
-  <guid isPermaLink="false">818</guid>
-  <pubDate>Mon, 19 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>mastodon / mastodon-ios</title>
-  <description>Official iOS app for Mastodon</description>
-  <link>https://github.com/mastodon/mastodon-ios</link>
-  <guid isPermaLink="false">817</guid>
-  <pubDate>Mon, 19 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>adiwajshing / Baileys</title>
-  <description>Lightweight full-featured WhatsApp Web + Multi-Device API</description>
-  <link>https://github.com/adiwajshing/Baileys</link>
-  <guid isPermaLink="false">816</guid>
-  <pubDate>Mon, 19 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>dortania / OpenCore-Legacy-Patcher</title>
-  <description>Experience macOS just like before</description>
-  <link>https://github.com/dortania/OpenCore-Legacy-Patcher</link>
-  <guid isPermaLink="false">815</guid>
-  <pubDate>Mon, 19 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>ytdl-org / youtube-dl</title>
-  <description>Command-line program to download videos from YouTube.com and other video sites</description>
-  <link>https://github.com/ytdl-org/youtube-dl</link>
-  <guid isPermaLink="false">814</guid>
-  <pubDate>Mon, 19 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>libsdl-org / SDL</title>
-  <description>Simple Directmedia Layer</description>
-  <link>https://github.com/libsdl-org/SDL</link>
-  <guid isPermaLink="false">813</guid>
-  <pubDate>Mon, 19 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>yt-dlp / yt-dlp</title>
-  <description>A youtube-dl fork with additional features and fixes</description>
-  <link>https://github.com/yt-dlp/yt-dlp</link>
-  <guid isPermaLink="false">812</guid>
-  <pubDate>Mon, 19 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>LSPosed / MagiskOnWSALocal</title>
-  <description>Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)</description>
-  <link>https://github.com/LSPosed/MagiskOnWSALocal</link>
-  <guid isPermaLink="false">811</guid>
-  <pubDate>Mon, 19 Dec 2022 09:00:05 -0800</pubDate>
  </item>
 
 </channel>

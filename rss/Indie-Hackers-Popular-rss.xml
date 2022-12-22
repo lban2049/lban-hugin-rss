@@ -8,9 +8,37 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 21 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Wed, 21 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Thu, 22 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Thu, 22 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Why do indie hackers do it? Freedom? Money? Something else?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/why-do-indie-hackers-do-it-freedom-money-something-else-03484511b9</link>
+  <pubDate>Thu, 22 Dec 2022 15:34:00 -0800</pubDate>
+  <guid isPermaLink="false">1007</guid>
+ </item>
+ <item>
+  <title>How do I build a super-fast website from scratch?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-do-i-build-a-super-fast-website-from-scratch-007839e9a7</link>
+  <pubDate>Thu, 22 Dec 2022 10:34:00 -0800</pubDate>
+  <guid isPermaLink="false">1008</guid>
+ </item>
+ <item>
+  <title>What are your indie goals for 2023?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/what-are-your-indie-goals-for-2023-145261de60</link>
+  <pubDate>Thu, 22 Dec 2022 08:57:00 -0800</pubDate>
+  <guid isPermaLink="false">1005</guid>
+ </item>
+ <item>
+  <title>We spent 10 months building a product, scrapped it, built a new product in 3 weeks and helped an Independent artist raise $1000 in one day</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/we-spent-10-months-building-a-product-scrapped-it-built-a-new-product-in-3-weeks-and-helped-an-independent-artist-raise-1000-in-one-day-c0489bcba2</link>
+  <pubDate>Thu, 22 Dec 2022 04:05:00 -0800</pubDate>
+  <guid isPermaLink="false">1009</guid>
+ </item>
  <item>
   <title>17 products you can build with ChatGPT</title>
   <description></description>
@@ -19,11 +47,32 @@
   <guid isPermaLink="false">951</guid>
  </item>
  <item>
+  <title>How do you use Facebook as a SaaS business?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-do-you-use-facebook-as-a-saas-business-7b3f00b65a</link>
+  <pubDate>Wed, 21 Dec 2022 11:23:00 -0800</pubDate>
+  <guid isPermaLink="false">1010</guid>
+ </item>
+ <item>
+  <title>Newsletter sponsorship for info products - my experience</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/newsletter-sponsorship-for-info-products-my-experience-5ff620c1be</link>
+  <pubDate>Wed, 21 Dec 2022 11:07:00 -0800</pubDate>
+  <guid isPermaLink="false">1006</guid>
+ </item>
+ <item>
   <title>The era of Open Source is coming to an end?</title>
   <description></description>
   <link>https://www.indiehackers.com/post/the-era-of-open-source-is-coming-to-an-end-57558a1ed2</link>
   <pubDate>Wed, 21 Dec 2022 10:56:00 -0800</pubDate>
   <guid isPermaLink="false">957</guid>
+ </item>
+ <item>
+  <title>We got 36 qualified leads yesterday and 10 booked calls for January.</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/we-got-36-qualified-leads-yesterday-and-10-booked-calls-for-january-550df3fbe6</link>
+  <pubDate>Wed, 21 Dec 2022 10:01:00 -0800</pubDate>
+  <guid isPermaLink="false">1011</guid>
  </item>
  <item>
   <title>SaaS products today are worse than ever</title>
@@ -52,6 +101,13 @@
   <link>https://www.indiehackers.com/post/5-steps-to-turn-your-website-into-an-app-e85e507cc3</link>
   <pubDate>Wed, 21 Dec 2022 07:06:00 -0800</pubDate>
   <guid isPermaLink="false">956</guid>
+ </item>
+ <item>
+  <title>Podcast Platform</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/podcast-platform-0573d74473</link>
+  <pubDate>Wed, 21 Dec 2022 05:00:00 -0800</pubDate>
+  <guid isPermaLink="false">1012</guid>
  </item>
  <item>
   <title>Having an interactive demo on the home page is one of my product's favorite features</title>
@@ -180,6 +236,13 @@
   <guid isPermaLink="false">855</guid>
  </item>
  <item>
+  <title>What's your greatest superpower and biggest weakness?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/whats-your-greatest-superpower-and-biggest-weakness-2c444f4019</link>
+  <pubDate>Mon, 19 Dec 2022 13:49:00 -0800</pubDate>
+  <guid isPermaLink="false">1013</guid>
+ </item>
+ <item>
   <title>.xyz, .tech, .online, .website, Which one do you recommend? (Help!)</title>
   <description></description>
   <link>https://www.indiehackers.com/post/xyz-tech-online-website-which-one-do-you-recommend-help-2145dec177</link>
@@ -227,69 +290,6 @@
   <link>https://www.indiehackers.com/post/launching-a-startup-in-3-days-a-story-about-fighting-founder-procrastination-685fa39639</link>
   <pubDate>Mon, 19 Dec 2022 08:19:00 -0800</pubDate>
   <guid isPermaLink="false">850</guid>
- </item>
- <item>
-  <title>Which platform do you use to collect payments?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/which-platform-do-you-use-to-collect-payments-ba41985176</link>
-  <pubDate>Mon, 19 Dec 2022 07:48:00 -0800</pubDate>
-  <guid isPermaLink="false">859</guid>
- </item>
- <item>
-  <title>Concerns about legal/GRPD stuff (EU)</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/concerns-about-legal-grpd-stuff-eu-6eb5906fac</link>
-  <pubDate>Sun, 18 Dec 2022 21:35:00 -0800</pubDate>
-  <guid isPermaLink="false">862</guid>
- </item>
- <item>
-  <title>Is moving from Gumroad a smart idea?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/is-moving-from-gumroad-a-smart-idea-3d4c1a3d4b</link>
-  <pubDate>Sun, 18 Dec 2022 21:08:00 -0800</pubDate>
-  <guid isPermaLink="false">856</guid>
- </item>
- <item>
-  <title>Twitter Updated Policy and Bans Link In Bio Sites</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/twitter-updated-policy-and-bans-link-in-bio-sites-5a4e50668a</link>
-  <pubDate>Sun, 18 Dec 2022 20:00:00 -0800</pubDate>
-  <guid isPermaLink="false">913</guid>
- </item>
- <item>
-  <title>Deciding tools to use...</title>
-  <description></description>
-  <link>https://www.indiehackers.com/product/saas-library/deciding-tools-to-use--NJal9odGBRgwT9PMIP7</link>
-  <pubDate>Sun, 18 Dec 2022 19:45:00 -0800</pubDate>
-  <guid isPermaLink="false">858</guid>
- </item>
- <item>
-  <title>Getting from an idea to a paid user in 1 week - ViralViews</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/getting-from-an-idea-to-a-paid-user-in-1-week-viralviews-4b59039ab5</link>
-  <pubDate>Sun, 18 Dec 2022 15:24:00 -0800</pubDate>
-  <guid isPermaLink="false">854</guid>
- </item>
- <item>
-  <title>I am 0 or I am 1: A founder’s mental health journey</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/i-am-0-or-i-am-1-a-founder-s-mental-health-journey-d4d6950bd4</link>
-  <pubDate>Sun, 18 Dec 2022 09:36:00 -0800</pubDate>
-  <guid isPermaLink="false">853</guid>
- </item>
- <item>
-  <title>You probably shouldn't work at a startup</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/you-probably-shouldnt-work-at-a-startup-df89b06da8</link>
-  <pubDate>Sun, 18 Dec 2022 09:33:00 -0800</pubDate>
-  <guid isPermaLink="false">798</guid>
- </item>
- <item>
-  <title>Gumroad price change is a huge disappointment for thousands of builders.</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/gumroad-price-change-is-a-huge-disappointment-for-thousands-of-builders-b6587015b5</link>
-  <pubDate>Sun, 18 Dec 2022 04:59:00 -0800</pubDate>
-  <guid isPermaLink="false">796</guid>
  </item>
 
 </channel>

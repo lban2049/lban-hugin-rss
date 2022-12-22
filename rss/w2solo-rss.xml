@@ -8,9 +8,30 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 21 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Wed, 21 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Thu, 22 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Thu, 22 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>不上班的 1000 天，程序员自由职业 B 计划 - 做什么/收入/经验教训</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3690</link>
+  <pubDate>Wed, 21 Dec 2022 20:24:25 -0800</pubDate>
+  <guid isPermaLink="false">1002</guid>
+ </item>
+ <item>
+  <title>文案语录类 APP，有兴趣的朋友欢迎来体验使用!</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3669</link>
+  <pubDate>Wed, 21 Dec 2022 19:43:19 -0800</pubDate>
+  <guid isPermaLink="false">1003</guid>
+ </item>
+ <item>
+  <title>😊迟到的自我介绍以及回顾和总结下做出海产品的这几年~</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3667</link>
+  <pubDate>Wed, 21 Dec 2022 19:30:19 -0800</pubDate>
+  <guid isPermaLink="false">1004</guid>
+ </item>
  <item>
   <title>小市 App【Android 版】</title>
   <description></description>
@@ -269,27 +290,6 @@
   <link>https://w2solo.com/topics/3658</link>
   <pubDate>Fri, 02 Dec 2022 23:26:42 -0800</pubDate>
   <guid isPermaLink="false">595</guid>
- </item>
- <item>
-  <title>关于 iOS 开发者账号申请的一些经验分享</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3668</link>
-  <pubDate>Thu, 01 Dec 2022 17:18:50 -0800</pubDate>
-  <guid isPermaLink="false">596</guid>
- </item>
- <item>
-  <title>请问大家都是如何设计自己应用的 UI 的？是不是都是用 Figma？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3670</link>
-  <pubDate>Thu, 01 Dec 2022 06:54:32 -0800</pubDate>
-  <guid isPermaLink="false">597</guid>
- </item>
- <item>
-  <title>社区用户的访谈工作征集志愿者</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3642</link>
-  <pubDate>Thu, 01 Dec 2022 01:15:56 -0800</pubDate>
-  <guid isPermaLink="false">576</guid>
  </item>
 
 </channel>
