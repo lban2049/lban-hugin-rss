@@ -8,9 +8,128 @@
  <title>v2ex creating RSS</title>
  <description>v2ex creating RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 22 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Thu, 22 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Fri, 23 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 23 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>花了两个多月做了一个 V 站客户端- AwesomeV2ex，不仅好看而且功能很齐全，已上架 AppStore</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904226#reply84</link>
+  <pubDate>Fri, 23 Dec 2022 08:51:39 -0800</pubDate>
+  <guid isPermaLink="false">1030</guid>
+ </item>
+ <item>
+  <title>介绍一下自己写的开源音乐服务「知了」</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904197#reply33</link>
+  <pubDate>Fri, 23 Dec 2022 08:18:08 -0800</pubDate>
+  <guid isPermaLink="false">1035</guid>
+ </item>
+ <item>
+  <title>做一个程序员面试题分享的网站能行么</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904292#reply12</link>
+  <pubDate>Fri, 23 Dec 2022 06:26:17 -0800</pubDate>
+  <guid isPermaLink="false">1031</guid>
+ </item>
+ <item>
+  <title>PixAI 上架了，一个使用 AI 超分辨率图片的应用</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904238#reply30</link>
+  <pubDate>Fri, 23 Dec 2022 06:21:21 -0800</pubDate>
+  <guid isPermaLink="false">1032</guid>
+ </item>
+ <item>
+  <title>Dawn Launcher：业余时间做的 Windows 快捷启动工具</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904320#reply3</link>
+  <pubDate>Fri, 23 Dec 2022 06:16:44 -0800</pubDate>
+  <guid isPermaLink="false">1033</guid>
+ </item>
+ <item>
+  <title>计划做一个集合各大高校教务查询的小程序有意者联系</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904288#reply36</link>
+  <pubDate>Fri, 23 Dec 2022 06:14:38 -0800</pubDate>
+  <guid isPermaLink="false">1037</guid>
+ </item>
+ <item>
+  <title>周刊，我的创作新尝试</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/903318#reply4</link>
+  <pubDate>Fri, 23 Dec 2022 03:23:04 -0800</pubDate>
+  <guid isPermaLink="false">1043</guid>
+ </item>
+ <item>
+  <title>写个了资讯聚合网站，从想法到实现花了一个星期</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/903081#reply23</link>
+  <pubDate>Fri, 23 Dec 2022 03:19:43 -0800</pubDate>
+  <guid isPermaLink="false">1042</guid>
+ </item>
+ <item>
+  <title>V 友们一起来收集精品小程序\小游戏 [程序盒]</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904271#reply1</link>
+  <pubDate>Fri, 23 Dec 2022 00:29:21 -0800</pubDate>
+  <guid isPermaLink="false">1034</guid>
+ </item>
+ <item>
+  <title>搭建专属于你的消息推送服务</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/903661#reply26</link>
+  <pubDate>Fri, 23 Dec 2022 00:26:57 -0800</pubDate>
+  <guid isPermaLink="false">1041</guid>
+ </item>
+ <item>
+  <title>改了一份防噪声倡议的海报，准备贴在小区内， v 友们有无补充</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904170#reply19</link>
+  <pubDate>Thu, 22 Dec 2022 22:56:46 -0800</pubDate>
+  <guid isPermaLink="false">1036</guid>
+ </item>
+ <item>
+  <title>鉴于目前新冠传播状态，做了个记录羊的小程序</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/903664#reply20</link>
+  <pubDate>Thu, 22 Dec 2022 22:21:30 -0800</pubDate>
+  <guid isPermaLink="false">1040</guid>
+ </item>
+ <item>
+  <title>🎁 [送码活动] 瓦尔登 UI 2.0 邀请大家内测</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904060#reply60</link>
+  <pubDate>Thu, 22 Dec 2022 22:21:14 -0800</pubDate>
+  <guid isPermaLink="false">1039</guid>
+ </item>
+ <item>
+  <title>「人物志」网站重新上线了！</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904084#reply29</link>
+  <pubDate>Thu, 22 Dec 2022 22:14:44 -0800</pubDate>
+  <guid isPermaLink="false">1038</guid>
+ </item>
+ <item>
+  <title>做了个网盘搜索</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/903779#reply4</link>
+  <pubDate>Thu, 22 Dec 2022 18:10:19 -0800</pubDate>
+  <guid isPermaLink="false">1044</guid>
+ </item>
+ <item>
+  <title>A1Blocker 隐藏 iOS 上的 App 来保护你的隐私 (版本 1.5.0 发布+送码)</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/900941#reply364</link>
+  <pubDate>Thu, 22 Dec 2022 13:50:20 -0800</pubDate>
+  <guid isPermaLink="false">1046</guid>
+ </item>
+ <item>
+  <title>摸了一个使用 clash-meta 内核的客户端，基于 C#/Avalonia，提供 Windows/ Linux</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902828#reply14</link>
+  <pubDate>Thu, 22 Dec 2022 11:48:05 -0800</pubDate>
+  <guid isPermaLink="false">1045</guid>
+ </item>
  <item>
   <title>介绍一下自己写的开源音乐服务「知了」</title>
   <description></description>
@@ -171,125 +290,6 @@
   <link>https://www.v2ex.com/t/903767#reply37</link>
   <pubDate>Wed, 21 Dec 2022 05:30:45 -0800</pubDate>
   <guid isPermaLink="false">935</guid>
- </item>
- <item>
-  <title>iPic 支持上传图片或文件至 Backblaze B2 云存储</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/903452#reply11</link>
-  <pubDate>Wed, 21 Dec 2022 05:05:04 -0800</pubDate>
-  <guid isPermaLink="false">938</guid>
- </item>
- <item>
-  <title>鉴于目前新冠传播状态，做了个记录羊的小程序</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/903664#reply9</link>
-  <pubDate>Wed, 21 Dec 2022 04:34:24 -0800</pubDate>
-  <guid isPermaLink="false">939</guid>
- </item>
- <item>
-  <title>做了个网盘搜索</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/903779#reply2</link>
-  <pubDate>Wed, 21 Dec 2022 03:43:46 -0800</pubDate>
-  <guid isPermaLink="false">942</guid>
- </item>
- <item>
-  <title>老古董 iPhone 6s plus 被国产 APP 吊打</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/903055#reply15</link>
-  <pubDate>Wed, 21 Dec 2022 01:59:33 -0800</pubDate>
-  <guid isPermaLink="false">948</guid>
- </item>
- <item>
-  <title>利用催眠技巧绕开 OpenAI 的内容政策限制（仅供研究使用）</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/902377#reply115</link>
-  <pubDate>Wed, 21 Dec 2022 01:31:15 -0800</pubDate>
-  <guid isPermaLink="false">947</guid>
- </item>
- <item>
-  <title>码宗，以码会友！道友不来看看？</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/903377#reply3</link>
-  <pubDate>Wed, 21 Dec 2022 00:41:43 -0800</pubDate>
-  <guid isPermaLink="false">943</guid>
- </item>
- <item>
-  <title>dev.com.cn 征集中文名称</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/902635#reply191</link>
-  <pubDate>Wed, 21 Dec 2022 00:25:51 -0800</pubDate>
-  <guid isPermaLink="false">932</guid>
- </item>
- <item>
-  <title>[iOS]标签记账 v1.4 UI 更新+功能完善 可用度进一步增加</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/903247#reply14</link>
-  <pubDate>Wed, 21 Dec 2022 00:19:26 -0800</pubDate>
-  <guid isPermaLink="false">944</guid>
- </item>
- <item>
-  <title>异想天开一下，假如有 covid 的传播速度+hiv 的攻击力，附维基百科大流行病毒排行榜图</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/903589#reply28</link>
-  <pubDate>Tue, 20 Dec 2022 23:55:20 -0800</pubDate>
-  <guid isPermaLink="false">940</guid>
- </item>
- <item>
-  <title>FeelUOwn，一款开发了 8 年的音乐播放器</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/903258#reply10</link>
-  <pubDate>Tue, 20 Dec 2022 23:39:30 -0800</pubDate>
-  <guid isPermaLink="false">945</guid>
- </item>
- <item>
-  <title>脑洞大开， ai 能通过观看现存的李小龙视频生成更多打斗画面吗？</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/903204#reply5</link>
-  <pubDate>Tue, 20 Dec 2022 23:09:52 -0800</pubDate>
-  <guid isPermaLink="false">946</guid>
- </item>
- <item>
-  <title>Rath：开源的自动化数据分析与可视化工具，包含全自动数据探索、数据绘板、因果推断等功能</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/903763#reply5</link>
-  <pubDate>Tue, 20 Dec 2022 22:21:32 -0800</pubDate>
-  <guid isPermaLink="false">937</guid>
- </item>
- <item>
-  <title>顶瓜瓜 App，让老父亲来提醒你的坐姿</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/902758#reply14</link>
-  <pubDate>Tue, 20 Dec 2022 20:48:03 -0800</pubDate>
-  <guid isPermaLink="false">949</guid>
- </item>
- <item>
-  <title>花了三个月的时间，写了个关于 Vue3 技术解密的小册，附赠 100 个五折码！</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/903574#reply4</link>
-  <pubDate>Tue, 20 Dec 2022 18:53:37 -0800</pubDate>
-  <guid isPermaLink="false">934</guid>
- </item>
- <item>
-  <title>我刚写的口算题打印，有打印机的可直接打印给小朋友练习。</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/903462#reply10</link>
-  <pubDate>Tue, 20 Dec 2022 17:46:51 -0800</pubDate>
-  <guid isPermaLink="false">941</guid>
- </item>
- <item>
-  <title>码宗，以码会友！道友不来看看？</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/903377#reply1</link>
-  <pubDate>Tue, 20 Dec 2022 08:27:54 -0800</pubDate>
-  <guid isPermaLink="false">898</guid>
- </item>
- <item>
-  <title>有没有可能，咱们连防飞沫都没做到呢？</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/903777#reply15</link>
-  <pubDate>Tue, 20 Dec 2022 07:56:52 -0800</pubDate>
-  <guid isPermaLink="false">881</guid>
  </item>
 
 </channel>

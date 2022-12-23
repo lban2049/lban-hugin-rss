@@ -8,9 +8,121 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 22 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Thu, 22 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Fri, 23 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 23 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Azure / azure-rest-api-specs</title>
+  <description>The source for REST API specifications for Microsoft Azure.</description>
+  <link>https://github.com/Azure/azure-rest-api-specs</link>
+  <guid isPermaLink="false">1029</guid>
+  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>PhilJay / MPAndroidChart</title>
+  <description>A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.</description>
+  <link>https://github.com/PhilJay/MPAndroidChart</link>
+  <guid isPermaLink="false">1028</guid>
+  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>mouredev / Hello-Python</title>
+  <description>Python desde cero</description>
+  <link>https://github.com/mouredev/Hello-Python</link>
+  <guid isPermaLink="false">1027</guid>
+  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>go-playground / validator</title>
+  <description>💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</description>
+  <link>https://github.com/go-playground/validator</link>
+  <guid isPermaLink="false">1026</guid>
+  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>MichaelCade / 90DaysOfDevOps</title>
+  <description>This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.</description>
+  <link>https://github.com/MichaelCade/90DaysOfDevOps</link>
+  <guid isPermaLink="false">1025</guid>
+  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>m-bain / whisperX</title>
+  <description>WhisperX: Automatic Speech Recognition with Accurate Word-level Timestamps.</description>
+  <link>https://github.com/m-bain/whisperX</link>
+  <guid isPermaLink="false">1024</guid>
+  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>JhumanJ / OpnForm</title>
+  <description>Simple and open-source form builder</description>
+  <link>https://github.com/JhumanJ/OpnForm</link>
+  <guid isPermaLink="false">1023</guid>
+  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>intel / neural-compressor</title>
+  <description>Intel® Neural Compressor (formerly known as Intel® Low Precision Optimization Tool), targeting to provide unified APIs for network compression technologies, such as low precision quantization, sparsity, pruning, knowledge distillation, across different deep learning frameworks to pursue optimal inference performance.</description>
+  <link>https://github.com/intel/neural-compressor</link>
+  <guid isPermaLink="false">1022</guid>
+  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>flutter / flutter</title>
+  <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
+  <link>https://github.com/flutter/flutter</link>
+  <guid isPermaLink="false">1021</guid>
+  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>facebookresearch / metaseq</title>
+  <description>Repo for external large-scale work</description>
+  <link>https://github.com/facebookresearch/metaseq</link>
+  <guid isPermaLink="false">1020</guid>
+  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>prowler-cloud / prowler</title>
+  <description>Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.</description>
+  <link>https://github.com/prowler-cloud/prowler</link>
+  <guid isPermaLink="false">1019</guid>
+  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>DataDog / go-profiler-notes</title>
+  <description>felixge's notes on the various go profiling methods that are available.</description>
+  <link>https://github.com/DataDog/go-profiler-notes</link>
+  <guid isPermaLink="false">1018</guid>
+  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>AbdullahAlfaraj / Auto-Photoshop-StableDiffusion-Plugin</title>
+  <description>A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.</description>
+  <link>https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin</link>
+  <guid isPermaLink="false">1017</guid>
+  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>YanG-1989 / m3u</title>
+  <description></description>
+  <link>https://github.com/YanG-1989/m3u</link>
+  <guid isPermaLink="false">1016</guid>
+  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>CVCUDA / CV-CUDA</title>
+  <description>CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.</description>
+  <link>https://github.com/CVCUDA/CV-CUDA</link>
+  <guid isPermaLink="false">1015</guid>
+  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>mprimi / portable-secret</title>
+  <description>Better privacy without special software</description>
+  <link>https://github.com/mprimi/portable-secret</link>
+  <guid isPermaLink="false">1014</guid>
+  <pubDate>Fri, 23 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
  <item>
   <title>ReactiveX / RxSwift</title>
   <description>Reactive Programming in Swift</description>
@@ -178,118 +290,6 @@
   <link>https://github.com/THUDM/CodeGeeX</link>
   <guid isPermaLink="false">924</guid>
   <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>visenger / awesome-mlops</title>
-  <description>A curated list of references for MLOps</description>
-  <link>https://github.com/visenger/awesome-mlops</link>
-  <guid isPermaLink="false">923</guid>
-  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>acantril / learn-cantrill-io-labs</title>
-  <description>Standard and Advanced Demos for learn.cantrill.io courses</description>
-  <link>https://github.com/acantril/learn-cantrill-io-labs</link>
-  <guid isPermaLink="false">922</guid>
-  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>project-chip / connectedhomeip</title>
-  <description>Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.</description>
-  <link>https://github.com/project-chip/connectedhomeip</link>
-  <guid isPermaLink="false">921</guid>
-  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>bazelbuild / bazel</title>
-  <description>a fast, scalable, multi-language and extensible build system</description>
-  <link>https://github.com/bazelbuild/bazel</link>
-  <guid isPermaLink="false">920</guid>
-  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>sczhou / CodeFormer</title>
-  <description>[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer</description>
-  <link>https://github.com/sczhou/CodeFormer</link>
-  <guid isPermaLink="false">919</guid>
-  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>facebook / zstd</title>
-  <description>Zstandard - Fast real-time compression algorithm</description>
-  <link>https://github.com/facebook/zstd</link>
-  <guid isPermaLink="false">918</guid>
-  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>terrastruct / d2</title>
-  <description>D2 is a modern diagram scripting language that turns text to diagrams.</description>
-  <link>https://github.com/terrastruct/d2</link>
-  <guid isPermaLink="false">917</guid>
-  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>adobe-research / custom-diffusion</title>
-  <description>Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion</description>
-  <link>https://github.com/adobe-research/custom-diffusion</link>
-  <guid isPermaLink="false">916</guid>
-  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>score-spec / spec</title>
-  <description>The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.</description>
-  <link>https://github.com/score-spec/spec</link>
-  <guid isPermaLink="false">915</guid>
-  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>pocketbase / pocketbase</title>
-  <description>Open Source realtime backend in 1 file</description>
-  <link>https://github.com/pocketbase/pocketbase</link>
-  <guid isPermaLink="false">914</guid>
-  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>moby / moby</title>
-  <description>Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</description>
-  <link>https://github.com/moby/moby</link>
-  <guid isPermaLink="false">878</guid>
-  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>abpframework / abp</title>
-  <description>Open Source Web Application Framework for ASP.NET Core</description>
-  <link>https://github.com/abpframework/abp</link>
-  <guid isPermaLink="false">877</guid>
-  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>zsyOAOA / DifFace</title>
-  <description>DifFace: Blind Face Restoration with Diffused Error Contraction (PyTorch)</description>
-  <link>https://github.com/zsyOAOA/DifFace</link>
-  <guid isPermaLink="false">876</guid>
-  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>sindresorhus / awesome</title>
-  <description>😎 Awesome lists about all kinds of interesting topics</description>
-  <link>https://github.com/sindresorhus/awesome</link>
-  <guid isPermaLink="false">875</guid>
-  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>ventoy / Ventoy</title>
-  <description>A new bootable USB solution.</description>
-  <link>https://github.com/ventoy/Ventoy</link>
-  <guid isPermaLink="false">874</guid>
-  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>public-apis / public-apis</title>
-  <description>A collective list of free APIs</description>
-  <link>https://github.com/public-apis/public-apis</link>
-  <guid isPermaLink="false">873</guid>
-  <pubDate>Tue, 20 Dec 2022 09:00:02 -0800</pubDate>
  </item>
 
 </channel>
