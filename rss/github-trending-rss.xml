@@ -8,9 +8,86 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 23 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Fri, 23 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sat, 24 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sat, 24 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>recloudstream / cloudstream</title>
+  <description>Android app for streaming and downloading Movies, TV-Series and Anime.</description>
+  <link>https://github.com/recloudstream/cloudstream</link>
+  <guid isPermaLink="false">1069</guid>
+  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>kentcdodds / react-fundamentals</title>
+  <description>Material for my React Fundamentals Workshop</description>
+  <link>https://github.com/kentcdodds/react-fundamentals</link>
+  <guid isPermaLink="false">1068</guid>
+  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>huggingface / diffusion-models-class</title>
+  <description>Materials for the Hugging Face Diffusion Models Course</description>
+  <link>https://github.com/huggingface/diffusion-models-class</link>
+  <guid isPermaLink="false">1067</guid>
+  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>Genymobile / scrcpy</title>
+  <description>Display and control your Android device</description>
+  <link>https://github.com/Genymobile/scrcpy</link>
+  <guid isPermaLink="false">1066</guid>
+  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / X-Decoder</title>
+  <description>Official Implementation of X-Decoder for generalized decoding for pixel, image and language</description>
+  <link>https://github.com/microsoft/X-Decoder</link>
+  <guid isPermaLink="false">1065</guid>
+  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>lucidrains / PaLM-rlhf-pytorch</title>
+  <description>Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM</description>
+  <link>https://github.com/lucidrains/PaLM-rlhf-pytorch</link>
+  <guid isPermaLink="false">1064</guid>
+  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>kovidgoyal / kitty</title>
+  <description>Cross-platform, fast, feature-rich, GPU based terminal</description>
+  <link>https://github.com/kovidgoyal/kitty</link>
+  <guid isPermaLink="false">1063</guid>
+  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>TapXWorld / Math</title>
+  <description>人教版小学到大学数学</description>
+  <link>https://github.com/TapXWorld/Math</link>
+  <guid isPermaLink="false">1062</guid>
+  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>dotnet / maui</title>
+  <description>.NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.</description>
+  <link>https://github.com/dotnet/maui</link>
+  <guid isPermaLink="false">1061</guid>
+  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>rails / docked</title>
+  <description>Running Rails from Docker for easy start to development</description>
+  <link>https://github.com/rails/docked</link>
+  <guid isPermaLink="false">1060</guid>
+  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>google / comprehensive-rust</title>
+  <description></description>
+  <link>https://github.com/google/comprehensive-rust</link>
+  <guid isPermaLink="false">1059</guid>
+  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
  <item>
   <title>Azure / azure-rest-api-specs</title>
   <description>The source for REST API specifications for Microsoft Azure.</description>
@@ -213,83 +290,6 @@
   <link>https://github.com/TanStack/router</link>
   <guid isPermaLink="false">970</guid>
   <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>folke / lazy.nvim</title>
-  <description>💤 A modern plugin manager for Neovim</description>
-  <link>https://github.com/folke/lazy.nvim</link>
-  <guid isPermaLink="false">969</guid>
-  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>illacloud / illa-builder</title>
-  <description>An open-source low-code Platform for Developers.</description>
-  <link>https://github.com/illacloud/illa-builder</link>
-  <guid isPermaLink="false">968</guid>
-  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>0xmaximus / Galaxy-Bugbounty-Checklist</title>
-  <description>Tips and Tutorials for Bug Bounty and also Penetration Tests.</description>
-  <link>https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist</link>
-  <guid isPermaLink="false">967</guid>
-  <pubDate>Thu, 22 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>openai / point-e</title>
-  <description>Point cloud diffusion for 3D model synthesis</description>
-  <link>https://github.com/openai/point-e</link>
-  <guid isPermaLink="false">966</guid>
-  <pubDate>Thu, 22 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>answerdev / answer</title>
-  <description>An open-source knowledge-based community software. You can use it quickly to build Q&amp;A community for your products, customers, teams, and more.</description>
-  <link>https://github.com/answerdev/answer</link>
-  <guid isPermaLink="false">930</guid>
-  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>m-bain / whisperX</title>
-  <description>WhisperX: Timestamp-Accurate Automatic Speech Recognition.</description>
-  <link>https://github.com/m-bain/whisperX</link>
-  <guid isPermaLink="false">929</guid>
-  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>spantaleev / matrix-docker-ansible-deploy</title>
-  <description>🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker</description>
-  <link>https://github.com/spantaleev/matrix-docker-ansible-deploy</link>
-  <guid isPermaLink="false">928</guid>
-  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>mrdbourke / pytorch-deep-learning</title>
-  <description>Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.</description>
-  <link>https://github.com/mrdbourke/pytorch-deep-learning</link>
-  <guid isPermaLink="false">927</guid>
-  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>hashicorp / vault</title>
-  <description>A tool for secrets management, encryption as a service, and privileged access management</description>
-  <link>https://github.com/hashicorp/vault</link>
-  <guid isPermaLink="false">926</guid>
-  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>H4de5-7 / powershell-obfuscation</title>
-  <description>powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus</description>
-  <link>https://github.com/H4de5-7/powershell-obfuscation</link>
-  <guid isPermaLink="false">925</guid>
-  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>THUDM / CodeGeeX</title>
-  <description>CodeGeeX: An Open Multilingual Code Generation Model</description>
-  <link>https://github.com/THUDM/CodeGeeX</link>
-  <guid isPermaLink="false">924</guid>
-  <pubDate>Wed, 21 Dec 2022 09:00:06 -0800</pubDate>
  </item>
 
 </channel>
