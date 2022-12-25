@@ -8,9 +8,16 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 24 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Sat, 24 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sun, 25 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 25 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>年度第三个独立产品 EarlyBird 发布，需要您的支持！</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3692</link>
+  <pubDate>Sun, 25 Dec 2022 01:00:07 -0800</pubDate>
+  <guid isPermaLink="false">1129</guid>
+ </item>
  <item>
   <title>Dawn Launcher Windows 快捷启动工具</title>
   <description></description>
@@ -283,13 +290,6 @@
   <link>https://w2solo.com/topics/3674</link>
   <pubDate>Tue, 06 Dec 2022 01:28:35 -0800</pubDate>
   <guid isPermaLink="false">593</guid>
- </item>
- <item>
-  <title>独立产品灵感周刊 DecoHack #040 - Google 公布 2022 年度最佳应用榜单</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3673</link>
-  <pubDate>Sun, 04 Dec 2022 22:23:44 -0800</pubDate>
-  <guid isPermaLink="false">594</guid>
  </item>
 
 </channel>

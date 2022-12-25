@@ -8,9 +8,72 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 24 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Sat, 24 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sun, 25 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 25 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Started youtube for Machine Learning and building community around it.</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/started-youtube-for-machine-learning-and-building-community-around-it-348ec2bc67</link>
+  <pubDate>Sun, 25 Dec 2022 12:37:00 -0800</pubDate>
+  <guid isPermaLink="false">1136</guid>
+ </item>
+ <item>
+  <title>The buzzwords never end...</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/the-buzzwords-never-end-8dee65d3d9</link>
+  <pubDate>Sun, 25 Dec 2022 02:04:00 -0800</pubDate>
+  <guid isPermaLink="false">1138</guid>
+ </item>
+ <item>
+  <title>✉️ Finding the right way to acquire customers</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/finding-the-right-way-to-acquire-customers-70db246809</link>
+  <pubDate>Sat, 24 Dec 2022 22:06:00 -0800</pubDate>
+  <guid isPermaLink="false">1132</guid>
+ </item>
+ <item>
+  <title>I made my first little SaaS product!</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/i-made-my-first-little-saas-product-6514b01056</link>
+  <pubDate>Sat, 24 Dec 2022 21:53:00 -0800</pubDate>
+  <guid isPermaLink="false">1130</guid>
+ </item>
+ <item>
+  <title>Share what are you working on</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/share-what-are-you-working-on-8773577b72</link>
+  <pubDate>Sat, 24 Dec 2022 19:54:00 -0800</pubDate>
+  <guid isPermaLink="false">1134</guid>
+ </item>
+ <item>
+  <title>Makers in public let's follow each other on Twitter @today:</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/makers-in-public-lets-follow-each-other-on-twitter-today-4991c8330c</link>
+  <pubDate>Sat, 24 Dec 2022 16:52:00 -0800</pubDate>
+  <guid isPermaLink="false">1131</guid>
+ </item>
+ <item>
+  <title>Any insights the economics of life time deals?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/any-insights-the-economics-of-life-time-deals-61c7a6db75</link>
+  <pubDate>Sat, 24 Dec 2022 09:08:00 -0800</pubDate>
+  <guid isPermaLink="false">1137</guid>
+ </item>
+ <item>
+  <title>The Ultimate Guide To Building a Strong Community</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/the-ultimate-guide-to-building-a-strong-community-d27bf616a5</link>
+  <pubDate>Sat, 24 Dec 2022 08:20:00 -0800</pubDate>
+  <guid isPermaLink="false">1135</guid>
+ </item>
+ <item>
+  <title>How to use ChatGPT and still be a good person</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-to-use-chatgpt-and-still-be-a-good-person-a38c3afdf7</link>
+  <pubDate>Sat, 24 Dec 2022 07:35:00 -0800</pubDate>
+  <guid isPermaLink="false">1133</guid>
+ </item>
  <item>
   <title>What startup books do you recommend I read over the holidays?</title>
   <description></description>
@@ -227,69 +290,6 @@
   <link>https://www.indiehackers.com/post/newsletter-sponsorship-for-info-products-my-experience-5ff620c1be</link>
   <pubDate>Wed, 21 Dec 2022 11:07:00 -0800</pubDate>
   <guid isPermaLink="false">1006</guid>
- </item>
- <item>
-  <title>The era of Open Source is coming to an end?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/the-era-of-open-source-is-coming-to-an-end-57558a1ed2</link>
-  <pubDate>Wed, 21 Dec 2022 10:56:00 -0800</pubDate>
-  <guid isPermaLink="false">957</guid>
- </item>
- <item>
-  <title>We got 36 qualified leads yesterday and 10 booked calls for January.</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/we-got-36-qualified-leads-yesterday-and-10-booked-calls-for-january-550df3fbe6</link>
-  <pubDate>Wed, 21 Dec 2022 10:01:00 -0800</pubDate>
-  <guid isPermaLink="false">1011</guid>
- </item>
- <item>
-  <title>SaaS products today are worse than ever</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/saas-products-today-are-worse-than-ever-c07b857c93</link>
-  <pubDate>Wed, 21 Dec 2022 09:24:00 -0800</pubDate>
-  <guid isPermaLink="false">952</guid>
- </item>
- <item>
-  <title>Coding practices at Google and Microsoft vs a Startup</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/coding-practices-at-google-and-microsoft-vs-a-startup-248aa45baa</link>
-  <pubDate>Wed, 21 Dec 2022 09:12:00 -0800</pubDate>
-  <guid isPermaLink="false">954</guid>
- </item>
- <item>
-  <title>How we went from barely any visits to 30 sign-ups per day</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-we-went-from-barely-any-visits-to-30-sign-ups-per-day-eb5d7483ae</link>
-  <pubDate>Wed, 21 Dec 2022 08:15:00 -0800</pubDate>
-  <guid isPermaLink="false">955</guid>
- </item>
- <item>
-  <title>5 steps to turn your website into an App</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/5-steps-to-turn-your-website-into-an-app-e85e507cc3</link>
-  <pubDate>Wed, 21 Dec 2022 07:06:00 -0800</pubDate>
-  <guid isPermaLink="false">956</guid>
- </item>
- <item>
-  <title>Podcast Platform</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/podcast-platform-0573d74473</link>
-  <pubDate>Wed, 21 Dec 2022 05:00:00 -0800</pubDate>
-  <guid isPermaLink="false">1012</guid>
- </item>
- <item>
-  <title>Having an interactive demo on the home page is one of my product's favorite features</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/having-an-interactive-demo-on-the-home-page-is-one-of-my-products-favorite-features-5153f5c579</link>
-  <pubDate>Tue, 20 Dec 2022 20:28:00 -0800</pubDate>
-  <guid isPermaLink="false">962</guid>
- </item>
- <item>
-  <title>Quick notes about our AppSumo launch - $10.000</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/quick-notes-about-our-appsumo-launch-10-000-6b75468133</link>
-  <pubDate>Tue, 20 Dec 2022 18:34:00 -0800</pubDate>
-  <guid isPermaLink="false">965</guid>
  </item>
 
 </channel>
