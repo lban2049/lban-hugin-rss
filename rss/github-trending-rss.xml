@@ -8,9 +8,93 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 25 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Sun, 25 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Mon, 26 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 26 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>louislam / uptime-kuma</title>
+  <description>A fancy self-hosted monitoring tool</description>
+  <link>https://github.com/louislam/uptime-kuma</link>
+  <guid isPermaLink="false">1150</guid>
+  <pubDate>Mon, 26 Dec 2022 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>bitwarden / server</title>
+  <description>The core infrastructure backend (API, database, Docker, etc).</description>
+  <link>https://github.com/bitwarden/server</link>
+  <guid isPermaLink="false">1149</guid>
+  <pubDate>Mon, 26 Dec 2022 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>pkivolowitz / asm_book</title>
+  <description>A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level languages.</description>
+  <link>https://github.com/pkivolowitz/asm_book</link>
+  <guid isPermaLink="false">1148</guid>
+  <pubDate>Mon, 26 Dec 2022 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Anugrahsr / Awesome-web3-Security</title>
+  <description>A curated list of web3Security materials and resources For Pentesters and Bug Hunters.</description>
+  <link>https://github.com/Anugrahsr/Awesome-web3-Security</link>
+  <guid isPermaLink="false">1147</guid>
+  <pubDate>Mon, 26 Dec 2022 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>DIYgod / RSSHub</title>
+  <description>🍰 Everything is RSSible</description>
+  <link>https://github.com/DIYgod/RSSHub</link>
+  <guid isPermaLink="false">1146</guid>
+  <pubDate>Mon, 26 Dec 2022 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>pdfcpu / pdfcpu</title>
+  <description>A PDF processor written in Go.</description>
+  <link>https://github.com/pdfcpu/pdfcpu</link>
+  <guid isPermaLink="false">1145</guid>
+  <pubDate>Mon, 26 Dec 2022 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>XTLS / Xray-core</title>
+  <description>Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.</description>
+  <link>https://github.com/XTLS/Xray-core</link>
+  <guid isPermaLink="false">1144</guid>
+  <pubDate>Mon, 26 Dec 2022 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>ihhub / fheroes2</title>
+  <description>fheroes2 is a recreation of Heroes of Might and Magic II game engine</description>
+  <link>https://github.com/ihhub/fheroes2</link>
+  <guid isPermaLink="false">1143</guid>
+  <pubDate>Mon, 26 Dec 2022 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>trekhleb / javascript-algorithms</title>
+  <description>📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings</description>
+  <link>https://github.com/trekhleb/javascript-algorithms</link>
+  <guid isPermaLink="false">1142</guid>
+  <pubDate>Mon, 26 Dec 2022 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>khuyentran1401 / Data-science</title>
+  <description>Collection of useful data science topics along with code and articles</description>
+  <link>https://github.com/khuyentran1401/Data-science</link>
+  <guid isPermaLink="false">1141</guid>
+  <pubDate>Mon, 26 Dec 2022 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>labmlai / annotated_deep_learning_paper_implementations</title>
+  <description>🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠</description>
+  <link>https://github.com/labmlai/annotated_deep_learning_paper_implementations</link>
+  <guid isPermaLink="false">1140</guid>
+  <pubDate>Mon, 26 Dec 2022 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>skyzh / mini-lsm</title>
+  <description>A tutorial of building an LSM-Tree storage engine in a week! (WIP)</description>
+  <link>https://github.com/skyzh/mini-lsm</link>
+  <guid isPermaLink="false">1139</guid>
+  <pubDate>Mon, 26 Dec 2022 09:00:10 -0800</pubDate>
+ </item>
  <item>
   <title>dani-garcia / vaultwarden</title>
   <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
@@ -205,90 +289,6 @@
   <description>Python desde cero</description>
   <link>https://github.com/mouredev/Hello-Python</link>
   <guid isPermaLink="false">1027</guid>
-  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>go-playground / validator</title>
-  <description>💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</description>
-  <link>https://github.com/go-playground/validator</link>
-  <guid isPermaLink="false">1026</guid>
-  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>MichaelCade / 90DaysOfDevOps</title>
-  <description>This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.</description>
-  <link>https://github.com/MichaelCade/90DaysOfDevOps</link>
-  <guid isPermaLink="false">1025</guid>
-  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>m-bain / whisperX</title>
-  <description>WhisperX: Automatic Speech Recognition with Accurate Word-level Timestamps.</description>
-  <link>https://github.com/m-bain/whisperX</link>
-  <guid isPermaLink="false">1024</guid>
-  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>JhumanJ / OpnForm</title>
-  <description>Simple and open-source form builder</description>
-  <link>https://github.com/JhumanJ/OpnForm</link>
-  <guid isPermaLink="false">1023</guid>
-  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>intel / neural-compressor</title>
-  <description>Intel® Neural Compressor (formerly known as Intel® Low Precision Optimization Tool), targeting to provide unified APIs for network compression technologies, such as low precision quantization, sparsity, pruning, knowledge distillation, across different deep learning frameworks to pursue optimal inference performance.</description>
-  <link>https://github.com/intel/neural-compressor</link>
-  <guid isPermaLink="false">1022</guid>
-  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>flutter / flutter</title>
-  <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
-  <link>https://github.com/flutter/flutter</link>
-  <guid isPermaLink="false">1021</guid>
-  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>facebookresearch / metaseq</title>
-  <description>Repo for external large-scale work</description>
-  <link>https://github.com/facebookresearch/metaseq</link>
-  <guid isPermaLink="false">1020</guid>
-  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>prowler-cloud / prowler</title>
-  <description>Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.</description>
-  <link>https://github.com/prowler-cloud/prowler</link>
-  <guid isPermaLink="false">1019</guid>
-  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>DataDog / go-profiler-notes</title>
-  <description>felixge's notes on the various go profiling methods that are available.</description>
-  <link>https://github.com/DataDog/go-profiler-notes</link>
-  <guid isPermaLink="false">1018</guid>
-  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>AbdullahAlfaraj / Auto-Photoshop-StableDiffusion-Plugin</title>
-  <description>A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.</description>
-  <link>https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin</link>
-  <guid isPermaLink="false">1017</guid>
-  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>YanG-1989 / m3u</title>
-  <description></description>
-  <link>https://github.com/YanG-1989/m3u</link>
-  <guid isPermaLink="false">1016</guid>
-  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>CVCUDA / CV-CUDA</title>
-  <description>CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.</description>
-  <link>https://github.com/CVCUDA/CV-CUDA</link>
-  <guid isPermaLink="false">1015</guid>
   <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
  </item>
 

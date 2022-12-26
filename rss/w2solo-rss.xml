@@ -8,9 +8,16 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 25 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Sun, 25 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Mon, 26 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 26 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Dawn Launcher Windows 快捷启动工具</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3691</link>
+  <pubDate>Sun, 25 Dec 2022 21:21:53 -0800</pubDate>
+  <guid isPermaLink="false">1173</guid>
+ </item>
  <item>
   <title>年度第三个独立产品 EarlyBird 发布，需要您的支持！</title>
   <description></description>
@@ -283,13 +290,6 @@
   <link>https://w2solo.com/topics/3646</link>
   <pubDate>Tue, 06 Dec 2022 07:47:50 -0800</pubDate>
   <guid isPermaLink="false">592</guid>
- </item>
- <item>
-  <title>大家帮我看看这个插件多少大洋可以搞定</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3674</link>
-  <pubDate>Tue, 06 Dec 2022 01:28:35 -0800</pubDate>
-  <guid isPermaLink="false">593</guid>
  </item>
 
 </channel>
