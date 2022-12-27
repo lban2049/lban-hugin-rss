@@ -8,9 +8,114 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 26 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 26 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 27 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Tue, 27 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>gto76 / python-cheatsheet</title>
+  <description>Comprehensive Python Cheatsheet</description>
+  <link>https://github.com/gto76/python-cheatsheet</link>
+  <guid isPermaLink="false">1199</guid>
+  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>RT-Thread / rt-thread</title>
+  <description>RT-Thread is an open source IoT operating system.</description>
+  <link>https://github.com/RT-Thread/rt-thread</link>
+  <guid isPermaLink="false">1198</guid>
+  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>donnemartin / system-design-primer</title>
+  <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+  <link>https://github.com/donnemartin/system-design-primer</link>
+  <guid isPermaLink="false">1197</guid>
+  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>RustPython / RustPython</title>
+  <description>A Python Interpreter written in Rust</description>
+  <link>https://github.com/RustPython/RustPython</link>
+  <guid isPermaLink="false">1196</guid>
+  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>acheong08 / ChatGPT</title>
+  <description>Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.</description>
+  <link>https://github.com/acheong08/ChatGPT</link>
+  <guid isPermaLink="false">1195</guid>
+  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>JusticeRage / Gepetto</title>
+  <description>IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering</description>
+  <link>https://github.com/JusticeRage/Gepetto</link>
+  <guid isPermaLink="false">1194</guid>
+  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>I-Am-Jakoby / Flipper-Zero-BadUSB</title>
+  <description>Repository for my flipper zero badUSB payloads</description>
+  <link>https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB</link>
+  <guid isPermaLink="false">1193</guid>
+  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>below / HelloSilicon</title>
+  <description>An introduction to ARM64 assembly on Apple Silicon Macs</description>
+  <link>https://github.com/below/HelloSilicon</link>
+  <guid isPermaLink="false">1192</guid>
+  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>CarperAI / trlx</title>
+  <description>A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)</description>
+  <link>https://github.com/CarperAI/trlx</link>
+  <guid isPermaLink="false">1191</guid>
+  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>apitable / apitable</title>
+  <description>🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]</description>
+  <link>https://github.com/apitable/apitable</link>
+  <guid isPermaLink="false">1190</guid>
+  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>iamtrask / Grokking-Deep-Learning</title>
+  <description>this repository accompanies the book "Grokking Deep Learning"</description>
+  <link>https://github.com/iamtrask/Grokking-Deep-Learning</link>
+  <guid isPermaLink="false">1189</guid>
+  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>f / awesome-chatgpt-prompts</title>
+  <description>This repo includes ChatGPT promt curation to use ChatGPT better.</description>
+  <link>https://github.com/f/awesome-chatgpt-prompts</link>
+  <guid isPermaLink="false">1188</guid>
+  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>SunWeb3Sec / DeFiHackLabs</title>
+  <description>Reproduce DeFi hacked incidents using Foundry.</description>
+  <link>https://github.com/SunWeb3Sec/DeFiHackLabs</link>
+  <guid isPermaLink="false">1187</guid>
+  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>LAION-AI / Open-Assistant</title>
+  <description></description>
+  <link>https://github.com/LAION-AI/Open-Assistant</link>
+  <guid isPermaLink="false">1186</guid>
+  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>google / comprehensive-rust</title>
+  <description>This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.</description>
+  <link>https://github.com/google/comprehensive-rust</link>
+  <guid isPermaLink="false">1185</guid>
+  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
+ </item>
  <item>
   <title>louislam / uptime-kuma</title>
   <description>A fancy self-hosted monitoring tool</description>
@@ -185,111 +290,6 @@
   <link>https://github.com/obsproject/obs-studio</link>
   <guid isPermaLink="false">1101</guid>
   <pubDate>Sun, 25 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>pkivolowitz / asm_book</title>
-  <description>A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offer which apply directly to higher level languages.</description>
-  <link>https://github.com/pkivolowitz/asm_book</link>
-  <guid isPermaLink="false">1100</guid>
-  <pubDate>Sun, 25 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>recloudstream / cloudstream</title>
-  <description>Android app for streaming and downloading Movies, TV-Series and Anime.</description>
-  <link>https://github.com/recloudstream/cloudstream</link>
-  <guid isPermaLink="false">1069</guid>
-  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>kentcdodds / react-fundamentals</title>
-  <description>Material for my React Fundamentals Workshop</description>
-  <link>https://github.com/kentcdodds/react-fundamentals</link>
-  <guid isPermaLink="false">1068</guid>
-  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>huggingface / diffusion-models-class</title>
-  <description>Materials for the Hugging Face Diffusion Models Course</description>
-  <link>https://github.com/huggingface/diffusion-models-class</link>
-  <guid isPermaLink="false">1067</guid>
-  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>Genymobile / scrcpy</title>
-  <description>Display and control your Android device</description>
-  <link>https://github.com/Genymobile/scrcpy</link>
-  <guid isPermaLink="false">1066</guid>
-  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / X-Decoder</title>
-  <description>Official Implementation of X-Decoder for generalized decoding for pixel, image and language</description>
-  <link>https://github.com/microsoft/X-Decoder</link>
-  <guid isPermaLink="false">1065</guid>
-  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>lucidrains / PaLM-rlhf-pytorch</title>
-  <description>Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM</description>
-  <link>https://github.com/lucidrains/PaLM-rlhf-pytorch</link>
-  <guid isPermaLink="false">1064</guid>
-  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>kovidgoyal / kitty</title>
-  <description>Cross-platform, fast, feature-rich, GPU based terminal</description>
-  <link>https://github.com/kovidgoyal/kitty</link>
-  <guid isPermaLink="false">1063</guid>
-  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>TapXWorld / Math</title>
-  <description>人教版小学到大学数学</description>
-  <link>https://github.com/TapXWorld/Math</link>
-  <guid isPermaLink="false">1062</guid>
-  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>dotnet / maui</title>
-  <description>.NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.</description>
-  <link>https://github.com/dotnet/maui</link>
-  <guid isPermaLink="false">1061</guid>
-  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>rails / docked</title>
-  <description>Running Rails from Docker for easy start to development</description>
-  <link>https://github.com/rails/docked</link>
-  <guid isPermaLink="false">1060</guid>
-  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>google / comprehensive-rust</title>
-  <description></description>
-  <link>https://github.com/google/comprehensive-rust</link>
-  <guid isPermaLink="false">1059</guid>
-  <pubDate>Sat, 24 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>Azure / azure-rest-api-specs</title>
-  <description>The source for REST API specifications for Microsoft Azure.</description>
-  <link>https://github.com/Azure/azure-rest-api-specs</link>
-  <guid isPermaLink="false">1029</guid>
-  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>PhilJay / MPAndroidChart</title>
-  <description>A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.</description>
-  <link>https://github.com/PhilJay/MPAndroidChart</link>
-  <guid isPermaLink="false">1028</guid>
-  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>mouredev / Hello-Python</title>
-  <description>Python desde cero</description>
-  <link>https://github.com/mouredev/Hello-Python</link>
-  <guid isPermaLink="false">1027</guid>
-  <pubDate>Fri, 23 Dec 2022 09:00:09 -0800</pubDate>
  </item>
 
 </channel>
