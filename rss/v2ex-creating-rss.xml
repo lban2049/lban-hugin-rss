@@ -8,9 +8,177 @@
  <title>v2ex creating RSS</title>
  <description>v2ex creating RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 27 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Tue, 27 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Wed, 28 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Wed, 28 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>业余开源了个基于 Hybrid 方案和 WebDAV 的全平台阅读软件</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/905115#reply6</link>
+  <pubDate>Wed, 28 Dec 2022 08:01:12 -0800</pubDate>
+  <guid isPermaLink="false">1243</guid>
+ </item>
+ <item>
+  <title>能不能在移动端过滤 b 站的内容</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/905095#reply13</link>
+  <pubDate>Wed, 28 Dec 2022 06:43:32 -0800</pubDate>
+  <guid isPermaLink="false">1241</guid>
+ </item>
+ <item>
+  <title>一个帮助说出地道英语表达的小程序</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/905056#reply16</link>
+  <pubDate>Wed, 28 Dec 2022 06:33:46 -0800</pubDate>
+  <guid isPermaLink="false">1242</guid>
+ </item>
+ <item>
+  <title>妙记多 Mojidoc 页面卡片上线，有特色的「卡片样式」应用场景有哪些</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/905101#reply4</link>
+  <pubDate>Wed, 28 Dec 2022 06:20:46 -0800</pubDate>
+  <guid isPermaLink="false">1245</guid>
+ </item>
+ <item>
+  <title>我有一个绝妙的计划</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/905206#reply14</link>
+  <pubDate>Wed, 28 Dec 2022 04:28:38 -0800</pubDate>
+  <guid isPermaLink="false">1247</guid>
+ </item>
+ <item>
+  <title>大钱是赚不到了，我们赚点小钱总行吧</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/902888#reply59</link>
+  <pubDate>Wed, 28 Dec 2022 01:25:34 -0800</pubDate>
+  <guid isPermaLink="false">1260</guid>
+ </item>
+ <item>
+  <title>[猜想] 感觉个人信息(版权)和区块链可以为我们做点什么</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/905185#reply3</link>
+  <pubDate>Wed, 28 Dec 2022 01:20:57 -0800</pubDate>
+  <guid isPermaLink="false">1244</guid>
+ </item>
+ <item>
+  <title>我做了一款轻社区 App，小市 [安卓版]</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904881#reply21</link>
+  <pubDate>Wed, 28 Dec 2022 00:43:31 -0800</pubDate>
+  <guid isPermaLink="false">1250</guid>
+ </item>
+ <item>
+  <title>请大家评价一下我设计的 UI</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904855#reply59</link>
+  <pubDate>Wed, 28 Dec 2022 00:43:03 -0800</pubDate>
+  <guid isPermaLink="false">1248</guid>
+ </item>
+ <item>
+  <title>组织了一个 csapp 学习打卡群 稳定运转一年+ 现在有一些新的小想法</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904899#reply15</link>
+  <pubDate>Tue, 27 Dec 2022 22:14:22 -0800</pubDate>
+  <guid isPermaLink="false">1249</guid>
+ </item>
+ <item>
+  <title>计划做一个集合各大高校教务查询的小程序有意者联系</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904288#reply42</link>
+  <pubDate>Tue, 27 Dec 2022 22:11:00 -0800</pubDate>
+  <guid isPermaLink="false">1261</guid>
+ </item>
+ <item>
+  <title>年度第三个独立产品 EarlyBird 发布，需要您的支持！</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904592#reply32</link>
+  <pubDate>Tue, 27 Dec 2022 22:04:27 -0800</pubDate>
+  <guid isPermaLink="false">1256</guid>
+ </item>
+ <item>
+  <title>上传图片获取图片的经纬度以及拍摄时间，根据经纬度利用百度地图 API 获取相关位置</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904926#reply3</link>
+  <pubDate>Tue, 27 Dec 2022 20:56:27 -0800</pubDate>
+  <guid isPermaLink="false">1251</guid>
+ </item>
+ <item>
+  <title>阿拉伯文字的艺术、设计和开发</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/905088#reply8</link>
+  <pubDate>Tue, 27 Dec 2022 20:47:47 -0800</pubDate>
+  <guid isPermaLink="false">1246</guid>
+ </item>
+ <item>
+  <title>我开发的英酷词典，帮助大家阅读英文资料</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/905114#reply0</link>
+  <pubDate>Tue, 27 Dec 2022 20:18:46 -0800</pubDate>
+  <guid isPermaLink="false">1258</guid>
+ </item>
+ <item>
+  <title>在圣诞节发布产品是一种什么样的体验（附 Product Hunt 发布心得）</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904886#reply16</link>
+  <pubDate>Tue, 27 Dec 2022 19:59:08 -0800</pubDate>
+  <guid isPermaLink="false">1253</guid>
+ </item>
+ <item>
+  <title>想搞一个老赖曝光平台，法律层面可以否？</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/903767#reply44</link>
+  <pubDate>Tue, 27 Dec 2022 19:49:08 -0800</pubDate>
+  <guid isPermaLink="false">1263</guid>
+ </item>
+ <item>
+  <title>小程序应用市场！？还真被搞出来了</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904440#reply16</link>
+  <pubDate>Tue, 27 Dec 2022 19:49:02 -0800</pubDate>
+  <guid isPermaLink="false">1259</guid>
+ </item>
+ <item>
+  <title>做一个程序员面试题分享的网站能行么</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904292#reply18</link>
+  <pubDate>Tue, 27 Dec 2022 19:47:39 -0800</pubDate>
+  <guid isPermaLink="false">1262</guid>
+ </item>
+ <item>
+  <title>Hacker News 居然只有几十万注册用户</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904663#reply22</link>
+  <pubDate>Tue, 27 Dec 2022 19:41:31 -0800</pubDate>
+  <guid isPermaLink="false">1254</guid>
+ </item>
+ <item>
+  <title>花了两个多月做了一个 V 站客户端- AwesomeV2ex，不仅好看而且功能很齐全，已上架 AppStore</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904226#reply122</link>
+  <pubDate>Tue, 27 Dec 2022 18:59:37 -0800</pubDate>
+  <guid isPermaLink="false">1257</guid>
+ </item>
+ <item>
+  <title>豆瓣直租：一个基于豆瓣租房小组的租房网站</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904628#reply16</link>
+  <pubDate>Tue, 27 Dec 2022 17:48:28 -0800</pubDate>
+  <guid isPermaLink="false">1255</guid>
+ </item>
+ <item>
+  <title>花了 2 周时间，成功把 json-server 换成了 prisma+sqlite。目标：把 eagle 打造成后台管理系统</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/904884#reply9</link>
+  <pubDate>Tue, 27 Dec 2022 17:29:26 -0800</pubDate>
+  <guid isPermaLink="false">1252</guid>
+ </item>
+ <item>
+  <title>搭建专属于你的消息推送服务</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/903661#reply29</link>
+  <pubDate>Tue, 27 Dec 2022 17:09:27 -0800</pubDate>
+  <guid isPermaLink="false">1264</guid>
+ </item>
  <item>
   <title>做了个可快速部署线上服务的平台 CNative ，请给些建议</title>
   <description></description>
@@ -122,174 +290,6 @@
   <link>https://www.v2ex.com/t/904628#reply15</link>
   <pubDate>Tue, 27 Dec 2022 01:14:58 -0800</pubDate>
   <guid isPermaLink="false">1212</guid>
- </item>
- <item>
-  <title>大钱是赚不到了，我们赚点小钱总行吧</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/902888#reply56</link>
-  <pubDate>Tue, 27 Dec 2022 01:00:50 -0800</pubDate>
-  <guid isPermaLink="false">1217</guid>
- </item>
- <item>
-  <title>我们将有 60k 行代码 TypeScript (Node.js) 的仓库迁移至 ESM，结果单元测试快了 4 倍</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904813#reply5</link>
-  <pubDate>Mon, 26 Dec 2022 21:57:33 -0800</pubDate>
-  <guid isPermaLink="false">1209</guid>
- </item>
- <item>
-  <title>小程序应用市场！？还真被搞出来了</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904440#reply15</link>
-  <pubDate>Mon, 26 Dec 2022 16:24:31 -0800</pubDate>
-  <guid isPermaLink="false">1216</guid>
- </item>
- <item>
-  <title>我们将有 60k 行代码 TypeScript (Node.js) 的仓库迁移至 ESM，结果单元测试快了 4 倍</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904813#reply3</link>
-  <pubDate>Mon, 26 Dec 2022 08:54:09 -0800</pubDate>
-  <guid isPermaLink="false">1151</guid>
- </item>
- <item>
-  <title>Casdoor: 具有 Web UI 界面的开源身份认证、单点登录平台，支持 GitHub、Gitee、QQ、微信、钉钉登录等</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/803669#reply215</link>
-  <pubDate>Mon, 26 Dec 2022 05:46:20 -0800</pubDate>
-  <guid isPermaLink="false">1152</guid>
- </item>
- <item>
-  <title>大钱是赚不到了，我们赚点小钱总行吧</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/902888#reply55</link>
-  <pubDate>Mon, 26 Dec 2022 05:09:01 -0800</pubDate>
-  <guid isPermaLink="false">1166</guid>
- </item>
- <item>
-  <title>将 ChatGPT 网站打包成桌面应用带给你全新的操作体验</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904784#reply4</link>
-  <pubDate>Mon, 26 Dec 2022 04:20:47 -0800</pubDate>
-  <guid isPermaLink="false">1155</guid>
- </item>
- <item>
-  <title>花了两个多月做了一个 V 站客户端- AwesomeV2ex，不仅好看而且功能很齐全，已上架 AppStore</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904226#reply115</link>
-  <pubDate>Mon, 26 Dec 2022 03:48:41 -0800</pubDate>
-  <guid isPermaLink="false">1162</guid>
- </item>
- <item>
-  <title>一个脚本，把《三体》动画变成科幻喜剧</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904587#reply7</link>
-  <pubDate>Mon, 26 Dec 2022 02:23:54 -0800</pubDate>
-  <guid isPermaLink="false">1160</guid>
- </item>
- <item>
-  <title>Hacker News 居然只有几十万注册用户</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904663#reply18</link>
-  <pubDate>Mon, 26 Dec 2022 02:19:00 -0800</pubDate>
-  <guid isPermaLink="false">1153</guid>
- </item>
- <item>
-  <title>JSONT v2.0 发布</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904694#reply6</link>
-  <pubDate>Mon, 26 Dec 2022 02:10:00 -0800</pubDate>
-  <guid isPermaLink="false">1154</guid>
- </item>
- <item>
-  <title>dev.com.cn 征集中文名称</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/902635#reply194</link>
-  <pubDate>Mon, 26 Dec 2022 01:34:26 -0800</pubDate>
-  <guid isPermaLink="false">1172</guid>
- </item>
- <item>
-  <title>Rath：开源的自动化数据分析与可视化工具，包含全自动数据探索、数据绘板、因果推断等功能</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/903763#reply8</link>
-  <pubDate>Mon, 26 Dec 2022 01:17:29 -0800</pubDate>
-  <guid isPermaLink="false">1169</guid>
- </item>
- <item>
-  <title>年度第三个独立产品 EarlyBird 发布，需要您的支持！</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904592#reply28</link>
-  <pubDate>Mon, 26 Dec 2022 00:46:17 -0800</pubDate>
-  <guid isPermaLink="false">1157</guid>
- </item>
- <item>
-  <title>搭建专属于你的消息推送服务</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/903661#reply28</link>
-  <pubDate>Mon, 26 Dec 2022 00:16:05 -0800</pubDate>
-  <guid isPermaLink="false">1171</guid>
- </item>
- <item>
-  <title>手机充电加油站（幻想）</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904568#reply19</link>
-  <pubDate>Mon, 26 Dec 2022 00:10:16 -0800</pubDate>
-  <guid isPermaLink="false">1158</guid>
- </item>
- <item>
-  <title>有人解析下知乎上那些教赚钱的营销号文章套路吗？</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904557#reply11</link>
-  <pubDate>Mon, 26 Dec 2022 00:08:29 -0800</pubDate>
-  <guid isPermaLink="false">1161</guid>
- </item>
- <item>
-  <title>如果你不小心掉进了 韩文 75 键盘的坑，我可以救你。</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904413#reply32</link>
-  <pubDate>Sun, 25 Dec 2022 23:52:58 -0800</pubDate>
-  <guid isPermaLink="false">1165</guid>
- </item>
- <item>
-  <title>豆瓣直租：一个基于豆瓣租房小组的租房网站</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904628#reply10</link>
-  <pubDate>Sun, 25 Dec 2022 23:43:17 -0800</pubDate>
-  <guid isPermaLink="false">1159</guid>
- </item>
- <item>
-  <title>想搞一个老赖曝光平台，法律层面可以否？</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/903767#reply43</link>
-  <pubDate>Sun, 25 Dec 2022 23:17:38 -0800</pubDate>
-  <guid isPermaLink="false">1170</guid>
- </item>
- <item>
-  <title>美股基本面数据展示</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904725#reply0</link>
-  <pubDate>Sun, 25 Dec 2022 21:37:55 -0800</pubDate>
-  <guid isPermaLink="false">1156</guid>
- </item>
- <item>
-  <title>改了一份防噪声倡议的海报，准备贴在小区内， v 友们有无补充</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904170#reply22</link>
-  <pubDate>Sun, 25 Dec 2022 19:47:15 -0800</pubDate>
-  <guid isPermaLink="false">1168</guid>
- </item>
- <item>
-  <title>在国内搞一个元宇宙平台（类似 roblox）是否可行</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904004#reply13</link>
-  <pubDate>Sun, 25 Dec 2022 19:32:19 -0800</pubDate>
-  <guid isPermaLink="false">1167</guid>
- </item>
- <item>
-  <title>小程序应用市场！？还真被搞出来了</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904440#reply14</link>
-  <pubDate>Sun, 25 Dec 2022 19:20:57 -0800</pubDate>
-  <guid isPermaLink="false">1163</guid>
  </item>
 
 </channel>

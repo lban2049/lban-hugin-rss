@@ -8,9 +8,72 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 27 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Tue, 27 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Wed, 28 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Wed, 28 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>sherlock-project / sherlock</title>
+  <description>🔎 Hunt down social media accounts by username across social networks</description>
+  <link>https://github.com/sherlock-project/sherlock</link>
+  <guid isPermaLink="false">1240</guid>
+  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>hehonghui / awesome-english-ebooks</title>
+  <description>经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新</description>
+  <link>https://github.com/hehonghui/awesome-english-ebooks</link>
+  <guid isPermaLink="false">1239</guid>
+  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>gin-gonic / gin</title>
+  <description>Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</description>
+  <link>https://github.com/gin-gonic/gin</link>
+  <guid isPermaLink="false">1238</guid>
+  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>novuhq / novu</title>
+  <description>The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀</description>
+  <link>https://github.com/novuhq/novu</link>
+  <guid isPermaLink="false">1237</guid>
+  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>HavocFramework / Havoc</title>
+  <description>The Havoc Framework.</description>
+  <link>https://github.com/HavocFramework/Havoc</link>
+  <guid isPermaLink="false">1236</guid>
+  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>exaloop / codon</title>
+  <description>A high-performance, zero-overhead, extensible Python compiler using LLVM</description>
+  <link>https://github.com/exaloop/codon</link>
+  <guid isPermaLink="false">1235</guid>
+  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>merbanan / rtl_433</title>
+  <description>Program to decode radio transmissions from devices on the ISM bands (and other frequencies)</description>
+  <link>https://github.com/merbanan/rtl_433</link>
+  <guid isPermaLink="false">1234</guid>
+  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>mouredev / retos-programacion-2023</title>
+  <description>Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.</description>
+  <link>https://github.com/mouredev/retos-programacion-2023</link>
+  <guid isPermaLink="false">1233</guid>
+  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>ChatGPT-Hackers / ChatGPT-API-server</title>
+  <description>API server for ChatGPT</description>
+  <link>https://github.com/ChatGPT-Hackers/ChatGPT-API-server</link>
+  <guid isPermaLink="false">1232</guid>
+  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
  <item>
   <title>gto76 / python-cheatsheet</title>
   <description>Comprehensive Python Cheatsheet</description>
@@ -226,69 +289,6 @@
   <description></description>
   <link>https://github.com/bvaughn/react-resizable-panels</link>
   <guid isPermaLink="false">1110</guid>
-  <pubDate>Sun, 25 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>towfiqi / serpbear</title>
-  <description>Search Engine Position Rank Tracking App</description>
-  <link>https://github.com/towfiqi/serpbear</link>
-  <guid isPermaLink="false">1109</guid>
-  <pubDate>Sun, 25 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>judygab / web-dev-projects</title>
-  <description>Projects repo for tutorials for my YouTube Channel</description>
-  <link>https://github.com/judygab/web-dev-projects</link>
-  <guid isPermaLink="false">1108</guid>
-  <pubDate>Sun, 25 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>Immediate-Mode-UI / Nuklear</title>
-  <description>A single-header ANSI C immediate mode cross-platform GUI library</description>
-  <link>https://github.com/Immediate-Mode-UI/Nuklear</link>
-  <guid isPermaLink="false">1107</guid>
-  <pubDate>Sun, 25 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>rust-lang / book</title>
-  <description>The Rust Programming Language</description>
-  <link>https://github.com/rust-lang/book</link>
-  <guid isPermaLink="false">1106</guid>
-  <pubDate>Sun, 25 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>flipperdevices / flipperzero-firmware</title>
-  <description>Flipper Zero firmware source code</description>
-  <link>https://github.com/flipperdevices/flipperzero-firmware</link>
-  <guid isPermaLink="false">1105</guid>
-  <pubDate>Sun, 25 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>dreamncn / ParallelsDesktopCrack</title>
-  <description></description>
-  <link>https://github.com/dreamncn/ParallelsDesktopCrack</link>
-  <guid isPermaLink="false">1104</guid>
-  <pubDate>Sun, 25 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>louisfb01 / best_AI_papers_2022</title>
-  <description>A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.</description>
-  <link>https://github.com/louisfb01/best_AI_papers_2022</link>
-  <guid isPermaLink="false">1103</guid>
-  <pubDate>Sun, 25 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>adrianhajdin / project_openai_codex</title>
-  <description></description>
-  <link>https://github.com/adrianhajdin/project_openai_codex</link>
-  <guid isPermaLink="false">1102</guid>
-  <pubDate>Sun, 25 Dec 2022 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>obsproject / obs-studio</title>
-  <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
-  <link>https://github.com/obsproject/obs-studio</link>
-  <guid isPermaLink="false">1101</guid>
   <pubDate>Sun, 25 Dec 2022 09:00:06 -0800</pubDate>
  </item>
 

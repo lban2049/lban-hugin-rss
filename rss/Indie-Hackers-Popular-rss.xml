@@ -8,15 +8,85 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 27 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Tue, 27 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Wed, 28 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Wed, 28 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Don't build another AI tool</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/dont-build-another-ai-tool-b29b3276b3</link>
+  <pubDate>Wed, 28 Dec 2022 14:14:00 -0800</pubDate>
+  <guid isPermaLink="false">1267</guid>
+ </item>
+ <item>
+  <title>What are some effective strategies for implementing multi-factor authentication (MFA)? What are the must-to-know practices for MFA?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/what-are-some-effective-strategies-for-implementing-multi-factor-authentication-mfa-what-are-the-must-to-know-practices-for-mfa-0f56c013d0</link>
+  <pubDate>Wed, 28 Dec 2022 11:06:00 -0800</pubDate>
+  <guid isPermaLink="false">1274</guid>
+ </item>
+ <item>
+  <title>The Stackoverflow / Reddit Dilemma</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/the-stackoverflow-reddit-dilemma-f0c5e7142d</link>
+  <pubDate>Wed, 28 Dec 2022 09:15:00 -0800</pubDate>
+  <guid isPermaLink="false">1269</guid>
+ </item>
+ <item>
+  <title>📣 Product Digest #1: Collaborate Together, Share Sensitive Information, and Bite-sized Lessons from Google</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/product-digest-1-collaborate-together-share-sensitive-information-and-bite-sized-lessons-from-google-e765c4b5e3</link>
+  <pubDate>Wed, 28 Dec 2022 08:56:00 -0800</pubDate>
+  <guid isPermaLink="false">1270</guid>
+ </item>
+ <item>
+  <title>How to increase your customer LTV: A practical guide</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-to-increase-your-customer-ltv-a-practical-guide-f753e9028a</link>
+  <pubDate>Wed, 28 Dec 2022 07:24:00 -0800</pubDate>
+  <guid isPermaLink="false">1275</guid>
+ </item>
+ <item>
+  <title>We built a directory website with WordPress at 1/10 the cost of Softr!</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/we-built-a-directory-website-with-wordpress-at-1-10-the-cost-of-softr-f7dbbb7e21</link>
+  <pubDate>Wed, 28 Dec 2022 06:19:00 -0800</pubDate>
+  <guid isPermaLink="false">1268</guid>
+ </item>
+ <item>
+  <title>Loads of poorly structured feedback. What do you do with? Or is it a common problem at all?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/loads-of-poorly-structured-feedback-what-do-you-do-with-or-is-it-a-common-problem-at-all-d20586ab17</link>
+  <pubDate>Tue, 27 Dec 2022 23:07:00 -0800</pubDate>
+  <guid isPermaLink="false">1276</guid>
+ </item>
+ <item>
+  <title>New Year's Resolutions for Indie Hackers</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/new-years-resolutions-for-indie-hackers-f52f1edd0e</link>
+  <pubDate>Tue, 27 Dec 2022 18:22:00 -0800</pubDate>
+  <guid isPermaLink="false">1273</guid>
+ </item>
  <item>
   <title>How to price your product — indie hackers shouldn't follow the usual advice</title>
   <description></description>
   <link>https://www.indiehackers.com/post/how-to-price-your-product-indie-hackers-shouldnt-follow-the-usual-advice-0b994f58f6</link>
   <pubDate>Tue, 27 Dec 2022 16:23:00 -0800</pubDate>
   <guid isPermaLink="false">1221</guid>
+ </item>
+ <item>
+  <title>Shameless copycats are hurting the "build in public" community</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/shameless-copycats-are-hurting-the-build-in-public-community-cd629d7d97</link>
+  <pubDate>Tue, 27 Dec 2022 13:42:00 -0800</pubDate>
+  <guid isPermaLink="false">1265</guid>
+ </item>
+ <item>
+  <title>Case Study: How my app got to the top of Product Hunt today</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/case-study-how-my-app-got-to-the-top-of-product-hunt-today-8b359b2cb3</link>
+  <pubDate>Tue, 27 Dec 2022 12:47:00 -0800</pubDate>
+  <guid isPermaLink="false">1271</guid>
  </item>
  <item>
   <title>Made a list of 50+ AI Startup Ideas you can use to build yours</title>
@@ -52,6 +122,20 @@
   <link>https://www.indiehackers.com/post/whats-new-a-founder-s-guide-to-growth-hacking-9ae6a2b6e1</link>
   <pubDate>Tue, 27 Dec 2022 06:44:00 -0800</pubDate>
   <guid isPermaLink="false">1225</guid>
+ </item>
+ <item>
+  <title>Landing page feedback needed!</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/landing-page-feedback-needed-17794066f4</link>
+  <pubDate>Tue, 27 Dec 2022 01:53:00 -0800</pubDate>
+  <guid isPermaLink="false">1272</guid>
+ </item>
+ <item>
+  <title>Share your Product here</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/share-your-product-here-a656dff9e0</link>
+  <pubDate>Mon, 26 Dec 2022 13:44:00 -0800</pubDate>
+  <guid isPermaLink="false">1266</guid>
  </item>
  <item>
   <title>Are passwords painful? [Infographic]</title>
@@ -206,90 +290,6 @@
   <link>https://www.indiehackers.com/post/roast-my-products-registration-page-8755b28aa9</link>
   <pubDate>Sat, 24 Dec 2022 10:22:00 -0800</pubDate>
   <guid isPermaLink="false">1184</guid>
- </item>
- <item>
-  <title>Any insights the economics of life time deals?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/any-insights-the-economics-of-life-time-deals-61c7a6db75</link>
-  <pubDate>Sat, 24 Dec 2022 09:08:00 -0800</pubDate>
-  <guid isPermaLink="false">1137</guid>
- </item>
- <item>
-  <title>The Ultimate Guide To Building a Strong Community</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/the-ultimate-guide-to-building-a-strong-community-d27bf616a5</link>
-  <pubDate>Sat, 24 Dec 2022 08:20:00 -0800</pubDate>
-  <guid isPermaLink="false">1135</guid>
- </item>
- <item>
-  <title>How to use ChatGPT and still be a good person</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-to-use-chatgpt-and-still-be-a-good-person-a38c3afdf7</link>
-  <pubDate>Sat, 24 Dec 2022 07:35:00 -0800</pubDate>
-  <guid isPermaLink="false">1133</guid>
- </item>
- <item>
-  <title>What startup books do you recommend I read over the holidays?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/what-startup-books-do-you-recommend-i-read-over-the-holidays-6f917f6793</link>
-  <pubDate>Sat, 24 Dec 2022 07:34:00 -0800</pubDate>
-  <guid isPermaLink="false">1088</guid>
- </item>
- <item>
-  <title>What's New: Viable products you can build with ChatGPT</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/whats-new-viable-products-you-can-build-with-chatgpt-e05dd55849</link>
-  <pubDate>Sat, 24 Dec 2022 05:42:00 -0800</pubDate>
-  <guid isPermaLink="false">1091</guid>
- </item>
- <item>
-  <title>5 mistakes to avoid on your landing pages</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/5-mistakes-to-avoid-on-your-landing-pages-6d2b7c51c7</link>
-  <pubDate>Sat, 24 Dec 2022 02:19:00 -0800</pubDate>
-  <guid isPermaLink="false">1089</guid>
- </item>
- <item>
-  <title>Mastermind group call for software startup founders</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/mastermind-group-call-for-software-startup-founders-79c7ddfb93</link>
-  <pubDate>Sat, 24 Dec 2022 01:08:00 -0800</pubDate>
-  <guid isPermaLink="false">1096</guid>
- </item>
- <item>
-  <title>Only one said "Luck"?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/only-one-said-luck-a34f372124</link>
-  <pubDate>Fri, 23 Dec 2022 23:38:00 -0800</pubDate>
-  <guid isPermaLink="false">1087</guid>
- </item>
- <item>
-  <title>IH poll: are you hacking every day of your holiday break?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/ih-poll-are-you-hacking-every-day-of-your-holiday-break-05c0dea834</link>
-  <pubDate>Fri, 23 Dec 2022 21:10:00 -0800</pubDate>
-  <guid isPermaLink="false">1092</guid>
- </item>
- <item>
-  <title>The top SaaS reads of 2022</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/the-top-saas-reads-of-2022-fdbca886a0</link>
-  <pubDate>Fri, 23 Dec 2022 20:28:00 -0800</pubDate>
-  <guid isPermaLink="false">1098</guid>
- </item>
- <item>
-  <title>How would you license your Saas?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-would-you-license-your-saas-de31e88209</link>
-  <pubDate>Fri, 23 Dec 2022 18:52:00 -0800</pubDate>
-  <guid isPermaLink="false">1093</guid>
- </item>
- <item>
-  <title>Why I sold my company after 8yrs</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/why-i-sold-my-company-after-8yrs-0ecd5b238b</link>
-  <pubDate>Fri, 23 Dec 2022 17:58:00 -0800</pubDate>
-  <guid isPermaLink="false">1090</guid>
  </item>
 
 </channel>
