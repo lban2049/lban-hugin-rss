@@ -8,9 +8,30 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 28 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Wed, 28 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Thu, 29 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Thu, 29 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Dawn Launcher Windows 快捷启动工具</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3691</link>
+  <pubDate>Thu, 29 Dec 2022 02:48:02 -0800</pubDate>
+  <guid isPermaLink="false">1324</guid>
+ </item>
+ <item>
+  <title>ModStart 交给您的开源年终总结</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3695</link>
+  <pubDate>Wed, 28 Dec 2022 22:33:34 -0800</pubDate>
+  <guid isPermaLink="false">1325</guid>
+ </item>
+ <item>
+  <title>我是如何在 3 天内获得 500+ 种子用户的： MVP 产品如何冷启动</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3694</link>
+  <pubDate>Wed, 28 Dec 2022 22:23:24 -0800</pubDate>
+  <guid isPermaLink="false">1326</guid>
+ </item>
  <item>
   <title>不上班的 1000 天，程序员自由职业 B 计划 - 做什么/收入/经验教训</title>
   <description></description>
@@ -269,27 +290,6 @@
   <link>https://w2solo.com/topics/3677</link>
   <pubDate>Fri, 09 Dec 2022 17:44:18 -0800</pubDate>
   <guid isPermaLink="false">587</guid>
- </item>
- <item>
-  <title>独立开发变现周刊（第 80 期）：Notion 页面转成网站客服小部件，月收入 5K 美金</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3644</link>
-  <pubDate>Fri, 09 Dec 2022 17:42:15 -0800</pubDate>
-  <guid isPermaLink="false">588</guid>
- </item>
- <item>
-  <title>做了个知乎的 chatgpt 浏览器小插件</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3676</link>
-  <pubDate>Fri, 09 Dec 2022 03:01:58 -0800</pubDate>
-  <guid isPermaLink="false">589</guid>
- </item>
- <item>
-  <title>做的一款健身记录的 app，名字叫 halo 健身，欢迎爱健身的友友体验</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3672</link>
-  <pubDate>Thu, 08 Dec 2022 16:51:22 -0800</pubDate>
-  <guid isPermaLink="false">590</guid>
  </item>
 
 </channel>
