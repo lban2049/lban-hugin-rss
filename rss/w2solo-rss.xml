@@ -8,9 +8,16 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 29 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Thu, 29 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Fri, 30 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 30 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>不上班的 1000 天，程序员自由职业 B 计划 - 做什么/收入/经验教训</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3690</link>
+  <pubDate>Thu, 29 Dec 2022 22:02:51 -0800</pubDate>
+  <guid isPermaLink="false">1382</guid>
+ </item>
  <item>
   <title>Dawn Launcher Windows 快捷启动工具</title>
   <description></description>
@@ -283,13 +290,6 @@
   <link>https://w2solo.com/topics/3678</link>
   <pubDate>Sun, 11 Dec 2022 17:23:48 -0800</pubDate>
   <guid isPermaLink="false">586</guid>
- </item>
- <item>
-  <title>独立开发变现周刊（第 83 期）：建在 Stripe 上的应用，年收入 70 万美元</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3677</link>
-  <pubDate>Fri, 09 Dec 2022 17:44:18 -0800</pubDate>
-  <guid isPermaLink="false">587</guid>
  </item>
 
 </channel>

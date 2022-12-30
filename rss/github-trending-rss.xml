@@ -8,9 +8,114 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 29 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Thu, 29 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Fri, 30 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 30 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Anuken / Mindustry</title>
+  <description>The automation tower defense RTS</description>
+  <link>https://github.com/Anuken/Mindustry</link>
+  <guid isPermaLink="false">1354</guid>
+  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>ossu / computer-science</title>
+  <description>🎓 Path to a free self-taught education in Computer Science!</description>
+  <link>https://github.com/ossu/computer-science</link>
+  <guid isPermaLink="false">1353</guid>
+  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>gbj / leptos</title>
+  <description>Build fast web applications with Rust.</description>
+  <link>https://github.com/gbj/leptos</link>
+  <guid isPermaLink="false">1352</guid>
+  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>UberGuidoZ / Flipper</title>
+  <description>Playground (and dump) of stuff I make or modify for the Flipper Zero</description>
+  <link>https://github.com/UberGuidoZ/Flipper</link>
+  <guid isPermaLink="false">1351</guid>
+  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>symfony / symfony</title>
+  <description>The Symfony PHP framework</description>
+  <link>https://github.com/symfony/symfony</link>
+  <guid isPermaLink="false">1350</guid>
+  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>tamagui / tamagui</title>
+  <description>Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄</description>
+  <link>https://github.com/tamagui/tamagui</link>
+  <guid isPermaLink="false">1349</guid>
+  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>zas023 / JdBuyer</title>
+  <description>京东抢购自动下单助手，GUI 支持 Windows 和 macOS</description>
+  <link>https://github.com/zas023/JdBuyer</link>
+  <guid isPermaLink="false">1348</guid>
+  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>HandBrake / HandBrake</title>
+  <description>HandBrake's main development repository</description>
+  <link>https://github.com/HandBrake/HandBrake</link>
+  <guid isPermaLink="false">1347</guid>
+  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>serverless-stack / sst</title>
+  <description>💥 SST makes it easy to build full-stack serverless apps.</description>
+  <link>https://github.com/serverless-stack/sst</link>
+  <guid isPermaLink="false">1346</guid>
+  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>Cameri / nostream</title>
+  <description>A Nostr Relay written in TypeScript</description>
+  <link>https://github.com/Cameri/nostream</link>
+  <guid isPermaLink="false">1345</guid>
+  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>transitive-bullshit / chatgpt-api</title>
+  <description>Node.js client for the unofficial ChatGPT API. 🔥</description>
+  <link>https://github.com/transitive-bullshit/chatgpt-api</link>
+  <guid isPermaLink="false">1344</guid>
+  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>alist-org / alist</title>
+  <description>🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。</description>
+  <link>https://github.com/alist-org/alist</link>
+  <guid isPermaLink="false">1343</guid>
+  <pubDate>Fri, 30 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>sw-yx / ai-notes</title>
+  <description>notes for my AI studies, writing, and product brainstorming</description>
+  <link>https://github.com/sw-yx/ai-notes</link>
+  <guid isPermaLink="false">1342</guid>
+  <pubDate>Fri, 30 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>wong2 / chat-gpt-google-extension</title>
+  <description>A browser extension to display ChatGPT response alongside search engine results</description>
+  <link>https://github.com/wong2/chat-gpt-google-extension</link>
+  <guid isPermaLink="false">1341</guid>
+  <pubDate>Fri, 30 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>lencx / ChatGPT</title>
+  <description>🤖 ChatGPT Desktop Application (Mac, Windows and Linux)</description>
+  <link>https://github.com/lencx/ChatGPT</link>
+  <guid isPermaLink="false">1340</guid>
+  <pubDate>Fri, 30 Dec 2022 09:00:07 -0800</pubDate>
+ </item>
  <item>
   <title>malkemit / namizun</title>
   <description>Asymmetric upload and download</description>
@@ -185,111 +290,6 @@
   <link>https://github.com/mouredev/retos-programacion-2023</link>
   <guid isPermaLink="false">1233</guid>
   <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>ChatGPT-Hackers / ChatGPT-API-server</title>
-  <description>API server for ChatGPT</description>
-  <link>https://github.com/ChatGPT-Hackers/ChatGPT-API-server</link>
-  <guid isPermaLink="false">1232</guid>
-  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>gto76 / python-cheatsheet</title>
-  <description>Comprehensive Python Cheatsheet</description>
-  <link>https://github.com/gto76/python-cheatsheet</link>
-  <guid isPermaLink="false">1199</guid>
-  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>RT-Thread / rt-thread</title>
-  <description>RT-Thread is an open source IoT operating system.</description>
-  <link>https://github.com/RT-Thread/rt-thread</link>
-  <guid isPermaLink="false">1198</guid>
-  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>donnemartin / system-design-primer</title>
-  <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
-  <link>https://github.com/donnemartin/system-design-primer</link>
-  <guid isPermaLink="false">1197</guid>
-  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>RustPython / RustPython</title>
-  <description>A Python Interpreter written in Rust</description>
-  <link>https://github.com/RustPython/RustPython</link>
-  <guid isPermaLink="false">1196</guid>
-  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>acheong08 / ChatGPT</title>
-  <description>Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.</description>
-  <link>https://github.com/acheong08/ChatGPT</link>
-  <guid isPermaLink="false">1195</guid>
-  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>JusticeRage / Gepetto</title>
-  <description>IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering</description>
-  <link>https://github.com/JusticeRage/Gepetto</link>
-  <guid isPermaLink="false">1194</guid>
-  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>I-Am-Jakoby / Flipper-Zero-BadUSB</title>
-  <description>Repository for my flipper zero badUSB payloads</description>
-  <link>https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB</link>
-  <guid isPermaLink="false">1193</guid>
-  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>below / HelloSilicon</title>
-  <description>An introduction to ARM64 assembly on Apple Silicon Macs</description>
-  <link>https://github.com/below/HelloSilicon</link>
-  <guid isPermaLink="false">1192</guid>
-  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>CarperAI / trlx</title>
-  <description>A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)</description>
-  <link>https://github.com/CarperAI/trlx</link>
-  <guid isPermaLink="false">1191</guid>
-  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>apitable / apitable</title>
-  <description>🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]</description>
-  <link>https://github.com/apitable/apitable</link>
-  <guid isPermaLink="false">1190</guid>
-  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>iamtrask / Grokking-Deep-Learning</title>
-  <description>this repository accompanies the book "Grokking Deep Learning"</description>
-  <link>https://github.com/iamtrask/Grokking-Deep-Learning</link>
-  <guid isPermaLink="false">1189</guid>
-  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>f / awesome-chatgpt-prompts</title>
-  <description>This repo includes ChatGPT promt curation to use ChatGPT better.</description>
-  <link>https://github.com/f/awesome-chatgpt-prompts</link>
-  <guid isPermaLink="false">1188</guid>
-  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>SunWeb3Sec / DeFiHackLabs</title>
-  <description>Reproduce DeFi hacked incidents using Foundry.</description>
-  <link>https://github.com/SunWeb3Sec/DeFiHackLabs</link>
-  <guid isPermaLink="false">1187</guid>
-  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>LAION-AI / Open-Assistant</title>
-  <description></description>
-  <link>https://github.com/LAION-AI/Open-Assistant</link>
-  <guid isPermaLink="false">1186</guid>
-  <pubDate>Tue, 27 Dec 2022 09:00:03 -0800</pubDate>
  </item>
 
 </channel>
