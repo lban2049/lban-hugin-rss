@@ -8,9 +8,16 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 30 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Fri, 30 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sat, 31 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sat, 31 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>创业中遇到危机了怎么办？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3687</link>
+  <pubDate>Fri, 30 Dec 2022 18:33:39 -0800</pubDate>
+  <guid isPermaLink="false">1429</guid>
+ </item>
  <item>
   <title>不上班的 1000 天，程序员自由职业 B 计划 - 做什么/收入/经验教训</title>
   <description></description>
@@ -283,13 +290,6 @@
   <link>https://w2solo.com/topics/3679</link>
   <pubDate>Mon, 12 Dec 2022 04:34:24 -0800</pubDate>
   <guid isPermaLink="false">585</guid>
- </item>
- <item>
-  <title>独立产品灵感周刊 DecoHack #041 - 那些独立开发者是怎么养活自己的</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3678</link>
-  <pubDate>Sun, 11 Dec 2022 17:23:48 -0800</pubDate>
-  <guid isPermaLink="false">586</guid>
  </item>
 
 </channel>

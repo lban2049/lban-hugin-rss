@@ -8,9 +8,114 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 30 Dec 2022 13:00:02 -0800</lastBuildDate>
- <pubDate>Fri, 30 Dec 2022 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sat, 31 Dec 2022 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sat, 31 Dec 2022 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>curl / curl</title>
+  <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
+  <link>https://github.com/curl/curl</link>
+  <guid isPermaLink="false">1410</guid>
+  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>strapi / strapi</title>
+  <description>🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.</description>
+  <link>https://github.com/strapi/strapi</link>
+  <guid isPermaLink="false">1409</guid>
+  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>Atlas-OS / Atlas</title>
+  <description>🚀 An open-source modification of Windows 10, designed to optimize performance, and latency.</description>
+  <link>https://github.com/Atlas-OS/Atlas</link>
+  <guid isPermaLink="false">1408</guid>
+  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>DovAmir / awesome-design-patterns</title>
+  <description>A curated list of software and architecture related design patterns.</description>
+  <link>https://github.com/DovAmir/awesome-design-patterns</link>
+  <guid isPermaLink="false">1407</guid>
+  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>upscayl / upscayl</title>
+  <description>🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.</description>
+  <link>https://github.com/upscayl/upscayl</link>
+  <guid isPermaLink="false">1406</guid>
+  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>google / osv-scanner</title>
+  <description>Vulnerability scanner written in Go which uses the data provided by https://osv.dev</description>
+  <link>https://github.com/google/osv-scanner</link>
+  <guid isPermaLink="false">1405</guid>
+  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>jerryjliu / gpt_index</title>
+  <description>An index created by GPT to organize external information and answer queries!</description>
+  <link>https://github.com/jerryjliu/gpt_index</link>
+  <guid isPermaLink="false">1404</guid>
+  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>nextcloud / server</title>
+  <description>☁️ Nextcloud server, a safe home for all your data</description>
+  <link>https://github.com/nextcloud/server</link>
+  <guid isPermaLink="false">1403</guid>
+  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>unocss / unocss</title>
+  <description>The instant on-demand atomic CSS engine.</description>
+  <link>https://github.com/unocss/unocss</link>
+  <guid isPermaLink="false">1402</guid>
+  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>youshandefeiyang / IPTV</title>
+  <description>肥羊的4K/8K超高清IPTV直播源&amp;&amp;直播代码仓库</description>
+  <link>https://github.com/youshandefeiyang/IPTV</link>
+  <guid isPermaLink="false">1401</guid>
+  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>alibaba / arthas</title>
+  <description>Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas</description>
+  <link>https://github.com/alibaba/arthas</link>
+  <guid isPermaLink="false">1400</guid>
+  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>airbnb / javascript</title>
+  <description>JavaScript Style Guide</description>
+  <link>https://github.com/airbnb/javascript</link>
+  <guid isPermaLink="false">1399</guid>
+  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>JonasGeiping / cramming</title>
+  <description>Cramming the training of a (BERT-type) language model into limited compute.</description>
+  <link>https://github.com/JonasGeiping/cramming</link>
+  <guid isPermaLink="false">1398</guid>
+  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>LAION-AI / Open-Assistant</title>
+  <description>OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.</description>
+  <link>https://github.com/LAION-AI/Open-Assistant</link>
+  <guid isPermaLink="false">1397</guid>
+  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>vinta / awesome-python</title>
+  <description>A curated list of awesome Python frameworks, libraries, software and resources</description>
+  <link>https://github.com/vinta/awesome-python</link>
+  <guid isPermaLink="false">1396</guid>
+  <pubDate>Sat, 31 Dec 2022 09:00:01 -0800</pubDate>
+ </item>
  <item>
   <title>Anuken / Mindustry</title>
   <description>The automation tower defense RTS</description>
@@ -185,111 +290,6 @@
   <link>https://github.com/timqian/chinese-independent-blogs</link>
   <guid isPermaLink="false">1284</guid>
   <pubDate>Thu, 29 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>zhuowei / WDBFontOverwrite</title>
-  <description>Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.</description>
-  <link>https://github.com/zhuowei/WDBFontOverwrite</link>
-  <guid isPermaLink="false">1283</guid>
-  <pubDate>Thu, 29 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>tesseract-ocr / tesseract</title>
-  <description>Tesseract Open Source OCR Engine (main repository)</description>
-  <link>https://github.com/tesseract-ocr/tesseract</link>
-  <guid isPermaLink="false">1282</guid>
-  <pubDate>Thu, 29 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>TheOfficialFloW / HENlo</title>
-  <description>WebKit+Kernel exploit chain for all PS Vita firmwares</description>
-  <link>https://github.com/TheOfficialFloW/HENlo</link>
-  <guid isPermaLink="false">1281</guid>
-  <pubDate>Thu, 29 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>excalidraw / excalidraw</title>
-  <description>Virtual whiteboard for sketching hand-drawn like diagrams</description>
-  <link>https://github.com/excalidraw/excalidraw</link>
-  <guid isPermaLink="false">1280</guid>
-  <pubDate>Thu, 29 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>microfeed / microfeed</title>
-  <description>a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.</description>
-  <link>https://github.com/microfeed/microfeed</link>
-  <guid isPermaLink="false">1279</guid>
-  <pubDate>Thu, 29 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>AmruthPillai / Reactive-Resume</title>
-  <description>A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!</description>
-  <link>https://github.com/AmruthPillai/Reactive-Resume</link>
-  <guid isPermaLink="false">1278</guid>
-  <pubDate>Thu, 29 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>apple / ml-stable-diffusion</title>
-  <description>Stable Diffusion with Core ML on Apple Silicon</description>
-  <link>https://github.com/apple/ml-stable-diffusion</link>
-  <guid isPermaLink="false">1277</guid>
-  <pubDate>Thu, 29 Dec 2022 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>sherlock-project / sherlock</title>
-  <description>🔎 Hunt down social media accounts by username across social networks</description>
-  <link>https://github.com/sherlock-project/sherlock</link>
-  <guid isPermaLink="false">1240</guid>
-  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>hehonghui / awesome-english-ebooks</title>
-  <description>经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新</description>
-  <link>https://github.com/hehonghui/awesome-english-ebooks</link>
-  <guid isPermaLink="false">1239</guid>
-  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>gin-gonic / gin</title>
-  <description>Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</description>
-  <link>https://github.com/gin-gonic/gin</link>
-  <guid isPermaLink="false">1238</guid>
-  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>novuhq / novu</title>
-  <description>The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀</description>
-  <link>https://github.com/novuhq/novu</link>
-  <guid isPermaLink="false">1237</guid>
-  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>HavocFramework / Havoc</title>
-  <description>The Havoc Framework.</description>
-  <link>https://github.com/HavocFramework/Havoc</link>
-  <guid isPermaLink="false">1236</guid>
-  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>exaloop / codon</title>
-  <description>A high-performance, zero-overhead, extensible Python compiler using LLVM</description>
-  <link>https://github.com/exaloop/codon</link>
-  <guid isPermaLink="false">1235</guid>
-  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>merbanan / rtl_433</title>
-  <description>Program to decode radio transmissions from devices on the ISM bands (and other frequencies)</description>
-  <link>https://github.com/merbanan/rtl_433</link>
-  <guid isPermaLink="false">1234</guid>
-  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>mouredev / retos-programacion-2023</title>
-  <description>Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.</description>
-  <link>https://github.com/mouredev/retos-programacion-2023</link>
-  <guid isPermaLink="false">1233</guid>
-  <pubDate>Wed, 28 Dec 2022 09:00:02 -0800</pubDate>
  </item>
 
 </channel>
