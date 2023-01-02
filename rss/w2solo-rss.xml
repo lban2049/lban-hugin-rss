@@ -8,9 +8,16 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 01 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sun, 01 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Mon, 02 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 02 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>请问大家都是如何设计自己应用的 UI 的？是不是都是用 Figma？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3670</link>
+  <pubDate>Sun, 01 Jan 2023 18:06:10 -0800</pubDate>
+  <guid isPermaLink="false">1530</guid>
+ </item>
  <item>
   <title>创业中遇到危机了怎么办？</title>
   <description></description>
@@ -283,13 +290,6 @@
   <link>https://w2solo.com/topics/3681</link>
   <pubDate>Tue, 13 Dec 2022 18:25:59 -0800</pubDate>
   <guid isPermaLink="false">584</guid>
- </item>
- <item>
-  <title>我是一名不安分的程序员~~~</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3679</link>
-  <pubDate>Mon, 12 Dec 2022 04:34:24 -0800</pubDate>
-  <guid isPermaLink="false">585</guid>
  </item>
 
 </channel>

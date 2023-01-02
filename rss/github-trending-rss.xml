@@ -8,9 +8,121 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 01 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sun, 01 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Mon, 02 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 02 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>laurent22 / joplin</title>
+  <description>Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</description>
+  <link>https://github.com/laurent22/joplin</link>
+  <guid isPermaLink="false">1509</guid>
+  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>jellyfin / Swiftfin</title>
+  <description>Native Jellyfin Client for iOS and tvOS</description>
+  <link>https://github.com/jellyfin/Swiftfin</link>
+  <guid isPermaLink="false">1508</guid>
+  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>pmndrs / zustand</title>
+  <description>🐻 Bear necessities for state management in React</description>
+  <link>https://github.com/pmndrs/zustand</link>
+  <guid isPermaLink="false">1507</guid>
+  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>itzg / docker-minecraft-server</title>
+  <description>Docker image that provides a Minecraft Server that will automatically download selected version at startup</description>
+  <link>https://github.com/itzg/docker-minecraft-server</link>
+  <guid isPermaLink="false">1506</guid>
+  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>OpenBB-finance / OpenBBTerminal</title>
+  <description>Investment Research for Everyone, Anywhere.</description>
+  <link>https://github.com/OpenBB-finance/OpenBBTerminal</link>
+  <guid isPermaLink="false">1505</guid>
+  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>github / docs</title>
+  <description>The open-source repo for docs.github.com</description>
+  <link>https://github.com/github/docs</link>
+  <guid isPermaLink="false">1504</guid>
+  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>calcom / cal.com</title>
+  <description>Scheduling infrastructure for absolutely everyone.</description>
+  <link>https://github.com/calcom/cal.com</link>
+  <guid isPermaLink="false">1503</guid>
+  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>vercel / hyper</title>
+  <description>A terminal built on web technologies</description>
+  <link>https://github.com/vercel/hyper</link>
+  <guid isPermaLink="false">1502</guid>
+  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>priyankavergadia / GCPSketchnote</title>
+  <description>If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.</description>
+  <link>https://github.com/priyankavergadia/GCPSketchnote</link>
+  <guid isPermaLink="false">1501</guid>
+  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>termux / termux-packages</title>
+  <description>A build system and primary set of packages for Termux.</description>
+  <link>https://github.com/termux/termux-packages</link>
+  <guid isPermaLink="false">1500</guid>
+  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>zakird / crux-top-lists</title>
+  <description>Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery.</description>
+  <link>https://github.com/zakird/crux-top-lists</link>
+  <guid isPermaLink="false">1499</guid>
+  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>Z4nzu / hackingtool</title>
+  <description>ALL IN ONE Hacking Tool For Hackers</description>
+  <link>https://github.com/Z4nzu/hackingtool</link>
+  <guid isPermaLink="false">1498</guid>
+  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>Developer-Y / cs-video-courses</title>
+  <description>List of Computer Science courses with video lectures.</description>
+  <link>https://github.com/Developer-Y/cs-video-courses</link>
+  <guid isPermaLink="false">1497</guid>
+  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>mxssl / sre-interview-prep-guide</title>
+  <description>Site Reliability Engineer Interview Preparation Guide</description>
+  <link>https://github.com/mxssl/sre-interview-prep-guide</link>
+  <guid isPermaLink="false">1496</guid>
+  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>ashemery / exploitation-course</title>
+  <description>Offensive Software Exploitation Course</description>
+  <link>https://github.com/ashemery/exploitation-course</link>
+  <guid isPermaLink="false">1495</guid>
+  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>2dust / v2rayNG</title>
+  <description>A V2Ray client for Android, support Xray core and v2fly core</description>
+  <link>https://github.com/2dust/v2rayNG</link>
+  <guid isPermaLink="false">1494</guid>
+  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
  <item>
   <title>SheerSt / pokewilds</title>
   <description>PokeWilds - A Gen 2 Game/Engine using libGDX</description>
@@ -178,118 +290,6 @@
   <link>https://github.com/youshandefeiyang/IPTV</link>
   <guid isPermaLink="false">1401</guid>
   <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>alibaba / arthas</title>
-  <description>Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas</description>
-  <link>https://github.com/alibaba/arthas</link>
-  <guid isPermaLink="false">1400</guid>
-  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>airbnb / javascript</title>
-  <description>JavaScript Style Guide</description>
-  <link>https://github.com/airbnb/javascript</link>
-  <guid isPermaLink="false">1399</guid>
-  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>JonasGeiping / cramming</title>
-  <description>Cramming the training of a (BERT-type) language model into limited compute.</description>
-  <link>https://github.com/JonasGeiping/cramming</link>
-  <guid isPermaLink="false">1398</guid>
-  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>LAION-AI / Open-Assistant</title>
-  <description>OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.</description>
-  <link>https://github.com/LAION-AI/Open-Assistant</link>
-  <guid isPermaLink="false">1397</guid>
-  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>vinta / awesome-python</title>
-  <description>A curated list of awesome Python frameworks, libraries, software and resources</description>
-  <link>https://github.com/vinta/awesome-python</link>
-  <guid isPermaLink="false">1396</guid>
-  <pubDate>Sat, 31 Dec 2022 09:00:01 -0800</pubDate>
- </item>
- <item>
-  <title>Anuken / Mindustry</title>
-  <description>The automation tower defense RTS</description>
-  <link>https://github.com/Anuken/Mindustry</link>
-  <guid isPermaLink="false">1354</guid>
-  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>ossu / computer-science</title>
-  <description>🎓 Path to a free self-taught education in Computer Science!</description>
-  <link>https://github.com/ossu/computer-science</link>
-  <guid isPermaLink="false">1353</guid>
-  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>gbj / leptos</title>
-  <description>Build fast web applications with Rust.</description>
-  <link>https://github.com/gbj/leptos</link>
-  <guid isPermaLink="false">1352</guid>
-  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>UberGuidoZ / Flipper</title>
-  <description>Playground (and dump) of stuff I make or modify for the Flipper Zero</description>
-  <link>https://github.com/UberGuidoZ/Flipper</link>
-  <guid isPermaLink="false">1351</guid>
-  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>symfony / symfony</title>
-  <description>The Symfony PHP framework</description>
-  <link>https://github.com/symfony/symfony</link>
-  <guid isPermaLink="false">1350</guid>
-  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>tamagui / tamagui</title>
-  <description>Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄</description>
-  <link>https://github.com/tamagui/tamagui</link>
-  <guid isPermaLink="false">1349</guid>
-  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>zas023 / JdBuyer</title>
-  <description>京东抢购自动下单助手，GUI 支持 Windows 和 macOS</description>
-  <link>https://github.com/zas023/JdBuyer</link>
-  <guid isPermaLink="false">1348</guid>
-  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>HandBrake / HandBrake</title>
-  <description>HandBrake's main development repository</description>
-  <link>https://github.com/HandBrake/HandBrake</link>
-  <guid isPermaLink="false">1347</guid>
-  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>serverless-stack / sst</title>
-  <description>💥 SST makes it easy to build full-stack serverless apps.</description>
-  <link>https://github.com/serverless-stack/sst</link>
-  <guid isPermaLink="false">1346</guid>
-  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>Cameri / nostream</title>
-  <description>A Nostr Relay written in TypeScript</description>
-  <link>https://github.com/Cameri/nostream</link>
-  <guid isPermaLink="false">1345</guid>
-  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>transitive-bullshit / chatgpt-api</title>
-  <description>Node.js client for the unofficial ChatGPT API. 🔥</description>
-  <link>https://github.com/transitive-bullshit/chatgpt-api</link>
-  <guid isPermaLink="false">1344</guid>
-  <pubDate>Fri, 30 Dec 2022 09:00:08 -0800</pubDate>
  </item>
 
 </channel>
