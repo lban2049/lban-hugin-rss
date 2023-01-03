@@ -8,9 +8,93 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 02 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 02 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 03 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Tue, 03 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>withastro / astro</title>
+  <description>Build faster websites with Astro's next-gen island architecture 🏝✨</description>
+  <link>https://github.com/withastro/astro</link>
+  <guid isPermaLink="false">1542</guid>
+  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>starkoora / wanted-pre-onboarding-challenge-fe-1-api</title>
+  <description></description>
+  <link>https://github.com/starkoora/wanted-pre-onboarding-challenge-fe-1-api</link>
+  <guid isPermaLink="false">1541</guid>
+  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>kubernetes / minikube</title>
+  <description>Run Kubernetes locally</description>
+  <link>https://github.com/kubernetes/minikube</link>
+  <guid isPermaLink="false">1540</guid>
+  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>nvm-sh / nvm</title>
+  <description>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</description>
+  <link>https://github.com/nvm-sh/nvm</link>
+  <guid isPermaLink="false">1539</guid>
+  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>easychen / stack-roadmap</title>
+  <description>方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈</description>
+  <link>https://github.com/easychen/stack-roadmap</link>
+  <guid isPermaLink="false">1538</guid>
+  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>godly-devotion / MochiDiffusion</title>
+  <description>Run Stable Diffusion on Apple Silicon Macs natively</description>
+  <link>https://github.com/godly-devotion/MochiDiffusion</link>
+  <guid isPermaLink="false">1537</guid>
+  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>DataTalksClub / data-engineering-zoomcamp</title>
+  <description>Free Data Engineering course!</description>
+  <link>https://github.com/DataTalksClub/data-engineering-zoomcamp</link>
+  <guid isPermaLink="false">1536</guid>
+  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>gluon-framework / gluon</title>
+  <description>A framework for creating "desktop apps" from websites, using system installed browsers (not webviews) and NodeJS</description>
+  <link>https://github.com/gluon-framework/gluon</link>
+  <guid isPermaLink="false">1535</guid>
+  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Asabeneh / 30-Days-Of-React</title>
+  <description>30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…</description>
+  <link>https://github.com/Asabeneh/30-Days-Of-React</link>
+  <guid isPermaLink="false">1534</guid>
+  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>rmcelreath / stat_rethinking_2023</title>
+  <description>Statistical Rethinking Course for Jan-Mar 2023</description>
+  <link>https://github.com/rmcelreath/stat_rethinking_2023</link>
+  <guid isPermaLink="false">1533</guid>
+  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>bigscience-workshop / petals</title>
+  <description>🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading</description>
+  <link>https://github.com/bigscience-workshop/petals</link>
+  <guid isPermaLink="false">1532</guid>
+  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>papers-we-love / papers-we-love</title>
+  <description>Papers from the computer science community to read and discuss.</description>
+  <link>https://github.com/papers-we-love/papers-we-love</link>
+  <guid isPermaLink="false">1531</guid>
+  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
  <item>
   <title>laurent22 / joplin</title>
   <description>Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</description>
@@ -206,90 +290,6 @@
   <link>https://github.com/neonbjb/tortoise-tts</link>
   <guid isPermaLink="false">1444</guid>
   <pubDate>Sun, 01 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>pola-rs / polars</title>
-  <description>Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js</description>
-  <link>https://github.com/pola-rs/polars</link>
-  <guid isPermaLink="false">1443</guid>
-  <pubDate>Sun, 01 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>karpathy / nanoGPT</title>
-  <description>The simplest, fastest repository for training/finetuning medium-sized GPTs.</description>
-  <link>https://github.com/karpathy/nanoGPT</link>
-  <guid isPermaLink="false">1442</guid>
-  <pubDate>Sun, 01 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>curl / curl</title>
-  <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
-  <link>https://github.com/curl/curl</link>
-  <guid isPermaLink="false">1410</guid>
-  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>strapi / strapi</title>
-  <description>🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.</description>
-  <link>https://github.com/strapi/strapi</link>
-  <guid isPermaLink="false">1409</guid>
-  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>Atlas-OS / Atlas</title>
-  <description>🚀 An open-source modification of Windows 10, designed to optimize performance, and latency.</description>
-  <link>https://github.com/Atlas-OS/Atlas</link>
-  <guid isPermaLink="false">1408</guid>
-  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>DovAmir / awesome-design-patterns</title>
-  <description>A curated list of software and architecture related design patterns.</description>
-  <link>https://github.com/DovAmir/awesome-design-patterns</link>
-  <guid isPermaLink="false">1407</guid>
-  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>upscayl / upscayl</title>
-  <description>🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.</description>
-  <link>https://github.com/upscayl/upscayl</link>
-  <guid isPermaLink="false">1406</guid>
-  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>google / osv-scanner</title>
-  <description>Vulnerability scanner written in Go which uses the data provided by https://osv.dev</description>
-  <link>https://github.com/google/osv-scanner</link>
-  <guid isPermaLink="false">1405</guid>
-  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>jerryjliu / gpt_index</title>
-  <description>An index created by GPT to organize external information and answer queries!</description>
-  <link>https://github.com/jerryjliu/gpt_index</link>
-  <guid isPermaLink="false">1404</guid>
-  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>nextcloud / server</title>
-  <description>☁️ Nextcloud server, a safe home for all your data</description>
-  <link>https://github.com/nextcloud/server</link>
-  <guid isPermaLink="false">1403</guid>
-  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>unocss / unocss</title>
-  <description>The instant on-demand atomic CSS engine.</description>
-  <link>https://github.com/unocss/unocss</link>
-  <guid isPermaLink="false">1402</guid>
-  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>youshandefeiyang / IPTV</title>
-  <description>肥羊的4K/8K超高清IPTV直播源&amp;&amp;直播代码仓库</description>
-  <link>https://github.com/youshandefeiyang/IPTV</link>
-  <guid isPermaLink="false">1401</guid>
-  <pubDate>Sat, 31 Dec 2022 09:00:02 -0800</pubDate>
  </item>
 
 </channel>

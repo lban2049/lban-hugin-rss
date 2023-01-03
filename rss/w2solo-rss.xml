@@ -8,9 +8,23 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 02 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 02 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 03 Jan 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Tue, 03 Jan 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>​独立开发者分享 微信群</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3697</link>
+  <pubDate>Tue, 03 Jan 2023 06:52:45 -0800</pubDate>
+  <guid isPermaLink="false">1572</guid>
+ </item>
+ <item>
+  <title>一款练字类 APP</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3696</link>
+  <pubDate>Mon, 02 Jan 2023 17:36:48 -0800</pubDate>
+  <guid isPermaLink="false">1573</guid>
+ </item>
  <item>
   <title>请问大家都是如何设计自己应用的 UI 的？是不是都是用 Figma？</title>
   <description></description>
@@ -276,20 +290,6 @@
   <link>https://w2solo.com/topics/3684</link>
   <pubDate>Wed, 14 Dec 2022 16:43:22 -0800</pubDate>
   <guid isPermaLink="false">582</guid>
- </item>
- <item>
-  <title>尝试业余独立开发一年半后</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3680</link>
-  <pubDate>Tue, 13 Dec 2022 23:33:03 -0800</pubDate>
-  <guid isPermaLink="false">583</guid>
- </item>
- <item>
-  <title>开源大数据比对平台—dataCompare</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3681</link>
-  <pubDate>Tue, 13 Dec 2022 18:25:59 -0800</pubDate>
-  <guid isPermaLink="false">584</guid>
  </item>
 
 </channel>
