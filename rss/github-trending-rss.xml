@@ -8,9 +8,114 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 03 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Tue, 03 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Wed, 04 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Wed, 04 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>ray-project / ray</title>
+  <description>Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.</description>
+  <link>https://github.com/ray-project/ray</link>
+  <guid isPermaLink="false">1608</guid>
+  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>Azure / azure-sdk-for-python</title>
+  <description>This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.</description>
+  <link>https://github.com/Azure/azure-sdk-for-python</link>
+  <guid isPermaLink="false">1607</guid>
+  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>CodeEditApp / CodeEdit</title>
+  <description>CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.</description>
+  <link>https://github.com/CodeEditApp/CodeEdit</link>
+  <guid isPermaLink="false">1606</guid>
+  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>tobymao / sqlglot</title>
+  <description>Python SQL Parser and Transpiler</description>
+  <link>https://github.com/tobymao/sqlglot</link>
+  <guid isPermaLink="false">1605</guid>
+  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>gluon-framework / gluon</title>
+  <description>A new framework for creating desktop apps from websites, using system installed browsers and NodeJS</description>
+  <link>https://github.com/gluon-framework/gluon</link>
+  <guid isPermaLink="false">1604</guid>
+  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>appsmithorg / appsmith</title>
+  <description>Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.</description>
+  <link>https://github.com/appsmithorg/appsmith</link>
+  <guid isPermaLink="false">1603</guid>
+  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>ThioJoe / Auto-Synced-Translated-Dubs</title>
+  <description>Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings</description>
+  <link>https://github.com/ThioJoe/Auto-Synced-Translated-Dubs</link>
+  <guid isPermaLink="false">1602</guid>
+  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>jahidulislamzim / JavaScriptCodingChallenges</title>
+  <description>Hello JavaScript code newbie! In this repository I'm proposing you a series of coding challenges that will help you practice the basic language constructs and algorithms.</description>
+  <link>https://github.com/jahidulislamzim/JavaScriptCodingChallenges</link>
+  <guid isPermaLink="false">1601</guid>
+  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>sadanandpai / frontend-learning-kit</title>
+  <description>Frontend tech guide and curated collection of frontend materials</description>
+  <link>https://github.com/sadanandpai/frontend-learning-kit</link>
+  <guid isPermaLink="false">1600</guid>
+  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / pyright</title>
+  <description>Static type checker for Python</description>
+  <link>https://github.com/microsoft/pyright</link>
+  <guid isPermaLink="false">1599</guid>
+  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>MuhammedKalkan / OpenLens</title>
+  <description>OpenLens Binary Build Repository</description>
+  <link>https://github.com/MuhammedKalkan/OpenLens</link>
+  <guid isPermaLink="false">1598</guid>
+  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>practical-tutorials / project-based-learning</title>
+  <description>Curated list of project-based tutorials</description>
+  <link>https://github.com/practical-tutorials/project-based-learning</link>
+  <guid isPermaLink="false">1597</guid>
+  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>TencentARC / GFPGAN</title>
+  <description>GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.</description>
+  <link>https://github.com/TencentARC/GFPGAN</link>
+  <guid isPermaLink="false">1596</guid>
+  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>zlib-searcher / zlib-searcher</title>
+  <description>search zlib/libgen index</description>
+  <link>https://github.com/zlib-searcher/zlib-searcher</link>
+  <guid isPermaLink="false">1595</guid>
+  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>lensapp / lens</title>
+  <description>Lens - The way the world runs Kubernetes</description>
+  <link>https://github.com/lensapp/lens</link>
+  <guid isPermaLink="false">1594</guid>
+  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
  <item>
   <title>withastro / astro</title>
   <description>Build faster websites with Astro's next-gen island architecture 🏝✨</description>
@@ -185,111 +290,6 @@
   <link>https://github.com/Developer-Y/cs-video-courses</link>
   <guid isPermaLink="false">1497</guid>
   <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>mxssl / sre-interview-prep-guide</title>
-  <description>Site Reliability Engineer Interview Preparation Guide</description>
-  <link>https://github.com/mxssl/sre-interview-prep-guide</link>
-  <guid isPermaLink="false">1496</guid>
-  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>ashemery / exploitation-course</title>
-  <description>Offensive Software Exploitation Course</description>
-  <link>https://github.com/ashemery/exploitation-course</link>
-  <guid isPermaLink="false">1495</guid>
-  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>2dust / v2rayNG</title>
-  <description>A V2Ray client for Android, support Xray core and v2fly core</description>
-  <link>https://github.com/2dust/v2rayNG</link>
-  <guid isPermaLink="false">1494</guid>
-  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>SheerSt / pokewilds</title>
-  <description>PokeWilds - A Gen 2 Game/Engine using libGDX</description>
-  <link>https://github.com/SheerSt/pokewilds</link>
-  <guid isPermaLink="false">1455</guid>
-  <pubDate>Sun, 01 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>freeCodeCamp / freeCodeCamp</title>
-  <description>freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.</description>
-  <link>https://github.com/freeCodeCamp/freeCodeCamp</link>
-  <guid isPermaLink="false">1454</guid>
-  <pubDate>Sun, 01 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>BrunoLevy / learn-fpga</title>
-  <description>Learning FPGA, yosys, nextpnr, and RISC-V</description>
-  <link>https://github.com/BrunoLevy/learn-fpga</link>
-  <guid isPermaLink="false">1453</guid>
-  <pubDate>Sun, 01 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>zlib-searcher / zlib-searcher</title>
-  <description>search zlib/libgen index to get ipfs_cid.</description>
-  <link>https://github.com/zlib-searcher/zlib-searcher</link>
-  <guid isPermaLink="false">1452</guid>
-  <pubDate>Sun, 01 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>aurae-runtime / aurae</title>
-  <description>Distributed systems runtime daemon written in Rust.</description>
-  <link>https://github.com/aurae-runtime/aurae</link>
-  <guid isPermaLink="false">1451</guid>
-  <pubDate>Sun, 01 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>imDazui / Tvlist-awesome-m3u-m3u8</title>
-  <description>直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵</description>
-  <link>https://github.com/imDazui/Tvlist-awesome-m3u-m3u8</link>
-  <guid isPermaLink="false">1450</guid>
-  <pubDate>Sun, 01 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>A-poc / RedTeam-Tools</title>
-  <description>Tools and Techniques for Red Team / Penetration Testing</description>
-  <link>https://github.com/A-poc/RedTeam-Tools</link>
-  <guid isPermaLink="false">1449</guid>
-  <pubDate>Sun, 01 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>PRQL / prql</title>
-  <description>PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement</description>
-  <link>https://github.com/PRQL/prql</link>
-  <guid isPermaLink="false">1448</guid>
-  <pubDate>Sun, 01 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>ocornut / imgui</title>
-  <description>Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</description>
-  <link>https://github.com/ocornut/imgui</link>
-  <guid isPermaLink="false">1447</guid>
-  <pubDate>Sun, 01 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>Ebazhanov / linkedin-skill-assessments-quizzes</title>
-  <description>Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers</description>
-  <link>https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes</link>
-  <guid isPermaLink="false">1446</guid>
-  <pubDate>Sun, 01 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>dair-ai / Prompt-Engineering-Guide</title>
-  <description>🐙 Guide and resources for prompt engineering</description>
-  <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
-  <guid isPermaLink="false">1445</guid>
-  <pubDate>Sun, 01 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>neonbjb / tortoise-tts</title>
-  <description>A multi-voice TTS system trained with an emphasis on quality</description>
-  <link>https://github.com/neonbjb/tortoise-tts</link>
-  <guid isPermaLink="false">1444</guid>
-  <pubDate>Sun, 01 Jan 2023 09:00:06 -0800</pubDate>
  </item>
 
 </channel>

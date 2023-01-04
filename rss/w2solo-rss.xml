@@ -8,9 +8,16 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 03 Jan 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Tue, 03 Jan 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Wed, 04 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Wed, 04 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>​独立开发者分享 微信群</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3697</link>
+  <pubDate>Tue, 03 Jan 2023 17:07:17 -0800</pubDate>
+  <guid isPermaLink="false">1635</guid>
+ </item>
  <item>
   <title>​独立开发者分享 微信群</title>
   <description></description>
@@ -283,13 +290,6 @@
   <link>https://w2solo.com/topics/3636</link>
   <pubDate>Wed, 14 Dec 2022 19:52:58 -0800</pubDate>
   <guid isPermaLink="false">581</guid>
- </item>
- <item>
-  <title>sssbar - 浏览器快捷搜索框</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3684</link>
-  <pubDate>Wed, 14 Dec 2022 16:43:22 -0800</pubDate>
-  <guid isPermaLink="false">582</guid>
  </item>
 
 </channel>
