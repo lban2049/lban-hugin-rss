@@ -8,9 +8,142 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 04 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Wed, 04 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Thu, 05 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Thu, 05 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Azure / azure-sdk-for-net</title>
+  <description>This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.</description>
+  <link>https://github.com/Azure/azure-sdk-for-net</link>
+  <guid isPermaLink="false">1664</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>influxdata / telegraf</title>
+  <description>The plugin-driven server agent for collecting &amp; reporting metrics.</description>
+  <link>https://github.com/influxdata/telegraf</link>
+  <guid isPermaLink="false">1663</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>swaggo / swag</title>
+  <description>Automatically generate RESTful API documentation with Swagger 2.0 for Go.</description>
+  <link>https://github.com/swaggo/swag</link>
+  <guid isPermaLink="false">1662</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>HalseySpicy / Geeker-Admin</title>
+  <description>✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite3、Pinia、Element-Plus 开源的一套后台管理框架。</description>
+  <link>https://github.com/HalseySpicy/Geeker-Admin</link>
+  <guid isPermaLink="false">1661</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>hashicorp / nomad</title>
+  <description>Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.</description>
+  <link>https://github.com/hashicorp/nomad</link>
+  <guid isPermaLink="false">1660</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>dotnet / aspnetcore</title>
+  <description>ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.</description>
+  <link>https://github.com/dotnet/aspnetcore</link>
+  <guid isPermaLink="false">1659</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>itwanger / toBeBetterJavaer</title>
+  <description>一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄</description>
+  <link>https://github.com/itwanger/toBeBetterJavaer</link>
+  <guid isPermaLink="false">1658</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>confluentinc / librdkafka</title>
+  <description>The Apache Kafka C/C++ library</description>
+  <link>https://github.com/confluentinc/librdkafka</link>
+  <guid isPermaLink="false">1657</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>testcontainers / testcontainers-java</title>
+  <description>Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.</description>
+  <link>https://github.com/testcontainers/testcontainers-java</link>
+  <guid isPermaLink="false">1656</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>karpathy / minGPT</title>
+  <description>A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training</description>
+  <link>https://github.com/karpathy/minGPT</link>
+  <guid isPermaLink="false">1655</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>nostr-protocol / nostr</title>
+  <description>a truly censorship-resistant alternative to Twitter that has a chance of working</description>
+  <link>https://github.com/nostr-protocol/nostr</link>
+  <guid isPermaLink="false">1654</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>alan2207 / bulletproof-react</title>
+  <description>🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.</description>
+  <link>https://github.com/alan2207/bulletproof-react</link>
+  <guid isPermaLink="false">1653</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>testerSunshine / 12306</title>
+  <description>12306智能刷票，订票</description>
+  <link>https://github.com/testerSunshine/12306</link>
+  <guid isPermaLink="false">1652</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>score-spec / spec</title>
+  <description>The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.</description>
+  <link>https://github.com/score-spec/spec</link>
+  <guid isPermaLink="false">1651</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>protocolbuffers / protobuf</title>
+  <description>Protocol Buffers - Google's data interchange format</description>
+  <link>https://github.com/protocolbuffers/protobuf</link>
+  <guid isPermaLink="false">1650</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>ambrosiogabe / MathAnimation</title>
+  <description>A simple C++/OpenGL application to create quick and dirty mathematically accurate animations</description>
+  <link>https://github.com/ambrosiogabe/MathAnimation</link>
+  <guid isPermaLink="false">1649</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>sourcegraph / conc</title>
+  <description>Better structured concurrency for go</description>
+  <link>https://github.com/sourcegraph/conc</link>
+  <guid isPermaLink="false">1648</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>hpcaitech / ColossalAI</title>
+  <description>Colossal-AI: A Unified Deep Learning System for Big Model Era</description>
+  <link>https://github.com/hpcaitech/ColossalAI</link>
+  <guid isPermaLink="false">1647</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>gz-yami / mall4cloud</title>
+  <description>⭐️⭐️⭐️ Springcloud商城 O2O商城 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 微服务商城</description>
+  <link>https://github.com/gz-yami/mall4cloud</link>
+  <guid isPermaLink="false">1646</guid>
+  <pubDate>Thu, 05 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
  <item>
   <title>ray-project / ray</title>
   <description>Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.</description>
@@ -157,139 +290,6 @@
   <link>https://github.com/godly-devotion/MochiDiffusion</link>
   <guid isPermaLink="false">1537</guid>
   <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>DataTalksClub / data-engineering-zoomcamp</title>
-  <description>Free Data Engineering course!</description>
-  <link>https://github.com/DataTalksClub/data-engineering-zoomcamp</link>
-  <guid isPermaLink="false">1536</guid>
-  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>gluon-framework / gluon</title>
-  <description>A framework for creating "desktop apps" from websites, using system installed browsers (not webviews) and NodeJS</description>
-  <link>https://github.com/gluon-framework/gluon</link>
-  <guid isPermaLink="false">1535</guid>
-  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>Asabeneh / 30-Days-Of-React</title>
-  <description>30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…</description>
-  <link>https://github.com/Asabeneh/30-Days-Of-React</link>
-  <guid isPermaLink="false">1534</guid>
-  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>rmcelreath / stat_rethinking_2023</title>
-  <description>Statistical Rethinking Course for Jan-Mar 2023</description>
-  <link>https://github.com/rmcelreath/stat_rethinking_2023</link>
-  <guid isPermaLink="false">1533</guid>
-  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>bigscience-workshop / petals</title>
-  <description>🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading</description>
-  <link>https://github.com/bigscience-workshop/petals</link>
-  <guid isPermaLink="false">1532</guid>
-  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>papers-we-love / papers-we-love</title>
-  <description>Papers from the computer science community to read and discuss.</description>
-  <link>https://github.com/papers-we-love/papers-we-love</link>
-  <guid isPermaLink="false">1531</guid>
-  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>laurent22 / joplin</title>
-  <description>Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</description>
-  <link>https://github.com/laurent22/joplin</link>
-  <guid isPermaLink="false">1509</guid>
-  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>jellyfin / Swiftfin</title>
-  <description>Native Jellyfin Client for iOS and tvOS</description>
-  <link>https://github.com/jellyfin/Swiftfin</link>
-  <guid isPermaLink="false">1508</guid>
-  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>pmndrs / zustand</title>
-  <description>🐻 Bear necessities for state management in React</description>
-  <link>https://github.com/pmndrs/zustand</link>
-  <guid isPermaLink="false">1507</guid>
-  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>itzg / docker-minecraft-server</title>
-  <description>Docker image that provides a Minecraft Server that will automatically download selected version at startup</description>
-  <link>https://github.com/itzg/docker-minecraft-server</link>
-  <guid isPermaLink="false">1506</guid>
-  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>OpenBB-finance / OpenBBTerminal</title>
-  <description>Investment Research for Everyone, Anywhere.</description>
-  <link>https://github.com/OpenBB-finance/OpenBBTerminal</link>
-  <guid isPermaLink="false">1505</guid>
-  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>github / docs</title>
-  <description>The open-source repo for docs.github.com</description>
-  <link>https://github.com/github/docs</link>
-  <guid isPermaLink="false">1504</guid>
-  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>calcom / cal.com</title>
-  <description>Scheduling infrastructure for absolutely everyone.</description>
-  <link>https://github.com/calcom/cal.com</link>
-  <guid isPermaLink="false">1503</guid>
-  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>vercel / hyper</title>
-  <description>A terminal built on web technologies</description>
-  <link>https://github.com/vercel/hyper</link>
-  <guid isPermaLink="false">1502</guid>
-  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>priyankavergadia / GCPSketchnote</title>
-  <description>If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.</description>
-  <link>https://github.com/priyankavergadia/GCPSketchnote</link>
-  <guid isPermaLink="false">1501</guid>
-  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>termux / termux-packages</title>
-  <description>A build system and primary set of packages for Termux.</description>
-  <link>https://github.com/termux/termux-packages</link>
-  <guid isPermaLink="false">1500</guid>
-  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>zakird / crux-top-lists</title>
-  <description>Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery.</description>
-  <link>https://github.com/zakird/crux-top-lists</link>
-  <guid isPermaLink="false">1499</guid>
-  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>Z4nzu / hackingtool</title>
-  <description>ALL IN ONE Hacking Tool For Hackers</description>
-  <link>https://github.com/Z4nzu/hackingtool</link>
-  <guid isPermaLink="false">1498</guid>
-  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>Developer-Y / cs-video-courses</title>
-  <description>List of Computer Science courses with video lectures.</description>
-  <link>https://github.com/Developer-Y/cs-video-courses</link>
-  <guid isPermaLink="false">1497</guid>
-  <pubDate>Mon, 02 Jan 2023 09:00:06 -0800</pubDate>
  </item>
 
 </channel>
