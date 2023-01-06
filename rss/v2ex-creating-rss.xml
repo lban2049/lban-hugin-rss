@@ -8,9 +8,212 @@
  <title>v2ex creating RSS</title>
  <description>v2ex creating RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 05 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Thu, 05 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Fri, 06 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 06 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>A1Blocker - iOS 上隐藏 App 和锁定 App 来进一步保护你的隐私 ( 新年新版本 2.2.0 发布+送码)</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906493#reply408</link>
+  <pubDate>Fri, 06 Jan 2023 08:53:11 -0800</pubDate>
+  <guid isPermaLink="false">1728</guid>
+ </item>
+ <item>
+  <title>我用 Framer 这软件做了个网站, 效果挺酷眩, 还需要前端吗?</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906923#reply37</link>
+  <pubDate>Fri, 06 Jan 2023 08:45:35 -0800</pubDate>
+  <guid isPermaLink="false">1731</guid>
+ </item>
+ <item>
+  <title>iPad 、 iPhone 、AirPods、苹果芯片 参数大全 web</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/907060#reply8</link>
+  <pubDate>Fri, 06 Jan 2023 08:33:04 -0800</pubDate>
+  <guid isPermaLink="false">1724</guid>
+ </item>
+ <item>
+  <title>github 上找了个基于语雀 api 和 go 语言开发的技术博客</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/907082#reply12</link>
+  <pubDate>Fri, 06 Jan 2023 08:29:07 -0800</pubDate>
+  <guid isPermaLink="false">1722</guid>
+ </item>
+ <item>
+  <title>做了一款用于练习面试的小工具 https://demo.interviewai.me/</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906951#reply2</link>
+  <pubDate>Fri, 06 Jan 2023 08:24:44 -0800</pubDate>
+  <guid isPermaLink="false">1739</guid>
+ </item>
+ <item>
+  <title>我是一名北漂的 web 前端工程师，一直以来想自己做款产品，再仔细斟酌后，选择在电脑浏览器端做一款手机一样的桌面，帮助大家管理各种常用网址，并提供各种快捷工具帮助提高工作效率，他就是我花两个月时间开发的格子桌面。</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/907061#reply31</link>
+  <pubDate>Fri, 06 Jan 2023 08:14:40 -0800</pubDate>
+  <guid isPermaLink="false">1723</guid>
+ </item>
+ <item>
+  <title>搞了一个 C++ 的 Postfix completion 的 VSCode 插件</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/907105#reply0</link>
+  <pubDate>Fri, 06 Jan 2023 07:47:22 -0800</pubDate>
+  <guid isPermaLink="false">1725</guid>
+ </item>
+ <item>
+  <title>最近学习 webrtc 搞了一个 P2P 聊天室，支持语音视频通话、分享屏幕、传送文字文件</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/907092#reply2</link>
+  <pubDate>Fri, 06 Jan 2023 07:08:59 -0800</pubDate>
+  <guid isPermaLink="false">1726</guid>
+ </item>
+ <item>
+  <title>如何用 OpenSSL 在 V 站给我发私信</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906645#reply25</link>
+  <pubDate>Fri, 06 Jan 2023 06:18:32 -0800</pubDate>
+  <guid isPermaLink="false">1742</guid>
+ </item>
+ <item>
+  <title>[抽奖送码] Gotcha Rest Client 更新 1.6.0 版本，实现了完整的 API 设计功能。基础功能永久免费，评论抽取 20 个价值 98 元的专业版兑换码。</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906718#reply182</link>
+  <pubDate>Fri, 06 Jan 2023 06:14:36 -0800</pubDate>
+  <guid isPermaLink="false">1727</guid>
+ </item>
+ <item>
+  <title>写了一个理想中的网站</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906879#reply24</link>
+  <pubDate>Fri, 06 Jan 2023 05:13:19 -0800</pubDate>
+  <guid isPermaLink="false">1736</guid>
+ </item>
+ <item>
+  <title>🤖 用 Pake 打包了一个精致 ZLibrary 桌面端</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906741#reply14</link>
+  <pubDate>Fri, 06 Jan 2023 04:54:05 -0800</pubDate>
+  <guid isPermaLink="false">1743</guid>
+ </item>
+ <item>
+  <title>写了一个纯文本日记应用 web《标题日记》，欢迎试用</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906964#reply13</link>
+  <pubDate>Fri, 06 Jan 2023 04:45:08 -0800</pubDate>
+  <guid isPermaLink="false">1730</guid>
+ </item>
+ <item>
+  <title>工作之余用 rust 写了一个 im 聊天服务</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906987#reply9</link>
+  <pubDate>Fri, 06 Jan 2023 04:22:14 -0800</pubDate>
+  <guid isPermaLink="false">1729</guid>
+ </item>
+ <item>
+  <title>不知道以后会不会有一部基于俄乌克兰的战争 Call Of Duty</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906889#reply19</link>
+  <pubDate>Fri, 06 Jan 2023 03:44:21 -0800</pubDate>
+  <guid isPermaLink="false">1740</guid>
+ </item>
+ <item>
+  <title>写了一个工具类小程序，取名小功能匣子</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/907056#reply3</link>
+  <pubDate>Fri, 06 Jan 2023 02:27:58 -0800</pubDate>
+  <guid isPermaLink="false">1732</guid>
+ </item>
+ <item>
+  <title>做了个网页编辑器 免费！</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/907006#reply13</link>
+  <pubDate>Fri, 06 Jan 2023 02:21:24 -0800</pubDate>
+  <guid isPermaLink="false">1733</guid>
+ </item>
+ <item>
+  <title>Queryable 限时免费了</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906659#reply24</link>
+  <pubDate>Fri, 06 Jan 2023 01:16:58 -0800</pubDate>
+  <guid isPermaLink="false">1744</guid>
+ </item>
+ <item>
+  <title>地球：这次应该可以清除身上的寄生虫了吧？远征军，我为你们留着庆功酒！</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906912#reply5</link>
+  <pubDate>Fri, 06 Jan 2023 00:51:03 -0800</pubDate>
+  <guid isPermaLink="false">1745</guid>
+ </item>
+ <item>
+  <title>Casdoor: 具有 Web UI 界面的开源身份认证、单点登录平台，支持 GitHub、Gitee、QQ、微信、钉钉登录等</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/803669#reply216</link>
+  <pubDate>Thu, 05 Jan 2023 23:20:23 -0800</pubDate>
+  <guid isPermaLink="false">1734</guid>
+ </item>
+ <item>
+  <title>用 Cludflare 和 Raspberry Pi 来运行博客.</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906859#reply24</link>
+  <pubDate>Thu, 05 Jan 2023 23:04:33 -0800</pubDate>
+  <guid isPermaLink="false">1735</guid>
+ </item>
+ <item>
+  <title>打算做一个桌游 wiki，是自建好还是使 MediaWiki 这样成熟的程序好？</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906878#reply13</link>
+  <pubDate>Thu, 05 Jan 2023 22:33:04 -0800</pubDate>
+  <guid isPermaLink="false">1737</guid>
+ </item>
+ <item>
+  <title>好奇自己对键盘各键的使用频率，写了个能统计按键并生成热力图的程序 Keyboard Heatmap</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906299#reply21</link>
+  <pubDate>Thu, 05 Jan 2023 22:29:41 -0800</pubDate>
+  <guid isPermaLink="false">1749</guid>
+ </item>
+ <item>
+  <title>CashWarden V2 会员功能上线，现在购买会员享受限时 8 折优惠</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906743#reply2</link>
+  <pubDate>Thu, 05 Jan 2023 22:03:18 -0800</pubDate>
+  <guid isPermaLink="false">1746</guid>
+ </item>
+ <item>
+  <title>做了一个开源五笔跟打器（网页版）《玫枫跟打器》</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906985#reply0</link>
+  <pubDate>Thu, 05 Jan 2023 21:34:40 -0800</pubDate>
+  <guid isPermaLink="false">1738</guid>
+ </item>
+ <item>
+  <title>[Chrome 插件] 更新并上架了一款方便 icp 备案查询的 Chrome 插件，有需要可看看</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906219#reply13</link>
+  <pubDate>Thu, 05 Jan 2023 18:52:56 -0800</pubDate>
+  <guid isPermaLink="false">1747</guid>
+ </item>
+ <item>
+  <title>为了摸鱼和不上班，我做了一个聚合创作社区</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906863#reply5</link>
+  <pubDate>Thu, 05 Jan 2023 18:48:32 -0800</pubDate>
+  <guid isPermaLink="false">1741</guid>
+ </item>
+ <item>
+  <title>🤖 一个可创建机器人的自部署轻量级聊天系统 [更新]</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906553#reply3</link>
+  <pubDate>Thu, 05 Jan 2023 17:19:01 -0800</pubDate>
+  <guid isPermaLink="false">1750</guid>
+ </item>
+ <item>
+  <title>Moegi Theme: 写了一套 VS Code 主题</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/906502#reply7</link>
+  <pubDate>Thu, 05 Jan 2023 09:43:13 -0800</pubDate>
+  <guid isPermaLink="false">1748</guid>
+ </item>
  <item>
   <title>为了摸鱼和不上班，我做了一个聚合创作社区</title>
   <description></description>
@@ -87,209 +290,6 @@
   <link>https://www.v2ex.com/t/906076#reply72</link>
   <pubDate>Thu, 05 Jan 2023 04:45:16 -0800</pubDate>
   <guid isPermaLink="false">1680</guid>
- </item>
- <item>
-  <title>有偿为新产品征集一个 logo</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906545#reply9</link>
-  <pubDate>Thu, 05 Jan 2023 02:55:52 -0800</pubDate>
-  <guid isPermaLink="false">1683</guid>
- </item>
- <item>
-  <title>🤖 用 Pake 打包了一个精致 ZLibrary 桌面端</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906741#reply12</link>
-  <pubDate>Thu, 05 Jan 2023 02:23:04 -0800</pubDate>
-  <guid isPermaLink="false">1673</guid>
- </item>
- <item>
-  <title>花了两个多月做了一个 V 站客户端- AwesomeV2ex，不仅好看而且功能很齐全，已上架 AppStore</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904226#reply184</link>
-  <pubDate>Thu, 05 Jan 2023 02:09:25 -0800</pubDate>
-  <guid isPermaLink="false">1681</guid>
- </item>
- <item>
-  <title>如何用 OpenSSL 在 V 站给我发私信</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906645#reply22</link>
-  <pubDate>Thu, 05 Jan 2023 01:44:42 -0800</pubDate>
-  <guid isPermaLink="false">1674</guid>
- </item>
- <item>
-  <title>我开发的小众 APP 被人像素级抄袭，怎么办</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/905384#reply53</link>
-  <pubDate>Thu, 05 Jan 2023 00:36:44 -0800</pubDate>
-  <guid isPermaLink="false">1691</guid>
- </item>
- <item>
-  <title>写了一个数据库（Cozo），开源的，希望大家试用，多提意见</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906602#reply15</link>
-  <pubDate>Wed, 04 Jan 2023 23:43:22 -0800</pubDate>
-  <guid isPermaLink="false">1678</guid>
- </item>
- <item>
-  <title>CashWarden V2 会员功能上线，现在购买会员享受限时 8 折优惠</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906743#reply0</link>
-  <pubDate>Wed, 04 Jan 2023 22:08:22 -0800</pubDate>
-  <guid isPermaLink="false">1676</guid>
- </item>
- <item>
-  <title>Moegi Theme: 写了一套 VS Code 主题</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906502#reply6</link>
-  <pubDate>Wed, 04 Jan 2023 21:50:28 -0800</pubDate>
-  <guid isPermaLink="false">1682</guid>
- </item>
- <item>
-  <title>物联网、智能家居方向还有什么创业机会，或者痛点 吗？</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/905977#reply14</link>
-  <pubDate>Wed, 04 Jan 2023 21:33:06 -0800</pubDate>
-  <guid isPermaLink="false">1689</guid>
- </item>
- <item>
-  <title>看恐怖电影的时候，只要把声音调小，就不会被吓到</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906643#reply25</link>
-  <pubDate>Wed, 04 Jan 2023 21:25:08 -0800</pubDate>
-  <guid isPermaLink="false">1677</guid>
- </item>
- <item>
-  <title>打算做满月灯复刻，分享一下自己的方案，有兴趣可以聊聊</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906389#reply4</link>
-  <pubDate>Wed, 04 Jan 2023 19:31:49 -0800</pubDate>
-  <guid isPermaLink="false">1688</guid>
- </item>
- <item>
-  <title>游戏核酸模拟器</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906316#reply20</link>
-  <pubDate>Wed, 04 Jan 2023 19:22:28 -0800</pubDate>
-  <guid isPermaLink="false">1684</guid>
- </item>
- <item>
-  <title>统计下 V2 有多少自由开发者</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906223#reply46</link>
-  <pubDate>Wed, 04 Jan 2023 19:04:55 -0800</pubDate>
-  <guid isPermaLink="false">1685</guid>
- </item>
- <item>
-  <title>🤖 一个可创建机器人的自部署轻量级聊天系统 [更新]</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906553#reply2</link>
-  <pubDate>Wed, 04 Jan 2023 18:46:48 -0800</pubDate>
-  <guid isPermaLink="false">1687</guid>
- </item>
- <item>
-  <title>dev.com.cn 征集中文名称</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/902635#reply218</link>
-  <pubDate>Wed, 04 Jan 2023 18:44:44 -0800</pubDate>
-  <guid isPermaLink="false">1693</guid>
- </item>
- <item>
-  <title>关于碎片化时间的一点思考</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906127#reply7</link>
-  <pubDate>Wed, 04 Jan 2023 18:35:06 -0800</pubDate>
-  <guid isPermaLink="false">1692</guid>
- </item>
- <item>
-  <title>全新改版的 chat gpt 小程序，它来了</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906039#reply29</link>
-  <pubDate>Wed, 04 Jan 2023 17:49:40 -0800</pubDate>
-  <guid isPermaLink="false">1690</guid>
- </item>
- <item>
-  <title>A1Blocker - iOS 上隐藏 App 和锁定 App 来进一步保护你的隐私 ( 新年新版本 2.2.0 发布+送码)</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906493#reply276</link>
-  <pubDate>Wed, 04 Jan 2023 08:57:01 -0800</pubDate>
-  <guid isPermaLink="false">1609</guid>
- </item>
- <item>
-  <title>花了两个多月做了一个 V 站客户端- AwesomeV2ex，不仅好看而且功能很齐全，已上架 AppStore</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/904226#reply175</link>
-  <pubDate>Wed, 04 Jan 2023 08:34:24 -0800</pubDate>
-  <guid isPermaLink="false">1621</guid>
- </item>
- <item>
-  <title>3R 教室-最佳 TS 全栈课程(Node.js/Nestjs/React/Next/运维/CID)+远程工作内推与求职指导+海外外包任务分配与渠道拓展+自由职业与被动收入创意</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906548#reply10</link>
-  <pubDate>Wed, 04 Jan 2023 08:23:49 -0800</pubDate>
-  <guid isPermaLink="false">1611</guid>
- </item>
- <item>
-  <title>游戏核酸模拟器</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906316#reply19</link>
-  <pubDate>Wed, 04 Jan 2023 07:43:31 -0800</pubDate>
-  <guid isPermaLink="false">1620</guid>
- </item>
- <item>
-  <title>有偿为新产品征集一个 logo</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906545#reply3</link>
-  <pubDate>Wed, 04 Jan 2023 06:33:47 -0800</pubDate>
-  <guid isPermaLink="false">1612</guid>
- </item>
- <item>
-  <title>🤖 一个可创建机器人的自部署轻量级聊天系统 [更新]</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906553#reply1</link>
-  <pubDate>Wed, 04 Jan 2023 05:50:05 -0800</pubDate>
-  <guid isPermaLink="false">1617</guid>
- </item>
- <item>
-  <title>写了一个数据库（Cozo），开源的，希望大家试用，多提意见</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906602#reply5</link>
-  <pubDate>Wed, 04 Jan 2023 04:48:48 -0800</pubDate>
-  <guid isPermaLink="false">1610</guid>
- </item>
- <item>
-  <title>独立开发者们，这个一月你们的目标是什么？</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906076#reply70</link>
-  <pubDate>Wed, 04 Jan 2023 04:12:48 -0800</pubDate>
-  <guid isPermaLink="false">1619</guid>
- </item>
- <item>
-  <title>Moegi Theme: 写了一套 VS Code 主题</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906502#reply2</link>
-  <pubDate>Wed, 04 Jan 2023 02:47:05 -0800</pubDate>
-  <guid isPermaLink="false">1613</guid>
- </item>
- <item>
-  <title>统计下 V2 有多少自由开发者</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906223#reply45</link>
-  <pubDate>Wed, 04 Jan 2023 02:40:50 -0800</pubDate>
-  <guid isPermaLink="false">1616</guid>
- </item>
- <item>
-  <title>写了个工具，像 IFTTT 一样通过 notion 自动创建更新绝大多数类型的网站</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906145#reply6</link>
-  <pubDate>Wed, 04 Jan 2023 02:21:49 -0800</pubDate>
-  <guid isPermaLink="false">1630</guid>
- </item>
- <item>
-  <title>分享下元旦折腾的流程~ 群晖 + Emby 打造家庭影音中心</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/906133#reply25</link>
-  <pubDate>Wed, 04 Jan 2023 02:04:26 -0800</pubDate>
-  <guid isPermaLink="false">1624</guid>
  </item>
 
 </channel>

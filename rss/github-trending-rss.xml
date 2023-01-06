@@ -8,9 +8,121 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 05 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Thu, 05 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Fri, 06 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 06 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>tailwindlabs / tailwindcss</title>
+  <description>A utility-first CSS framework for rapid UI development.</description>
+  <link>https://github.com/tailwindlabs/tailwindcss</link>
+  <guid isPermaLink="false">1721</guid>
+  <pubDate>Fri, 06 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>ali-bouali / spring-boot-3-jwt-security</title>
+  <description></description>
+  <link>https://github.com/ali-bouali/spring-boot-3-jwt-security</link>
+  <guid isPermaLink="false">1720</guid>
+  <pubDate>Fri, 06 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>squizlabs / PHP_CodeSniffer</title>
+  <description>PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.</description>
+  <link>https://github.com/squizlabs/PHP_CodeSniffer</link>
+  <guid isPermaLink="false">1719</guid>
+  <pubDate>Fri, 06 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>danielgindi / Charts</title>
+  <description>Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</description>
+  <link>https://github.com/danielgindi/Charts</link>
+  <guid isPermaLink="false">1718</guid>
+  <pubDate>Fri, 06 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>ryanmcdermott / clean-code-javascript</title>
+  <description>🛁 Clean Code concepts adapted for JavaScript</description>
+  <link>https://github.com/ryanmcdermott/clean-code-javascript</link>
+  <guid isPermaLink="false">1717</guid>
+  <pubDate>Fri, 06 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>rust-lang / mdBook</title>
+  <description>Create book from markdown files. Like Gitbook but implemented in Rust</description>
+  <link>https://github.com/rust-lang/mdBook</link>
+  <guid isPermaLink="false">1716</guid>
+  <pubDate>Fri, 06 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>renovatebot / renovate</title>
+  <description>Universal dependency update tool that fits into your workflows.</description>
+  <link>https://github.com/renovatebot/renovate</link>
+  <guid isPermaLink="false">1715</guid>
+  <pubDate>Fri, 06 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>nonebot / nonebot2</title>
+  <description>跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python</description>
+  <link>https://github.com/nonebot/nonebot2</link>
+  <guid isPermaLink="false">1714</guid>
+  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>midudev / preguntas-entrevista-react</title>
+  <description>Preguntas típicas sobre React para entrevistas de trabajo ⚛️</description>
+  <link>https://github.com/midudev/preguntas-entrevista-react</link>
+  <guid isPermaLink="false">1713</guid>
+  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>laravel / framework</title>
+  <description>The Laravel Framework.</description>
+  <link>https://github.com/laravel/framework</link>
+  <guid isPermaLink="false">1712</guid>
+  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>mouredev / hello-git</title>
+  <description>Curso para aprender a trabajar con el sistema de control de versiones Git y la plataforma GitHub desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev.</description>
+  <link>https://github.com/mouredev/hello-git</link>
+  <guid isPermaLink="false">1711</guid>
+  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>recharts / recharts</title>
+  <description>Redefined chart library built with React and D3</description>
+  <link>https://github.com/recharts/recharts</link>
+  <guid isPermaLink="false">1710</guid>
+  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>midudev / kings-league-project</title>
+  <description>API y website de la Kings League Infojobs por temas didácticos</description>
+  <link>https://github.com/midudev/kings-league-project</link>
+  <guid isPermaLink="false">1709</guid>
+  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / terminal</title>
+  <description>The new Windows Terminal and the original Windows console host, all in the same place!</description>
+  <link>https://github.com/microsoft/terminal</link>
+  <guid isPermaLink="false">1708</guid>
+  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>AykutSarac / jsoncrack.com</title>
+  <description>🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!</description>
+  <link>https://github.com/AykutSarac/jsoncrack.com</link>
+  <guid isPermaLink="false">1707</guid>
+  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>jart / blink</title>
+  <description>tiniest x86-64-linux emulator</description>
+  <link>https://github.com/jart/blink</link>
+  <guid isPermaLink="false">1706</guid>
+  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
  <item>
   <title>Azure / azure-sdk-for-net</title>
   <description>This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.</description>
@@ -178,118 +290,6 @@
   <link>https://github.com/gluon-framework/gluon</link>
   <guid isPermaLink="false">1604</guid>
   <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>appsmithorg / appsmith</title>
-  <description>Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.</description>
-  <link>https://github.com/appsmithorg/appsmith</link>
-  <guid isPermaLink="false">1603</guid>
-  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>ThioJoe / Auto-Synced-Translated-Dubs</title>
-  <description>Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings</description>
-  <link>https://github.com/ThioJoe/Auto-Synced-Translated-Dubs</link>
-  <guid isPermaLink="false">1602</guid>
-  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>jahidulislamzim / JavaScriptCodingChallenges</title>
-  <description>Hello JavaScript code newbie! In this repository I'm proposing you a series of coding challenges that will help you practice the basic language constructs and algorithms.</description>
-  <link>https://github.com/jahidulislamzim/JavaScriptCodingChallenges</link>
-  <guid isPermaLink="false">1601</guid>
-  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>sadanandpai / frontend-learning-kit</title>
-  <description>Frontend tech guide and curated collection of frontend materials</description>
-  <link>https://github.com/sadanandpai/frontend-learning-kit</link>
-  <guid isPermaLink="false">1600</guid>
-  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / pyright</title>
-  <description>Static type checker for Python</description>
-  <link>https://github.com/microsoft/pyright</link>
-  <guid isPermaLink="false">1599</guid>
-  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>MuhammedKalkan / OpenLens</title>
-  <description>OpenLens Binary Build Repository</description>
-  <link>https://github.com/MuhammedKalkan/OpenLens</link>
-  <guid isPermaLink="false">1598</guid>
-  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>practical-tutorials / project-based-learning</title>
-  <description>Curated list of project-based tutorials</description>
-  <link>https://github.com/practical-tutorials/project-based-learning</link>
-  <guid isPermaLink="false">1597</guid>
-  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>TencentARC / GFPGAN</title>
-  <description>GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.</description>
-  <link>https://github.com/TencentARC/GFPGAN</link>
-  <guid isPermaLink="false">1596</guid>
-  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>zlib-searcher / zlib-searcher</title>
-  <description>search zlib/libgen index</description>
-  <link>https://github.com/zlib-searcher/zlib-searcher</link>
-  <guid isPermaLink="false">1595</guid>
-  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>lensapp / lens</title>
-  <description>Lens - The way the world runs Kubernetes</description>
-  <link>https://github.com/lensapp/lens</link>
-  <guid isPermaLink="false">1594</guid>
-  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>withastro / astro</title>
-  <description>Build faster websites with Astro's next-gen island architecture 🏝✨</description>
-  <link>https://github.com/withastro/astro</link>
-  <guid isPermaLink="false">1542</guid>
-  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>starkoora / wanted-pre-onboarding-challenge-fe-1-api</title>
-  <description></description>
-  <link>https://github.com/starkoora/wanted-pre-onboarding-challenge-fe-1-api</link>
-  <guid isPermaLink="false">1541</guid>
-  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>kubernetes / minikube</title>
-  <description>Run Kubernetes locally</description>
-  <link>https://github.com/kubernetes/minikube</link>
-  <guid isPermaLink="false">1540</guid>
-  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>nvm-sh / nvm</title>
-  <description>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</description>
-  <link>https://github.com/nvm-sh/nvm</link>
-  <guid isPermaLink="false">1539</guid>
-  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>easychen / stack-roadmap</title>
-  <description>方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈</description>
-  <link>https://github.com/easychen/stack-roadmap</link>
-  <guid isPermaLink="false">1538</guid>
-  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>godly-devotion / MochiDiffusion</title>
-  <description>Run Stable Diffusion on Apple Silicon Macs natively</description>
-  <link>https://github.com/godly-devotion/MochiDiffusion</link>
-  <guid isPermaLink="false">1537</guid>
-  <pubDate>Tue, 03 Jan 2023 09:00:11 -0800</pubDate>
  </item>
 
 </channel>

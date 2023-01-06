@@ -8,9 +8,37 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 05 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Thu, 05 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Fri, 06 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 06 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>阅读 APP</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3699</link>
+  <pubDate>Fri, 06 Jan 2023 05:38:05 -0800</pubDate>
+  <guid isPermaLink="false">1751</guid>
+ </item>
+ <item>
+  <title>Dawn Launcher Windows 快捷启动工具</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3691</link>
+  <pubDate>Thu, 05 Jan 2023 23:30:48 -0800</pubDate>
+  <guid isPermaLink="false">1752</guid>
+ </item>
+ <item>
+  <title>一款练字类 APP</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3696</link>
+  <pubDate>Thu, 05 Jan 2023 22:33:12 -0800</pubDate>
+  <guid isPermaLink="false">1753</guid>
+ </item>
+ <item>
+  <title>我的 GitHub 十年</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3698</link>
+  <pubDate>Thu, 05 Jan 2023 19:31:14 -0800</pubDate>
+  <guid isPermaLink="false">1754</guid>
+ </item>
  <item>
   <title>一款练字类 APP</title>
   <description></description>
@@ -262,34 +290,6 @@
   <link>https://w2solo.com/topics/3636</link>
   <pubDate>Wed, 14 Dec 2022 23:40:24 -0800</pubDate>
   <guid isPermaLink="false">695</guid>
- </item>
- <item>
-  <title>😊迟到的自我介绍以及回顾和总结下做出海产品的这几年~</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3667</link>
-  <pubDate>Wed, 14 Dec 2022 22:36:19 -0800</pubDate>
-  <guid isPermaLink="false">578</guid>
- </item>
- <item>
-  <title>简约简历：一个小而美的简历制作网站</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3685</link>
-  <pubDate>Wed, 14 Dec 2022 21:56:08 -0800</pubDate>
-  <guid isPermaLink="false">579</guid>
- </item>
- <item>
-  <title>TinySnap：上线 2 个月收到 6 位数的收购报价，我们采访了产品背后的独立开发者</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3682</link>
-  <pubDate>Wed, 14 Dec 2022 21:22:10 -0800</pubDate>
-  <guid isPermaLink="false">575</guid>
- </item>
- <item>
-  <title>Chat GPT + 撩妹撩汉，那是怎么样的火花？为了寻找答案，自己开发了相关的小程序</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3683</link>
-  <pubDate>Wed, 14 Dec 2022 20:05:18 -0800</pubDate>
-  <guid isPermaLink="false">580</guid>
  </item>
 
 </channel>
