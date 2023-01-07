@@ -8,9 +8,51 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 06 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Fri, 06 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sat, 07 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sat, 07 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>不上班的 1000 天，程序员自由职业 B 计划 - 做什么/收入/经验教训</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3690</link>
+  <pubDate>Sat, 07 Jan 2023 08:17:29 -0800</pubDate>
+  <guid isPermaLink="false">1803</guid>
+ </item>
+ <item>
+  <title>念念不忘，必有回响———分享一款自研的读诗软件《诗说》</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3702</link>
+  <pubDate>Sat, 07 Jan 2023 05:13:44 -0800</pubDate>
+  <guid isPermaLink="false">1804</guid>
+ </item>
+ <item>
+  <title>布丁扫描~快速识别图像上面的文字</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3701</link>
+  <pubDate>Sat, 07 Jan 2023 05:10:37 -0800</pubDate>
+  <guid isPermaLink="false">1805</guid>
+ </item>
+ <item>
+  <title>Dawn Launcher Windows 快捷启动工具</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3691</link>
+  <pubDate>Sat, 07 Jan 2023 04:37:06 -0800</pubDate>
+  <guid isPermaLink="false">1806</guid>
+ </item>
+ <item>
+  <title>创业中遇到危机了怎么办？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3687</link>
+  <pubDate>Sat, 07 Jan 2023 01:55:17 -0800</pubDate>
+  <guid isPermaLink="false">1807</guid>
+ </item>
+ <item>
+  <title>怎么发掘业务</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3700</link>
+  <pubDate>Sat, 07 Jan 2023 01:50:36 -0800</pubDate>
+  <guid isPermaLink="false">1808</guid>
+ </item>
  <item>
   <title>阅读 APP</title>
   <description></description>
@@ -248,48 +290,6 @@
   <link>https://w2solo.com/topics/3686</link>
   <pubDate>Fri, 16 Dec 2022 21:56:43 -0800</pubDate>
   <guid isPermaLink="false">748</guid>
- </item>
- <item>
-  <title>尝试业余独立开发一年半后</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3680</link>
-  <pubDate>Fri, 16 Dec 2022 20:21:08 -0800</pubDate>
-  <guid isPermaLink="false">749</guid>
- </item>
- <item>
-  <title>尝试业余独立开发一年半后</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3680</link>
-  <pubDate>Fri, 16 Dec 2022 04:48:26 -0800</pubDate>
-  <guid isPermaLink="false">691</guid>
- </item>
- <item>
-  <title>HuntsBot,将自由职业进行到底!</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3686</link>
-  <pubDate>Thu, 15 Dec 2022 20:53:37 -0800</pubDate>
-  <guid isPermaLink="false">692</guid>
- </item>
- <item>
-  <title>Chat GPT + 撩妹撩汉，那是怎么样的火花？为了寻找答案，自己开发了相关的小程序</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3683</link>
-  <pubDate>Thu, 15 Dec 2022 20:51:39 -0800</pubDate>
-  <guid isPermaLink="false">693</guid>
- </item>
- <item>
-  <title>创业中遇到危机了怎么办？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3687</link>
-  <pubDate>Thu, 15 Dec 2022 18:14:55 -0800</pubDate>
-  <guid isPermaLink="false">694</guid>
- </item>
- <item>
-  <title>终于被毕业了，被动的走上独立开发者之路</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3636</link>
-  <pubDate>Wed, 14 Dec 2022 23:40:24 -0800</pubDate>
-  <guid isPermaLink="false">695</guid>
  </item>
 
 </channel>

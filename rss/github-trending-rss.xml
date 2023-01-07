@@ -8,9 +8,107 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 06 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Fri, 06 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sat, 07 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sat, 07 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>toeverything / AFFiNE</title>
+  <description>There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.</description>
+  <link>https://github.com/toeverything/AFFiNE</link>
+  <guid isPermaLink="false">1780</guid>
+  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>google / googletest</title>
+  <description>GoogleTest - Google Testing and Mocking Framework</description>
+  <link>https://github.com/google/googletest</link>
+  <guid isPermaLink="false">1779</guid>
+  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>EbookFoundation / free-programming-books</title>
+  <description>📚 Freely available programming books</description>
+  <link>https://github.com/EbookFoundation/free-programming-books</link>
+  <guid isPermaLink="false">1778</guid>
+  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>AUTOMATIC1111 / stable-diffusion-webui</title>
+  <description>Stable Diffusion web UI</description>
+  <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
+  <guid isPermaLink="false">1777</guid>
+  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>book-searcher-org / book-searcher</title>
+  <description>Search books index, create your private local library.</description>
+  <link>https://github.com/book-searcher-org/book-searcher</link>
+  <guid isPermaLink="false">1776</guid>
+  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / Web-Dev-For-Beginners</title>
+  <description>24 Lessons, 12 Weeks, Get Started as a Web Developer</description>
+  <link>https://github.com/microsoft/Web-Dev-For-Beginners</link>
+  <guid isPermaLink="false">1775</guid>
+  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>kamranahmedse / developer-roadmap</title>
+  <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
+  <link>https://github.com/kamranahmedse/developer-roadmap</link>
+  <guid isPermaLink="false">1774</guid>
+  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>yangshun / tech-interview-handbook</title>
+  <description>💯 Curated coding interview preparation materials for busy software engineers</description>
+  <link>https://github.com/yangshun/tech-interview-handbook</link>
+  <guid isPermaLink="false">1773</guid>
+  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>sindresorhus / awesome</title>
+  <description>😎 Awesome lists about all kinds of interesting topics</description>
+  <link>https://github.com/sindresorhus/awesome</link>
+  <guid isPermaLink="false">1772</guid>
+  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>EddieHubCommunity / LinkFree</title>
+  <description>Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.</description>
+  <link>https://github.com/EddieHubCommunity/LinkFree</link>
+  <guid isPermaLink="false">1771</guid>
+  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>vitoplantamura / BugChecker</title>
+  <description>SoftICE-like kernel debugger for Windows 11</description>
+  <link>https://github.com/vitoplantamura/BugChecker</link>
+  <guid isPermaLink="false">1770</guid>
+  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>jwasham / coding-interview-university</title>
+  <description>A complete computer science study plan to become a software engineer.</description>
+  <link>https://github.com/jwasham/coding-interview-university</link>
+  <guid isPermaLink="false">1769</guid>
+  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>tw93 / Pake</title>
+  <description>🤱🏻 Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App</description>
+  <link>https://github.com/tw93/Pake</link>
+  <guid isPermaLink="false">1768</guid>
+  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>WhatsApp / proxy</title>
+  <description>This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP and media upload/download not currently proxied)</description>
+  <link>https://github.com/WhatsApp/proxy</link>
+  <guid isPermaLink="false">1767</guid>
+  <pubDate>Sat, 07 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
  <item>
   <title>tailwindlabs / tailwindcss</title>
   <description>A utility-first CSS framework for rapid UI development.</description>
@@ -192,104 +290,6 @@
   <link>https://github.com/karpathy/minGPT</link>
   <guid isPermaLink="false">1655</guid>
   <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>nostr-protocol / nostr</title>
-  <description>a truly censorship-resistant alternative to Twitter that has a chance of working</description>
-  <link>https://github.com/nostr-protocol/nostr</link>
-  <guid isPermaLink="false">1654</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>alan2207 / bulletproof-react</title>
-  <description>🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.</description>
-  <link>https://github.com/alan2207/bulletproof-react</link>
-  <guid isPermaLink="false">1653</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>testerSunshine / 12306</title>
-  <description>12306智能刷票，订票</description>
-  <link>https://github.com/testerSunshine/12306</link>
-  <guid isPermaLink="false">1652</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>score-spec / spec</title>
-  <description>The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.</description>
-  <link>https://github.com/score-spec/spec</link>
-  <guid isPermaLink="false">1651</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>protocolbuffers / protobuf</title>
-  <description>Protocol Buffers - Google's data interchange format</description>
-  <link>https://github.com/protocolbuffers/protobuf</link>
-  <guid isPermaLink="false">1650</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>ambrosiogabe / MathAnimation</title>
-  <description>A simple C++/OpenGL application to create quick and dirty mathematically accurate animations</description>
-  <link>https://github.com/ambrosiogabe/MathAnimation</link>
-  <guid isPermaLink="false">1649</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>sourcegraph / conc</title>
-  <description>Better structured concurrency for go</description>
-  <link>https://github.com/sourcegraph/conc</link>
-  <guid isPermaLink="false">1648</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>hpcaitech / ColossalAI</title>
-  <description>Colossal-AI: A Unified Deep Learning System for Big Model Era</description>
-  <link>https://github.com/hpcaitech/ColossalAI</link>
-  <guid isPermaLink="false">1647</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>gz-yami / mall4cloud</title>
-  <description>⭐️⭐️⭐️ Springcloud商城 O2O商城 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 微服务商城</description>
-  <link>https://github.com/gz-yami/mall4cloud</link>
-  <guid isPermaLink="false">1646</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>ray-project / ray</title>
-  <description>Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.</description>
-  <link>https://github.com/ray-project/ray</link>
-  <guid isPermaLink="false">1608</guid>
-  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>Azure / azure-sdk-for-python</title>
-  <description>This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.</description>
-  <link>https://github.com/Azure/azure-sdk-for-python</link>
-  <guid isPermaLink="false">1607</guid>
-  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>CodeEditApp / CodeEdit</title>
-  <description>CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.</description>
-  <link>https://github.com/CodeEditApp/CodeEdit</link>
-  <guid isPermaLink="false">1606</guid>
-  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>tobymao / sqlglot</title>
-  <description>Python SQL Parser and Transpiler</description>
-  <link>https://github.com/tobymao/sqlglot</link>
-  <guid isPermaLink="false">1605</guid>
-  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>gluon-framework / gluon</title>
-  <description>A new framework for creating desktop apps from websites, using system installed browsers and NodeJS</description>
-  <link>https://github.com/gluon-framework/gluon</link>
-  <guid isPermaLink="false">1604</guid>
-  <pubDate>Wed, 04 Jan 2023 09:00:03 -0800</pubDate>
  </item>
 
 </channel>
