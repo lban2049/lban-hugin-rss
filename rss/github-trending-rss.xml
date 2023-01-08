@@ -8,9 +8,100 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 07 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sat, 07 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sun, 08 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 08 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>public-apis / public-apis</title>
+  <description>A collective list of free APIs</description>
+  <link>https://github.com/public-apis/public-apis</link>
+  <guid isPermaLink="false">1827</guid>
+  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>weak1337 / Alcatraz</title>
+  <description>x64 binary obfuscator</description>
+  <link>https://github.com/weak1337/Alcatraz</link>
+  <guid isPermaLink="false">1826</guid>
+  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>blakeblackshear / frigate</title>
+  <description>NVR with realtime local object detection for IP cameras</description>
+  <link>https://github.com/blakeblackshear/frigate</link>
+  <guid isPermaLink="false">1825</guid>
+  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>oven-sh / bun</title>
+  <description>Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.</description>
+  <link>https://github.com/oven-sh/bun</link>
+  <guid isPermaLink="false">1824</guid>
+  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>ventoy / Ventoy</title>
+  <description>A new bootable USB solution.</description>
+  <link>https://github.com/ventoy/Ventoy</link>
+  <guid isPermaLink="false">1823</guid>
+  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / unilm</title>
+  <description>Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities</description>
+  <link>https://github.com/microsoft/unilm</link>
+  <guid isPermaLink="false">1822</guid>
+  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>ripienaar / free-for-dev</title>
+  <description>A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev</description>
+  <link>https://github.com/ripienaar/free-for-dev</link>
+  <guid isPermaLink="false">1821</guid>
+  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>emilk / egui</title>
+  <description>egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native</description>
+  <link>https://github.com/emilk/egui</link>
+  <guid isPermaLink="false">1820</guid>
+  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>gragland / chatgpt-chrome-extension</title>
+  <description>A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.</description>
+  <link>https://github.com/gragland/chatgpt-chrome-extension</link>
+  <guid isPermaLink="false">1819</guid>
+  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>ACM-Alexandria-SC / Internships</title>
+  <description></description>
+  <link>https://github.com/ACM-Alexandria-SC/Internships</link>
+  <guid isPermaLink="false">1818</guid>
+  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>1c7 / chinese-independent-developer</title>
+  <description>👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么</description>
+  <link>https://github.com/1c7/chinese-independent-developer</link>
+  <guid isPermaLink="false">1817</guid>
+  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>komeilmehranfar / visa-sponsers-companies-for-iranians</title>
+  <description></description>
+  <link>https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians</link>
+  <guid isPermaLink="false">1816</guid>
+  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>ProgrammingHero1 / new-year-new-me</title>
+  <description></description>
+  <link>https://github.com/ProgrammingHero1/new-year-new-me</link>
+  <guid isPermaLink="false">1815</guid>
+  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
  <item>
   <title>toeverything / AFFiNE</title>
   <description>There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.</description>
@@ -199,97 +290,6 @@
   <link>https://github.com/midudev/kings-league-project</link>
   <guid isPermaLink="false">1709</guid>
   <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / terminal</title>
-  <description>The new Windows Terminal and the original Windows console host, all in the same place!</description>
-  <link>https://github.com/microsoft/terminal</link>
-  <guid isPermaLink="false">1708</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>AykutSarac / jsoncrack.com</title>
-  <description>🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!</description>
-  <link>https://github.com/AykutSarac/jsoncrack.com</link>
-  <guid isPermaLink="false">1707</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>jart / blink</title>
-  <description>tiniest x86-64-linux emulator</description>
-  <link>https://github.com/jart/blink</link>
-  <guid isPermaLink="false">1706</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>Azure / azure-sdk-for-net</title>
-  <description>This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.</description>
-  <link>https://github.com/Azure/azure-sdk-for-net</link>
-  <guid isPermaLink="false">1664</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>influxdata / telegraf</title>
-  <description>The plugin-driven server agent for collecting &amp; reporting metrics.</description>
-  <link>https://github.com/influxdata/telegraf</link>
-  <guid isPermaLink="false">1663</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>swaggo / swag</title>
-  <description>Automatically generate RESTful API documentation with Swagger 2.0 for Go.</description>
-  <link>https://github.com/swaggo/swag</link>
-  <guid isPermaLink="false">1662</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>HalseySpicy / Geeker-Admin</title>
-  <description>✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite3、Pinia、Element-Plus 开源的一套后台管理框架。</description>
-  <link>https://github.com/HalseySpicy/Geeker-Admin</link>
-  <guid isPermaLink="false">1661</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>hashicorp / nomad</title>
-  <description>Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.</description>
-  <link>https://github.com/hashicorp/nomad</link>
-  <guid isPermaLink="false">1660</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>dotnet / aspnetcore</title>
-  <description>ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.</description>
-  <link>https://github.com/dotnet/aspnetcore</link>
-  <guid isPermaLink="false">1659</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>itwanger / toBeBetterJavaer</title>
-  <description>一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄</description>
-  <link>https://github.com/itwanger/toBeBetterJavaer</link>
-  <guid isPermaLink="false">1658</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>confluentinc / librdkafka</title>
-  <description>The Apache Kafka C/C++ library</description>
-  <link>https://github.com/confluentinc/librdkafka</link>
-  <guid isPermaLink="false">1657</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>testcontainers / testcontainers-java</title>
-  <description>Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.</description>
-  <link>https://github.com/testcontainers/testcontainers-java</link>
-  <guid isPermaLink="false">1656</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>karpathy / minGPT</title>
-  <description>A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training</description>
-  <link>https://github.com/karpathy/minGPT</link>
-  <guid isPermaLink="false">1655</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:06 -0800</pubDate>
  </item>
 
 </channel>
