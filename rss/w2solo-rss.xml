@@ -8,9 +8,51 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 08 Jan 2023 18:17:43 -0800</lastBuildDate>
- <pubDate>Sun, 08 Jan 2023 18:17:43 -0800</pubDate>
+ <lastBuildDate>Mon, 09 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 09 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>创意时钟 app 介绍</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3705</link>
+  <pubDate>Mon, 09 Jan 2023 05:33:57 -0800</pubDate>
+  <guid isPermaLink="false">1908</guid>
+ </item>
+ <item>
+  <title>HuntsBot 的访谈：初衷是通过外包项目来了解用户需求。</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3704</link>
+  <pubDate>Mon, 09 Jan 2023 01:00:37 -0800</pubDate>
+  <guid isPermaLink="false">1907</guid>
+ </item>
+ <item>
+  <title>独立产品灵感周刊 DecoHack #043 - 互联网从业者的灵感数据库</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3706</link>
+  <pubDate>Mon, 09 Jan 2023 00:22:35 -0800</pubDate>
+  <guid isPermaLink="false">1909</guid>
+ </item>
+ <item>
+  <title>一款练字类 APP</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3696</link>
+  <pubDate>Sun, 08 Jan 2023 23:28:07 -0800</pubDate>
+  <guid isPermaLink="false">1910</guid>
+ </item>
+ <item>
+  <title>Dawn Launcher Windows 快捷启动工具</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3691</link>
+  <pubDate>Sun, 08 Jan 2023 19:30:21 -0800</pubDate>
+  <guid isPermaLink="false">1911</guid>
+ </item>
+ <item>
+  <title>不上班的 1000 天，程序员自由职业 B 计划 - 做什么/收入/经验教训</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3690</link>
+  <pubDate>Sun, 08 Jan 2023 18:54:09 -0800</pubDate>
+  <guid isPermaLink="false">1912</guid>
+ </item>
  <item>
   <title>HuntsBot 的访谈：初衷是通过外包项目来了解用户需求。</title>
   <description></description>
@@ -248,48 +290,6 @@
   <link>https://w2solo.com/topics/3689</link>
   <pubDate>Tue, 20 Dec 2022 02:34:59 -0800</pubDate>
   <guid isPermaLink="false">901</guid>
- </item>
- <item>
-  <title>尝试业余独立开发一年半后</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3680</link>
-  <pubDate>Tue, 20 Dec 2022 00:48:11 -0800</pubDate>
-  <guid isPermaLink="false">902</guid>
- </item>
- <item>
-  <title>TinySnap：上线 2 个月收到 6 位数的收购报价，我们采访了产品背后的独立开发者</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3682</link>
-  <pubDate>Mon, 19 Dec 2022 03:46:03 -0800</pubDate>
-  <guid isPermaLink="false">842</guid>
- </item>
- <item>
-  <title>HuntsBot,将自由职业进行到底!</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3686</link>
-  <pubDate>Sun, 18 Dec 2022 22:07:01 -0800</pubDate>
-  <guid isPermaLink="false">843</guid>
- </item>
- <item>
-  <title>独立产品灵感周刊 DecoHack #042 - 白嫖微信读书无限卡</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3688</link>
-  <pubDate>Sun, 18 Dec 2022 22:05:36 -0800</pubDate>
-  <guid isPermaLink="false">844</guid>
- </item>
- <item>
-  <title>请问大家都是如何设计自己应用的 UI 的？是不是都是用 Figma？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3670</link>
-  <pubDate>Sun, 18 Dec 2022 17:36:53 -0800</pubDate>
-  <guid isPermaLink="false">845</guid>
- </item>
- <item>
-  <title>尝试业余独立开发一年半后</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3680</link>
-  <pubDate>Sun, 18 Dec 2022 17:33:02 -0800</pubDate>
-  <guid isPermaLink="false">846</guid>
  </item>
 
 </channel>

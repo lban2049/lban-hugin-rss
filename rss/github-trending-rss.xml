@@ -8,9 +8,72 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 08 Jan 2023 18:17:42 -0800</lastBuildDate>
- <pubDate>Sun, 08 Jan 2023 18:17:42 -0800</pubDate>
+ <lastBuildDate>Mon, 09 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 09 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>VoronDesign / VoronUsers</title>
+  <description>Voron Community mods, slicer profiles and firmware configurations.</description>
+  <link>https://github.com/VoronDesign/VoronUsers</link>
+  <guid isPermaLink="false">1880</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>Snapchat / KeyDB</title>
+  <description>A Multithreaded Fork of Redis</description>
+  <link>https://github.com/Snapchat/KeyDB</link>
+  <guid isPermaLink="false">1879</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>qmk / qmk_firmware</title>
+  <description>Open-source keyboard firmware for Atmel AVR and Arm USB families</description>
+  <link>https://github.com/qmk/qmk_firmware</link>
+  <guid isPermaLink="false">1878</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>hyprwm / Hyprland</title>
+  <description>Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.</description>
+  <link>https://github.com/hyprwm/Hyprland</link>
+  <guid isPermaLink="false">1877</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>obsproject / obs-studio</title>
+  <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
+  <link>https://github.com/obsproject/obs-studio</link>
+  <guid isPermaLink="false">1876</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>krishnaik06 / 6-Months-Data-Science-Roadmap-</title>
+  <description></description>
+  <link>https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-</link>
+  <guid isPermaLink="false">1875</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>THUDM / GLM-130B</title>
+  <description>GLM-130B: An Open Bilingual Pre-Trained Model</description>
+  <link>https://github.com/THUDM/GLM-130B</link>
+  <guid isPermaLink="false">1874</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>pi-apps / PiOS</title>
+  <description></description>
+  <link>https://github.com/pi-apps/PiOS</link>
+  <guid isPermaLink="false">1873</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>openai / openai-cookbook</title>
+  <description>Examples and guides for using the OpenAI API</description>
+  <link>https://github.com/openai/openai-cookbook</link>
+  <guid isPermaLink="false">1872</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
  <item>
   <title>public-apis / public-apis</title>
   <description>A collective list of free APIs</description>
@@ -227,69 +290,6 @@
   <link>https://github.com/danielgindi/Charts</link>
   <guid isPermaLink="false">1718</guid>
   <pubDate>Fri, 06 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>ryanmcdermott / clean-code-javascript</title>
-  <description>🛁 Clean Code concepts adapted for JavaScript</description>
-  <link>https://github.com/ryanmcdermott/clean-code-javascript</link>
-  <guid isPermaLink="false">1717</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>rust-lang / mdBook</title>
-  <description>Create book from markdown files. Like Gitbook but implemented in Rust</description>
-  <link>https://github.com/rust-lang/mdBook</link>
-  <guid isPermaLink="false">1716</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>renovatebot / renovate</title>
-  <description>Universal dependency update tool that fits into your workflows.</description>
-  <link>https://github.com/renovatebot/renovate</link>
-  <guid isPermaLink="false">1715</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>nonebot / nonebot2</title>
-  <description>跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python</description>
-  <link>https://github.com/nonebot/nonebot2</link>
-  <guid isPermaLink="false">1714</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>midudev / preguntas-entrevista-react</title>
-  <description>Preguntas típicas sobre React para entrevistas de trabajo ⚛️</description>
-  <link>https://github.com/midudev/preguntas-entrevista-react</link>
-  <guid isPermaLink="false">1713</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>laravel / framework</title>
-  <description>The Laravel Framework.</description>
-  <link>https://github.com/laravel/framework</link>
-  <guid isPermaLink="false">1712</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>mouredev / hello-git</title>
-  <description>Curso para aprender a trabajar con el sistema de control de versiones Git y la plataforma GitHub desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev.</description>
-  <link>https://github.com/mouredev/hello-git</link>
-  <guid isPermaLink="false">1711</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>recharts / recharts</title>
-  <description>Redefined chart library built with React and D3</description>
-  <link>https://github.com/recharts/recharts</link>
-  <guid isPermaLink="false">1710</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>midudev / kings-league-project</title>
-  <description>API y website de la Kings League Infojobs por temas didácticos</description>
-  <link>https://github.com/midudev/kings-league-project</link>
-  <guid isPermaLink="false">1709</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:07 -0800</pubDate>
  </item>
 
 </channel>

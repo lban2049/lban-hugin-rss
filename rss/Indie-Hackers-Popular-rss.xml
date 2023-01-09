@@ -8,9 +8,86 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 08 Jan 2023 18:17:43 -0800</lastBuildDate>
- <pubDate>Sun, 08 Jan 2023 18:17:43 -0800</pubDate>
+ <lastBuildDate>Mon, 09 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 09 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Women and diversity in communities</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/women-and-diversity-in-communities-26964b40aa</link>
+  <guid isPermaLink="false">1923</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>How to build an MVP: The idea-spec-cut-build cycle</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-to-build-an-mvp-the-idea-spec-cut-build-cycle-dd2d4cbc7b</link>
+  <guid isPermaLink="false">1922</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>I wasn't meant to launch today, but now I have no choice 🤷</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/i-wasnt-meant-to-launch-today-but-now-i-have-no-choice-3d1db53b82</link>
+  <guid isPermaLink="false">1921</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>How to answer/deal with "But X app already does this, how's yours better?"</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-to-answer-deal-with-but-x-app-already-does-this-how-s-yours-better-b168bebd60</link>
+  <guid isPermaLink="false">1920</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>100 random things I learned after building 10+ startups</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/100-random-things-i-learned-after-building-10-startups-5bc6700bab</link>
+  <guid isPermaLink="false">1919</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>What is the most important factor you look for when building an MVP?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/what-is-the-most-important-factor-you-look-for-when-building-an-mvp-052165689d</link>
+  <guid isPermaLink="false">1918</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>What tools do you use for managing your personal productivity and planning out your week?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/what-tools-do-you-use-for-managing-your-personal-productivity-and-planning-out-your-week-4bf8e6a05d</link>
+  <guid isPermaLink="false">1917</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>20+ open source internship programs you can apply to in 2023</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/20-open-source-internship-programs-you-can-apply-to-in-2023-73d8b2feb5</link>
+  <guid isPermaLink="false">1916</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>7 questions to determine whether your idea is worth turning into a product</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/7-questions-to-determine-whether-your-idea-is-worth-turning-into-a-product-864a0fdeca</link>
+  <guid isPermaLink="false">1915</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>Software thrives during recessions</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/software-thrives-during-recessions-16115ffc72</link>
+  <guid isPermaLink="false">1914</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:15 -0800</pubDate>
+ </item>
+ <item>
+  <title>Well, I wasted 2022. The whole year. I’m a failure.</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/well-i-wasted-2022-the-whole-year-i-m-a-failure-55deedd1a1</link>
+  <guid isPermaLink="false">1913</guid>
+  <pubDate>Mon, 09 Jan 2023 09:00:15 -0800</pubDate>
+ </item>
  <item>
   <title>How I got 200 users in 1 month, using Reddit</title>
   <description></description>
@@ -213,83 +290,6 @@
   <link>https://www.indiehackers.com/post/5-website-improvements-that-help-increase-your-sales-2865ba6556</link>
   <guid isPermaLink="false">1763</guid>
   <pubDate>Fri, 06 Jan 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>How fast should you move after validation?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-fast-should-you-move-after-validation-55cf291394</link>
-  <guid isPermaLink="false">1762</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>Finally built our startup after delaying it multiple times. How we fought procrastination 🕺</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/finally-built-our-startup-after-delaying-it-multiple-times-how-we-fought-procrastination-3dbbe67443</link>
-  <guid isPermaLink="false">1761</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>From $600 to 7k/monthly. This past year has been a unique one for us.</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/from-600-to-7k-monthly-this-past-year-has-been-a-unique-one-for-us-188719d167</link>
-  <guid isPermaLink="false">1760</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>Growth hack that got me 2 signups, a solid backlink &amp; an acquisition offer prior to launch.</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/growth-hack-that-got-me-2-signups-a-solid-backlink-an-acquisition-offer-prior-to-launch-6118ddd959</link>
-  <guid isPermaLink="false">1759</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>Is Google the only source of traffic for our blogs?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/is-google-the-only-source-of-traffic-for-our-blogs-5f2f458cde</link>
-  <guid isPermaLink="false">1758</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>I built a SaaS company over a weekend because I didn't like the price of the tool I needed</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/i-built-a-saas-company-over-a-weekend-because-i-didnt-like-the-price-of-the-tool-i-needed-026f6f94c9</link>
-  <guid isPermaLink="false">1757</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>Your best advice for adding a blog to a website?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/your-best-advice-for-adding-a-blog-to-a-website-a571f46eee</link>
-  <guid isPermaLink="false">1756</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>How to do marketing, for solopreneurs who hate marketing</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-to-do-marketing-for-solopreneurs-who-hate-marketing-fdf6d4eac4</link>
-  <guid isPermaLink="false">1755</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>Feeling lost in the marketing world</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/feeling-lost-in-the-marketing-world-ebe346192d</link>
-  <guid isPermaLink="false">1705</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>The back office dilemma</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/the-back-office-dilemma-75d88bef5f</link>
-  <guid isPermaLink="false">1704</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>How to SaaS part II — Please stop lying to yourself!</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-to-saas-part-ii-please-stop-lying-to-yourself-99944cb61f</link>
-  <guid isPermaLink="false">1703</guid>
-  <pubDate>Thu, 05 Jan 2023 09:00:13 -0800</pubDate>
  </item>
 
 </channel>
