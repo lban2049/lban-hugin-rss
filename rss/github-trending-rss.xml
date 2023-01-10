@@ -8,9 +8,93 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 09 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 09 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 10 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Tue, 10 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>ultralytics / yolov5</title>
+  <description>YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite</description>
+  <link>https://github.com/ultralytics/yolov5</link>
+  <guid isPermaLink="false">1935</guid>
+  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>VoronDesign / Voron-0</title>
+  <description>Voron 0 CoreXY 3D Printer design</description>
+  <link>https://github.com/VoronDesign/Voron-0</link>
+  <guid isPermaLink="false">1934</guid>
+  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>wiidev / usbloadergx</title>
+  <description>This version of USB Loader GX supersedes the SourceForge version, which was last updated in 2019.</description>
+  <link>https://github.com/wiidev/usbloadergx</link>
+  <guid isPermaLink="false">1933</guid>
+  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>fastlane / fastlane</title>
+  <description>🚀 The easiest way to automate building and releasing your iOS and Android apps</description>
+  <link>https://github.com/fastlane/fastlane</link>
+  <guid isPermaLink="false">1932</guid>
+  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>qax-os / excelize</title>
+  <description>Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets</description>
+  <link>https://github.com/qax-os/excelize</link>
+  <guid isPermaLink="false">1931</guid>
+  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>trpc / trpc</title>
+  <description>🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.</description>
+  <link>https://github.com/trpc/trpc</link>
+  <guid isPermaLink="false">1930</guid>
+  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>mouredev / Hello-Python</title>
+  <description>Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos.</description>
+  <link>https://github.com/mouredev/Hello-Python</link>
+  <guid isPermaLink="false">1929</guid>
+  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>binhnguyennus / awesome-scalability</title>
+  <description>The Patterns of Scalable, Reliable, and Performant Large-Scale Systems</description>
+  <link>https://github.com/binhnguyennus/awesome-scalability</link>
+  <guid isPermaLink="false">1928</guid>
+  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>facebookresearch / hyperreel</title>
+  <description>Code release for HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling</description>
+  <link>https://github.com/facebookresearch/hyperreel</link>
+  <guid isPermaLink="false">1927</guid>
+  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>google / cdc-file-transfer</title>
+  <description>Tools for synching and streaming files from Windows to Linux</description>
+  <link>https://github.com/google/cdc-file-transfer</link>
+  <guid isPermaLink="false">1926</guid>
+  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>sismo-core / sismo-protocol</title>
+  <description>Contracts of the Sismo Attestation Protocol</description>
+  <link>https://github.com/sismo-core/sismo-protocol</link>
+  <guid isPermaLink="false">1925</guid>
+  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>JuanCrg90 / Clean-Code-Notes</title>
+  <description>My notes of Clean Code book</description>
+  <link>https://github.com/JuanCrg90/Clean-Code-Notes</link>
+  <guid isPermaLink="false">1924</guid>
+  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
  <item>
   <title>VoronDesign / VoronUsers</title>
   <description>Voron Community mods, slicer profiles and firmware configurations.</description>
@@ -206,90 +290,6 @@
   <link>https://github.com/microsoft/Web-Dev-For-Beginners</link>
   <guid isPermaLink="false">1775</guid>
   <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>kamranahmedse / developer-roadmap</title>
-  <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
-  <link>https://github.com/kamranahmedse/developer-roadmap</link>
-  <guid isPermaLink="false">1774</guid>
-  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>yangshun / tech-interview-handbook</title>
-  <description>💯 Curated coding interview preparation materials for busy software engineers</description>
-  <link>https://github.com/yangshun/tech-interview-handbook</link>
-  <guid isPermaLink="false">1773</guid>
-  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>sindresorhus / awesome</title>
-  <description>😎 Awesome lists about all kinds of interesting topics</description>
-  <link>https://github.com/sindresorhus/awesome</link>
-  <guid isPermaLink="false">1772</guid>
-  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>EddieHubCommunity / LinkFree</title>
-  <description>Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.</description>
-  <link>https://github.com/EddieHubCommunity/LinkFree</link>
-  <guid isPermaLink="false">1771</guid>
-  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>vitoplantamura / BugChecker</title>
-  <description>SoftICE-like kernel debugger for Windows 11</description>
-  <link>https://github.com/vitoplantamura/BugChecker</link>
-  <guid isPermaLink="false">1770</guid>
-  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>jwasham / coding-interview-university</title>
-  <description>A complete computer science study plan to become a software engineer.</description>
-  <link>https://github.com/jwasham/coding-interview-university</link>
-  <guid isPermaLink="false">1769</guid>
-  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>tw93 / Pake</title>
-  <description>🤱🏻 Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App</description>
-  <link>https://github.com/tw93/Pake</link>
-  <guid isPermaLink="false">1768</guid>
-  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>WhatsApp / proxy</title>
-  <description>This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP and media upload/download not currently proxied)</description>
-  <link>https://github.com/WhatsApp/proxy</link>
-  <guid isPermaLink="false">1767</guid>
-  <pubDate>Sat, 07 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>tailwindlabs / tailwindcss</title>
-  <description>A utility-first CSS framework for rapid UI development.</description>
-  <link>https://github.com/tailwindlabs/tailwindcss</link>
-  <guid isPermaLink="false">1721</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>ali-bouali / spring-boot-3-jwt-security</title>
-  <description></description>
-  <link>https://github.com/ali-bouali/spring-boot-3-jwt-security</link>
-  <guid isPermaLink="false">1720</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>squizlabs / PHP_CodeSniffer</title>
-  <description>PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.</description>
-  <link>https://github.com/squizlabs/PHP_CodeSniffer</link>
-  <guid isPermaLink="false">1719</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>danielgindi / Charts</title>
-  <description>Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</description>
-  <link>https://github.com/danielgindi/Charts</link>
-  <guid isPermaLink="false">1718</guid>
-  <pubDate>Fri, 06 Jan 2023 09:00:08 -0800</pubDate>
  </item>
 
 </channel>

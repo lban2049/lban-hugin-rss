@@ -8,9 +8,37 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 09 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 09 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 10 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Tue, 10 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>关于经营许可证的问题</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3709</link>
+  <pubDate>Tue, 10 Jan 2023 04:37:42 -0800</pubDate>
+  <guid isPermaLink="false">1967</guid>
+ </item>
+ <item>
+  <title>【浏览器扩展】哔哩哔哩字幕列表 - 高效获取视频文本信息</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3708</link>
+  <pubDate>Tue, 10 Jan 2023 01:05:46 -0800</pubDate>
+  <guid isPermaLink="false">1968</guid>
+ </item>
+ <item>
+  <title>创意时钟 app 介绍</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3705</link>
+  <pubDate>Mon, 09 Jan 2023 21:39:55 -0800</pubDate>
+  <guid isPermaLink="false">1969</guid>
+ </item>
+ <item>
+  <title>这里能发二手么？出个 anker 6 合 1 扩展坞</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3707</link>
+  <pubDate>Mon, 09 Jan 2023 18:56:55 -0800</pubDate>
+  <guid isPermaLink="false">1970</guid>
+ </item>
  <item>
   <title>创意时钟 app 介绍</title>
   <description></description>
@@ -262,34 +290,6 @@
   <link>https://w2solo.com/topics/3690</link>
   <pubDate>Wed, 21 Dec 2022 20:24:25 -0800</pubDate>
   <guid isPermaLink="false">1002</guid>
- </item>
- <item>
-  <title>文案语录类 APP，有兴趣的朋友欢迎来体验使用!</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3669</link>
-  <pubDate>Wed, 21 Dec 2022 19:43:19 -0800</pubDate>
-  <guid isPermaLink="false">1003</guid>
- </item>
- <item>
-  <title>😊迟到的自我介绍以及回顾和总结下做出海产品的这几年~</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3667</link>
-  <pubDate>Wed, 21 Dec 2022 19:30:19 -0800</pubDate>
-  <guid isPermaLink="false">1004</guid>
- </item>
- <item>
-  <title>小市 App【Android 版】</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3689</link>
-  <pubDate>Tue, 20 Dec 2022 19:47:17 -0800</pubDate>
-  <guid isPermaLink="false">950</guid>
- </item>
- <item>
-  <title>小市 App【Android 版】</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3689</link>
-  <pubDate>Tue, 20 Dec 2022 02:34:59 -0800</pubDate>
-  <guid isPermaLink="false">901</guid>
  </item>
 
 </channel>
