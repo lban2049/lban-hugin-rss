@@ -8,9 +8,37 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 10 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Tue, 10 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Wed, 11 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Wed, 11 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>关于经营许可证的问题</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3709</link>
+  <pubDate>Wed, 11 Jan 2023 02:38:06 -0800</pubDate>
+  <guid isPermaLink="false">2021</guid>
+ </item>
+ <item>
+  <title>做了一款个人记账用的 App，欢迎大家使用 并提出宝贵意见</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3711</link>
+  <pubDate>Wed, 11 Jan 2023 02:15:42 -0800</pubDate>
+  <guid isPermaLink="false">2022</guid>
+ </item>
+ <item>
+  <title>Product Hunt 2022 年度 Golden Kitty Awards 评选开始，请求大家的支援！</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3712</link>
+  <pubDate>Wed, 11 Jan 2023 02:08:06 -0800</pubDate>
+  <guid isPermaLink="false">2023</guid>
+ </item>
+ <item>
+  <title>量化交易和交易所的对接工具，做单一的事情</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3710</link>
+  <pubDate>Wed, 11 Jan 2023 00:37:12 -0800</pubDate>
+  <guid isPermaLink="false">2024</guid>
+ </item>
  <item>
   <title>关于经营许可证的问题</title>
   <description></description>
@@ -262,34 +290,6 @@
   <link>https://w2solo.com/topics/3693</link>
   <pubDate>Mon, 26 Dec 2022 18:30:40 -0800</pubDate>
   <guid isPermaLink="false">1220</guid>
- </item>
- <item>
-  <title>Dawn Launcher Windows 快捷启动工具</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3691</link>
-  <pubDate>Sun, 25 Dec 2022 21:21:53 -0800</pubDate>
-  <guid isPermaLink="false">1173</guid>
- </item>
- <item>
-  <title>年度第三个独立产品 EarlyBird 发布，需要您的支持！</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3692</link>
-  <pubDate>Sun, 25 Dec 2022 01:00:07 -0800</pubDate>
-  <guid isPermaLink="false">1129</guid>
- </item>
- <item>
-  <title>Dawn Launcher Windows 快捷启动工具</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3691</link>
-  <pubDate>Fri, 23 Dec 2022 00:39:33 -0800</pubDate>
-  <guid isPermaLink="false">1047</guid>
- </item>
- <item>
-  <title>不上班的 1000 天，程序员自由职业 B 计划 - 做什么/收入/经验教训</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3690</link>
-  <pubDate>Wed, 21 Dec 2022 20:24:25 -0800</pubDate>
-  <guid isPermaLink="false">1002</guid>
  </item>
 
 </channel>

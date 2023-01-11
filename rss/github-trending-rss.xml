@@ -8,9 +8,100 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 10 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Tue, 10 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Wed, 11 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Wed, 11 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>wagtail / wagtail</title>
+  <description>A Django content management system focused on flexibility and user experience</description>
+  <link>https://github.com/wagtail/wagtail</link>
+  <guid isPermaLink="false">1992</guid>
+  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>open-mmlab / mmdetection</title>
+  <description>OpenMMLab Detection Toolbox and Benchmark</description>
+  <link>https://github.com/open-mmlab/mmdetection</link>
+  <guid isPermaLink="false">1991</guid>
+  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>firebase / firebase-ios-sdk</title>
+  <description>Firebase SDK for Apple App Development</description>
+  <link>https://github.com/firebase/firebase-ios-sdk</link>
+  <guid isPermaLink="false">1990</guid>
+  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>aws-ia / terraform-aws-eks-blueprints</title>
+  <description>Configure and deploy complete EKS clusters.</description>
+  <link>https://github.com/aws-ia/terraform-aws-eks-blueprints</link>
+  <guid isPermaLink="false">1989</guid>
+  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>rails / mrsk</title>
+  <description>Deploy Docker containers with zero downtime to any host</description>
+  <link>https://github.com/rails/mrsk</link>
+  <guid isPermaLink="false">1988</guid>
+  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>Nutlope / restorePhotos</title>
+  <description>Restoring old and blurry face photos with AI.</description>
+  <link>https://github.com/Nutlope/restorePhotos</link>
+  <guid isPermaLink="false">1987</guid>
+  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>HydroniumLabs / h3o</title>
+  <description>Rust implementation of the H3 geospatial indexing system.</description>
+  <link>https://github.com/HydroniumLabs/h3o</link>
+  <guid isPermaLink="false">1986</guid>
+  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>the-teacher / rails7-startkit</title>
+  <description>Rails7 StartKit. Launch App in minutes!</description>
+  <link>https://github.com/the-teacher/rails7-startkit</link>
+  <guid isPermaLink="false">1985</guid>
+  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>twitter / twemoji</title>
+  <description>Emoji for everyone. https://twemoji.twitter.com/</description>
+  <link>https://github.com/twitter/twemoji</link>
+  <guid isPermaLink="false">1984</guid>
+  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>matteozappia / DynamicCow</title>
+  <description>Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit.</description>
+  <link>https://github.com/matteozappia/DynamicCow</link>
+  <guid isPermaLink="false">1983</guid>
+  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>danielgross / whatsapp-gpt</title>
+  <description></description>
+  <link>https://github.com/danielgross/whatsapp-gpt</link>
+  <guid isPermaLink="false">1982</guid>
+  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>pointfreeco / swift-dependencies</title>
+  <description>A dependency management library inspired by SwiftUI's "environment."</description>
+  <link>https://github.com/pointfreeco/swift-dependencies</link>
+  <guid isPermaLink="false">1981</guid>
+  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>amitshekhariitbhu / go-backend-clean-architecture</title>
+  <description>A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.</description>
+  <link>https://github.com/amitshekhariitbhu/go-backend-clean-architecture</link>
+  <guid isPermaLink="false">1980</guid>
+  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
  <item>
   <title>ultralytics / yolov5</title>
   <description>YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite</description>
@@ -199,97 +290,6 @@
   <link>https://github.com/microsoft/unilm</link>
   <guid isPermaLink="false">1822</guid>
   <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>ripienaar / free-for-dev</title>
-  <description>A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev</description>
-  <link>https://github.com/ripienaar/free-for-dev</link>
-  <guid isPermaLink="false">1821</guid>
-  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>emilk / egui</title>
-  <description>egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native</description>
-  <link>https://github.com/emilk/egui</link>
-  <guid isPermaLink="false">1820</guid>
-  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>gragland / chatgpt-chrome-extension</title>
-  <description>A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.</description>
-  <link>https://github.com/gragland/chatgpt-chrome-extension</link>
-  <guid isPermaLink="false">1819</guid>
-  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>ACM-Alexandria-SC / Internships</title>
-  <description></description>
-  <link>https://github.com/ACM-Alexandria-SC/Internships</link>
-  <guid isPermaLink="false">1818</guid>
-  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>1c7 / chinese-independent-developer</title>
-  <description>👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么</description>
-  <link>https://github.com/1c7/chinese-independent-developer</link>
-  <guid isPermaLink="false">1817</guid>
-  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>komeilmehranfar / visa-sponsers-companies-for-iranians</title>
-  <description></description>
-  <link>https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians</link>
-  <guid isPermaLink="false">1816</guid>
-  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>ProgrammingHero1 / new-year-new-me</title>
-  <description></description>
-  <link>https://github.com/ProgrammingHero1/new-year-new-me</link>
-  <guid isPermaLink="false">1815</guid>
-  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>toeverything / AFFiNE</title>
-  <description>There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.</description>
-  <link>https://github.com/toeverything/AFFiNE</link>
-  <guid isPermaLink="false">1780</guid>
-  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>google / googletest</title>
-  <description>GoogleTest - Google Testing and Mocking Framework</description>
-  <link>https://github.com/google/googletest</link>
-  <guid isPermaLink="false">1779</guid>
-  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>EbookFoundation / free-programming-books</title>
-  <description>📚 Freely available programming books</description>
-  <link>https://github.com/EbookFoundation/free-programming-books</link>
-  <guid isPermaLink="false">1778</guid>
-  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>AUTOMATIC1111 / stable-diffusion-webui</title>
-  <description>Stable Diffusion web UI</description>
-  <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
-  <guid isPermaLink="false">1777</guid>
-  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>book-searcher-org / book-searcher</title>
-  <description>Search books index, create your private local library.</description>
-  <link>https://github.com/book-searcher-org/book-searcher</link>
-  <guid isPermaLink="false">1776</guid>
-  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / Web-Dev-For-Beginners</title>
-  <description>24 Lessons, 12 Weeks, Get Started as a Web Developer</description>
-  <link>https://github.com/microsoft/Web-Dev-For-Beginners</link>
-  <guid isPermaLink="false">1775</guid>
-  <pubDate>Sat, 07 Jan 2023 09:00:09 -0800</pubDate>
  </item>
 
 </channel>
