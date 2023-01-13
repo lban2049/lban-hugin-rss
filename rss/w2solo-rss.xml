@@ -8,9 +8,58 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 11 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Wed, 11 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Fri, 13 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 13 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>JYmusic 跨平台音乐管理系统 v2.0 源码</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3715</link>
+  <pubDate>Fri, 13 Jan 2023 07:55:11 -0800</pubDate>
+  <guid isPermaLink="false">2085</guid>
+ </item>
+ <item>
+  <title>量化交易和交易所的对接工具，做单一的事情</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3710</link>
+  <pubDate>Fri, 13 Jan 2023 03:52:39 -0800</pubDate>
+  <guid isPermaLink="false">2086</guid>
+ </item>
+ <item>
+  <title>rss2newsletter</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3714</link>
+  <pubDate>Thu, 12 Jan 2023 23:17:49 -0800</pubDate>
+  <guid isPermaLink="false">2087</guid>
+ </item>
+ <item>
+  <title>友映计划，主要功能是同屏一起看视频，屏幕共享可实现同步刷抖音，还可以视频连麦</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3713</link>
+  <pubDate>Thu, 12 Jan 2023 22:24:16 -0800</pubDate>
+  <guid isPermaLink="false">2088</guid>
+ </item>
+ <item>
+  <title>关于经营许可证的问题</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3709</link>
+  <pubDate>Thu, 12 Jan 2023 21:38:43 -0800</pubDate>
+  <guid isPermaLink="false">2089</guid>
+ </item>
+ <item>
+  <title>Dawn Launcher Windows 快捷启动工具</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3691</link>
+  <pubDate>Thu, 12 Jan 2023 01:02:54 -0800</pubDate>
+  <guid isPermaLink="false">2090</guid>
+ </item>
+ <item>
+  <title>阅读 APP</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3699</link>
+  <pubDate>Wed, 11 Jan 2023 17:45:16 -0800</pubDate>
+  <guid isPermaLink="false">2091</guid>
+ </item>
  <item>
   <title>关于经营许可证的问题</title>
   <description></description>
@@ -241,55 +290,6 @@
   <link>https://w2solo.com/topics/3670</link>
   <pubDate>Sun, 01 Jan 2023 18:06:10 -0800</pubDate>
   <guid isPermaLink="false">1530</guid>
- </item>
- <item>
-  <title>创业中遇到危机了怎么办？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3687</link>
-  <pubDate>Fri, 30 Dec 2022 18:33:39 -0800</pubDate>
-  <guid isPermaLink="false">1429</guid>
- </item>
- <item>
-  <title>不上班的 1000 天，程序员自由职业 B 计划 - 做什么/收入/经验教训</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3690</link>
-  <pubDate>Thu, 29 Dec 2022 22:02:51 -0800</pubDate>
-  <guid isPermaLink="false">1382</guid>
- </item>
- <item>
-  <title>Dawn Launcher Windows 快捷启动工具</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3691</link>
-  <pubDate>Thu, 29 Dec 2022 02:48:02 -0800</pubDate>
-  <guid isPermaLink="false">1324</guid>
- </item>
- <item>
-  <title>ModStart 交给您的开源年终总结</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3695</link>
-  <pubDate>Wed, 28 Dec 2022 22:33:34 -0800</pubDate>
-  <guid isPermaLink="false">1325</guid>
- </item>
- <item>
-  <title>我是如何在 3 天内获得 500+ 种子用户的： MVP 产品如何冷启动</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3694</link>
-  <pubDate>Wed, 28 Dec 2022 22:23:24 -0800</pubDate>
-  <guid isPermaLink="false">1326</guid>
- </item>
- <item>
-  <title>不上班的 1000 天，程序员自由职业 B 计划 - 做什么/收入/经验教训</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3690</link>
-  <pubDate>Mon, 26 Dec 2022 18:44:53 -0800</pubDate>
-  <guid isPermaLink="false">1219</guid>
- </item>
- <item>
-  <title>在圣诞节发布产品是一种什么样的体验（附 Product Hunt 发布心得）</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3693</link>
-  <pubDate>Mon, 26 Dec 2022 18:30:40 -0800</pubDate>
-  <guid isPermaLink="false">1220</guid>
  </item>
 
 </channel>
