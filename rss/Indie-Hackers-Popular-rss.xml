@@ -8,9 +8,100 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 13 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Fri, 13 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sat, 14 Jan 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Sat, 14 Jan 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Best way to create landing pages for a SaaS?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/best-way-to-create-landing-pages-for-a-saas-8815a361ee</link>
+  <guid isPermaLink="false">2173</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>App looking to eradicate loneliness seeks CTO</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/app-looking-to-eradicate-loneliness-seeks-cto-12d9346a8a</link>
+  <guid isPermaLink="false">2172</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>Do you struggle with design of your product?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/do-you-struggle-with-design-of-your-product-9f8c14b5a9</link>
+  <guid isPermaLink="false">2171</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>Engineering Minimum Viable Inspiration</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/engineering-minimum-viable-inspiration-9a606b1146</link>
+  <guid isPermaLink="false">2170</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>I have acquired the first micro-product!</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/i-have-acquired-the-first-micro-product-e325b017df</link>
+  <guid isPermaLink="false">2169</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>I lost over $200,000</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/i-lost-over-200-000-8097db51df</link>
+  <guid isPermaLink="false">2168</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>Looking for an opinion on my new LinkedIn AI tool</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/looking-for-an-opinion-on-my-new-linkedin-ai-tool-0054b3eae8</link>
+  <guid isPermaLink="false">2167</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>How to SaaS Last Part — The Winter is Coming for Developers</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-to-saas-last-part-the-winter-is-coming-for-developers-8c088a473d</link>
+  <guid isPermaLink="false">2166</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>Just achieved my 2022 goal - 100 paying customers!</title>
+  <description></description>
+  <link>https://www.indiehackers.com/product/kano-surveys/just-achieved-my-2022-goal-100-paying-customers--NLc-7g_IofHVlLsmz0q</link>
+  <guid isPermaLink="false">2165</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>My second marketing week - all my actions and results</title>
+  <description></description>
+  <link>https://www.indiehackers.com/product/cakedesk/my-second-marketing-week-all-my-actions-and-results--NLeIVkXAQI4ILfIp4o_</link>
+  <guid isPermaLink="false">2164</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>It's 2023 - which front-end framework are you using nowadays, and why?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/its-2023-which-front-end-framework-are-you-using-nowadays-and-why-47f56bc573</link>
+  <guid isPermaLink="false">2163</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>Startups are full of highs and lows. Today's a low one.</title>
+  <description></description>
+  <link>https://www.indiehackers.com/product/microsend/startups-are-full-of-highs-and-lows-todays-a-low-one--NLekdzQTh3rzzQJVl2E</link>
+  <guid isPermaLink="false">2162</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>Programming interviews turn normal people into A-holes</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/programming-interviews-turn-normal-people-into-a-holes-c4f053da50</link>
+  <guid isPermaLink="false">2161</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:13 -0800</pubDate>
+ </item>
  <item>
   <title>When to video market?</title>
   <description></description>
@@ -199,97 +290,6 @@
   <link>https://www.indiehackers.com/post/should-you-offer-a-free-tier-a-free-trial-or-both-1f3698899d</link>
   <guid isPermaLink="false">2029</guid>
   <pubDate>Wed, 11 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>How to think about applying new technologies like AI and ChatGPT</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-to-think-about-applying-new-technologies-like-ai-and-chatgpt-9fadd81b41</link>
-  <guid isPermaLink="false">2028</guid>
-  <pubDate>Wed, 11 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>Anyone else dread hiring?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/anyone-else-dread-hiring-2deb801542</link>
-  <guid isPermaLink="false">2027</guid>
-  <pubDate>Wed, 11 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>I spent €300 on TailwindUI, I think it's been my best ever purchase...</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/i-spent-300-on-tailwindui-i-think-its-been-my-best-ever-purchase-38206bb5df</link>
-  <guid isPermaLink="false">2026</guid>
-  <pubDate>Wed, 11 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>If you have Lifetime Deals (LTD) but the SaaS shuts down, where does that leave you?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/if-you-have-lifetime-deals-ltd-but-the-saas-shuts-down-where-does-that-leave-you-1e7bf5ef82</link>
-  <guid isPermaLink="false">2025</guid>
-  <pubDate>Wed, 11 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>Side Projects deserve permanence in our schedules</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/side-projects-deserve-permanence-in-our-schedules-47ddbf66a3</link>
-  <guid isPermaLink="false">1979</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>Want to reach HN front page? Consider choosing Substack over Medium to increase your chances</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/want-to-reach-hn-front-page-consider-choosing-substack-over-medium-to-increase-your-chances-61d4048685</link>
-  <guid isPermaLink="false">1978</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>Have you hired somebody after your side project start growing?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/have-you-hired-somebody-after-your-side-project-start-growing-a30468be2d</link>
-  <guid isPermaLink="false">1977</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>Community engagement is so 2022. Here are 10 things you should obsess over instead.</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/community-engagement-is-so-2022-here-are-10-things-you-should-obsess-over-instead-354b258beb</link>
-  <guid isPermaLink="false">1976</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>What's New: Reddit for user acquisition</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/whats-new-reddit-for-user-acquisition-fe1d22bef7</link>
-  <guid isPermaLink="false">1975</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>In 2023 I'll be building in public a new product every 60 days. Why?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/in-2023-ill-be-building-in-public-a-new-product-every-60-days-why-c76f300356</link>
-  <guid isPermaLink="false">1974</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>You don't need an LLC... yet. How and when to form a business entity</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/you-dont-need-an-llc-yet-how-and-when-to-form-a-business-entity-237f8e6145</link>
-  <guid isPermaLink="false">1973</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>6 extreme challenges to try in 2023</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/6-extreme-challenges-to-try-in-2023-709e318661</link>
-  <guid isPermaLink="false">1972</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>The best SaaS leaders to follow on Twitter</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/the-best-saas-leaders-to-follow-on-twitter-8d6a5569dd</link>
-  <guid isPermaLink="false">1971</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:10 -0800</pubDate>
  </item>
 
 </channel>

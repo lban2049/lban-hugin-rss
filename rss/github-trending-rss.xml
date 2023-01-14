@@ -8,9 +8,170 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 13 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Fri, 13 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sat, 14 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sat, 14 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>DesktopECHO / T95-H616-Malware</title>
+  <description>"Pre-Owned" malware in ROM on T95 Android TV Box (AllWinner H616)</description>
+  <link>https://github.com/DesktopECHO/T95-H616-Malware</link>
+  <guid isPermaLink="false">2131</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>o0HalfLife0o / TVBoxOSC</title>
+  <description></description>
+  <link>https://github.com/o0HalfLife0o/TVBoxOSC</link>
+  <guid isPermaLink="false">2130</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>open-mmlab / mmpose</title>
+  <description>OpenMMLab Pose Estimation Toolbox and Benchmark.</description>
+  <link>https://github.com/open-mmlab/mmpose</link>
+  <guid isPermaLink="false">2129</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>TheAlgorithms / Java</title>
+  <description>All Algorithms implemented in Java</description>
+  <link>https://github.com/TheAlgorithms/Java</link>
+  <guid isPermaLink="false">2128</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>novuhq / novu</title>
+  <description>The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀</description>
+  <link>https://github.com/novuhq/novu</link>
+  <guid isPermaLink="false">2127</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>d3 / d3</title>
+  <description>Bring data to life with SVG, Canvas and HTML. 📊📈🎉</description>
+  <link>https://github.com/d3/d3</link>
+  <guid isPermaLink="false">2126</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>bradtraversy / 50projects50days</title>
+  <description>50+ mini web projects using HTML, CSS &amp; JS</description>
+  <link>https://github.com/bradtraversy/50projects50days</link>
+  <guid isPermaLink="false">2125</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>Sanster / lama-cleaner</title>
+  <description>Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.</description>
+  <link>https://github.com/Sanster/lama-cleaner</link>
+  <guid isPermaLink="false">2124</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>mack-a / v2ray-agent</title>
+  <description>（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装</description>
+  <link>https://github.com/mack-a/v2ray-agent</link>
+  <guid isPermaLink="false">2123</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>anuraghazra / github-readme-stats</title>
+  <description>⚡ Dynamically generated stats for your github readmes</description>
+  <link>https://github.com/anuraghazra/github-readme-stats</link>
+  <guid isPermaLink="false">2122</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>facebook / react-native</title>
+  <description>A framework for building native applications using React</description>
+  <link>https://github.com/facebook/react-native</link>
+  <guid isPermaLink="false">2121</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>Bssn520 / AnimationAutoUpdate</title>
+  <description>🤪动漫、电视剧的自动更新及在线观看。🫡</description>
+  <link>https://github.com/Bssn520/AnimationAutoUpdate</link>
+  <guid isPermaLink="false">2120</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>GrowingGit / GitHub-Chinese-Top-Charts</title>
+  <description>🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。</description>
+  <link>https://github.com/GrowingGit/GitHub-Chinese-Top-Charts</link>
+  <guid isPermaLink="false">2119</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>shobrook / adrenaline</title>
+  <description>An AI-powered debugger</description>
+  <link>https://github.com/shobrook/adrenaline</link>
+  <guid isPermaLink="false">2118</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>cloudflare / wildebeest</title>
+  <description>Wildebeest is an ActivityPub and Mastodon-compatible server</description>
+  <link>https://github.com/cloudflare/wildebeest</link>
+  <guid isPermaLink="false">2117</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>sczhou / CodeFormer</title>
+  <description>[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer</description>
+  <link>https://github.com/sczhou/CodeFormer</link>
+  <guid isPermaLink="false">2116</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>jlevy / the-art-of-command-line</title>
+  <description>Master the command line, in one page</description>
+  <link>https://github.com/jlevy/the-art-of-command-line</link>
+  <guid isPermaLink="false">2115</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>tweedegolf / 101-rs</title>
+  <description>A Rust university course</description>
+  <link>https://github.com/tweedegolf/101-rs</link>
+  <guid isPermaLink="false">2114</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>elk-zone / elk</title>
+  <description>A nimble Mastodon web client</description>
+  <link>https://github.com/elk-zone/elk</link>
+  <guid isPermaLink="false">2113</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>pytorch / pytorch</title>
+  <description>Tensors and Dynamic neural networks in Python with strong GPU acceleration</description>
+  <link>https://github.com/pytorch/pytorch</link>
+  <guid isPermaLink="false">2112</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>open-duelyst / duelyst</title>
+  <description>Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.</description>
+  <link>https://github.com/open-duelyst/duelyst</link>
+  <guid isPermaLink="false">2111</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>Slackadays / Clipboard</title>
+  <description>📋 Cut, copy, and paste anything, anywhere, all from the terminal. Quick, easy, and pretty.</description>
+  <link>https://github.com/Slackadays/Clipboard</link>
+  <guid isPermaLink="false">2110</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>ultralytics / ultralytics</title>
+  <description>YOLOv8 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite</description>
+  <link>https://github.com/ultralytics/ultralytics</link>
+  <guid isPermaLink="false">2109</guid>
+  <pubDate>Sat, 14 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
  <item>
   <title>wagtail / wagtail</title>
   <description>A Django content management system focused on flexibility and user experience</description>
@@ -129,167 +290,6 @@
   <link>https://github.com/fastlane/fastlane</link>
   <guid isPermaLink="false">1932</guid>
   <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>qax-os / excelize</title>
-  <description>Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets</description>
-  <link>https://github.com/qax-os/excelize</link>
-  <guid isPermaLink="false">1931</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>trpc / trpc</title>
-  <description>🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.</description>
-  <link>https://github.com/trpc/trpc</link>
-  <guid isPermaLink="false">1930</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>mouredev / Hello-Python</title>
-  <description>Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos.</description>
-  <link>https://github.com/mouredev/Hello-Python</link>
-  <guid isPermaLink="false">1929</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>binhnguyennus / awesome-scalability</title>
-  <description>The Patterns of Scalable, Reliable, and Performant Large-Scale Systems</description>
-  <link>https://github.com/binhnguyennus/awesome-scalability</link>
-  <guid isPermaLink="false">1928</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>facebookresearch / hyperreel</title>
-  <description>Code release for HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling</description>
-  <link>https://github.com/facebookresearch/hyperreel</link>
-  <guid isPermaLink="false">1927</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>google / cdc-file-transfer</title>
-  <description>Tools for synching and streaming files from Windows to Linux</description>
-  <link>https://github.com/google/cdc-file-transfer</link>
-  <guid isPermaLink="false">1926</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>sismo-core / sismo-protocol</title>
-  <description>Contracts of the Sismo Attestation Protocol</description>
-  <link>https://github.com/sismo-core/sismo-protocol</link>
-  <guid isPermaLink="false">1925</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>JuanCrg90 / Clean-Code-Notes</title>
-  <description>My notes of Clean Code book</description>
-  <link>https://github.com/JuanCrg90/Clean-Code-Notes</link>
-  <guid isPermaLink="false">1924</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>VoronDesign / VoronUsers</title>
-  <description>Voron Community mods, slicer profiles and firmware configurations.</description>
-  <link>https://github.com/VoronDesign/VoronUsers</link>
-  <guid isPermaLink="false">1880</guid>
-  <pubDate>Mon, 09 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>Snapchat / KeyDB</title>
-  <description>A Multithreaded Fork of Redis</description>
-  <link>https://github.com/Snapchat/KeyDB</link>
-  <guid isPermaLink="false">1879</guid>
-  <pubDate>Mon, 09 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>qmk / qmk_firmware</title>
-  <description>Open-source keyboard firmware for Atmel AVR and Arm USB families</description>
-  <link>https://github.com/qmk/qmk_firmware</link>
-  <guid isPermaLink="false">1878</guid>
-  <pubDate>Mon, 09 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>hyprwm / Hyprland</title>
-  <description>Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.</description>
-  <link>https://github.com/hyprwm/Hyprland</link>
-  <guid isPermaLink="false">1877</guid>
-  <pubDate>Mon, 09 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>obsproject / obs-studio</title>
-  <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
-  <link>https://github.com/obsproject/obs-studio</link>
-  <guid isPermaLink="false">1876</guid>
-  <pubDate>Mon, 09 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>krishnaik06 / 6-Months-Data-Science-Roadmap-</title>
-  <description></description>
-  <link>https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-</link>
-  <guid isPermaLink="false">1875</guid>
-  <pubDate>Mon, 09 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>THUDM / GLM-130B</title>
-  <description>GLM-130B: An Open Bilingual Pre-Trained Model</description>
-  <link>https://github.com/THUDM/GLM-130B</link>
-  <guid isPermaLink="false">1874</guid>
-  <pubDate>Mon, 09 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>pi-apps / PiOS</title>
-  <description></description>
-  <link>https://github.com/pi-apps/PiOS</link>
-  <guid isPermaLink="false">1873</guid>
-  <pubDate>Mon, 09 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>openai / openai-cookbook</title>
-  <description>Examples and guides for using the OpenAI API</description>
-  <link>https://github.com/openai/openai-cookbook</link>
-  <guid isPermaLink="false">1872</guid>
-  <pubDate>Mon, 09 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>public-apis / public-apis</title>
-  <description>A collective list of free APIs</description>
-  <link>https://github.com/public-apis/public-apis</link>
-  <guid isPermaLink="false">1827</guid>
-  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>weak1337 / Alcatraz</title>
-  <description>x64 binary obfuscator</description>
-  <link>https://github.com/weak1337/Alcatraz</link>
-  <guid isPermaLink="false">1826</guid>
-  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>blakeblackshear / frigate</title>
-  <description>NVR with realtime local object detection for IP cameras</description>
-  <link>https://github.com/blakeblackshear/frigate</link>
-  <guid isPermaLink="false">1825</guid>
-  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>oven-sh / bun</title>
-  <description>Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.</description>
-  <link>https://github.com/oven-sh/bun</link>
-  <guid isPermaLink="false">1824</guid>
-  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>ventoy / Ventoy</title>
-  <description>A new bootable USB solution.</description>
-  <link>https://github.com/ventoy/Ventoy</link>
-  <guid isPermaLink="false">1823</guid>
-  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / unilm</title>
-  <description>Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities</description>
-  <link>https://github.com/microsoft/unilm</link>
-  <guid isPermaLink="false">1822</guid>
-  <pubDate>Sun, 08 Jan 2023 09:00:03 -0800</pubDate>
  </item>
 
 </channel>
