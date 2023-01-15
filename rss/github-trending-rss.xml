@@ -8,9 +8,93 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 14 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sat, 14 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sun, 15 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 15 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>lencx / ChatGPT</title>
+  <description>🔮 ChatGPT Desktop Application (Mac, Windows and Linux)</description>
+  <link>https://github.com/lencx/ChatGPT</link>
+  <guid isPermaLink="false">2185</guid>
+  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>helix-editor / helix</title>
+  <description>A post-modern modal text editor.</description>
+  <link>https://github.com/helix-editor/helix</link>
+  <guid isPermaLink="false">2184</guid>
+  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>nocodb / nocodb</title>
+  <description>🔥 🔥 🔥 Open Source Airtable Alternative</description>
+  <link>https://github.com/nocodb/nocodb</link>
+  <guid isPermaLink="false">2183</guid>
+  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>jucasoliveira / terminalGPT</title>
+  <description>Get GPT like chatGPT on your terminal</description>
+  <link>https://github.com/jucasoliveira/terminalGPT</link>
+  <guid isPermaLink="false">2182</guid>
+  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>pi-hole / pi-hole</title>
+  <description>A black hole for Internet advertisements</description>
+  <link>https://github.com/pi-hole/pi-hole</link>
+  <guid isPermaLink="false">2181</guid>
+  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>juspay / hyperswitch</title>
+  <description>An Open Source Financial Switch to make Payments fast, reliable and affordable</description>
+  <link>https://github.com/juspay/hyperswitch</link>
+  <guid isPermaLink="false">2180</guid>
+  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>ehulinsky / AnalogChess</title>
+  <description>Chess but no grid</description>
+  <link>https://github.com/ehulinsky/AnalogChess</link>
+  <guid isPermaLink="false">2179</guid>
+  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>ai-collection / ai-collection</title>
+  <description>A collection of generative AI applications</description>
+  <link>https://github.com/ai-collection/ai-collection</link>
+  <guid isPermaLink="false">2178</guid>
+  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>topjohnwu / Magisk</title>
+  <description>The Magic Mask for Android</description>
+  <link>https://github.com/topjohnwu/Magisk</link>
+  <guid isPermaLink="false">2177</guid>
+  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>massgravel / Microsoft-Activation-Scripts</title>
+  <description>A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</description>
+  <link>https://github.com/massgravel/Microsoft-Activation-Scripts</link>
+  <guid isPermaLink="false">2176</guid>
+  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>leptos-rs / leptos</title>
+  <description>Build fast web applications with Rust.</description>
+  <link>https://github.com/leptos-rs/leptos</link>
+  <guid isPermaLink="false">2175</guid>
+  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>sickcodes / Docker-OSX</title>
+  <description>Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.</description>
+  <link>https://github.com/sickcodes/Docker-OSX</link>
+  <guid isPermaLink="false">2174</guid>
+  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
  <item>
   <title>DesktopECHO / T95-H616-Malware</title>
   <description>"Pre-Owned" malware in ROM on T95 Android TV Box (AllWinner H616)</description>
@@ -206,90 +290,6 @@
   <link>https://github.com/rails/mrsk</link>
   <guid isPermaLink="false">1988</guid>
   <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>Nutlope / restorePhotos</title>
-  <description>Restoring old and blurry face photos with AI.</description>
-  <link>https://github.com/Nutlope/restorePhotos</link>
-  <guid isPermaLink="false">1987</guid>
-  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>HydroniumLabs / h3o</title>
-  <description>Rust implementation of the H3 geospatial indexing system.</description>
-  <link>https://github.com/HydroniumLabs/h3o</link>
-  <guid isPermaLink="false">1986</guid>
-  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>the-teacher / rails7-startkit</title>
-  <description>Rails7 StartKit. Launch App in minutes!</description>
-  <link>https://github.com/the-teacher/rails7-startkit</link>
-  <guid isPermaLink="false">1985</guid>
-  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>twitter / twemoji</title>
-  <description>Emoji for everyone. https://twemoji.twitter.com/</description>
-  <link>https://github.com/twitter/twemoji</link>
-  <guid isPermaLink="false">1984</guid>
-  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>matteozappia / DynamicCow</title>
-  <description>Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit.</description>
-  <link>https://github.com/matteozappia/DynamicCow</link>
-  <guid isPermaLink="false">1983</guid>
-  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>danielgross / whatsapp-gpt</title>
-  <description></description>
-  <link>https://github.com/danielgross/whatsapp-gpt</link>
-  <guid isPermaLink="false">1982</guid>
-  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>pointfreeco / swift-dependencies</title>
-  <description>A dependency management library inspired by SwiftUI's "environment."</description>
-  <link>https://github.com/pointfreeco/swift-dependencies</link>
-  <guid isPermaLink="false">1981</guid>
-  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>amitshekhariitbhu / go-backend-clean-architecture</title>
-  <description>A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.</description>
-  <link>https://github.com/amitshekhariitbhu/go-backend-clean-architecture</link>
-  <guid isPermaLink="false">1980</guid>
-  <pubDate>Wed, 11 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>ultralytics / yolov5</title>
-  <description>YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite</description>
-  <link>https://github.com/ultralytics/yolov5</link>
-  <guid isPermaLink="false">1935</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>VoronDesign / Voron-0</title>
-  <description>Voron 0 CoreXY 3D Printer design</description>
-  <link>https://github.com/VoronDesign/Voron-0</link>
-  <guid isPermaLink="false">1934</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>wiidev / usbloadergx</title>
-  <description>This version of USB Loader GX supersedes the SourceForge version, which was last updated in 2019.</description>
-  <link>https://github.com/wiidev/usbloadergx</link>
-  <guid isPermaLink="false">1933</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>fastlane / fastlane</title>
-  <description>🚀 The easiest way to automate building and releasing your iOS and Android apps</description>
-  <link>https://github.com/fastlane/fastlane</link>
-  <guid isPermaLink="false">1932</guid>
-  <pubDate>Tue, 10 Jan 2023 09:00:02 -0800</pubDate>
  </item>
 
 </channel>

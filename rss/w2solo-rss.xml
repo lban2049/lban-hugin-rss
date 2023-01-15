@@ -8,9 +8,23 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 14 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sat, 14 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sun, 15 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 15 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Dawn Launcher Windows 快捷启动工具</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3691</link>
+  <pubDate>Sun, 15 Jan 2023 04:22:53 -0800</pubDate>
+  <guid isPermaLink="false">2215</guid>
+ </item>
+ <item>
+  <title>年会抽奖神器 ｜ 幸运者</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3716</link>
+  <pubDate>Sat, 14 Jan 2023 23:17:10 -0800</pubDate>
+  <guid isPermaLink="false">2216</guid>
+ </item>
  <item>
   <title>JYmusic 跨平台音乐管理系统 v2.0 源码</title>
   <description></description>
@@ -276,20 +290,6 @@
   <link>https://w2solo.com/topics/3697</link>
   <pubDate>Tue, 03 Jan 2023 06:52:45 -0800</pubDate>
   <guid isPermaLink="false">1572</guid>
- </item>
- <item>
-  <title>一款练字类 APP</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3696</link>
-  <pubDate>Mon, 02 Jan 2023 17:36:48 -0800</pubDate>
-  <guid isPermaLink="false">1573</guid>
- </item>
- <item>
-  <title>请问大家都是如何设计自己应用的 UI 的？是不是都是用 Figma？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3670</link>
-  <pubDate>Sun, 01 Jan 2023 18:06:10 -0800</pubDate>
-  <guid isPermaLink="false">1530</guid>
  </item>
 
 </channel>
