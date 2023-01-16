@@ -8,9 +8,23 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 15 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sun, 15 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Mon, 16 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 16 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>独立产品灵感周刊 DecoHack #044 - 新的一年如何管理你的时间</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3717</link>
+  <pubDate>Mon, 16 Jan 2023 01:55:58 -0800</pubDate>
+  <guid isPermaLink="false">2261</guid>
+ </item>
+ <item>
+  <title>Dawn Launcher Windows 快捷启动工具</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3691</link>
+  <pubDate>Sun, 15 Jan 2023 17:07:47 -0800</pubDate>
+  <guid isPermaLink="false">2262</guid>
+ </item>
  <item>
   <title>Dawn Launcher Windows 快捷启动工具</title>
   <description></description>
@@ -276,20 +290,6 @@
   <link>https://w2solo.com/topics/3696</link>
   <pubDate>Thu, 05 Jan 2023 00:56:39 -0800</pubDate>
   <guid isPermaLink="false">1694</guid>
- </item>
- <item>
-  <title>​独立开发者分享 微信群</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3697</link>
-  <pubDate>Tue, 03 Jan 2023 17:07:17 -0800</pubDate>
-  <guid isPermaLink="false">1635</guid>
- </item>
- <item>
-  <title>​独立开发者分享 微信群</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3697</link>
-  <pubDate>Tue, 03 Jan 2023 06:52:45 -0800</pubDate>
-  <guid isPermaLink="false">1572</guid>
  </item>
 
 </channel>
