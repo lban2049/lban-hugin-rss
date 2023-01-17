@@ -8,9 +8,16 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 16 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 16 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 17 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Tue, 17 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>阅读修改版 无需你注册登录永久免费</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3718</link>
+  <pubDate>Mon, 16 Jan 2023 20:18:28 -0800</pubDate>
+  <guid isPermaLink="false">2328</guid>
+ </item>
  <item>
   <title>独立产品灵感周刊 DecoHack #044 - 新的一年如何管理你的时间</title>
   <description></description>
@@ -283,13 +290,6 @@
   <link>https://w2solo.com/topics/3698</link>
   <pubDate>Thu, 05 Jan 2023 19:31:14 -0800</pubDate>
   <guid isPermaLink="false">1754</guid>
- </item>
- <item>
-  <title>一款练字类 APP</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3696</link>
-  <pubDate>Thu, 05 Jan 2023 00:56:39 -0800</pubDate>
-  <guid isPermaLink="false">1694</guid>
  </item>
 
 </channel>
