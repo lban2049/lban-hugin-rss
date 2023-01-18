@@ -8,9 +8,16 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 17 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Tue, 17 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Wed, 18 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Wed, 18 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>大家如何构建用户体系的呢？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3719</link>
+  <pubDate>Tue, 17 Jan 2023 23:05:41 -0800</pubDate>
+  <guid isPermaLink="false">2386</guid>
+ </item>
  <item>
   <title>阅读修改版 无需你注册登录永久免费</title>
   <description></description>
@@ -283,13 +290,6 @@
   <link>https://w2solo.com/topics/3696</link>
   <pubDate>Thu, 05 Jan 2023 22:33:12 -0800</pubDate>
   <guid isPermaLink="false">1753</guid>
- </item>
- <item>
-  <title>我的 GitHub 十年</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3698</link>
-  <pubDate>Thu, 05 Jan 2023 19:31:14 -0800</pubDate>
-  <guid isPermaLink="false">1754</guid>
  </item>
 
 </channel>

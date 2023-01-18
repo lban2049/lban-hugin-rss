@@ -8,9 +8,114 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 17 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Tue, 17 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Wed, 18 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Wed, 18 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>DovAmir / awesome-design-patterns</title>
+  <description>A curated list of software and architecture related design patterns.</description>
+  <link>https://github.com/DovAmir/awesome-design-patterns</link>
+  <guid isPermaLink="false">2356</guid>
+  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>pointfreeco / swift-composable-architecture</title>
+  <description>A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.</description>
+  <link>https://github.com/pointfreeco/swift-composable-architecture</link>
+  <guid isPermaLink="false">2355</guid>
+  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>mikel-brostrom / yolov8_tracking</title>
+  <description>Real-time multi-object tracking and segmentation using YOLOv8</description>
+  <link>https://github.com/mikel-brostrom/yolov8_tracking</link>
+  <guid isPermaLink="false">2354</guid>
+  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>cilium / ebpf</title>
+  <description>ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.</description>
+  <link>https://github.com/cilium/ebpf</link>
+  <guid isPermaLink="false">2353</guid>
+  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>imDazui / Tvlist-awesome-m3u-m3u8</title>
+  <description>直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵</description>
+  <link>https://github.com/imDazui/Tvlist-awesome-m3u-m3u8</link>
+  <guid isPermaLink="false">2352</guid>
+  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>codecrafters-io / build-your-own-x</title>
+  <description>Master programming by recreating your favorite technologies from scratch.</description>
+  <link>https://github.com/codecrafters-io/build-your-own-x</link>
+  <guid isPermaLink="false">2351</guid>
+  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>MinBZK / woo-besluit-broncode-digid-app</title>
+  <description></description>
+  <link>https://github.com/MinBZK/woo-besluit-broncode-digid-app</link>
+  <guid isPermaLink="false">2350</guid>
+  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>groundcover-com / caretta</title>
+  <description>Instant K8s service dependency map, right to your Grafana.</description>
+  <link>https://github.com/groundcover-com/caretta</link>
+  <guid isPermaLink="false">2349</guid>
+  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>wolfogre / go-pprof-practice</title>
+  <description>go pprof practice.</description>
+  <link>https://github.com/wolfogre/go-pprof-practice</link>
+  <guid isPermaLink="false">2348</guid>
+  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>alpkeskin / mosint</title>
+  <description>An automated e-mail OSINT tool</description>
+  <link>https://github.com/alpkeskin/mosint</link>
+  <guid isPermaLink="false">2347</guid>
+  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>immersive-translate / immersive-translate</title>
+  <description>Next immersive translator, only for release new version</description>
+  <link>https://github.com/immersive-translate/immersive-translate</link>
+  <guid isPermaLink="false">2346</guid>
+  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>rocketseat-education / nlw-setup-ignite</title>
+  <description>Aplicação desenvolvida durante o NLW Setup - Ignite</description>
+  <link>https://github.com/rocketseat-education/nlw-setup-ignite</link>
+  <guid isPermaLink="false">2345</guid>
+  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>MaximeBeasse / KeyDecoder</title>
+  <description>KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.</description>
+  <link>https://github.com/MaximeBeasse/KeyDecoder</link>
+  <guid isPermaLink="false">2344</guid>
+  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>hwchase17 / langchain</title>
+  <description>⚡ Building applications with LLMs through composability ⚡</description>
+  <link>https://github.com/hwchase17/langchain</link>
+  <guid isPermaLink="false">2343</guid>
+  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>CatVodTVOfficial / TVBoxOSC</title>
+  <description>真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。</description>
+  <link>https://github.com/CatVodTVOfficial/TVBoxOSC</link>
+  <guid isPermaLink="false">2342</guid>
+  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
  <item>
   <title>open-mmlab / mmyolo</title>
   <description>OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, YOLOv5, YOLOv6, YOLOv7, YOLOv8,YOLOX, PPYOLOE, etc.</description>
@@ -185,111 +290,6 @@
   <link>https://github.com/lencx/ChatGPT</link>
   <guid isPermaLink="false">2185</guid>
   <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>helix-editor / helix</title>
-  <description>A post-modern modal text editor.</description>
-  <link>https://github.com/helix-editor/helix</link>
-  <guid isPermaLink="false">2184</guid>
-  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>nocodb / nocodb</title>
-  <description>🔥 🔥 🔥 Open Source Airtable Alternative</description>
-  <link>https://github.com/nocodb/nocodb</link>
-  <guid isPermaLink="false">2183</guid>
-  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>jucasoliveira / terminalGPT</title>
-  <description>Get GPT like chatGPT on your terminal</description>
-  <link>https://github.com/jucasoliveira/terminalGPT</link>
-  <guid isPermaLink="false">2182</guid>
-  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>pi-hole / pi-hole</title>
-  <description>A black hole for Internet advertisements</description>
-  <link>https://github.com/pi-hole/pi-hole</link>
-  <guid isPermaLink="false">2181</guid>
-  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>juspay / hyperswitch</title>
-  <description>An Open Source Financial Switch to make Payments fast, reliable and affordable</description>
-  <link>https://github.com/juspay/hyperswitch</link>
-  <guid isPermaLink="false">2180</guid>
-  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>ehulinsky / AnalogChess</title>
-  <description>Chess but no grid</description>
-  <link>https://github.com/ehulinsky/AnalogChess</link>
-  <guid isPermaLink="false">2179</guid>
-  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>ai-collection / ai-collection</title>
-  <description>A collection of generative AI applications</description>
-  <link>https://github.com/ai-collection/ai-collection</link>
-  <guid isPermaLink="false">2178</guid>
-  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>topjohnwu / Magisk</title>
-  <description>The Magic Mask for Android</description>
-  <link>https://github.com/topjohnwu/Magisk</link>
-  <guid isPermaLink="false">2177</guid>
-  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>massgravel / Microsoft-Activation-Scripts</title>
-  <description>A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</description>
-  <link>https://github.com/massgravel/Microsoft-Activation-Scripts</link>
-  <guid isPermaLink="false">2176</guid>
-  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>leptos-rs / leptos</title>
-  <description>Build fast web applications with Rust.</description>
-  <link>https://github.com/leptos-rs/leptos</link>
-  <guid isPermaLink="false">2175</guid>
-  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>sickcodes / Docker-OSX</title>
-  <description>Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.</description>
-  <link>https://github.com/sickcodes/Docker-OSX</link>
-  <guid isPermaLink="false">2174</guid>
-  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>DesktopECHO / T95-H616-Malware</title>
-  <description>"Pre-Owned" malware in ROM on T95 Android TV Box (AllWinner H616)</description>
-  <link>https://github.com/DesktopECHO/T95-H616-Malware</link>
-  <guid isPermaLink="false">2131</guid>
-  <pubDate>Sat, 14 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>o0HalfLife0o / TVBoxOSC</title>
-  <description></description>
-  <link>https://github.com/o0HalfLife0o/TVBoxOSC</link>
-  <guid isPermaLink="false">2130</guid>
-  <pubDate>Sat, 14 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>open-mmlab / mmpose</title>
-  <description>OpenMMLab Pose Estimation Toolbox and Benchmark.</description>
-  <link>https://github.com/open-mmlab/mmpose</link>
-  <guid isPermaLink="false">2129</guid>
-  <pubDate>Sat, 14 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>TheAlgorithms / Java</title>
-  <description>All Algorithms implemented in Java</description>
-  <link>https://github.com/TheAlgorithms/Java</link>
-  <guid isPermaLink="false">2128</guid>
-  <pubDate>Sat, 14 Jan 2023 09:00:07 -0800</pubDate>
  </item>
 
 </channel>
