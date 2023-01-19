@@ -8,9 +8,23 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 18 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Wed, 18 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Thu, 19 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Thu, 19 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>量化交易和交易所的对接工具，做单一的事情</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3710</link>
+  <pubDate>Wed, 18 Jan 2023 20:29:09 -0800</pubDate>
+  <guid isPermaLink="false">2441</guid>
+ </item>
+ <item>
+  <title>半年历程 - Chrome 插件试水阶段总结</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3720</link>
+  <pubDate>Wed, 18 Jan 2023 19:08:27 -0800</pubDate>
+  <guid isPermaLink="false">2442</guid>
+ </item>
  <item>
   <title>大家如何构建用户体系的呢？</title>
   <description></description>
@@ -276,20 +290,6 @@
   <link>https://w2solo.com/topics/3699</link>
   <pubDate>Fri, 06 Jan 2023 05:38:05 -0800</pubDate>
   <guid isPermaLink="false">1751</guid>
- </item>
- <item>
-  <title>Dawn Launcher Windows 快捷启动工具</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3691</link>
-  <pubDate>Thu, 05 Jan 2023 23:30:48 -0800</pubDate>
-  <guid isPermaLink="false">1752</guid>
- </item>
- <item>
-  <title>一款练字类 APP</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3696</link>
-  <pubDate>Thu, 05 Jan 2023 22:33:12 -0800</pubDate>
-  <guid isPermaLink="false">1753</guid>
  </item>
 
 </channel>

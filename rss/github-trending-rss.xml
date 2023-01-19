@@ -8,9 +8,107 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 18 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Wed, 18 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Thu, 19 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Thu, 19 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>facebook / folly</title>
+  <description>An open-source C++ library developed and used at Facebook.</description>
+  <link>https://github.com/facebook/folly</link>
+  <guid isPermaLink="false">2412</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>paritytech / substrate</title>
+  <description>Substrate: The platform for blockchain innovators</description>
+  <link>https://github.com/paritytech/substrate</link>
+  <guid isPermaLink="false">2411</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>VictoriaMetrics / VictoriaMetrics</title>
+  <description>VictoriaMetrics: fast, cost-effective monitoring solution and time series database</description>
+  <link>https://github.com/VictoriaMetrics/VictoriaMetrics</link>
+  <guid isPermaLink="false">2410</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>Asabeneh / 30-Days-Of-Python</title>
+  <description>30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.</description>
+  <link>https://github.com/Asabeneh/30-Days-Of-Python</link>
+  <guid isPermaLink="false">2409</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>rawandahmad698 / PyChatGPT</title>
+  <description>⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.</description>
+  <link>https://github.com/rawandahmad698/PyChatGPT</link>
+  <guid isPermaLink="false">2408</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>python / mypy</title>
+  <description>Optional static typing for Python</description>
+  <link>https://github.com/python/mypy</link>
+  <guid isPermaLink="false">2407</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>Alamofire / Alamofire</title>
+  <description>Elegant HTTP Networking in Swift</description>
+  <link>https://github.com/Alamofire/Alamofire</link>
+  <guid isPermaLink="false">2406</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>storybookjs / storybook</title>
+  <description>Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.</description>
+  <link>https://github.com/storybookjs/storybook</link>
+  <guid isPermaLink="false">2405</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>QuestPDF / QuestPDF</title>
+  <description>QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc.</description>
+  <link>https://github.com/QuestPDF/QuestPDF</link>
+  <guid isPermaLink="false">2404</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>pynecone-io / pynecone</title>
+  <description>Web apps in pure Python.</description>
+  <link>https://github.com/pynecone-io/pynecone</link>
+  <guid isPermaLink="false">2403</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>openai / whisper</title>
+  <description>Robust Speech Recognition via Large-Scale Weak Supervision</description>
+  <link>https://github.com/openai/whisper</link>
+  <guid isPermaLink="false">2402</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>aquasecurity / trivy</title>
+  <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
+  <link>https://github.com/aquasecurity/trivy</link>
+  <guid isPermaLink="false">2401</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>facebook / docusaurus</title>
+  <description>Easy to maintain open source documentation websites.</description>
+  <link>https://github.com/facebook/docusaurus</link>
+  <guid isPermaLink="false">2400</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>midudev / aprendiendo-react</title>
+  <description>Curso para aprender React desde cero</description>
+  <link>https://github.com/midudev/aprendiendo-react</link>
+  <guid isPermaLink="false">2399</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
  <item>
   <title>DovAmir / awesome-design-patterns</title>
   <description>A curated list of software and architecture related design patterns.</description>
@@ -192,104 +290,6 @@
   <link>https://github.com/annfelix/DEVOPS-WORLD</link>
   <guid isPermaLink="false">2281</guid>
   <pubDate>Tue, 17 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>dair-ai / ML-Papers-Explained</title>
-  <description>Explanation to key concepts in ML</description>
-  <link>https://github.com/dair-ai/ML-Papers-Explained</link>
-  <guid isPermaLink="false">2280</guid>
-  <pubDate>Tue, 17 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / AI-For-Beginners</title>
-  <description>12 Weeks, 24 Lessons, AI for All!</description>
-  <link>https://github.com/microsoft/AI-For-Beginners</link>
-  <guid isPermaLink="false">2279</guid>
-  <pubDate>Tue, 17 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / MDE-PowerBI-Templates</title>
-  <description>A respository for MDATP PowerBI Templates</description>
-  <link>https://github.com/microsoft/MDE-PowerBI-Templates</link>
-  <guid isPermaLink="false">2278</guid>
-  <pubDate>Tue, 17 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>Moonlight-Zhao / go-project-example</title>
-  <description></description>
-  <link>https://github.com/Moonlight-Zhao/go-project-example</link>
-  <guid isPermaLink="false">2277</guid>
-  <pubDate>Tue, 17 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>Grasscutters / Grasscutter</title>
-  <description>A server software reimplementation for a certain anime game.</description>
-  <link>https://github.com/Grasscutters/Grasscutter</link>
-  <guid isPermaLink="false">2225</guid>
-  <pubDate>Mon, 16 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>f / awesome-chatgpt-prompts</title>
-  <description>This repo includes ChatGPT prompt curation to use ChatGPT better.</description>
-  <link>https://github.com/f/awesome-chatgpt-prompts</link>
-  <guid isPermaLink="false">2224</guid>
-  <pubDate>Mon, 16 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>willwulfken / MidJourney-Styles-and-Keywords-Reference</title>
-  <description>A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!</description>
-  <link>https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference</link>
-  <guid isPermaLink="false">2223</guid>
-  <pubDate>Mon, 16 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>Slackadays / Clipboard</title>
-  <description>📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Quick, easy, and pretty.</description>
-  <link>https://github.com/Slackadays/Clipboard</link>
-  <guid isPermaLink="false">2222</guid>
-  <pubDate>Mon, 16 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>helium / denylist</title>
-  <description></description>
-  <link>https://github.com/helium/denylist</link>
-  <guid isPermaLink="false">2221</guid>
-  <pubDate>Mon, 16 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>steven-tey / precedent</title>
-  <description>An opinionated collection of components, hooks, and utilities for your Next.js project.</description>
-  <link>https://github.com/steven-tey/precedent</link>
-  <guid isPermaLink="false">2220</guid>
-  <pubDate>Mon, 16 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>williamyang1991 / VToonify</title>
-  <description>[SIGGRAPH Asia 2022] VToonify: Controllable High-Resolution Portrait Video Style Transfer</description>
-  <link>https://github.com/williamyang1991/VToonify</link>
-  <guid isPermaLink="false">2219</guid>
-  <pubDate>Mon, 16 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>wangkechun / go-by-example</title>
-  <description></description>
-  <link>https://github.com/wangkechun/go-by-example</link>
-  <guid isPermaLink="false">2218</guid>
-  <pubDate>Mon, 16 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>sveltejs / kit</title>
-  <description>web development, streamlined</description>
-  <link>https://github.com/sveltejs/kit</link>
-  <guid isPermaLink="false">2217</guid>
-  <pubDate>Mon, 16 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>lencx / ChatGPT</title>
-  <description>🔮 ChatGPT Desktop Application (Mac, Windows and Linux)</description>
-  <link>https://github.com/lencx/ChatGPT</link>
-  <guid isPermaLink="false">2185</guid>
-  <pubDate>Sun, 15 Jan 2023 09:00:10 -0800</pubDate>
  </item>
 
 </channel>

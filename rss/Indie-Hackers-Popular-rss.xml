@@ -8,9 +8,72 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 18 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Wed, 18 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Thu, 19 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Thu, 19 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Find somewhere to sell a website that isn't monetized</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/find-somewhere-to-sell-a-website-that-isnt-monetized-72d6ba8d47</link>
+  <guid isPermaLink="false">2451</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>What is one *consistent problem* that you are facing while building your startup/product?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/what-is-one-consistent-problem-that-you-are-facing-while-building-your-startup-product-9c0ce94ffc</link>
+  <guid isPermaLink="false">2450</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Validate before building a small project?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/validate-before-building-a-small-project-69ffc5797c</link>
+  <guid isPermaLink="false">2449</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>I validated my product with No-Code, now I'm dropping it for a custom build</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/i-validated-my-product-with-no-code-now-im-dropping-it-for-a-custom-build-36c28ac6b6</link>
+  <guid isPermaLink="false">2448</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Things they didn’t teach you about software engineering</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/things-they-didn-t-teach-you-about-software-engineering-0f47d6c640</link>
+  <guid isPermaLink="false">2447</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Building multiple products — how (and when) to do it</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/building-multiple-products-how-and-when-to-do-it-b043f65b8c</link>
+  <guid isPermaLink="false">2446</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>🚀 analogenie is now on Product Hunt!</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/analogenie-is-now-on-product-hunt-6baff2edb5</link>
+  <guid isPermaLink="false">2445</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>When something can be copied, it is worthless. And how to make something that can't be copied.</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/when-something-can-be-copied-it-is-worthless-and-how-to-make-something-that-cant-be-copied-fab85223bd</link>
+  <guid isPermaLink="false">2444</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Programmatic SEO: How to create 659 blog posts in a day</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/programmatic-seo-how-to-create-659-blog-posts-in-a-day-4c8447d117</link>
+  <guid isPermaLink="false">2443</guid>
+  <pubDate>Thu, 19 Jan 2023 09:00:11 -0800</pubDate>
+ </item>
  <item>
   <title>Revue is shutting down tomorrow - Here is a full review of alternatives</title>
   <description></description>
@@ -227,69 +290,6 @@
   <link>https://www.indiehackers.com/post/how-do-you-spin-up-working-pocs-over-a-weekend-im-using-a-no-code-tool-and-it-s-taking-me-months-b78e5246c5</link>
   <guid isPermaLink="false">2271</guid>
   <pubDate>Mon, 16 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>Landing page + blog in WordPress?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/landing-page-blog-in-wordpress-14cdfa4ab9</link>
-  <guid isPermaLink="false">2270</guid>
-  <pubDate>Mon, 16 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>First internet $1 - A globe map of indie makers</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/first-internet-1-a-globe-map-of-indie-makers-b6749897f7</link>
-  <guid isPermaLink="false">2269</guid>
-  <pubDate>Mon, 16 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>464 hours into our startup. We still haven't launched.</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/464-hours-into-our-startup-we-still-havent-launched-4dab90cbb5</link>
-  <guid isPermaLink="false">2268</guid>
-  <pubDate>Mon, 16 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>I went from 0 to 700 subscribers in 10 days, here's how.</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/i-went-from-0-to-700-subscribers-in-10-days-heres-how-dcfe142429</link>
-  <guid isPermaLink="false">2267</guid>
-  <pubDate>Mon, 16 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>What do guys use for your landing page and blog?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/what-do-guys-use-for-your-landing-page-and-blog-c6db101269</link>
-  <guid isPermaLink="false">2266</guid>
-  <pubDate>Mon, 16 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>Who can I follow for SaaS marketing inspiration?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/who-can-i-follow-for-saas-marketing-inspiration-d4d3cc6792</link>
-  <guid isPermaLink="false">2265</guid>
-  <pubDate>Mon, 16 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>When ChatGPT goes wrong</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/when-chatgpt-goes-wrong-db9da610c0</link>
-  <guid isPermaLink="false">2264</guid>
-  <pubDate>Mon, 16 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>What SaaS products does your startup use that you couldn't run the product without?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/what-saas-products-does-your-startup-use-that-you-couldnt-run-the-product-without-57fedf8095</link>
-  <guid isPermaLink="false">2263</guid>
-  <pubDate>Mon, 16 Jan 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>Best way to create landing pages for a SaaS?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/best-way-to-create-landing-pages-for-a-saas-8815a361ee</link>
-  <guid isPermaLink="false">2173</guid>
-  <pubDate>Sat, 14 Jan 2023 09:00:14 -0800</pubDate>
  </item>
 
 </channel>
