@@ -8,9 +8,114 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 19 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Thu, 19 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Fri, 20 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 20 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>johnlindquist / kit</title>
+  <description>Script Kit. Automate Anything.</description>
+  <link>https://github.com/johnlindquist/kit</link>
+  <guid isPermaLink="false">2466</guid>
+  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>Azure / azure-cli</title>
+  <description>Azure Command-Line Interface</description>
+  <link>https://github.com/Azure/azure-cli</link>
+  <guid isPermaLink="false">2465</guid>
+  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>pre-commit / pre-commit-hooks</title>
+  <description>Some out-of-the-box hooks for pre-commit</description>
+  <link>https://github.com/pre-commit/pre-commit-hooks</link>
+  <guid isPermaLink="false">2464</guid>
+  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>isekaidev / stable.art</title>
+  <description>Photoshop plugin for Stable Diffusion with Automatic1111 as backend (locally or with Google Colab)</description>
+  <link>https://github.com/isekaidev/stable.art</link>
+  <guid isPermaLink="false">2463</guid>
+  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>llSourcell / ChatGPT_Trading_Bot</title>
+  <description>This is the code for the "ChatGPT Trading Bot" Video by Siraj Raval on Youtube</description>
+  <link>https://github.com/llSourcell/ChatGPT_Trading_Bot</link>
+  <guid isPermaLink="false">2462</guid>
+  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>lydiahallie / javascript-questions</title>
+  <description>A long list of (advanced) JavaScript questions, and their explanations ✨</description>
+  <link>https://github.com/lydiahallie/javascript-questions</link>
+  <guid isPermaLink="false">2461</guid>
+  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>iperov / DeepFaceLive</title>
+  <description>Real-time face swap for PC streaming or video calls</description>
+  <link>https://github.com/iperov/DeepFaceLive</link>
+  <guid isPermaLink="false">2460</guid>
+  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>pynecone-io / pynecone</title>
+  <description>Web apps in pure Python</description>
+  <link>https://github.com/pynecone-io/pynecone</link>
+  <guid isPermaLink="false">2459</guid>
+  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>getify / You-Dont-Know-JS</title>
+  <description>A book series on JavaScript. @YDKJS on twitter.</description>
+  <link>https://github.com/getify/You-Dont-Know-JS</link>
+  <guid isPermaLink="false">2458</guid>
+  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>badtuxx / CertifiedContainersExpert</title>
+  <description></description>
+  <link>https://github.com/badtuxx/CertifiedContainersExpert</link>
+  <guid isPermaLink="false">2457</guid>
+  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>DataTalksClub / data-engineering-zoomcamp</title>
+  <description>Free Data Engineering course!</description>
+  <link>https://github.com/DataTalksClub/data-engineering-zoomcamp</link>
+  <guid isPermaLink="false">2456</guid>
+  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>denysdovhan / wtfjs</title>
+  <description>🤪 A list of funny and tricky JavaScript examples</description>
+  <link>https://github.com/denysdovhan/wtfjs</link>
+  <guid isPermaLink="false">2455</guid>
+  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>Dimillian / IceCubesApp</title>
+  <description>A SwiftUI Mastodon client</description>
+  <link>https://github.com/Dimillian/IceCubesApp</link>
+  <guid isPermaLink="false">2454</guid>
+  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>AcademySoftwareFoundation / OpenRV</title>
+  <description></description>
+  <link>https://github.com/AcademySoftwareFoundation/OpenRV</link>
+  <guid isPermaLink="false">2453</guid>
+  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>karpathy / ng-video-lecture</title>
+  <description></description>
+  <link>https://github.com/karpathy/ng-video-lecture</link>
+  <guid isPermaLink="false">2452</guid>
+  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
  <item>
   <title>facebook / folly</title>
   <description>An open-source C++ library developed and used at Facebook.</description>
@@ -185,111 +290,6 @@
   <link>https://github.com/immersive-translate/immersive-translate</link>
   <guid isPermaLink="false">2346</guid>
   <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>rocketseat-education / nlw-setup-ignite</title>
-  <description>Aplicação desenvolvida durante o NLW Setup - Ignite</description>
-  <link>https://github.com/rocketseat-education/nlw-setup-ignite</link>
-  <guid isPermaLink="false">2345</guid>
-  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>MaximeBeasse / KeyDecoder</title>
-  <description>KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.</description>
-  <link>https://github.com/MaximeBeasse/KeyDecoder</link>
-  <guid isPermaLink="false">2344</guid>
-  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>hwchase17 / langchain</title>
-  <description>⚡ Building applications with LLMs through composability ⚡</description>
-  <link>https://github.com/hwchase17/langchain</link>
-  <guid isPermaLink="false">2343</guid>
-  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>CatVodTVOfficial / TVBoxOSC</title>
-  <description>真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。</description>
-  <link>https://github.com/CatVodTVOfficial/TVBoxOSC</link>
-  <guid isPermaLink="false">2342</guid>
-  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>open-mmlab / mmyolo</title>
-  <description>OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, YOLOv5, YOLOv6, YOLOv7, YOLOv8,YOLOX, PPYOLOE, etc.</description>
-  <link>https://github.com/open-mmlab/mmyolo</link>
-  <guid isPermaLink="false">2291</guid>
-  <pubDate>Tue, 17 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>pocketbase / pocketbase</title>
-  <description>Open Source realtime backend in 1 file</description>
-  <link>https://github.com/pocketbase/pocketbase</link>
-  <guid isPermaLink="false">2290</guid>
-  <pubDate>Tue, 17 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>marcel-dempers / docker-development-youtube-series</title>
-  <description></description>
-  <link>https://github.com/marcel-dempers/docker-development-youtube-series</link>
-  <guid isPermaLink="false">2289</guid>
-  <pubDate>Tue, 17 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>orestbida / cookieconsent</title>
-  <description>🍪 Simple cross-browser cookie-consent plugin written in vanilla js</description>
-  <link>https://github.com/orestbida/cookieconsent</link>
-  <guid isPermaLink="false">2288</guid>
-  <pubDate>Tue, 17 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>pedroslopez / whatsapp-web.js</title>
-  <description>A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app</description>
-  <link>https://github.com/pedroslopez/whatsapp-web.js</link>
-  <guid isPermaLink="false">2287</guid>
-  <pubDate>Tue, 17 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>xiaye13579 / BBLL</title>
-  <description>一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV &amp; Pad。</description>
-  <link>https://github.com/xiaye13579/BBLL</link>
-  <guid isPermaLink="false">2286</guid>
-  <pubDate>Tue, 17 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>lefayjey / linWinPwn</title>
-  <description>linWinPwn is a bash script that automates a number of Active Directory Enumeration and Vulnerability checks</description>
-  <link>https://github.com/lefayjey/linWinPwn</link>
-  <guid isPermaLink="false">2285</guid>
-  <pubDate>Tue, 17 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>evcc-io / evcc</title>
-  <description>Sonne tanken ☀️🚘</description>
-  <link>https://github.com/evcc-io/evcc</link>
-  <guid isPermaLink="false">2284</guid>
-  <pubDate>Tue, 17 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>enhuiz / vall-e</title>
-  <description>An unofficial PyTorch implementation of the audio LM VALL-E, WIP</description>
-  <link>https://github.com/enhuiz/vall-e</link>
-  <guid isPermaLink="false">2283</guid>
-  <pubDate>Tue, 17 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>ReagentX / imessage-exporter</title>
-  <description>Export MacOS iMessage data + run iMessage Diagnostics</description>
-  <link>https://github.com/ReagentX/imessage-exporter</link>
-  <guid isPermaLink="false">2282</guid>
-  <pubDate>Tue, 17 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>annfelix / DEVOPS-WORLD</title>
-  <description></description>
-  <link>https://github.com/annfelix/DEVOPS-WORLD</link>
-  <guid isPermaLink="false">2281</guid>
-  <pubDate>Tue, 17 Jan 2023 09:00:08 -0800</pubDate>
  </item>
 
 </channel>
