@@ -8,9 +8,121 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 20 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Fri, 20 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sat, 21 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sat, 21 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>mitesh77 / Best-Flutter-UI-Templates</title>
+  <description>completely free for everyone. Its build-in Flutter Dart.</description>
+  <link>https://github.com/mitesh77/Best-Flutter-UI-Templates</link>
+  <guid isPermaLink="false">2520</guid>
+  <pubDate>Sat, 21 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>mage-ai / mage-ai</title>
+  <description>🧙 The modern replacement for Airflow.</description>
+  <link>https://github.com/mage-ai/mage-ai</link>
+  <guid isPermaLink="false">2519</guid>
+  <pubDate>Sat, 21 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>projectdiscovery / pdtm</title>
+  <description>ProjectDiscovery's Open Source Tool Manager</description>
+  <link>https://github.com/projectdiscovery/pdtm</link>
+  <guid isPermaLink="false">2518</guid>
+  <pubDate>Sat, 21 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>OpenZeppelin / openzeppelin-contracts</title>
+  <description>OpenZeppelin Contracts is a library for secure smart contract development.</description>
+  <link>https://github.com/OpenZeppelin/openzeppelin-contracts</link>
+  <guid isPermaLink="false">2517</guid>
+  <pubDate>Sat, 21 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>HorrorPills / ChatGPT-Gnome-Desktop-Extension</title>
+  <description>ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!</description>
+  <link>https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension</link>
+  <guid isPermaLink="false">2516</guid>
+  <pubDate>Sat, 21 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>psf / black</title>
+  <description>The uncompromising Python code formatter</description>
+  <link>https://github.com/psf/black</link>
+  <guid isPermaLink="false">2515</guid>
+  <pubDate>Sat, 21 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>practical-tutorials / project-based-learning</title>
+  <description>Curated list of project-based tutorials</description>
+  <link>https://github.com/practical-tutorials/project-based-learning</link>
+  <guid isPermaLink="false">2514</guid>
+  <pubDate>Sat, 21 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>nuxt / nuxt</title>
+  <description>Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.</description>
+  <link>https://github.com/nuxt/nuxt</link>
+  <guid isPermaLink="false">2513</guid>
+  <pubDate>Sat, 21 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>FrontAnalyticsInc / data-winners</title>
+  <description>A collection of FREE python and R scripts for website development, analysis, and optimization. Includes advanced resources for topical authority and semantic content optimization.</description>
+  <link>https://github.com/FrontAnalyticsInc/data-winners</link>
+  <guid isPermaLink="false">2512</guid>
+  <pubDate>Sat, 21 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>easychen / CookieCloud</title>
+  <description>CookieCloud是一个向自架服务器同步Cookie的小工具，可以将浏览器的登录态同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。</description>
+  <link>https://github.com/easychen/CookieCloud</link>
+  <guid isPermaLink="false">2511</guid>
+  <pubDate>Sat, 21 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>BlinkDL / ChatRWKV</title>
+  <description>ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source.</description>
+  <link>https://github.com/BlinkDL/ChatRWKV</link>
+  <guid isPermaLink="false">2510</guid>
+  <pubDate>Sat, 21 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>TheMozg / awk-raycaster</title>
+  <description>Pseudo-3D shooter written completely in gawk using raycasting technique</description>
+  <link>https://github.com/TheMozg/awk-raycaster</link>
+  <guid isPermaLink="false">2509</guid>
+  <pubDate>Sat, 21 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>google-research / tuning_playbook</title>
+  <description>A playbook for systematically maximizing the performance of deep learning models.</description>
+  <link>https://github.com/google-research/tuning_playbook</link>
+  <guid isPermaLink="false">2508</guid>
+  <pubDate>Sat, 21 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>massalabs / massa</title>
+  <description>The Decentralized and Scaled Blockchain</description>
+  <link>https://github.com/massalabs/massa</link>
+  <guid isPermaLink="false">2507</guid>
+  <pubDate>Sat, 21 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>AcademySoftwareFoundation / xstudio</title>
+  <description></description>
+  <link>https://github.com/AcademySoftwareFoundation/xstudio</link>
+  <guid isPermaLink="false">2506</guid>
+  <pubDate>Sat, 21 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>timothybrooks / instruct-pix2pix</title>
+  <description></description>
+  <link>https://github.com/timothybrooks/instruct-pix2pix</link>
+  <guid isPermaLink="false">2505</guid>
+  <pubDate>Sat, 21 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
  <item>
   <title>johnlindquist / kit</title>
   <description>Script Kit. Automate Anything.</description>
@@ -178,118 +290,6 @@
   <link>https://github.com/QuestPDF/QuestPDF</link>
   <guid isPermaLink="false">2404</guid>
   <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>pynecone-io / pynecone</title>
-  <description>Web apps in pure Python.</description>
-  <link>https://github.com/pynecone-io/pynecone</link>
-  <guid isPermaLink="false">2403</guid>
-  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>openai / whisper</title>
-  <description>Robust Speech Recognition via Large-Scale Weak Supervision</description>
-  <link>https://github.com/openai/whisper</link>
-  <guid isPermaLink="false">2402</guid>
-  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>aquasecurity / trivy</title>
-  <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
-  <link>https://github.com/aquasecurity/trivy</link>
-  <guid isPermaLink="false">2401</guid>
-  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>facebook / docusaurus</title>
-  <description>Easy to maintain open source documentation websites.</description>
-  <link>https://github.com/facebook/docusaurus</link>
-  <guid isPermaLink="false">2400</guid>
-  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>midudev / aprendiendo-react</title>
-  <description>Curso para aprender React desde cero</description>
-  <link>https://github.com/midudev/aprendiendo-react</link>
-  <guid isPermaLink="false">2399</guid>
-  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>DovAmir / awesome-design-patterns</title>
-  <description>A curated list of software and architecture related design patterns.</description>
-  <link>https://github.com/DovAmir/awesome-design-patterns</link>
-  <guid isPermaLink="false">2356</guid>
-  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>pointfreeco / swift-composable-architecture</title>
-  <description>A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.</description>
-  <link>https://github.com/pointfreeco/swift-composable-architecture</link>
-  <guid isPermaLink="false">2355</guid>
-  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>mikel-brostrom / yolov8_tracking</title>
-  <description>Real-time multi-object tracking and segmentation using YOLOv8</description>
-  <link>https://github.com/mikel-brostrom/yolov8_tracking</link>
-  <guid isPermaLink="false">2354</guid>
-  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>cilium / ebpf</title>
-  <description>ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.</description>
-  <link>https://github.com/cilium/ebpf</link>
-  <guid isPermaLink="false">2353</guid>
-  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>imDazui / Tvlist-awesome-m3u-m3u8</title>
-  <description>直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵</description>
-  <link>https://github.com/imDazui/Tvlist-awesome-m3u-m3u8</link>
-  <guid isPermaLink="false">2352</guid>
-  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>codecrafters-io / build-your-own-x</title>
-  <description>Master programming by recreating your favorite technologies from scratch.</description>
-  <link>https://github.com/codecrafters-io/build-your-own-x</link>
-  <guid isPermaLink="false">2351</guid>
-  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>MinBZK / woo-besluit-broncode-digid-app</title>
-  <description></description>
-  <link>https://github.com/MinBZK/woo-besluit-broncode-digid-app</link>
-  <guid isPermaLink="false">2350</guid>
-  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>groundcover-com / caretta</title>
-  <description>Instant K8s service dependency map, right to your Grafana.</description>
-  <link>https://github.com/groundcover-com/caretta</link>
-  <guid isPermaLink="false">2349</guid>
-  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>wolfogre / go-pprof-practice</title>
-  <description>go pprof practice.</description>
-  <link>https://github.com/wolfogre/go-pprof-practice</link>
-  <guid isPermaLink="false">2348</guid>
-  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>alpkeskin / mosint</title>
-  <description>An automated e-mail OSINT tool</description>
-  <link>https://github.com/alpkeskin/mosint</link>
-  <guid isPermaLink="false">2347</guid>
-  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>immersive-translate / immersive-translate</title>
-  <description>Next immersive translator, only for release new version</description>
-  <link>https://github.com/immersive-translate/immersive-translate</link>
-  <guid isPermaLink="false">2346</guid>
-  <pubDate>Wed, 18 Jan 2023 09:00:02 -0800</pubDate>
  </item>
 
 </channel>

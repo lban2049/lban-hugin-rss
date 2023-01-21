@@ -8,9 +8,23 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 20 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Fri, 20 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sat, 21 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sat, 21 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>大家如何构建用户体系的呢？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3719</link>
+  <pubDate>Fri, 20 Jan 2023 18:15:38 -0800</pubDate>
+  <guid isPermaLink="false">2540</guid>
+ </item>
+ <item>
+  <title>阅读修改版 无需你注册登录永久免费</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3718</link>
+  <pubDate>Fri, 20 Jan 2023 16:43:31 -0800</pubDate>
+  <guid isPermaLink="false">2541</guid>
+ </item>
  <item>
   <title>量化交易和交易所的对接工具，做单一的事情</title>
   <description></description>
@@ -276,20 +290,6 @@
   <link>https://w2solo.com/topics/3687</link>
   <pubDate>Sat, 07 Jan 2023 01:55:17 -0800</pubDate>
   <guid isPermaLink="false">1807</guid>
- </item>
- <item>
-  <title>怎么发掘业务</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3700</link>
-  <pubDate>Sat, 07 Jan 2023 01:50:36 -0800</pubDate>
-  <guid isPermaLink="false">1808</guid>
- </item>
- <item>
-  <title>阅读 APP</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3699</link>
-  <pubDate>Fri, 06 Jan 2023 05:38:05 -0800</pubDate>
-  <guid isPermaLink="false">1751</guid>
  </item>
 
 </channel>
