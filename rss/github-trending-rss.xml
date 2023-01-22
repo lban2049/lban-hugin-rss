@@ -8,9 +8,86 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 21 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sat, 21 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sun, 22 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 22 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>adrianhajdin / project_ai_mern_image_generation</title>
+  <description>Build and Deploy a Full Stack MERN AI Image Generation App MidJourney &amp; DALL E Clone</description>
+  <link>https://github.com/adrianhajdin/project_ai_mern_image_generation</link>
+  <guid isPermaLink="false">2561</guid>
+  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>Sairyss / domain-driven-hexagon</title>
+  <description>Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included</description>
+  <link>https://github.com/Sairyss/domain-driven-hexagon</link>
+  <guid isPermaLink="false">2560</guid>
+  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>PaperMC / Paper</title>
+  <description>High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies</description>
+  <link>https://github.com/PaperMC/Paper</link>
+  <guid isPermaLink="false">2559</guid>
+  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>bellingcat / octosuite</title>
+  <description>Advanced Github OSINT Framework</description>
+  <link>https://github.com/bellingcat/octosuite</link>
+  <guid isPermaLink="false">2558</guid>
+  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>mriscoc / Ender3V2S1</title>
+  <description>This is optimized firmware for Ender3 V2/S1 3D printers.</description>
+  <link>https://github.com/mriscoc/Ender3V2S1</link>
+  <guid isPermaLink="false">2557</guid>
+  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>TomSchimansky / CustomTkinter</title>
+  <description>A modern and customizable python UI-library based on Tkinter</description>
+  <link>https://github.com/TomSchimansky/CustomTkinter</link>
+  <guid isPermaLink="false">2556</guid>
+  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>palera1n / palera1n</title>
+  <description>iOS 15.0-16.3 (semi-)tethered checkm8 jailbreak</description>
+  <link>https://github.com/palera1n/palera1n</link>
+  <guid isPermaLink="false">2555</guid>
+  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>LazyVim / LazyVim</title>
+  <description>Neovim config for the lazy</description>
+  <link>https://github.com/LazyVim/LazyVim</link>
+  <guid isPermaLink="false">2554</guid>
+  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>calcom / cal.com</title>
+  <description>Scheduling infrastructure for absolutely everyone.</description>
+  <link>https://github.com/calcom/cal.com</link>
+  <guid isPermaLink="false">2553</guid>
+  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>jerryjliu / gpt_index</title>
+  <description>An index created by GPT to organize external information and answer queries!</description>
+  <link>https://github.com/jerryjliu/gpt_index</link>
+  <guid isPermaLink="false">2552</guid>
+  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>pynecone-io / pynecone</title>
+  <description>🕸 Web apps in pure Python 🐍</description>
+  <link>https://github.com/pynecone-io/pynecone</link>
+  <guid isPermaLink="false">2551</guid>
+  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
+ </item>
  <item>
   <title>mitesh77 / Best-Flutter-UI-Templates</title>
   <description>completely free for everyone. Its build-in Flutter Dart.</description>
@@ -213,83 +290,6 @@
   <link>https://github.com/Dimillian/IceCubesApp</link>
   <guid isPermaLink="false">2454</guid>
   <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>AcademySoftwareFoundation / OpenRV</title>
-  <description></description>
-  <link>https://github.com/AcademySoftwareFoundation/OpenRV</link>
-  <guid isPermaLink="false">2453</guid>
-  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>karpathy / ng-video-lecture</title>
-  <description></description>
-  <link>https://github.com/karpathy/ng-video-lecture</link>
-  <guid isPermaLink="false">2452</guid>
-  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>facebook / folly</title>
-  <description>An open-source C++ library developed and used at Facebook.</description>
-  <link>https://github.com/facebook/folly</link>
-  <guid isPermaLink="false">2412</guid>
-  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>paritytech / substrate</title>
-  <description>Substrate: The platform for blockchain innovators</description>
-  <link>https://github.com/paritytech/substrate</link>
-  <guid isPermaLink="false">2411</guid>
-  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>VictoriaMetrics / VictoriaMetrics</title>
-  <description>VictoriaMetrics: fast, cost-effective monitoring solution and time series database</description>
-  <link>https://github.com/VictoriaMetrics/VictoriaMetrics</link>
-  <guid isPermaLink="false">2410</guid>
-  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>Asabeneh / 30-Days-Of-Python</title>
-  <description>30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.</description>
-  <link>https://github.com/Asabeneh/30-Days-Of-Python</link>
-  <guid isPermaLink="false">2409</guid>
-  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>rawandahmad698 / PyChatGPT</title>
-  <description>⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.</description>
-  <link>https://github.com/rawandahmad698/PyChatGPT</link>
-  <guid isPermaLink="false">2408</guid>
-  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>python / mypy</title>
-  <description>Optional static typing for Python</description>
-  <link>https://github.com/python/mypy</link>
-  <guid isPermaLink="false">2407</guid>
-  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>Alamofire / Alamofire</title>
-  <description>Elegant HTTP Networking in Swift</description>
-  <link>https://github.com/Alamofire/Alamofire</link>
-  <guid isPermaLink="false">2406</guid>
-  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>storybookjs / storybook</title>
-  <description>Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.</description>
-  <link>https://github.com/storybookjs/storybook</link>
-  <guid isPermaLink="false">2405</guid>
-  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>QuestPDF / QuestPDF</title>
-  <description>QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc.</description>
-  <link>https://github.com/QuestPDF/QuestPDF</link>
-  <guid isPermaLink="false">2404</guid>
-  <pubDate>Thu, 19 Jan 2023 09:00:05 -0800</pubDate>
  </item>
 
 </channel>
