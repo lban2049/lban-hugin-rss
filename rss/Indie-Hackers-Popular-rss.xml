@@ -8,9 +8,100 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 23 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 23 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 24 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Tue, 24 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>What marketing topics do you wish had a step-by-step guide?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/what-marketing-topics-do-you-wish-had-a-step-by-step-guide-772ce43824</link>
+  <guid isPermaLink="false">2672</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>If you can replicate yourself at work, would you do it?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/if-you-can-replicate-yourself-at-work-would-you-do-it-f47dd4be06</link>
+  <guid isPermaLink="false">2671</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>150+ awesome free websites for indie hackers 🚀🚀</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/150-awesome-free-websites-for-indie-hackers-702bfd23cf</link>
+  <guid isPermaLink="false">2670</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>What's New: 51 random startup lessons for founders</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/whats-new-51-random-startup-lessons-for-founders-77bcc906b9</link>
+  <guid isPermaLink="false">2669</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>We launched in TikTok; here is the initial view-count</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/we-launched-in-tiktok-here-is-the-initial-view-count-40675d0d79</link>
+  <guid isPermaLink="false">2668</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>How many blog posts is too many?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-many-blog-posts-is-too-many-2daded7057</link>
+  <guid isPermaLink="false">2667</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>Would you recommend #buildinpublic ? Previously I have only advertised.</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/would-you-recommend-buildinpublic-previously-i-have-only-advertised-2a24e83266</link>
+  <guid isPermaLink="false">2666</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>From idea, to MVP, to $$$ in 60 days</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/from-idea-to-mvp-to-in-60-days-659866241c</link>
+  <guid isPermaLink="false">2665</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:14 -0800</pubDate>
+ </item>
+ <item>
+  <title>Does your SaaS have an affiliate program? If so, you can add it to this Google Sheet of SaaS affiliate programs</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/does-your-saas-have-an-affiliate-program-if-so-you-can-add-it-to-this-google-sheet-of-saas-affiliate-programs-9adfe1a3fa</link>
+  <guid isPermaLink="false">2664</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>Your competitors don't matter</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/your-competitors-dont-matter-9365c4edde</link>
+  <guid isPermaLink="false">2663</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>Un-slimy copywriting for conversions</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/un-slimy-copywriting-for-conversions-2769caf4bf</link>
+  <guid isPermaLink="false">2662</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>My journey to $1000 MRR with AI2SQL</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/my-journey-to-1000-mrr-with-ai2sql-d3ce128895</link>
+  <guid isPermaLink="false">2661</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>Why followers don't mean revenue</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/why-followers-dont-mean-revenue-ea95766641</link>
+  <guid isPermaLink="false">2660</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:13 -0800</pubDate>
+ </item>
  <item>
   <title>Show IH: Stylized, professional product photos in 15 seconds!</title>
   <description></description>
@@ -199,97 +290,6 @@
   <link>https://www.indiehackers.com/post/reddit-is-underrated-711f2e3556</link>
   <guid isPermaLink="false">2547</guid>
   <pubDate>Sat, 21 Jan 2023 09:00:12 -0800</pubDate>
- </item>
- <item>
-  <title>Marketing week #3 – here's what happened</title>
-  <description></description>
-  <link>https://www.indiehackers.com/product/cakedesk/marketing-week-3-heres-what-happened--NME5OQJxYD26UaePxZJ</link>
-  <guid isPermaLink="false">2546</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:12 -0800</pubDate>
- </item>
- <item>
-  <title>We spent $10,000 on Product Hunt. Here are the results</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/we-spent-10-000-on-product-hunt-here-are-the-results-2abf041937</link>
-  <guid isPermaLink="false">2545</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:12 -0800</pubDate>
- </item>
- <item>
-  <title>I've onboarding calls booked in with 25 people from next Friday and I haven't even started development...</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/ive-onboarding-calls-booked-in-with-25-people-from-next-friday-and-i-haven-t-even-started-development-1d561dd11f</link>
-  <guid isPermaLink="false">2544</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:12 -0800</pubDate>
- </item>
- <item>
-  <title>What can you achieve in 30, 60, &amp; 90 minutes?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/what-can-you-achieve-in-30-60-90-minutes-83dfed147f</link>
-  <guid isPermaLink="false">2543</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:12 -0800</pubDate>
- </item>
- <item>
-  <title>Firewall-ed myself out of my own server</title>
-  <description></description>
-  <link>https://www.indiehackers.com/product/upembed/firewall-ed-myself-out-of-my-own-server--NMGFtLcISmE1120p0hE</link>
-  <guid isPermaLink="false">2542</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:12 -0800</pubDate>
- </item>
- <item>
-  <title>Let Open AI roast your startup idea!</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/let-open-ai-roast-your-startup-idea-b24fd5993f</link>
-  <guid isPermaLink="false">2504</guid>
-  <pubDate>Fri, 20 Jan 2023 09:00:14 -0800</pubDate>
- </item>
- <item>
-  <title>Freemium vs. Corporate Baiting</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/freemium-vs-corporate-baiting-23b09590d9</link>
-  <guid isPermaLink="false">2503</guid>
-  <pubDate>Fri, 20 Jan 2023 09:00:14 -0800</pubDate>
- </item>
- <item>
-  <title>An indie hacker from a time before indie hacking 😲</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/an-indie-hacker-from-a-time-before-indie-hacking-4d03ca3601</link>
-  <guid isPermaLink="false">2502</guid>
-  <pubDate>Fri, 20 Jan 2023 09:00:14 -0800</pubDate>
- </item>
- <item>
-  <title>20 popular TIPS to build a STARTUP that are a NONSENSE</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/20-popular-tips-to-build-a-startup-that-are-a-nonsense-5374d45b5d</link>
-  <guid isPermaLink="false">2501</guid>
-  <pubDate>Fri, 20 Jan 2023 09:00:14 -0800</pubDate>
- </item>
- <item>
-  <title>Hello VoiceType. Bye-bye anxiety from email writing</title>
-  <description></description>
-  <link>https://www.indiehackers.com/product/voicetype/hello-voicetype-bye-bye-anxiety-from-email-writing--NM83zr3POvHIGyIZ5Hw</link>
-  <guid isPermaLink="false">2500</guid>
-  <pubDate>Fri, 20 Jan 2023 09:00:14 -0800</pubDate>
- </item>
- <item>
-  <title>I will publish a review about your product for Free on my Medium blog</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/i-will-publish-a-review-about-your-product-for-free-on-my-medium-blog-9fbed2a7f9</link>
-  <guid isPermaLink="false">2499</guid>
-  <pubDate>Fri, 20 Jan 2023 09:00:14 -0800</pubDate>
- </item>
- <item>
-  <title>How much planning is enough?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-much-planning-is-enough-3d24cb872c</link>
-  <guid isPermaLink="false">2498</guid>
-  <pubDate>Fri, 20 Jan 2023 09:00:14 -0800</pubDate>
- </item>
- <item>
-  <title>Going full meta: when Generative AI talks about Generative AI 🎙🤖</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/going-full-meta-when-generative-ai-talks-about-generative-ai-19b27bb5e0</link>
-  <guid isPermaLink="false">2497</guid>
-  <pubDate>Fri, 20 Jan 2023 09:00:14 -0800</pubDate>
  </item>
 
 </channel>

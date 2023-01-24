@@ -8,9 +8,86 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 23 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 23 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 24 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Tue, 24 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>btcpayserver / btcpayserver</title>
+  <description>Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.</description>
+  <link>https://github.com/btcpayserver/btcpayserver</link>
+  <guid isPermaLink="false">2645</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>ggerganov / whisper.cpp</title>
+  <description>Port of OpenAI's Whisper model in C/C++</description>
+  <link>https://github.com/ggerganov/whisper.cpp</link>
+  <guid isPermaLink="false">2644</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>ossu / computer-science</title>
+  <description>🎓 Path to a free self-taught education in Computer Science!</description>
+  <link>https://github.com/ossu/computer-science</link>
+  <guid isPermaLink="false">2643</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>resendlabs / react-email</title>
+  <description>💌 Build and send emails using React</description>
+  <link>https://github.com/resendlabs/react-email</link>
+  <guid isPermaLink="false">2642</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>dair-ai / AI-Product-Index</title>
+  <description>A curated index to track AI-powered products.</description>
+  <link>https://github.com/dair-ai/AI-Product-Index</link>
+  <guid isPermaLink="false">2641</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>databricks-academy / data-engineer-learning-path</title>
+  <description></description>
+  <link>https://github.com/databricks-academy/data-engineer-learning-path</link>
+  <guid isPermaLink="false">2640</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>mage-ai / mage-ai</title>
+  <description>🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.</description>
+  <link>https://github.com/mage-ai/mage-ai</link>
+  <guid isPermaLink="false">2639</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>DaviMarta / Automatiza-o</title>
+  <description></description>
+  <link>https://github.com/DaviMarta/Automatiza-o</link>
+  <guid isPermaLink="false">2638</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>shadcn / ui</title>
+  <description>Beautifully designed components built with Radix UI and Tailwind CSS.</description>
+  <link>https://github.com/shadcn/ui</link>
+  <guid isPermaLink="false">2637</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>trekhleb / javascript-algorithms</title>
+  <description>📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings</description>
+  <link>https://github.com/trekhleb/javascript-algorithms</link>
+  <guid isPermaLink="false">2636</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>brycedrennan / imaginAIry</title>
+  <description>AI imagined images. Pythonic generation of stable diffusion images.</description>
+  <link>https://github.com/brycedrennan/imaginAIry</link>
+  <guid isPermaLink="false">2635</guid>
+  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
  <item>
   <title>Klipper3d / klipper</title>
   <description>Klipper is a 3d-printer firmware</description>
@@ -213,83 +290,6 @@
   <link>https://github.com/FrontAnalyticsInc/data-winners</link>
   <guid isPermaLink="false">2512</guid>
   <pubDate>Sat, 21 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>easychen / CookieCloud</title>
-  <description>CookieCloud是一个向自架服务器同步Cookie的小工具，可以将浏览器的登录态同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。</description>
-  <link>https://github.com/easychen/CookieCloud</link>
-  <guid isPermaLink="false">2511</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>BlinkDL / ChatRWKV</title>
-  <description>ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source.</description>
-  <link>https://github.com/BlinkDL/ChatRWKV</link>
-  <guid isPermaLink="false">2510</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>TheMozg / awk-raycaster</title>
-  <description>Pseudo-3D shooter written completely in gawk using raycasting technique</description>
-  <link>https://github.com/TheMozg/awk-raycaster</link>
-  <guid isPermaLink="false">2509</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>google-research / tuning_playbook</title>
-  <description>A playbook for systematically maximizing the performance of deep learning models.</description>
-  <link>https://github.com/google-research/tuning_playbook</link>
-  <guid isPermaLink="false">2508</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>massalabs / massa</title>
-  <description>The Decentralized and Scaled Blockchain</description>
-  <link>https://github.com/massalabs/massa</link>
-  <guid isPermaLink="false">2507</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>AcademySoftwareFoundation / xstudio</title>
-  <description></description>
-  <link>https://github.com/AcademySoftwareFoundation/xstudio</link>
-  <guid isPermaLink="false">2506</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>timothybrooks / instruct-pix2pix</title>
-  <description></description>
-  <link>https://github.com/timothybrooks/instruct-pix2pix</link>
-  <guid isPermaLink="false">2505</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>johnlindquist / kit</title>
-  <description>Script Kit. Automate Anything.</description>
-  <link>https://github.com/johnlindquist/kit</link>
-  <guid isPermaLink="false">2466</guid>
-  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>Azure / azure-cli</title>
-  <description>Azure Command-Line Interface</description>
-  <link>https://github.com/Azure/azure-cli</link>
-  <guid isPermaLink="false">2465</guid>
-  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>pre-commit / pre-commit-hooks</title>
-  <description>Some out-of-the-box hooks for pre-commit</description>
-  <link>https://github.com/pre-commit/pre-commit-hooks</link>
-  <guid isPermaLink="false">2464</guid>
-  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>isekaidev / stable.art</title>
-  <description>Photoshop plugin for Stable Diffusion with Automatic1111 as backend (locally or with Google Colab)</description>
-  <link>https://github.com/isekaidev/stable.art</link>
-  <guid isPermaLink="false">2463</guid>
-  <pubDate>Fri, 20 Jan 2023 09:00:07 -0800</pubDate>
  </item>
 
 </channel>
