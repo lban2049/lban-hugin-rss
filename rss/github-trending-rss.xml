@@ -8,9 +8,100 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 24 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Tue, 24 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Wed, 25 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Wed, 25 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>daveshap / LongtermChatExternalSources</title>
+  <description>GPT-3 chatbot with long-term memory and external sources</description>
+  <link>https://github.com/daveshap/LongtermChatExternalSources</link>
+  <guid isPermaLink="false">2685</guid>
+  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>dair-ai / Prompt-Engineering-Guide</title>
+  <description>🐙 Guide and resources for prompt engineering</description>
+  <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
+  <guid isPermaLink="false">2684</guid>
+  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>timqian / chinese-independent-blogs</title>
+  <description>中文独立博客列表</description>
+  <link>https://github.com/timqian/chinese-independent-blogs</link>
+  <guid isPermaLink="false">2683</guid>
+  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>Blackymas / NSPanel_HA_Blueprint</title>
+  <description>This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code</description>
+  <link>https://github.com/Blackymas/NSPanel_HA_Blueprint</link>
+  <guid isPermaLink="false">2682</guid>
+  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>deepmap / oapi-codegen</title>
+  <description>Generate Go client and server boilerplate from OpenAPI 3 specifications</description>
+  <link>https://github.com/deepmap/oapi-codegen</link>
+  <guid isPermaLink="false">2681</guid>
+  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>bregman-arie / sre-checklist</title>
+  <description>A checklist of anyone practicing Site Reliability Engineering</description>
+  <link>https://github.com/bregman-arie/sre-checklist</link>
+  <guid isPermaLink="false">2680</guid>
+  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>lyc8503 / EasierConnect</title>
+  <description>Sangfor EasyConnect protocol reimplementation in Go</description>
+  <link>https://github.com/lyc8503/EasierConnect</link>
+  <guid isPermaLink="false">2679</guid>
+  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>initialcommit-com / git-sim</title>
+  <description>Visually simulate Git operations in your own repos with a single terminal command.</description>
+  <link>https://github.com/initialcommit-com/git-sim</link>
+  <guid isPermaLink="false">2678</guid>
+  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>JDA-DM / mojxml2geojson</title>
+  <description>法務省登記所備付地図データ（地図XML）をGeoJSONに変換するコンバータ</description>
+  <link>https://github.com/JDA-DM/mojxml2geojson</link>
+  <guid isPermaLink="false">2677</guid>
+  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>TheAppleTucker / backend-GPT</title>
+  <description></description>
+  <link>https://github.com/TheAppleTucker/backend-GPT</link>
+  <guid isPermaLink="false">2676</guid>
+  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>flutter / flutter</title>
+  <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
+  <link>https://github.com/flutter/flutter</link>
+  <guid isPermaLink="false">2675</guid>
+  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>google / material-design-icons</title>
+  <description>Material Design icons by Google</description>
+  <link>https://github.com/google/material-design-icons</link>
+  <guid isPermaLink="false">2674</guid>
+  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>dani-garcia / vaultwarden</title>
+  <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
+  <link>https://github.com/dani-garcia/vaultwarden</link>
+  <guid isPermaLink="false">2673</guid>
+  <pubDate>Wed, 25 Jan 2023 09:00:06 -0800</pubDate>
+ </item>
  <item>
   <title>btcpayserver / btcpayserver</title>
   <description>Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.</description>
@@ -199,97 +290,6 @@
   <link>https://github.com/palera1n/palera1n</link>
   <guid isPermaLink="false">2555</guid>
   <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>LazyVim / LazyVim</title>
-  <description>Neovim config for the lazy</description>
-  <link>https://github.com/LazyVim/LazyVim</link>
-  <guid isPermaLink="false">2554</guid>
-  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>calcom / cal.com</title>
-  <description>Scheduling infrastructure for absolutely everyone.</description>
-  <link>https://github.com/calcom/cal.com</link>
-  <guid isPermaLink="false">2553</guid>
-  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>jerryjliu / gpt_index</title>
-  <description>An index created by GPT to organize external information and answer queries!</description>
-  <link>https://github.com/jerryjliu/gpt_index</link>
-  <guid isPermaLink="false">2552</guid>
-  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>pynecone-io / pynecone</title>
-  <description>🕸 Web apps in pure Python 🐍</description>
-  <link>https://github.com/pynecone-io/pynecone</link>
-  <guid isPermaLink="false">2551</guid>
-  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>mitesh77 / Best-Flutter-UI-Templates</title>
-  <description>completely free for everyone. Its build-in Flutter Dart.</description>
-  <link>https://github.com/mitesh77/Best-Flutter-UI-Templates</link>
-  <guid isPermaLink="false">2520</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>mage-ai / mage-ai</title>
-  <description>🧙 The modern replacement for Airflow.</description>
-  <link>https://github.com/mage-ai/mage-ai</link>
-  <guid isPermaLink="false">2519</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>projectdiscovery / pdtm</title>
-  <description>ProjectDiscovery's Open Source Tool Manager</description>
-  <link>https://github.com/projectdiscovery/pdtm</link>
-  <guid isPermaLink="false">2518</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>OpenZeppelin / openzeppelin-contracts</title>
-  <description>OpenZeppelin Contracts is a library for secure smart contract development.</description>
-  <link>https://github.com/OpenZeppelin/openzeppelin-contracts</link>
-  <guid isPermaLink="false">2517</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>HorrorPills / ChatGPT-Gnome-Desktop-Extension</title>
-  <description>ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!</description>
-  <link>https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension</link>
-  <guid isPermaLink="false">2516</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>psf / black</title>
-  <description>The uncompromising Python code formatter</description>
-  <link>https://github.com/psf/black</link>
-  <guid isPermaLink="false">2515</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>practical-tutorials / project-based-learning</title>
-  <description>Curated list of project-based tutorials</description>
-  <link>https://github.com/practical-tutorials/project-based-learning</link>
-  <guid isPermaLink="false">2514</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>nuxt / nuxt</title>
-  <description>Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.</description>
-  <link>https://github.com/nuxt/nuxt</link>
-  <guid isPermaLink="false">2513</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>FrontAnalyticsInc / data-winners</title>
-  <description>A collection of FREE python and R scripts for website development, analysis, and optimization. Includes advanced resources for topical authority and semantic content optimization.</description>
-  <link>https://github.com/FrontAnalyticsInc/data-winners</link>
-  <guid isPermaLink="false">2512</guid>
-  <pubDate>Sat, 21 Jan 2023 09:00:06 -0800</pubDate>
  </item>
 
 </channel>
