@@ -8,9 +8,16 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 25 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Wed, 25 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Thu, 26 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Thu, 26 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>今年的第一个工具项目，前端变量管理，还挺新鲜的😃😃</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3721</link>
+  <pubDate>Thu, 26 Jan 2023 00:59:02 -0800</pubDate>
+  <guid isPermaLink="false">2737</guid>
+ </item>
  <item>
   <title>访谈 guyskk：做出了个有稳定收益的小程序的故事</title>
   <description></description>
@@ -283,13 +290,6 @@
   <link>https://w2solo.com/topics/3703</link>
   <pubDate>Sat, 07 Jan 2023 18:17:37 -0800</pubDate>
   <guid isPermaLink="false">1852</guid>
- </item>
- <item>
-  <title>不上班的 1000 天，程序员自由职业 B 计划 - 做什么/收入/经验教训</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3690</link>
-  <pubDate>Sat, 07 Jan 2023 08:17:29 -0800</pubDate>
-  <guid isPermaLink="false">1803</guid>
  </item>
 
 </channel>

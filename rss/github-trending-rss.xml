@@ -8,9 +8,65 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 25 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Wed, 25 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Thu, 26 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Thu, 26 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Liuhaixv / Goose_Goose_Duck_Hack</title>
+  <description>External Hack for Goose Goose Duck. 鹅鸭杀外部辅助</description>
+  <link>https://github.com/Liuhaixv/Goose_Goose_Duck_Hack</link>
+  <guid isPermaLink="false">2720</guid>
+  <pubDate>Thu, 26 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>n00mkrad / text2image-gui</title>
+  <description>Somewhat modular text2image GUI, initially just for Stable Diffusion</description>
+  <link>https://github.com/n00mkrad/text2image-gui</link>
+  <guid isPermaLink="false">2719</guid>
+  <pubDate>Thu, 26 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>udlbook / udlbook</title>
+  <description>Understanding Deep Learning - Simon J.D. Prince</description>
+  <link>https://github.com/udlbook/udlbook</link>
+  <guid isPermaLink="false">2718</guid>
+  <pubDate>Thu, 26 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>aptos-labs / aptos-core</title>
+  <description>Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.</description>
+  <link>https://github.com/aptos-labs/aptos-core</link>
+  <guid isPermaLink="false">2717</guid>
+  <pubDate>Thu, 26 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>LAION-AI / Open-Assistant</title>
+  <description>OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.</description>
+  <link>https://github.com/LAION-AI/Open-Assistant</link>
+  <guid isPermaLink="false">2716</guid>
+  <pubDate>Thu, 26 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / terminal</title>
+  <description>The new Windows Terminal and the original Windows console host, all in the same place!</description>
+  <link>https://github.com/microsoft/terminal</link>
+  <guid isPermaLink="false">2715</guid>
+  <pubDate>Thu, 26 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>sindresorhus / awesome</title>
+  <description>😎 Awesome lists about all kinds of interesting topics</description>
+  <link>https://github.com/sindresorhus/awesome</link>
+  <guid isPermaLink="false">2714</guid>
+  <pubDate>Thu, 26 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>PowerShell / PowerShell</title>
+  <description>PowerShell for every system!</description>
+  <link>https://github.com/PowerShell/PowerShell</link>
+  <guid isPermaLink="false">2713</guid>
+  <pubDate>Thu, 26 Jan 2023 09:00:07 -0800</pubDate>
+ </item>
  <item>
   <title>daveshap / LongtermChatExternalSources</title>
   <description>GPT-3 chatbot with long-term memory and external sources</description>
@@ -234,62 +290,6 @@
   <link>https://github.com/Developer-Y/cs-video-courses</link>
   <guid isPermaLink="false">2591</guid>
   <pubDate>Mon, 23 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>karpathy / nn-zero-to-hero</title>
-  <description>Neural Networks: Zero to Hero</description>
-  <link>https://github.com/karpathy/nn-zero-to-hero</link>
-  <guid isPermaLink="false">2590</guid>
-  <pubDate>Mon, 23 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>adrianhajdin / project_ai_mern_image_generation</title>
-  <description>Build and Deploy a Full Stack MERN AI Image Generation App MidJourney &amp; DALL E Clone</description>
-  <link>https://github.com/adrianhajdin/project_ai_mern_image_generation</link>
-  <guid isPermaLink="false">2561</guid>
-  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>Sairyss / domain-driven-hexagon</title>
-  <description>Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included</description>
-  <link>https://github.com/Sairyss/domain-driven-hexagon</link>
-  <guid isPermaLink="false">2560</guid>
-  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>PaperMC / Paper</title>
-  <description>High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies</description>
-  <link>https://github.com/PaperMC/Paper</link>
-  <guid isPermaLink="false">2559</guid>
-  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>bellingcat / octosuite</title>
-  <description>Advanced Github OSINT Framework</description>
-  <link>https://github.com/bellingcat/octosuite</link>
-  <guid isPermaLink="false">2558</guid>
-  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>mriscoc / Ender3V2S1</title>
-  <description>This is optimized firmware for Ender3 V2/S1 3D printers.</description>
-  <link>https://github.com/mriscoc/Ender3V2S1</link>
-  <guid isPermaLink="false">2557</guid>
-  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>TomSchimansky / CustomTkinter</title>
-  <description>A modern and customizable python UI-library based on Tkinter</description>
-  <link>https://github.com/TomSchimansky/CustomTkinter</link>
-  <guid isPermaLink="false">2556</guid>
-  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
- </item>
- <item>
-  <title>palera1n / palera1n</title>
-  <description>iOS 15.0-16.3 (semi-)tethered checkm8 jailbreak</description>
-  <link>https://github.com/palera1n/palera1n</link>
-  <guid isPermaLink="false">2555</guid>
-  <pubDate>Sun, 22 Jan 2023 09:00:08 -0800</pubDate>
  </item>
 
 </channel>
