@@ -8,9 +8,16 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 26 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Thu, 26 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Fri, 27 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 27 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>怎么发掘业务</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3700</link>
+  <pubDate>Thu, 26 Jan 2023 20:26:12 -0800</pubDate>
+  <guid isPermaLink="false">2780</guid>
+ </item>
  <item>
   <title>今年的第一个工具项目，前端变量管理，还挺新鲜的😃😃</title>
   <description></description>
@@ -283,13 +290,6 @@
   <link>https://w2solo.com/topics/3701</link>
   <pubDate>Sun, 08 Jan 2023 01:15:06 -0800</pubDate>
   <guid isPermaLink="false">1851</guid>
- </item>
- <item>
-  <title>幸运者 - 苹果本周编辑推荐</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3703</link>
-  <pubDate>Sat, 07 Jan 2023 18:17:37 -0800</pubDate>
-  <guid isPermaLink="false">1852</guid>
  </item>
 
 </channel>

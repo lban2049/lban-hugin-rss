@@ -8,9 +8,121 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 26 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Thu, 26 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Fri, 27 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 27 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>bridgecrewio / checkov</title>
+  <description>Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.</description>
+  <link>https://github.com/bridgecrewio/checkov</link>
+  <guid isPermaLink="false">2766</guid>
+  <pubDate>Fri, 27 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>Mokshit06 / typewind</title>
+  <description>The safety of Typescript with the magic of Tailwind.</description>
+  <link>https://github.com/Mokshit06/typewind</link>
+  <guid isPermaLink="false">2765</guid>
+  <pubDate>Fri, 27 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>t3-oss / create-t3-turbo</title>
+  <description>Clean and simple starter repo using the T3 Stack along with Expo React Native</description>
+  <link>https://github.com/t3-oss/create-t3-turbo</link>
+  <guid isPermaLink="false">2764</guid>
+  <pubDate>Fri, 27 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>facebook / jest</title>
+  <description>Delightful JavaScript Testing.</description>
+  <link>https://github.com/facebook/jest</link>
+  <guid isPermaLink="false">2763</guid>
+  <pubDate>Fri, 27 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>trufflesecurity / trufflehog</title>
+  <description>Find credentials all over the place</description>
+  <link>https://github.com/trufflesecurity/trufflehog</link>
+  <guid isPermaLink="false">2762</guid>
+  <pubDate>Fri, 27 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>dotnet / efcore</title>
+  <description>EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.</description>
+  <link>https://github.com/dotnet/efcore</link>
+  <guid isPermaLink="false">2761</guid>
+  <pubDate>Fri, 27 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>catchorg / Catch2</title>
+  <description>A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)</description>
+  <link>https://github.com/catchorg/Catch2</link>
+  <guid isPermaLink="false">2760</guid>
+  <pubDate>Fri, 27 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>ripienaar / free-for-dev</title>
+  <description>A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev</description>
+  <link>https://github.com/ripienaar/free-for-dev</link>
+  <guid isPermaLink="false">2759</guid>
+  <pubDate>Fri, 27 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>evrone / go-clean-template</title>
+  <description>Clean Architecture template for Golang services</description>
+  <link>https://github.com/evrone/go-clean-template</link>
+  <guid isPermaLink="false">2758</guid>
+  <pubDate>Fri, 27 Jan 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>dortania / OpenCore-Legacy-Patcher</title>
+  <description>Experience macOS just like before</description>
+  <link>https://github.com/dortania/OpenCore-Legacy-Patcher</link>
+  <guid isPermaLink="false">2757</guid>
+  <pubDate>Fri, 27 Jan 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>huggingface / transformers</title>
+  <description>🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.</description>
+  <link>https://github.com/huggingface/transformers</link>
+  <guid isPermaLink="false">2756</guid>
+  <pubDate>Fri, 27 Jan 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>localsend / localsend</title>
+  <description>An open source cross-platform alternative to AirDrop</description>
+  <link>https://github.com/localsend/localsend</link>
+  <guid isPermaLink="false">2755</guid>
+  <pubDate>Fri, 27 Jan 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>bregman-arie / devops-exercises</title>
+  <description>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions</description>
+  <link>https://github.com/bregman-arie/devops-exercises</link>
+  <guid isPermaLink="false">2754</guid>
+  <pubDate>Fri, 27 Jan 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>HexRaysSA / goomba</title>
+  <description>gooMBA is a Hex-Rays Decompiler plugin to simplify Mixed Boolean-Arithmetic (MBA) expressions</description>
+  <link>https://github.com/HexRaysSA/goomba</link>
+  <guid isPermaLink="false">2753</guid>
+  <pubDate>Fri, 27 Jan 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>flutter / news_toolkit</title>
+  <description>A news template application built in Flutter, by Google and Very Good Ventures. Learn more at: https://flutter.github.io/news_toolkit</description>
+  <link>https://github.com/flutter/news_toolkit</link>
+  <guid isPermaLink="false">2752</guid>
+  <pubDate>Fri, 27 Jan 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>AzeemIdrisi / PhoneSploit-Pro</title>
+  <description>An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.</description>
+  <link>https://github.com/AzeemIdrisi/PhoneSploit-Pro</link>
+  <guid isPermaLink="false">2751</guid>
+  <pubDate>Fri, 27 Jan 2023 09:00:04 -0800</pubDate>
+ </item>
  <item>
   <title>Liuhaixv / Goose_Goose_Duck_Hack</title>
   <description>External Hack for Goose Goose Duck. 鹅鸭杀外部辅助</description>
@@ -178,118 +290,6 @@
   <link>https://github.com/ossu/computer-science</link>
   <guid isPermaLink="false">2643</guid>
   <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>resendlabs / react-email</title>
-  <description>💌 Build and send emails using React</description>
-  <link>https://github.com/resendlabs/react-email</link>
-  <guid isPermaLink="false">2642</guid>
-  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>dair-ai / AI-Product-Index</title>
-  <description>A curated index to track AI-powered products.</description>
-  <link>https://github.com/dair-ai/AI-Product-Index</link>
-  <guid isPermaLink="false">2641</guid>
-  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>databricks-academy / data-engineer-learning-path</title>
-  <description></description>
-  <link>https://github.com/databricks-academy/data-engineer-learning-path</link>
-  <guid isPermaLink="false">2640</guid>
-  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>mage-ai / mage-ai</title>
-  <description>🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.</description>
-  <link>https://github.com/mage-ai/mage-ai</link>
-  <guid isPermaLink="false">2639</guid>
-  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>DaviMarta / Automatiza-o</title>
-  <description></description>
-  <link>https://github.com/DaviMarta/Automatiza-o</link>
-  <guid isPermaLink="false">2638</guid>
-  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>shadcn / ui</title>
-  <description>Beautifully designed components built with Radix UI and Tailwind CSS.</description>
-  <link>https://github.com/shadcn/ui</link>
-  <guid isPermaLink="false">2637</guid>
-  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>trekhleb / javascript-algorithms</title>
-  <description>📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings</description>
-  <link>https://github.com/trekhleb/javascript-algorithms</link>
-  <guid isPermaLink="false">2636</guid>
-  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>brycedrennan / imaginAIry</title>
-  <description>AI imagined images. Pythonic generation of stable diffusion images.</description>
-  <link>https://github.com/brycedrennan/imaginAIry</link>
-  <guid isPermaLink="false">2635</guid>
-  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>Klipper3d / klipper</title>
-  <description>Klipper is a 3d-printer firmware</description>
-  <link>https://github.com/Klipper3d/klipper</link>
-  <guid isPermaLink="false">2598</guid>
-  <pubDate>Mon, 23 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>htr-tech / zphisher</title>
-  <description>An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !</description>
-  <link>https://github.com/htr-tech/zphisher</link>
-  <guid isPermaLink="false">2597</guid>
-  <pubDate>Mon, 23 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>DFHack / dfhack</title>
-  <description>Memory hacking library for Dwarf Fortress and a set of tools that use it</description>
-  <link>https://github.com/DFHack/dfhack</link>
-  <guid isPermaLink="false">2596</guid>
-  <pubDate>Mon, 23 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>revanced / revanced-manager</title>
-  <description>💊 Android application to use ReVanced</description>
-  <link>https://github.com/revanced/revanced-manager</link>
-  <guid isPermaLink="false">2595</guid>
-  <pubDate>Mon, 23 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>freqtrade / freqtrade</title>
-  <description>Free, open source crypto trading bot</description>
-  <link>https://github.com/freqtrade/freqtrade</link>
-  <guid isPermaLink="false">2594</guid>
-  <pubDate>Mon, 23 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>google / comprehensive-rust</title>
-  <description>This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.</description>
-  <link>https://github.com/google/comprehensive-rust</link>
-  <guid isPermaLink="false">2593</guid>
-  <pubDate>Mon, 23 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>shadcn / ui</title>
-  <description>UI components that you can copy and paste into your apps. Built using Radix UI and Tailwind CSS.</description>
-  <link>https://github.com/shadcn/ui</link>
-  <guid isPermaLink="false">2592</guid>
-  <pubDate>Mon, 23 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>Developer-Y / cs-video-courses</title>
-  <description>List of Computer Science courses with video lectures.</description>
-  <link>https://github.com/Developer-Y/cs-video-courses</link>
-  <guid isPermaLink="false">2591</guid>
-  <pubDate>Mon, 23 Jan 2023 09:00:09 -0800</pubDate>
  </item>
 
 </channel>
