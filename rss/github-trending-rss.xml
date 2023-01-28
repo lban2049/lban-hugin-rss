@@ -8,9 +8,107 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 27 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Fri, 27 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sat, 28 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sat, 28 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>donnemartin / system-design-primer</title>
+  <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+  <link>https://github.com/donnemartin/system-design-primer</link>
+  <guid isPermaLink="false">2804</guid>
+  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>charliermarsh / ruff</title>
+  <description>An extremely fast Python linter, written in Rust.</description>
+  <link>https://github.com/charliermarsh/ruff</link>
+  <guid isPermaLink="false">2803</guid>
+  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>withastro / astro</title>
+  <description>Build faster websites with Astro's next-gen island architecture 🏝✨</description>
+  <link>https://github.com/withastro/astro</link>
+  <guid isPermaLink="false">2802</guid>
+  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>mouredev / hello-git</title>
+  <description>Curso para aprender a trabajar con el sistema de control de versiones Git y la plataforma GitHub desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev.</description>
+  <link>https://github.com/mouredev/hello-git</link>
+  <guid isPermaLink="false">2801</guid>
+  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>ranaroussi / yfinance</title>
+  <description>Download market data from Yahoo! Finance's API</description>
+  <link>https://github.com/ranaroussi/yfinance</link>
+  <guid isPermaLink="false">2800</guid>
+  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>PaulWaltersDev / FreeLearningResourcesForSoftwareTesters</title>
+  <description>A New Project to create a set of links to free Online Learning Resources for New and Experienced Software Testers.</description>
+  <link>https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters</link>
+  <guid isPermaLink="false">2799</guid>
+  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>airbytehq / airbyte</title>
+  <description>Data integration platform for ELT pipelines from APIs, databases &amp; files to warehouses &amp; lakes.</description>
+  <link>https://github.com/airbytehq/airbyte</link>
+  <guid isPermaLink="false">2798</guid>
+  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>excalidraw / excalidraw</title>
+  <description>Virtual whiteboard for sketching hand-drawn like diagrams</description>
+  <link>https://github.com/excalidraw/excalidraw</link>
+  <guid isPermaLink="false">2797</guid>
+  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>github / docs</title>
+  <description>The open-source repo for docs.github.com</description>
+  <link>https://github.com/github/docs</link>
+  <guid isPermaLink="false">2796</guid>
+  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>TrinityCore / TrinityCore</title>
+  <description>TrinityCore Open Source MMO Framework (master = 10.0.5.47871, 3.3.5 = 3.3.5a.12340)</description>
+  <link>https://github.com/TrinityCore/TrinityCore</link>
+  <guid isPermaLink="false">2795</guid>
+  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>abhivaikar / howtheytest</title>
+  <description>A collection of public resources about how software companies test their software</description>
+  <link>https://github.com/abhivaikar/howtheytest</link>
+  <guid isPermaLink="false">2794</guid>
+  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>komeilmehranfar / companies-with-remote-positions-available-for-iranians</title>
+  <description>List of companies with remote positions which hire Iranian experts</description>
+  <link>https://github.com/komeilmehranfar/companies-with-remote-positions-available-for-iranians</link>
+  <guid isPermaLink="false">2793</guid>
+  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>geohot / tinygrad</title>
+  <description>You like pytorch? You like micrograd? You love tinygrad! ❤️</description>
+  <link>https://github.com/geohot/tinygrad</link>
+  <guid isPermaLink="false">2792</guid>
+  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>papers-we-love / papers-we-love</title>
+  <description>Papers from the computer science community to read and discuss.</description>
+  <link>https://github.com/papers-we-love/papers-we-love</link>
+  <guid isPermaLink="false">2791</guid>
+  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
+ </item>
  <item>
   <title>bridgecrewio / checkov</title>
   <description>Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.</description>
@@ -192,104 +290,6 @@
   <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
   <guid isPermaLink="false">2684</guid>
   <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>timqian / chinese-independent-blogs</title>
-  <description>中文独立博客列表</description>
-  <link>https://github.com/timqian/chinese-independent-blogs</link>
-  <guid isPermaLink="false">2683</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>Blackymas / NSPanel_HA_Blueprint</title>
-  <description>This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code</description>
-  <link>https://github.com/Blackymas/NSPanel_HA_Blueprint</link>
-  <guid isPermaLink="false">2682</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>deepmap / oapi-codegen</title>
-  <description>Generate Go client and server boilerplate from OpenAPI 3 specifications</description>
-  <link>https://github.com/deepmap/oapi-codegen</link>
-  <guid isPermaLink="false">2681</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>bregman-arie / sre-checklist</title>
-  <description>A checklist of anyone practicing Site Reliability Engineering</description>
-  <link>https://github.com/bregman-arie/sre-checklist</link>
-  <guid isPermaLink="false">2680</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>lyc8503 / EasierConnect</title>
-  <description>Sangfor EasyConnect protocol reimplementation in Go</description>
-  <link>https://github.com/lyc8503/EasierConnect</link>
-  <guid isPermaLink="false">2679</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>initialcommit-com / git-sim</title>
-  <description>Visually simulate Git operations in your own repos with a single terminal command.</description>
-  <link>https://github.com/initialcommit-com/git-sim</link>
-  <guid isPermaLink="false">2678</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>JDA-DM / mojxml2geojson</title>
-  <description>法務省登記所備付地図データ（地図XML）をGeoJSONに変換するコンバータ</description>
-  <link>https://github.com/JDA-DM/mojxml2geojson</link>
-  <guid isPermaLink="false">2677</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>TheAppleTucker / backend-GPT</title>
-  <description></description>
-  <link>https://github.com/TheAppleTucker/backend-GPT</link>
-  <guid isPermaLink="false">2676</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>flutter / flutter</title>
-  <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
-  <link>https://github.com/flutter/flutter</link>
-  <guid isPermaLink="false">2675</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>google / material-design-icons</title>
-  <description>Material Design icons by Google</description>
-  <link>https://github.com/google/material-design-icons</link>
-  <guid isPermaLink="false">2674</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>dani-garcia / vaultwarden</title>
-  <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
-  <link>https://github.com/dani-garcia/vaultwarden</link>
-  <guid isPermaLink="false">2673</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>btcpayserver / btcpayserver</title>
-  <description>Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.</description>
-  <link>https://github.com/btcpayserver/btcpayserver</link>
-  <guid isPermaLink="false">2645</guid>
-  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>ggerganov / whisper.cpp</title>
-  <description>Port of OpenAI's Whisper model in C/C++</description>
-  <link>https://github.com/ggerganov/whisper.cpp</link>
-  <guid isPermaLink="false">2644</guid>
-  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>ossu / computer-science</title>
-  <description>🎓 Path to a free self-taught education in Computer Science!</description>
-  <link>https://github.com/ossu/computer-science</link>
-  <guid isPermaLink="false">2643</guid>
-  <pubDate>Tue, 24 Jan 2023 09:00:07 -0800</pubDate>
  </item>
 
 </channel>
