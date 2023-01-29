@@ -8,9 +8,107 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 28 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sat, 28 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sun, 29 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 29 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>yhirose / cpp-httplib</title>
+  <description>A C++ header-only HTTP/HTTPS server and client library</description>
+  <link>https://github.com/yhirose/cpp-httplib</link>
+  <guid isPermaLink="false">2857</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>alibaba / easyexcel</title>
+  <description>快速、简洁、解决大文件内存溢出的java处理Excel工具</description>
+  <link>https://github.com/alibaba/easyexcel</link>
+  <guid isPermaLink="false">2856</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>xiaoxian521 / vue-pure-admin</title>
+  <description>🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）</description>
+  <link>https://github.com/xiaoxian521/vue-pure-admin</link>
+  <guid isPermaLink="false">2855</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>flipped-aurora / gin-vue-admin</title>
+  <description>基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。</description>
+  <link>https://github.com/flipped-aurora/gin-vue-admin</link>
+  <guid isPermaLink="false">2854</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>godotengine / godot</title>
+  <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
+  <link>https://github.com/godotengine/godot</link>
+  <guid isPermaLink="false">2853</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>jeecgboot / jeecg-boot</title>
+  <description>⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&amp;Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。</description>
+  <link>https://github.com/jeecgboot/jeecg-boot</link>
+  <guid isPermaLink="false">2852</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>MystenLabs / sui</title>
+  <description>Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language</description>
+  <link>https://github.com/MystenLabs/sui</link>
+  <guid isPermaLink="false">2851</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>Z4nzu / hackingtool</title>
+  <description>ALL IN ONE Hacking Tool For Hackers</description>
+  <link>https://github.com/Z4nzu/hackingtool</link>
+  <guid isPermaLink="false">2850</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>notepad-plus-plus / notepad-plus-plus</title>
+  <description>Notepad++ official repository</description>
+  <link>https://github.com/notepad-plus-plus/notepad-plus-plus</link>
+  <guid isPermaLink="false">2849</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>fathyb / carbonyl</title>
+  <description>Chromium running inside your terminal</description>
+  <link>https://github.com/fathyb/carbonyl</link>
+  <guid isPermaLink="false">2848</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>AUTOMATIC1111 / stable-diffusion-webui</title>
+  <description>Stable Diffusion web UI</description>
+  <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
+  <guid isPermaLink="false">2847</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>mindsdb / mindsdb</title>
+  <description>In-Database Machine Learning</description>
+  <link>https://github.com/mindsdb/mindsdb</link>
+  <guid isPermaLink="false">2846</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>alist-org / alist</title>
+  <description>🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。</description>
+  <link>https://github.com/alist-org/alist</link>
+  <guid isPermaLink="false">2845</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>hwchase17 / chat-langchain</title>
+  <description></description>
+  <link>https://github.com/hwchase17/chat-langchain</link>
+  <guid isPermaLink="false">2844</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:04 -0800</pubDate>
+ </item>
  <item>
   <title>donnemartin / system-design-primer</title>
   <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
@@ -192,104 +290,6 @@
   <link>https://github.com/localsend/localsend</link>
   <guid isPermaLink="false">2755</guid>
   <pubDate>Fri, 27 Jan 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>bregman-arie / devops-exercises</title>
-  <description>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions</description>
-  <link>https://github.com/bregman-arie/devops-exercises</link>
-  <guid isPermaLink="false">2754</guid>
-  <pubDate>Fri, 27 Jan 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>HexRaysSA / goomba</title>
-  <description>gooMBA is a Hex-Rays Decompiler plugin to simplify Mixed Boolean-Arithmetic (MBA) expressions</description>
-  <link>https://github.com/HexRaysSA/goomba</link>
-  <guid isPermaLink="false">2753</guid>
-  <pubDate>Fri, 27 Jan 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>flutter / news_toolkit</title>
-  <description>A news template application built in Flutter, by Google and Very Good Ventures. Learn more at: https://flutter.github.io/news_toolkit</description>
-  <link>https://github.com/flutter/news_toolkit</link>
-  <guid isPermaLink="false">2752</guid>
-  <pubDate>Fri, 27 Jan 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>AzeemIdrisi / PhoneSploit-Pro</title>
-  <description>An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.</description>
-  <link>https://github.com/AzeemIdrisi/PhoneSploit-Pro</link>
-  <guid isPermaLink="false">2751</guid>
-  <pubDate>Fri, 27 Jan 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>Liuhaixv / Goose_Goose_Duck_Hack</title>
-  <description>External Hack for Goose Goose Duck. 鹅鸭杀外部辅助</description>
-  <link>https://github.com/Liuhaixv/Goose_Goose_Duck_Hack</link>
-  <guid isPermaLink="false">2720</guid>
-  <pubDate>Thu, 26 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>n00mkrad / text2image-gui</title>
-  <description>Somewhat modular text2image GUI, initially just for Stable Diffusion</description>
-  <link>https://github.com/n00mkrad/text2image-gui</link>
-  <guid isPermaLink="false">2719</guid>
-  <pubDate>Thu, 26 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>udlbook / udlbook</title>
-  <description>Understanding Deep Learning - Simon J.D. Prince</description>
-  <link>https://github.com/udlbook/udlbook</link>
-  <guid isPermaLink="false">2718</guid>
-  <pubDate>Thu, 26 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>aptos-labs / aptos-core</title>
-  <description>Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.</description>
-  <link>https://github.com/aptos-labs/aptos-core</link>
-  <guid isPermaLink="false">2717</guid>
-  <pubDate>Thu, 26 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>LAION-AI / Open-Assistant</title>
-  <description>OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.</description>
-  <link>https://github.com/LAION-AI/Open-Assistant</link>
-  <guid isPermaLink="false">2716</guid>
-  <pubDate>Thu, 26 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / terminal</title>
-  <description>The new Windows Terminal and the original Windows console host, all in the same place!</description>
-  <link>https://github.com/microsoft/terminal</link>
-  <guid isPermaLink="false">2715</guid>
-  <pubDate>Thu, 26 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>sindresorhus / awesome</title>
-  <description>😎 Awesome lists about all kinds of interesting topics</description>
-  <link>https://github.com/sindresorhus/awesome</link>
-  <guid isPermaLink="false">2714</guid>
-  <pubDate>Thu, 26 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>PowerShell / PowerShell</title>
-  <description>PowerShell for every system!</description>
-  <link>https://github.com/PowerShell/PowerShell</link>
-  <guid isPermaLink="false">2713</guid>
-  <pubDate>Thu, 26 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>daveshap / LongtermChatExternalSources</title>
-  <description>GPT-3 chatbot with long-term memory and external sources</description>
-  <link>https://github.com/daveshap/LongtermChatExternalSources</link>
-  <guid isPermaLink="false">2685</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>dair-ai / Prompt-Engineering-Guide</title>
-  <description>🐙 Guide and resources for prompt engineering</description>
-  <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
-  <guid isPermaLink="false">2684</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:07 -0800</pubDate>
  </item>
 
 </channel>

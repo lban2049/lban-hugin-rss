@@ -8,9 +8,79 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 28 Jan 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Sat, 28 Jan 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Sun, 29 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 29 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Interview: Amin Hits $20K MRR from Draftss - a Productised Service</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/interview-amin-hits-20k-mrr-from-draftss-a-productised-service-835f0fdf37</link>
+  <guid isPermaLink="false">2897</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>Open-Sourced GPTZero</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/open-sourced-gptzero-788e8c9d1a</link>
+  <guid isPermaLink="false">2896</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>Do not incorporate too early</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/do-not-incorporate-too-early-48cb3bc0c1</link>
+  <guid isPermaLink="false">2895</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>Started so many projects in the past, finally finished something small, and launching!</title>
+  <description></description>
+  <link>https://www.indiehackers.com/product/tubemail/started-so-many-projects-in-the-past-finally-finished-something-small-and-launching--NMjYfg154xzGEpuKtzv</link>
+  <guid isPermaLink="false">2894</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>Went from 0 to 1k+ users in 7 days</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/went-from-0-to-1k-users-in-7-days-de5694b46d</link>
+  <guid isPermaLink="false">2893</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>We need a new workspace for AI</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/we-need-a-new-workspace-for-ai-df548f3522</link>
+  <guid isPermaLink="false">2892</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>What do I do next after speaking to customers and finding a potential solution?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/what-do-i-do-next-after-speaking-to-customers-and-finding-a-potential-solution-e66e578a80</link>
+  <guid isPermaLink="false">2891</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>What makes a bad programmer?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/what-makes-a-bad-programmer-e6dda977bc</link>
+  <guid isPermaLink="false">2890</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>I think I've tried all the marketing tricks. What else?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/i-think-ive-tried-all-the-marketing-tricks-what-else-9b1595024b</link>
+  <guid isPermaLink="false">2889</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>My 4th marketing week in review</title>
+  <description></description>
+  <link>https://www.indiehackers.com/product/cakedesk/my-4th-marketing-week-in-review--NMnVawTYiuUDYVFNiH7</link>
+  <guid isPermaLink="false">2888</guid>
+  <pubDate>Sun, 29 Jan 2023 09:00:10 -0800</pubDate>
+ </item>
  <item>
   <title>Just launched my subscription design service!</title>
   <description></description>
@@ -220,76 +290,6 @@
   <link>https://www.indiehackers.com/post/mastering-prompt-engineering-202e125bf5</link>
   <guid isPermaLink="false">2743</guid>
   <pubDate>Thu, 26 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>The difficulty of predicting difficulty</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/the-difficulty-of-predicting-difficulty-c5cd52cc51</link>
-  <guid isPermaLink="false">2742</guid>
-  <pubDate>Thu, 26 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>How do you deal with being "average"?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-do-you-deal-with-being-average-8061325282</link>
-  <guid isPermaLink="false">2741</guid>
-  <pubDate>Thu, 26 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>Doubling down...</title>
-  <description></description>
-  <link>https://www.indiehackers.com/product/mistrata/doubling-down--NMe2jR1kKPG71I1CBwE</link>
-  <guid isPermaLink="false">2740</guid>
-  <pubDate>Thu, 26 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>Start with customer support that won't scale</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/start-with-customer-support-that-wont-scale-1636ce7b03</link>
-  <guid isPermaLink="false">2739</guid>
-  <pubDate>Thu, 26 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>The Mom Test is wrong - and why I don't believe in idea validation</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/the-mom-test-is-wrong-and-why-i-dont-believe-in-idea-validation-e94220dad3</link>
-  <guid isPermaLink="false">2738</guid>
-  <pubDate>Thu, 26 Jan 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>A paid traffic source everyone seems to ignore</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/a-paid-traffic-source-everyone-seems-to-ignore-0071f3b7ca</link>
-  <guid isPermaLink="false">2712</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:14 -0800</pubDate>
- </item>
- <item>
-  <title>How my newsletter went from "aimless hobby" to a media business</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-my-newsletter-went-from-aimless-hobby-to-a-media-business-608cf6383e</link>
-  <guid isPermaLink="false">2711</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:14 -0800</pubDate>
- </item>
- <item>
-  <title>Ruttl bags a Golden Kitty Award! 😸🎉</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/ruttl-bags-a-golden-kitty-award-9d4692011e</link>
-  <guid isPermaLink="false">2710</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:14 -0800</pubDate>
- </item>
- <item>
-  <title>The Decoy Effect: How you can increase sales by changing one tiny thing with your pricing plan</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/the-decoy-effect-how-you-can-increase-sales-by-changing-one-tiny-thing-with-your-pricing-plan-3e93aeedcd</link>
-  <guid isPermaLink="false">2709</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:14 -0800</pubDate>
- </item>
- <item>
-  <title>Less is more: how to create the perfect minimalist web design?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/less-is-more-how-to-create-the-perfect-minimalist-web-design-3b94507eed</link>
-  <guid isPermaLink="false">2708</guid>
-  <pubDate>Wed, 25 Jan 2023 09:00:14 -0800</pubDate>
  </item>
 
 </channel>

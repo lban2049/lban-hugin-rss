@@ -8,9 +8,30 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 28 Jan 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Sat, 28 Jan 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Sun, 29 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 29 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>彻底去除了所有广告无需登录注册书源稳定数千！</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3724</link>
+  <pubDate>Sun, 29 Jan 2023 05:51:47 -0800</pubDate>
+  <guid isPermaLink="false">2885</guid>
+ </item>
+ <item>
+  <title>新人报道，非常荣幸和大家一起探索独立开发之路</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3723</link>
+  <pubDate>Sun, 29 Jan 2023 00:06:17 -0800</pubDate>
+  <guid isPermaLink="false">2886</guid>
+ </item>
+ <item>
+  <title>大家如何构建用户体系的呢？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3719</link>
+  <pubDate>Sat, 28 Jan 2023 18:54:01 -0800</pubDate>
+  <guid isPermaLink="false">2887</guid>
+ </item>
  <item>
   <title>访谈 guyskk：做出了个有稳定收益的小程序的故事</title>
   <description></description>
@@ -269,27 +290,6 @@
   <link>https://w2solo.com/topics/3704</link>
   <pubDate>Mon, 09 Jan 2023 01:00:37 -0800</pubDate>
   <guid isPermaLink="false">1907</guid>
- </item>
- <item>
-  <title>独立产品灵感周刊 DecoHack #043 - 互联网从业者的灵感数据库</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3706</link>
-  <pubDate>Mon, 09 Jan 2023 00:22:35 -0800</pubDate>
-  <guid isPermaLink="false">1909</guid>
- </item>
- <item>
-  <title>一款练字类 APP</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3696</link>
-  <pubDate>Sun, 08 Jan 2023 23:28:07 -0800</pubDate>
-  <guid isPermaLink="false">1910</guid>
- </item>
- <item>
-  <title>Dawn Launcher Windows 快捷启动工具</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3691</link>
-  <pubDate>Sun, 08 Jan 2023 19:30:21 -0800</pubDate>
-  <guid isPermaLink="false">1911</guid>
  </item>
 
 </channel>
