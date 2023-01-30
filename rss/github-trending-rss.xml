@@ -8,9 +8,107 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 29 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sun, 29 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Mon, 30 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 30 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>AmazingAng / WTF-Solidity</title>
+  <description>我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy</description>
+  <link>https://github.com/AmazingAng/WTF-Solidity</link>
+  <guid isPermaLink="false">2911</guid>
+  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>forrestchang / readpilot</title>
+  <description>Read Pilot analyzes online articles and generate Q&amp;A cards for you. Powered by OpenAI &amp; Next.js.</description>
+  <link>https://github.com/forrestchang/readpilot</link>
+  <guid isPermaLink="false">2910</guid>
+  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>fuergaosi233 / wechat-chatgpt</title>
+  <description>Use ChatGPT On Wechat via wechaty</description>
+  <link>https://github.com/fuergaosi233/wechat-chatgpt</link>
+  <guid isPermaLink="false">2909</guid>
+  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>promptslab / Promptify</title>
+  <description>Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research</description>
+  <link>https://github.com/promptslab/Promptify</link>
+  <guid isPermaLink="false">2908</guid>
+  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>lucidrains / musiclm-pytorch</title>
+  <description>Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch</description>
+  <link>https://github.com/lucidrains/musiclm-pytorch</link>
+  <guid isPermaLink="false">2907</guid>
+  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>ahmedbahaaeldin / From-0-to-Research-Scientist-resources-guide</title>
+  <description>Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.</description>
+  <link>https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide</link>
+  <guid isPermaLink="false">2906</guid>
+  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>ant-design / ant-design</title>
+  <description>An enterprise-class UI design language and React UI library</description>
+  <link>https://github.com/ant-design/ant-design</link>
+  <guid isPermaLink="false">2905</guid>
+  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>tauri-apps / tauri</title>
+  <description>Build smaller, faster, and more secure desktop applications with a web frontend.</description>
+  <link>https://github.com/tauri-apps/tauri</link>
+  <guid isPermaLink="false">2904</guid>
+  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>go-kratos / kratos</title>
+  <description>Your ultimate Go microservices framework for the cloud-native era.</description>
+  <link>https://github.com/go-kratos/kratos</link>
+  <guid isPermaLink="false">2903</guid>
+  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>521xueweihan / HelloGitHub</title>
+  <description>分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.</description>
+  <link>https://github.com/521xueweihan/HelloGitHub</link>
+  <guid isPermaLink="false">2902</guid>
+  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>Snailclimb / JavaGuide</title>
+  <description>「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！</description>
+  <link>https://github.com/Snailclimb/JavaGuide</link>
+  <guid isPermaLink="false">2901</guid>
+  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>iluwatar / java-design-patterns</title>
+  <description>Design patterns implemented in Java</description>
+  <link>https://github.com/iluwatar/java-design-patterns</link>
+  <guid isPermaLink="false">2900</guid>
+  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>jlevy / the-art-of-command-line</title>
+  <description>Master the command line, in one page</description>
+  <link>https://github.com/jlevy/the-art-of-command-line</link>
+  <guid isPermaLink="false">2899</guid>
+  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>paperless-ngx / paperless-ngx</title>
+  <description>A community-supported supercharged version of paperless: scan, index and archive all your physical documents</description>
+  <link>https://github.com/paperless-ngx/paperless-ngx</link>
+  <guid isPermaLink="false">2898</guid>
+  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
+ </item>
  <item>
   <title>yhirose / cpp-httplib</title>
   <description>A C++ header-only HTTP/HTTPS server and client library</description>
@@ -192,104 +290,6 @@
   <link>https://github.com/komeilmehranfar/companies-with-remote-positions-available-for-iranians</link>
   <guid isPermaLink="false">2793</guid>
   <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>geohot / tinygrad</title>
-  <description>You like pytorch? You like micrograd? You love tinygrad! ❤️</description>
-  <link>https://github.com/geohot/tinygrad</link>
-  <guid isPermaLink="false">2792</guid>
-  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>papers-we-love / papers-we-love</title>
-  <description>Papers from the computer science community to read and discuss.</description>
-  <link>https://github.com/papers-we-love/papers-we-love</link>
-  <guid isPermaLink="false">2791</guid>
-  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>bridgecrewio / checkov</title>
-  <description>Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.</description>
-  <link>https://github.com/bridgecrewio/checkov</link>
-  <guid isPermaLink="false">2766</guid>
-  <pubDate>Fri, 27 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>Mokshit06 / typewind</title>
-  <description>The safety of Typescript with the magic of Tailwind.</description>
-  <link>https://github.com/Mokshit06/typewind</link>
-  <guid isPermaLink="false">2765</guid>
-  <pubDate>Fri, 27 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>t3-oss / create-t3-turbo</title>
-  <description>Clean and simple starter repo using the T3 Stack along with Expo React Native</description>
-  <link>https://github.com/t3-oss/create-t3-turbo</link>
-  <guid isPermaLink="false">2764</guid>
-  <pubDate>Fri, 27 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>facebook / jest</title>
-  <description>Delightful JavaScript Testing.</description>
-  <link>https://github.com/facebook/jest</link>
-  <guid isPermaLink="false">2763</guid>
-  <pubDate>Fri, 27 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>trufflesecurity / trufflehog</title>
-  <description>Find credentials all over the place</description>
-  <link>https://github.com/trufflesecurity/trufflehog</link>
-  <guid isPermaLink="false">2762</guid>
-  <pubDate>Fri, 27 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>dotnet / efcore</title>
-  <description>EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.</description>
-  <link>https://github.com/dotnet/efcore</link>
-  <guid isPermaLink="false">2761</guid>
-  <pubDate>Fri, 27 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>catchorg / Catch2</title>
-  <description>A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)</description>
-  <link>https://github.com/catchorg/Catch2</link>
-  <guid isPermaLink="false">2760</guid>
-  <pubDate>Fri, 27 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>ripienaar / free-for-dev</title>
-  <description>A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev</description>
-  <link>https://github.com/ripienaar/free-for-dev</link>
-  <guid isPermaLink="false">2759</guid>
-  <pubDate>Fri, 27 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>evrone / go-clean-template</title>
-  <description>Clean Architecture template for Golang services</description>
-  <link>https://github.com/evrone/go-clean-template</link>
-  <guid isPermaLink="false">2758</guid>
-  <pubDate>Fri, 27 Jan 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>dortania / OpenCore-Legacy-Patcher</title>
-  <description>Experience macOS just like before</description>
-  <link>https://github.com/dortania/OpenCore-Legacy-Patcher</link>
-  <guid isPermaLink="false">2757</guid>
-  <pubDate>Fri, 27 Jan 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>huggingface / transformers</title>
-  <description>🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.</description>
-  <link>https://github.com/huggingface/transformers</link>
-  <guid isPermaLink="false">2756</guid>
-  <pubDate>Fri, 27 Jan 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>localsend / localsend</title>
-  <description>An open source cross-platform alternative to AirDrop</description>
-  <link>https://github.com/localsend/localsend</link>
-  <guid isPermaLink="false">2755</guid>
-  <pubDate>Fri, 27 Jan 2023 09:00:04 -0800</pubDate>
  </item>
 
 </channel>

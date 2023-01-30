@@ -8,9 +8,16 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 29 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sun, 29 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Mon, 30 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 30 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>独立产品灵感周刊 DecoHack #045 - 新春程序员寻找 “副业” 灵感指南</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3725</link>
+  <pubDate>Sun, 29 Jan 2023 21:26:40 -0800</pubDate>
+  <guid isPermaLink="false">2938</guid>
+ </item>
  <item>
   <title>彻底去除了所有广告无需登录注册书源稳定数千！</title>
   <description></description>
@@ -283,13 +290,6 @@
   <link>https://w2solo.com/topics/3705</link>
   <pubDate>Mon, 09 Jan 2023 05:33:57 -0800</pubDate>
   <guid isPermaLink="false">1908</guid>
- </item>
- <item>
-  <title>HuntsBot 的访谈：初衷是通过外包项目来了解用户需求。</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3704</link>
-  <pubDate>Mon, 09 Jan 2023 01:00:37 -0800</pubDate>
-  <guid isPermaLink="false">1907</guid>
  </item>
 
 </channel>
