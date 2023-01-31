@@ -8,9 +8,30 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 30 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 30 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 31 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Tue, 31 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>友映计划，主要功能是同屏一起看视频，屏幕共享可实现同步刷抖音，还可以视频连麦</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3713</link>
+  <pubDate>Tue, 31 Jan 2023 01:47:16 -0800</pubDate>
+  <guid isPermaLink="false">2986</guid>
+ </item>
+ <item>
+  <title>访谈 guyskk：做出了个有稳定收益的小程序的故事</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3722</link>
+  <pubDate>Mon, 30 Jan 2023 22:04:00 -0800</pubDate>
+  <guid isPermaLink="false">2985</guid>
+ </item>
+ <item>
+  <title>彻底去除了所有广告无需登录注册书源稳定数千！</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3724</link>
+  <pubDate>Mon, 30 Jan 2023 18:56:32 -0800</pubDate>
+  <guid isPermaLink="false">2987</guid>
+ </item>
  <item>
   <title>独立产品灵感周刊 DecoHack #045 - 新春程序员寻找 “副业” 灵感指南</title>
   <description></description>
@@ -269,27 +290,6 @@
   <link>https://w2solo.com/topics/3708</link>
   <pubDate>Tue, 10 Jan 2023 01:05:46 -0800</pubDate>
   <guid isPermaLink="false">1968</guid>
- </item>
- <item>
-  <title>创意时钟 app 介绍</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3705</link>
-  <pubDate>Mon, 09 Jan 2023 21:39:55 -0800</pubDate>
-  <guid isPermaLink="false">1969</guid>
- </item>
- <item>
-  <title>这里能发二手么？出个 anker 6 合 1 扩展坞</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3707</link>
-  <pubDate>Mon, 09 Jan 2023 18:56:55 -0800</pubDate>
-  <guid isPermaLink="false">1970</guid>
- </item>
- <item>
-  <title>创意时钟 app 介绍</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3705</link>
-  <pubDate>Mon, 09 Jan 2023 05:33:57 -0800</pubDate>
-  <guid isPermaLink="false">1908</guid>
  </item>
 
 </channel>

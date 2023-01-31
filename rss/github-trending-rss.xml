@@ -8,9 +8,79 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 30 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 30 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 31 Jan 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Tue, 31 Jan 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>google / guava</title>
+  <description>Google core libraries for Java</description>
+  <link>https://github.com/google/guava</link>
+  <guid isPermaLink="false">2958</guid>
+  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>scrapy / scrapy</title>
+  <description>Scrapy, a fast high-level web crawling &amp; scraping framework for Python.</description>
+  <link>https://github.com/scrapy/scrapy</link>
+  <guid isPermaLink="false">2957</guid>
+  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>krahets / hello-algo</title>
+  <description>《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift 等语言。</description>
+  <link>https://github.com/krahets/hello-algo</link>
+  <guid isPermaLink="false">2956</guid>
+  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>qier222 / YesPlayMusic</title>
+  <description>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux</description>
+  <link>https://github.com/qier222/YesPlayMusic</link>
+  <guid isPermaLink="false">2955</guid>
+  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>spring-projects / spring-boot</title>
+  <description>Spring Boot</description>
+  <link>https://github.com/spring-projects/spring-boot</link>
+  <guid isPermaLink="false">2954</guid>
+  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>showlab / Tune-A-Video</title>
+  <description>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</description>
+  <link>https://github.com/showlab/Tune-A-Video</link>
+  <guid isPermaLink="false">2953</guid>
+  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>cxasm / notepad--</title>
+  <description>一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。</description>
+  <link>https://github.com/cxasm/notepad--</link>
+  <guid isPermaLink="false">2952</guid>
+  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>apache / dubbo</title>
+  <description>Apache Dubbo is a high-performance, java based, open source RPC framework.</description>
+  <link>https://github.com/apache/dubbo</link>
+  <guid isPermaLink="false">2951</guid>
+  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>MaaAssistantArknights / MaaAssistantArknights</title>
+  <description>《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients</description>
+  <link>https://github.com/MaaAssistantArknights/MaaAssistantArknights</link>
+  <guid isPermaLink="false">2950</guid>
+  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>AabyssZG / SpringBoot-Scan</title>
+  <description>针对SpringBoot的开源渗透框架，以及高危漏洞利用工具</description>
+  <link>https://github.com/AabyssZG/SpringBoot-Scan</link>
+  <guid isPermaLink="false">2949</guid>
+  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
+ </item>
  <item>
   <title>AmazingAng / WTF-Solidity</title>
   <description>我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy</description>
@@ -219,76 +289,6 @@
   <description>An extremely fast Python linter, written in Rust.</description>
   <link>https://github.com/charliermarsh/ruff</link>
   <guid isPermaLink="false">2803</guid>
-  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>withastro / astro</title>
-  <description>Build faster websites with Astro's next-gen island architecture 🏝✨</description>
-  <link>https://github.com/withastro/astro</link>
-  <guid isPermaLink="false">2802</guid>
-  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>mouredev / hello-git</title>
-  <description>Curso para aprender a trabajar con el sistema de control de versiones Git y la plataforma GitHub desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev.</description>
-  <link>https://github.com/mouredev/hello-git</link>
-  <guid isPermaLink="false">2801</guid>
-  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>ranaroussi / yfinance</title>
-  <description>Download market data from Yahoo! Finance's API</description>
-  <link>https://github.com/ranaroussi/yfinance</link>
-  <guid isPermaLink="false">2800</guid>
-  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>PaulWaltersDev / FreeLearningResourcesForSoftwareTesters</title>
-  <description>A New Project to create a set of links to free Online Learning Resources for New and Experienced Software Testers.</description>
-  <link>https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters</link>
-  <guid isPermaLink="false">2799</guid>
-  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>airbytehq / airbyte</title>
-  <description>Data integration platform for ELT pipelines from APIs, databases &amp; files to warehouses &amp; lakes.</description>
-  <link>https://github.com/airbytehq/airbyte</link>
-  <guid isPermaLink="false">2798</guid>
-  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>excalidraw / excalidraw</title>
-  <description>Virtual whiteboard for sketching hand-drawn like diagrams</description>
-  <link>https://github.com/excalidraw/excalidraw</link>
-  <guid isPermaLink="false">2797</guid>
-  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>github / docs</title>
-  <description>The open-source repo for docs.github.com</description>
-  <link>https://github.com/github/docs</link>
-  <guid isPermaLink="false">2796</guid>
-  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>TrinityCore / TrinityCore</title>
-  <description>TrinityCore Open Source MMO Framework (master = 10.0.5.47871, 3.3.5 = 3.3.5a.12340)</description>
-  <link>https://github.com/TrinityCore/TrinityCore</link>
-  <guid isPermaLink="false">2795</guid>
-  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>abhivaikar / howtheytest</title>
-  <description>A collection of public resources about how software companies test their software</description>
-  <link>https://github.com/abhivaikar/howtheytest</link>
-  <guid isPermaLink="false">2794</guid>
-  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>komeilmehranfar / companies-with-remote-positions-available-for-iranians</title>
-  <description>List of companies with remote positions which hire Iranian experts</description>
-  <link>https://github.com/komeilmehranfar/companies-with-remote-positions-available-for-iranians</link>
-  <guid isPermaLink="false">2793</guid>
   <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
  </item>
 
