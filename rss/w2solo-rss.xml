@@ -8,9 +8,37 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 31 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Tue, 31 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Wed, 01 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Wed, 01 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>友映计划，主要功能是同屏一起看视频，屏幕共享可实现同步刷抖音，还可以视频连麦</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3713</link>
+  <pubDate>Wed, 01 Feb 2023 01:57:48 -0800</pubDate>
+  <guid isPermaLink="false">3035</guid>
+ </item>
+ <item>
+  <title>阅读 APP</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3699</link>
+  <pubDate>Tue, 31 Jan 2023 19:38:03 -0800</pubDate>
+  <guid isPermaLink="false">3036</guid>
+ </item>
+ <item>
+  <title>阅读修改版 无需你注册登录永久免费</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3718</link>
+  <pubDate>Tue, 31 Jan 2023 19:36:54 -0800</pubDate>
+  <guid isPermaLink="false">3037</guid>
+ </item>
+ <item>
+  <title>彻底去除了所有广告无需登录注册书源稳定数千！</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3724</link>
+  <pubDate>Tue, 31 Jan 2023 19:31:40 -0800</pubDate>
+  <guid isPermaLink="false">3038</guid>
+ </item>
  <item>
   <title>友映计划，主要功能是同屏一起看视频，屏幕共享可实现同步刷抖音，还可以视频连麦</title>
   <description></description>
@@ -262,34 +290,6 @@
   <link>https://w2solo.com/topics/3711</link>
   <pubDate>Wed, 11 Jan 2023 02:15:42 -0800</pubDate>
   <guid isPermaLink="false">2022</guid>
- </item>
- <item>
-  <title>Product Hunt 2022 年度 Golden Kitty Awards 评选开始，请求大家的支援！</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3712</link>
-  <pubDate>Wed, 11 Jan 2023 02:08:06 -0800</pubDate>
-  <guid isPermaLink="false">2023</guid>
- </item>
- <item>
-  <title>量化交易和交易所的对接工具，做单一的事情</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3710</link>
-  <pubDate>Wed, 11 Jan 2023 00:37:12 -0800</pubDate>
-  <guid isPermaLink="false">2024</guid>
- </item>
- <item>
-  <title>关于经营许可证的问题</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3709</link>
-  <pubDate>Tue, 10 Jan 2023 04:37:42 -0800</pubDate>
-  <guid isPermaLink="false">1967</guid>
- </item>
- <item>
-  <title>【浏览器扩展】哔哩哔哩字幕列表 - 高效获取视频文本信息</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3708</link>
-  <pubDate>Tue, 10 Jan 2023 01:05:46 -0800</pubDate>
-  <guid isPermaLink="false">1968</guid>
  </item>
 
 </channel>

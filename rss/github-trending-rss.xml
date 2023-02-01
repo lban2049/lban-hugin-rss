@@ -8,9 +8,114 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 31 Jan 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Tue, 31 Jan 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Wed, 01 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Wed, 01 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>acheong08 / ChatGPT</title>
+  <description>Real browserless ChatGPT library and command line tool. Using official API</description>
+  <link>https://github.com/acheong08/ChatGPT</link>
+  <guid isPermaLink="false">3015</guid>
+  <pubDate>Wed, 01 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>Cysharp / SimdLinq</title>
+  <description>Drop-in replacement of LINQ aggregation operations extremely faster with SIMD.</description>
+  <link>https://github.com/Cysharp/SimdLinq</link>
+  <guid isPermaLink="false">3014</guid>
+  <pubDate>Wed, 01 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>Anduin2017 / HowToCook</title>
+  <description>程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).</description>
+  <link>https://github.com/Anduin2017/HowToCook</link>
+  <guid isPermaLink="false">3013</guid>
+  <pubDate>Wed, 01 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / ML-For-Beginners</title>
+  <description>12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all</description>
+  <link>https://github.com/microsoft/ML-For-Beginners</link>
+  <guid isPermaLink="false">3012</guid>
+  <pubDate>Wed, 01 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>GitHubDaily / GitHubDaily</title>
+  <description>坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.</description>
+  <link>https://github.com/GitHubDaily/GitHubDaily</link>
+  <guid isPermaLink="false">3011</guid>
+  <pubDate>Wed, 01 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / Data-Science-For-Beginners</title>
+  <description>10 Weeks, 20 Lessons, Data Science for All!</description>
+  <link>https://github.com/microsoft/Data-Science-For-Beginners</link>
+  <guid isPermaLink="false">3010</guid>
+  <pubDate>Wed, 01 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>goldbergyoni / nodebestpractices</title>
+  <description>✅ The Node.js best practices list (November 2022)</description>
+  <link>https://github.com/goldbergyoni/nodebestpractices</link>
+  <guid isPermaLink="false">3009</guid>
+  <pubDate>Wed, 01 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>archinetai / audio-ai-timeline</title>
+  <description>A timeline of the latest AI models for audio generation, starting in 2023!</description>
+  <link>https://github.com/archinetai/audio-ai-timeline</link>
+  <guid isPermaLink="false">3008</guid>
+  <pubDate>Wed, 01 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>mtdvio / every-programmer-should-know</title>
+  <description>A collection of (mostly) technical things every software developer should know about</description>
+  <link>https://github.com/mtdvio/every-programmer-should-know</link>
+  <guid isPermaLink="false">3007</guid>
+  <pubDate>Wed, 01 Feb 2023 09:00:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>techiescamp / kubernetes-learning-path</title>
+  <description>A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)</description>
+  <link>https://github.com/techiescamp/kubernetes-learning-path</link>
+  <guid isPermaLink="false">3006</guid>
+  <pubDate>Wed, 01 Feb 2023 09:00:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>fish-shell / fish-shell</title>
+  <description>The user-friendly command line shell.</description>
+  <link>https://github.com/fish-shell/fish-shell</link>
+  <guid isPermaLink="false">3005</guid>
+  <pubDate>Wed, 01 Feb 2023 09:00:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>apitable / apitable</title>
+  <description>🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.</description>
+  <link>https://github.com/apitable/apitable</link>
+  <guid isPermaLink="false">3004</guid>
+  <pubDate>Wed, 01 Feb 2023 09:00:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>helm / helm</title>
+  <description>The Kubernetes Package Manager</description>
+  <link>https://github.com/helm/helm</link>
+  <guid isPermaLink="false">3003</guid>
+  <pubDate>Wed, 01 Feb 2023 09:00:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / winget-cli</title>
+  <description>Windows Package Manager CLI (aka winget)</description>
+  <link>https://github.com/microsoft/winget-cli</link>
+  <guid isPermaLink="false">3002</guid>
+  <pubDate>Wed, 01 Feb 2023 09:00:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>casey / ord</title>
+  <description>👁‍🗨 Rare and exotic sats</description>
+  <link>https://github.com/casey/ord</link>
+  <guid isPermaLink="false">3001</guid>
+  <pubDate>Wed, 01 Feb 2023 09:00:12 -0800</pubDate>
+ </item>
  <item>
   <title>google / guava</title>
   <description>Google core libraries for Java</description>
@@ -185,111 +290,6 @@
   <link>https://github.com/yhirose/cpp-httplib</link>
   <guid isPermaLink="false">2857</guid>
   <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>alibaba / easyexcel</title>
-  <description>快速、简洁、解决大文件内存溢出的java处理Excel工具</description>
-  <link>https://github.com/alibaba/easyexcel</link>
-  <guid isPermaLink="false">2856</guid>
-  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>xiaoxian521 / vue-pure-admin</title>
-  <description>🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）</description>
-  <link>https://github.com/xiaoxian521/vue-pure-admin</link>
-  <guid isPermaLink="false">2855</guid>
-  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>flipped-aurora / gin-vue-admin</title>
-  <description>基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。</description>
-  <link>https://github.com/flipped-aurora/gin-vue-admin</link>
-  <guid isPermaLink="false">2854</guid>
-  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>godotengine / godot</title>
-  <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
-  <link>https://github.com/godotengine/godot</link>
-  <guid isPermaLink="false">2853</guid>
-  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>jeecgboot / jeecg-boot</title>
-  <description>⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&amp;Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。</description>
-  <link>https://github.com/jeecgboot/jeecg-boot</link>
-  <guid isPermaLink="false">2852</guid>
-  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>MystenLabs / sui</title>
-  <description>Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language</description>
-  <link>https://github.com/MystenLabs/sui</link>
-  <guid isPermaLink="false">2851</guid>
-  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>Z4nzu / hackingtool</title>
-  <description>ALL IN ONE Hacking Tool For Hackers</description>
-  <link>https://github.com/Z4nzu/hackingtool</link>
-  <guid isPermaLink="false">2850</guid>
-  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>notepad-plus-plus / notepad-plus-plus</title>
-  <description>Notepad++ official repository</description>
-  <link>https://github.com/notepad-plus-plus/notepad-plus-plus</link>
-  <guid isPermaLink="false">2849</guid>
-  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>fathyb / carbonyl</title>
-  <description>Chromium running inside your terminal</description>
-  <link>https://github.com/fathyb/carbonyl</link>
-  <guid isPermaLink="false">2848</guid>
-  <pubDate>Sun, 29 Jan 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>AUTOMATIC1111 / stable-diffusion-webui</title>
-  <description>Stable Diffusion web UI</description>
-  <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
-  <guid isPermaLink="false">2847</guid>
-  <pubDate>Sun, 29 Jan 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>mindsdb / mindsdb</title>
-  <description>In-Database Machine Learning</description>
-  <link>https://github.com/mindsdb/mindsdb</link>
-  <guid isPermaLink="false">2846</guid>
-  <pubDate>Sun, 29 Jan 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>alist-org / alist</title>
-  <description>🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。</description>
-  <link>https://github.com/alist-org/alist</link>
-  <guid isPermaLink="false">2845</guid>
-  <pubDate>Sun, 29 Jan 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>hwchase17 / chat-langchain</title>
-  <description></description>
-  <link>https://github.com/hwchase17/chat-langchain</link>
-  <guid isPermaLink="false">2844</guid>
-  <pubDate>Sun, 29 Jan 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>donnemartin / system-design-primer</title>
-  <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
-  <link>https://github.com/donnemartin/system-design-primer</link>
-  <guid isPermaLink="false">2804</guid>
-  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>charliermarsh / ruff</title>
-  <description>An extremely fast Python linter, written in Rust.</description>
-  <link>https://github.com/charliermarsh/ruff</link>
-  <guid isPermaLink="false">2803</guid>
-  <pubDate>Sat, 28 Jan 2023 09:00:03 -0800</pubDate>
  </item>
 
 </channel>
