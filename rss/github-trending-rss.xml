@@ -8,9 +8,93 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 01 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Wed, 01 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Thu, 02 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Thu, 02 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>penpot / penpot</title>
+  <description>Penpot - The Open-Source design &amp; prototyping platform</description>
+  <link>https://github.com/penpot/penpot</link>
+  <guid isPermaLink="false">3060</guid>
+  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>alibaba / DataX</title>
+  <description>DataX是阿里云DataWorks数据集成的开源版本。</description>
+  <link>https://github.com/alibaba/DataX</link>
+  <guid isPermaLink="false">3059</guid>
+  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>damus-io / damus</title>
+  <description>iOS nostr client</description>
+  <link>https://github.com/damus-io/damus</link>
+  <guid isPermaLink="false">3058</guid>
+  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>open-mmlab / mmpose</title>
+  <description>OpenMMLab Pose Estimation Toolbox and Benchmark.</description>
+  <link>https://github.com/open-mmlab/mmpose</link>
+  <guid isPermaLink="false">3057</guid>
+  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>aljazceru / awesome-nostr</title>
+  <description>A curated list of nostr projects and resources</description>
+  <link>https://github.com/aljazceru/awesome-nostr</link>
+  <guid isPermaLink="false">3056</guid>
+  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>openssl / openssl</title>
+  <description>TLS/SSL and crypto library</description>
+  <link>https://github.com/openssl/openssl</link>
+  <guid isPermaLink="false">3055</guid>
+  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>Nutlope / restorePhotos</title>
+  <description>Restoring old and blurry face photos with AI.</description>
+  <link>https://github.com/Nutlope/restorePhotos</link>
+  <guid isPermaLink="false">3054</guid>
+  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / BioGPT</title>
+  <description></description>
+  <link>https://github.com/microsoft/BioGPT</link>
+  <guid isPermaLink="false">3053</guid>
+  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>nostr-protocol / nostr</title>
+  <description>a truly censorship-resistant alternative to Twitter that has a chance of working</description>
+  <link>https://github.com/nostr-protocol/nostr</link>
+  <guid isPermaLink="false">3052</guid>
+  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>massgravel / Microsoft-Activation-Scripts</title>
+  <description>A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</description>
+  <link>https://github.com/massgravel/Microsoft-Activation-Scripts</link>
+  <guid isPermaLink="false">3051</guid>
+  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>jmforsythe / Git-Heat-Map</title>
+  <description></description>
+  <link>https://github.com/jmforsythe/Git-Heat-Map</link>
+  <guid isPermaLink="false">3050</guid>
+  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>snesrev / zelda3</title>
+  <description></description>
+  <link>https://github.com/snesrev/zelda3</link>
+  <guid isPermaLink="false">3049</guid>
+  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
  <item>
   <title>acheong08 / ChatGPT</title>
   <description>Real browserless ChatGPT library and command line tool. Using official API</description>
@@ -206,90 +290,6 @@
   <link>https://github.com/fuergaosi233/wechat-chatgpt</link>
   <guid isPermaLink="false">2909</guid>
   <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>promptslab / Promptify</title>
-  <description>Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research</description>
-  <link>https://github.com/promptslab/Promptify</link>
-  <guid isPermaLink="false">2908</guid>
-  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>lucidrains / musiclm-pytorch</title>
-  <description>Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch</description>
-  <link>https://github.com/lucidrains/musiclm-pytorch</link>
-  <guid isPermaLink="false">2907</guid>
-  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>ahmedbahaaeldin / From-0-to-Research-Scientist-resources-guide</title>
-  <description>Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.</description>
-  <link>https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide</link>
-  <guid isPermaLink="false">2906</guid>
-  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>ant-design / ant-design</title>
-  <description>An enterprise-class UI design language and React UI library</description>
-  <link>https://github.com/ant-design/ant-design</link>
-  <guid isPermaLink="false">2905</guid>
-  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>tauri-apps / tauri</title>
-  <description>Build smaller, faster, and more secure desktop applications with a web frontend.</description>
-  <link>https://github.com/tauri-apps/tauri</link>
-  <guid isPermaLink="false">2904</guid>
-  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>go-kratos / kratos</title>
-  <description>Your ultimate Go microservices framework for the cloud-native era.</description>
-  <link>https://github.com/go-kratos/kratos</link>
-  <guid isPermaLink="false">2903</guid>
-  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>521xueweihan / HelloGitHub</title>
-  <description>分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.</description>
-  <link>https://github.com/521xueweihan/HelloGitHub</link>
-  <guid isPermaLink="false">2902</guid>
-  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>Snailclimb / JavaGuide</title>
-  <description>「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！</description>
-  <link>https://github.com/Snailclimb/JavaGuide</link>
-  <guid isPermaLink="false">2901</guid>
-  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>iluwatar / java-design-patterns</title>
-  <description>Design patterns implemented in Java</description>
-  <link>https://github.com/iluwatar/java-design-patterns</link>
-  <guid isPermaLink="false">2900</guid>
-  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>jlevy / the-art-of-command-line</title>
-  <description>Master the command line, in one page</description>
-  <link>https://github.com/jlevy/the-art-of-command-line</link>
-  <guid isPermaLink="false">2899</guid>
-  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>paperless-ngx / paperless-ngx</title>
-  <description>A community-supported supercharged version of paperless: scan, index and archive all your physical documents</description>
-  <link>https://github.com/paperless-ngx/paperless-ngx</link>
-  <guid isPermaLink="false">2898</guid>
-  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>yhirose / cpp-httplib</title>
-  <description>A C++ header-only HTTP/HTTPS server and client library</description>
-  <link>https://github.com/yhirose/cpp-httplib</link>
-  <guid isPermaLink="false">2857</guid>
-  <pubDate>Sun, 29 Jan 2023 09:00:05 -0800</pubDate>
  </item>
 
 </channel>
