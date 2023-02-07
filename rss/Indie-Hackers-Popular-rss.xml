@@ -8,9 +8,86 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 06 Feb 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Mon, 06 Feb 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Tue, 07 Feb 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Tue, 07 Feb 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Indie Drink in Paris 🇫🇷</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/indie-drink-in-paris-5b4ee068b9</link>
+  <guid isPermaLink="false">3135</guid>
+  <pubDate>Tue, 07 Feb 2023 09:00:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>AI ChatGPT Gloves Are Coming Off: Bing vs. Google</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/ai-chatgpt-gloves-are-coming-off-bing-vs-google-644a9b519f</link>
+  <guid isPermaLink="false">3134</guid>
+  <pubDate>Tue, 07 Feb 2023 09:00:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>Launching on Product Hunt after months of improvements!</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/launching-on-product-hunt-after-months-of-improvements-32ba211afd</link>
+  <guid isPermaLink="false">3133</guid>
+  <pubDate>Tue, 07 Feb 2023 09:00:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>You're not always going to have ideal circumstances; successful people are those who can still operate in difficult conditions</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/youre-not-always-going-to-have-ideal-circumstances-successful-people-are-those-who-can-still-operate-in-difficult-conditions-24be94ad08</link>
+  <guid isPermaLink="false">3132</guid>
+  <pubDate>Tue, 07 Feb 2023 09:00:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>Email Verification &amp; Clean Up</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/email-verification-clean-up-bce83f6f51</link>
+  <guid isPermaLink="false">3131</guid>
+  <pubDate>Tue, 07 Feb 2023 09:00:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>How do I improve my blog's domain rating (DR)?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-do-i-improve-my-blogs-domain-rating-dr-f6e655d697</link>
+  <guid isPermaLink="false">3130</guid>
+  <pubDate>Tue, 07 Feb 2023 09:00:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>Wow, it's Vue.js</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/wow-its-vue-js-0e704f3548</link>
+  <guid isPermaLink="false">3129</guid>
+  <pubDate>Tue, 07 Feb 2023 09:00:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>Any advice on dealing with idea fatigue?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/any-advice-on-dealing-with-idea-fatigue-5126c8bb04</link>
+  <guid isPermaLink="false">3128</guid>
+  <pubDate>Tue, 07 Feb 2023 09:00:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>How to get 100 early adopters in less than two weeks</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-to-get-100-early-adopters-in-less-than-two-weeks-a079188de5</link>
+  <guid isPermaLink="false">3127</guid>
+  <pubDate>Tue, 07 Feb 2023 09:00:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>👉The Ultimate guide to find ideas!</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/the-ultimate-guide-to-find-ideas-787cca6033</link>
+  <guid isPermaLink="false">3126</guid>
+  <pubDate>Tue, 07 Feb 2023 09:00:18 -0800</pubDate>
+ </item>
+ <item>
+  <title>Free vs paid features – finding that sweet spot</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/free-vs-paid-features-finding-that-sweet-spot-9b37751217</link>
+  <guid isPermaLink="false">3125</guid>
+  <pubDate>Tue, 07 Feb 2023 09:00:18 -0800</pubDate>
+ </item>
  <item>
   <title>What are the best podcasts for indie makers?</title>
   <description></description>
@@ -213,83 +290,6 @@
   <link>https://www.indiehackers.com/post/for-b2b-startups-saas-businesses-how-did-you-find-your-first-client-de28a92dc1</link>
   <guid isPermaLink="false">3096</guid>
   <pubDate>Thu, 02 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>You know that killer feature you just thought of? You don't need it (probably).</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/you-know-that-killer-feature-you-just-thought-of-you-dont-need-it-probably-e5f964825c</link>
-  <guid isPermaLink="false">3095</guid>
-  <pubDate>Thu, 02 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>How to automate drip emails when someone signs up?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-to-automate-drip-emails-when-someone-signs-up-315f4bec8d</link>
-  <guid isPermaLink="false">3094</guid>
-  <pubDate>Thu, 02 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>True creative freedom is taking risks regardless of the outcome</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/true-creative-freedom-is-taking-risks-regardless-of-the-outcome-e68d4f9efb</link>
-  <guid isPermaLink="false">3093</guid>
-  <pubDate>Thu, 02 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>How I made a GPT-3 Chrome Extension for Twitter and earned $1143 in 2 weeks</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-i-made-a-gpt-3-chrome-extension-for-twitter-and-earned-1143-in-2-weeks-16a4c5b9a4</link>
-  <guid isPermaLink="false">3092</guid>
-  <pubDate>Thu, 02 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>The AI-Powered User Story Creation Tool</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/the-ai-powered-user-story-creation-tool-575a1fe240</link>
-  <guid isPermaLink="false">3048</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:17 -0800</pubDate>
- </item>
- <item>
-  <title>What should I do better to scale my little side-project?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/what-should-i-do-better-to-scale-my-little-side-project-b0aa7fd1ef</link>
-  <guid isPermaLink="false">3047</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:17 -0800</pubDate>
- </item>
- <item>
-  <title>What are the best ways to get relevant Beta testers feedback? Other than forms</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/what-are-the-best-ways-to-get-relevant-beta-testers-feedback-other-than-forms-0f74da7c7f</link>
-  <guid isPermaLink="false">3046</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:17 -0800</pubDate>
- </item>
- <item>
-  <title>Getting Beta Testers: What Works and What Doesn't?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/getting-beta-testers-what-works-and-what-doesnt-21a74c36e6</link>
-  <guid isPermaLink="false">3045</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:17 -0800</pubDate>
- </item>
- <item>
-  <title>I built a platform for bite-sized personal life lessons that want to be heard.</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/i-built-a-platform-for-bite-sized-personal-life-lessons-that-want-to-be-heard-c8b1c41ad8</link>
-  <guid isPermaLink="false">3044</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:17 -0800</pubDate>
- </item>
- <item>
-  <title>I decided to do Free Design Reviews because of one story</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/i-decided-to-do-free-design-reviews-because-of-one-story-93d53aae91</link>
-  <guid isPermaLink="false">3043</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:17 -0800</pubDate>
- </item>
- <item>
-  <title>How to set up affiliate marketing for your SAAS business? Step by step</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-to-set-up-affiliate-marketing-for-your-saas-business-step-by-step-258287ca27</link>
-  <guid isPermaLink="false">3042</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:17 -0800</pubDate>
  </item>
 
 </channel>
