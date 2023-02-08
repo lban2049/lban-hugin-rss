@@ -8,9 +8,58 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 07 Feb 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Tue, 07 Feb 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Wed, 08 Feb 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Wed, 08 Feb 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>罐头冥想 - 小清新视觉化冥想 app</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3730</link>
+  <pubDate>Tue, 07 Feb 2023 20:34:28 -0800</pubDate>
+  <guid isPermaLink="false">3207</guid>
+ </item>
+ <item>
+  <title>Apache Pulsar Desktop GUI</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3731</link>
+  <pubDate>Tue, 07 Feb 2023 18:48:22 -0800</pubDate>
+  <guid isPermaLink="false">3208</guid>
+ </item>
+ <item>
+  <title>个人创业开发财富记账类 APP，寻 Flutter 开发一起</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3726</link>
+  <pubDate>Tue, 07 Feb 2023 02:10:21 -0800</pubDate>
+  <guid isPermaLink="false">3209</guid>
+ </item>
+ <item>
+  <title>友映计划，主要功能是同屏一起看视频，屏幕共享可实现同步刷抖音，还可以视频连麦</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3713</link>
+  <pubDate>Tue, 07 Feb 2023 02:09:59 -0800</pubDate>
+  <guid isPermaLink="false">3210</guid>
+ </item>
+ <item>
+  <title>新人报道</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3729</link>
+  <pubDate>Mon, 06 Feb 2023 07:58:02 -0800</pubDate>
+  <guid isPermaLink="false">3211</guid>
+ </item>
+ <item>
+  <title>独立产品灵感周刊 DecoHack #046 - 试试用 ChatGPT 写周刊</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3728</link>
+  <pubDate>Sun, 05 Feb 2023 18:55:04 -0800</pubDate>
+  <guid isPermaLink="false">3212</guid>
+ </item>
+ <item>
+  <title>外包项目- 开发 APP（IOS Android 两版本）</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3727</link>
+  <pubDate>Sat, 04 Feb 2023 21:53:24 -0800</pubDate>
+  <guid isPermaLink="false">3213</guid>
+ </item>
  <item>
   <title>友映计划，主要功能是同屏一起看视频，屏幕共享可实现同步刷抖音，还可以视频连麦</title>
   <description></description>
@@ -241,55 +290,6 @@
   <link>https://w2solo.com/topics/3710</link>
   <pubDate>Fri, 13 Jan 2023 03:52:39 -0800</pubDate>
   <guid isPermaLink="false">2086</guid>
- </item>
- <item>
-  <title>rss2newsletter</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3714</link>
-  <pubDate>Thu, 12 Jan 2023 23:17:49 -0800</pubDate>
-  <guid isPermaLink="false">2087</guid>
- </item>
- <item>
-  <title>友映计划，主要功能是同屏一起看视频，屏幕共享可实现同步刷抖音，还可以视频连麦</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3713</link>
-  <pubDate>Thu, 12 Jan 2023 22:24:16 -0800</pubDate>
-  <guid isPermaLink="false">2088</guid>
- </item>
- <item>
-  <title>关于经营许可证的问题</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3709</link>
-  <pubDate>Thu, 12 Jan 2023 21:38:43 -0800</pubDate>
-  <guid isPermaLink="false">2089</guid>
- </item>
- <item>
-  <title>Dawn Launcher Windows 快捷启动工具</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3691</link>
-  <pubDate>Thu, 12 Jan 2023 01:02:54 -0800</pubDate>
-  <guid isPermaLink="false">2090</guid>
- </item>
- <item>
-  <title>阅读 APP</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3699</link>
-  <pubDate>Wed, 11 Jan 2023 17:45:16 -0800</pubDate>
-  <guid isPermaLink="false">2091</guid>
- </item>
- <item>
-  <title>关于经营许可证的问题</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3709</link>
-  <pubDate>Wed, 11 Jan 2023 02:38:06 -0800</pubDate>
-  <guid isPermaLink="false">2021</guid>
- </item>
- <item>
-  <title>做了一款个人记账用的 App，欢迎大家使用 并提出宝贵意见</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3711</link>
-  <pubDate>Wed, 11 Jan 2023 02:15:42 -0800</pubDate>
-  <guid isPermaLink="false">2022</guid>
  </item>
 
 </channel>

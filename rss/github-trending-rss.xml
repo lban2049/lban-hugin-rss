@@ -8,9 +8,156 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 07 Feb 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Tue, 07 Feb 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Wed, 08 Feb 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Wed, 08 Feb 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>openai / openai-cookbook</title>
+  <description>Examples and guides for using the OpenAI API</description>
+  <link>https://github.com/openai/openai-cookbook</link>
+  <guid isPermaLink="false">3156</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>lencx / ChatGPT</title>
+  <description>🔮 ChatGPT Desktop Application (Mac, Windows and Linux)</description>
+  <link>https://github.com/lencx/ChatGPT</link>
+  <guid isPermaLink="false">3155</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>denoland / deno</title>
+  <description>A modern runtime for JavaScript and TypeScript.</description>
+  <link>https://github.com/denoland/deno</link>
+  <guid isPermaLink="false">3154</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>eliaszon / Programmers-Overseas-Job-Interview-Handbook</title>
+  <description>🏂🏻 程序员海外工作/英文面试手册</description>
+  <link>https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook</link>
+  <guid isPermaLink="false">3153</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:12 -0800</pubDate>
+ </item>
+ <item>
+  <title>TheD1rkMtr / NTDLLReflection</title>
+  <description>Bypass Userland EDR hooks by Loading Reflective Ntdll in memory from a remote server based on Windows ReleaseID to avoid opening a handle to ntdll , and trigger exported APIs from the export table</description>
+  <link>https://github.com/TheD1rkMtr/NTDLLReflection</link>
+  <guid isPermaLink="false">3152</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>stefan-jansen / machine-learning-for-trading</title>
+  <description>Code for Machine Learning for Algorithmic Trading, 2nd edition.</description>
+  <link>https://github.com/stefan-jansen/machine-learning-for-trading</link>
+  <guid isPermaLink="false">3151</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>tachiyomiorg / tachiyomi</title>
+  <description>Free and open source manga reader for Android.</description>
+  <link>https://github.com/tachiyomiorg/tachiyomi</link>
+  <guid isPermaLink="false">3150</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>LeagueOfPoro / CapsuleFarmerEvolved</title>
+  <description>Automatically drops from lolesports.com and farm Esports Capsules</description>
+  <link>https://github.com/LeagueOfPoro/CapsuleFarmerEvolved</link>
+  <guid isPermaLink="false">3149</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>hikari-no-yume / touchHLE</title>
+  <description>High-level emulator for iPhone OS apps</description>
+  <link>https://github.com/hikari-no-yume/touchHLE</link>
+  <guid isPermaLink="false">3148</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>youshandefeiyang / IPTV</title>
+  <description>肥羊的4K/8K超高清IPTV直播源&amp;&amp;直播代码仓库</description>
+  <link>https://github.com/youshandefeiyang/IPTV</link>
+  <guid isPermaLink="false">3147</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>f / awesome-chatgpt-prompts</title>
+  <description>This repo includes ChatGPT prompt curation to use ChatGPT better.</description>
+  <link>https://github.com/f/awesome-chatgpt-prompts</link>
+  <guid isPermaLink="false">3146</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Azure / review-checklists</title>
+  <description>This repo contains code and examples to operationalize spreadsheet-based checklists that can be used for Azure design reviews on multiple technologies.</description>
+  <link>https://github.com/Azure/review-checklists</link>
+  <guid isPermaLink="false">3145</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>zhayujie / chatgpt-on-wechat</title>
+  <description>使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.</description>
+  <link>https://github.com/zhayujie/chatgpt-on-wechat</link>
+  <guid isPermaLink="false">3144</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>AutumnWhj / ChatGPT-wechat-bot</title>
+  <description>ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot</description>
+  <link>https://github.com/AutumnWhj/ChatGPT-wechat-bot</link>
+  <guid isPermaLink="false">3143</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>ddPn08 / Lsmith</title>
+  <description>StableDiffusionWebUI accelerated using TensorRT</description>
+  <link>https://github.com/ddPn08/Lsmith</link>
+  <guid isPermaLink="false">3142</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>PlexPt / awesome-chatgpt-prompts-zh</title>
+  <description>ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。</description>
+  <link>https://github.com/PlexPt/awesome-chatgpt-prompts-zh</link>
+  <guid isPermaLink="false">3141</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>arc53 / DocsGPT</title>
+  <description>GPT-powered chat for documentation search &amp; assistance.</description>
+  <link>https://github.com/arc53/DocsGPT</link>
+  <guid isPermaLink="false">3140</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>TheAlgorithms / Python</title>
+  <description>All Algorithms implemented in Python</description>
+  <link>https://github.com/TheAlgorithms/Python</link>
+  <guid isPermaLink="false">3139</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Zero6992 / chatGPT-discord-bot</title>
+  <description>Integrate ChatGPT into your own discord bot</description>
+  <link>https://github.com/Zero6992/chatGPT-discord-bot</link>
+  <guid isPermaLink="false">3138</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>motion-canvas / motion-canvas</title>
+  <description>Visualize Complex Ideas Programmatically</description>
+  <link>https://github.com/motion-canvas/motion-canvas</link>
+  <guid isPermaLink="false">3137</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>acheong08 / ChatGPT</title>
+  <description>Reverse engineered ChatGPT API</description>
+  <link>https://github.com/acheong08/ChatGPT</link>
+  <guid isPermaLink="false">3136</guid>
+  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
  <item>
   <title>penpot / penpot</title>
   <description>Penpot - The Open-Source design &amp; prototyping platform</description>
@@ -143,153 +290,6 @@
   <link>https://github.com/goldbergyoni/nodebestpractices</link>
   <guid isPermaLink="false">3009</guid>
   <pubDate>Wed, 01 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>archinetai / audio-ai-timeline</title>
-  <description>A timeline of the latest AI models for audio generation, starting in 2023!</description>
-  <link>https://github.com/archinetai/audio-ai-timeline</link>
-  <guid isPermaLink="false">3008</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>mtdvio / every-programmer-should-know</title>
-  <description>A collection of (mostly) technical things every software developer should know about</description>
-  <link>https://github.com/mtdvio/every-programmer-should-know</link>
-  <guid isPermaLink="false">3007</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:12 -0800</pubDate>
- </item>
- <item>
-  <title>techiescamp / kubernetes-learning-path</title>
-  <description>A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)</description>
-  <link>https://github.com/techiescamp/kubernetes-learning-path</link>
-  <guid isPermaLink="false">3006</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:12 -0800</pubDate>
- </item>
- <item>
-  <title>fish-shell / fish-shell</title>
-  <description>The user-friendly command line shell.</description>
-  <link>https://github.com/fish-shell/fish-shell</link>
-  <guid isPermaLink="false">3005</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:12 -0800</pubDate>
- </item>
- <item>
-  <title>apitable / apitable</title>
-  <description>🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.</description>
-  <link>https://github.com/apitable/apitable</link>
-  <guid isPermaLink="false">3004</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:12 -0800</pubDate>
- </item>
- <item>
-  <title>helm / helm</title>
-  <description>The Kubernetes Package Manager</description>
-  <link>https://github.com/helm/helm</link>
-  <guid isPermaLink="false">3003</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:12 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / winget-cli</title>
-  <description>Windows Package Manager CLI (aka winget)</description>
-  <link>https://github.com/microsoft/winget-cli</link>
-  <guid isPermaLink="false">3002</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:12 -0800</pubDate>
- </item>
- <item>
-  <title>casey / ord</title>
-  <description>👁‍🗨 Rare and exotic sats</description>
-  <link>https://github.com/casey/ord</link>
-  <guid isPermaLink="false">3001</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:12 -0800</pubDate>
- </item>
- <item>
-  <title>google / guava</title>
-  <description>Google core libraries for Java</description>
-  <link>https://github.com/google/guava</link>
-  <guid isPermaLink="false">2958</guid>
-  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>scrapy / scrapy</title>
-  <description>Scrapy, a fast high-level web crawling &amp; scraping framework for Python.</description>
-  <link>https://github.com/scrapy/scrapy</link>
-  <guid isPermaLink="false">2957</guid>
-  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>krahets / hello-algo</title>
-  <description>《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift 等语言。</description>
-  <link>https://github.com/krahets/hello-algo</link>
-  <guid isPermaLink="false">2956</guid>
-  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>qier222 / YesPlayMusic</title>
-  <description>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux</description>
-  <link>https://github.com/qier222/YesPlayMusic</link>
-  <guid isPermaLink="false">2955</guid>
-  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>spring-projects / spring-boot</title>
-  <description>Spring Boot</description>
-  <link>https://github.com/spring-projects/spring-boot</link>
-  <guid isPermaLink="false">2954</guid>
-  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>showlab / Tune-A-Video</title>
-  <description>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</description>
-  <link>https://github.com/showlab/Tune-A-Video</link>
-  <guid isPermaLink="false">2953</guid>
-  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>cxasm / notepad--</title>
-  <description>一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。</description>
-  <link>https://github.com/cxasm/notepad--</link>
-  <guid isPermaLink="false">2952</guid>
-  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>apache / dubbo</title>
-  <description>Apache Dubbo is a high-performance, java based, open source RPC framework.</description>
-  <link>https://github.com/apache/dubbo</link>
-  <guid isPermaLink="false">2951</guid>
-  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>MaaAssistantArknights / MaaAssistantArknights</title>
-  <description>《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients</description>
-  <link>https://github.com/MaaAssistantArknights/MaaAssistantArknights</link>
-  <guid isPermaLink="false">2950</guid>
-  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>AabyssZG / SpringBoot-Scan</title>
-  <description>针对SpringBoot的开源渗透框架，以及高危漏洞利用工具</description>
-  <link>https://github.com/AabyssZG/SpringBoot-Scan</link>
-  <guid isPermaLink="false">2949</guid>
-  <pubDate>Tue, 31 Jan 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>AmazingAng / WTF-Solidity</title>
-  <description>我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy</description>
-  <link>https://github.com/AmazingAng/WTF-Solidity</link>
-  <guid isPermaLink="false">2911</guid>
-  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>forrestchang / readpilot</title>
-  <description>Read Pilot analyzes online articles and generate Q&amp;A cards for you. Powered by OpenAI &amp; Next.js.</description>
-  <link>https://github.com/forrestchang/readpilot</link>
-  <guid isPermaLink="false">2910</guid>
-  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>fuergaosi233 / wechat-chatgpt</title>
-  <description>Use ChatGPT On Wechat via wechaty</description>
-  <link>https://github.com/fuergaosi233/wechat-chatgpt</link>
-  <guid isPermaLink="false">2909</guid>
-  <pubDate>Mon, 30 Jan 2023 09:00:02 -0800</pubDate>
  </item>
 
 </channel>
