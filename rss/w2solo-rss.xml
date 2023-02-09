@@ -8,9 +8,16 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 08 Feb 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Wed, 08 Feb 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Thu, 09 Feb 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Thu, 09 Feb 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>请教下各位开发者，注册个体户对当前工作及后续找工作是否有影响？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3732</link>
+  <pubDate>Thu, 09 Feb 2023 00:45:20 -0800</pubDate>
+  <guid isPermaLink="false">3266</guid>
+ </item>
  <item>
   <title>罐头冥想 - 小清新视觉化冥想 app</title>
   <description></description>
@@ -283,13 +290,6 @@
   <link>https://w2solo.com/topics/3715</link>
   <pubDate>Fri, 13 Jan 2023 07:55:11 -0800</pubDate>
   <guid isPermaLink="false">2085</guid>
- </item>
- <item>
-  <title>量化交易和交易所的对接工具，做单一的事情</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3710</link>
-  <pubDate>Fri, 13 Jan 2023 03:52:39 -0800</pubDate>
-  <guid isPermaLink="false">2086</guid>
  </item>
 
 </channel>

@@ -8,9 +8,100 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 08 Feb 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Wed, 08 Feb 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Thu, 09 Feb 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Thu, 09 Feb 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>acikkaynak / yardim-agi-flutter</title>
+  <description>Bu uygulama, ihtiyaç sahibi depremzedelerin hangi adreste, nelere ihtiyaçları olduğu ve iletişim alma yöntemi bilgilerini ekleyebildiği; aynı zamanda girilen ihtiyaç taleplerinin listelenerek yardımseverlerin bu ihtiyaçları karşılayabilmesi amacıyla tasarlandı.</description>
+  <link>https://github.com/acikkaynak/yardim-agi-flutter</link>
+  <guid isPermaLink="false">3237</guid>
+  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>kyujin-cho / pixel-volte-patch</title>
+  <description>Rootless replacement for persist.dbg.volte_avail_ovr patch</description>
+  <link>https://github.com/kyujin-cho/pixel-volte-patch</link>
+  <guid isPermaLink="false">3236</guid>
+  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>Fndroid / clash_for_windows_pkg</title>
+  <description>A Windows/macOS GUI based on Clash</description>
+  <link>https://github.com/Fndroid/clash_for_windows_pkg</link>
+  <guid isPermaLink="false">3235</guid>
+  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>shajen / rtl-sdr-scanner-cpp</title>
+  <description></description>
+  <link>https://github.com/shajen/rtl-sdr-scanner-cpp</link>
+  <guid isPermaLink="false">3234</guid>
+  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>acikkaynak / deprem-yardim-frontend</title>
+  <description>afetharita.com frontend projesi. https://rc.afetharita.com/</description>
+  <link>https://github.com/acikkaynak/deprem-yardim-frontend</link>
+  <guid isPermaLink="false">3233</guid>
+  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>cezaraugusto / You-Dont-Know-JS</title>
+  <description>📗📒 (PT-Br translation) JS Book Series.</description>
+  <link>https://github.com/cezaraugusto/You-Dont-Know-JS</link>
+  <guid isPermaLink="false">3232</guid>
+  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>eatmoreapple / openwechat</title>
+  <description>golang微信SDK</description>
+  <link>https://github.com/eatmoreapple/openwechat</link>
+  <guid isPermaLink="false">3231</guid>
+  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>houko / wechatgpt</title>
+  <description>wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）</description>
+  <link>https://github.com/houko/wechatgpt</link>
+  <guid isPermaLink="false">3230</guid>
+  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>AIGCT / EASYChatGPT</title>
+  <description>This is an application project of 'chatgpt',only applicable to desktop environment.</description>
+  <link>https://github.com/AIGCT/EASYChatGPT</link>
+  <guid isPermaLink="false">3229</guid>
+  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>BaRRaKudaRain / PCem-ROMs</title>
+  <description>This is a collection of requiered ROMs files for PCem emulator. RIP PCem 2021</description>
+  <link>https://github.com/BaRRaKudaRain/PCem-ROMs</link>
+  <guid isPermaLink="false">3228</guid>
+  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>samim23 / polymath</title>
+  <description>Convert any music library into a music production sample-library with ML</description>
+  <link>https://github.com/samim23/polymath</link>
+  <guid isPermaLink="false">3227</guid>
+  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>acikkaynak / deprem-yardim-backend</title>
+  <description>afetharita.com backend projesi</description>
+  <link>https://github.com/acikkaynak/deprem-yardim-backend</link>
+  <guid isPermaLink="false">3226</guid>
+  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>djun / wechatbot</title>
+  <description>为个人微信接入ChatGPT</description>
+  <link>https://github.com/djun/wechatbot</link>
+  <guid isPermaLink="false">3225</guid>
+  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
  <item>
   <title>openai / openai-cookbook</title>
   <description>Examples and guides for using the OpenAI API</description>
@@ -199,97 +290,6 @@
   <link>https://github.com/openssl/openssl</link>
   <guid isPermaLink="false">3055</guid>
   <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>Nutlope / restorePhotos</title>
-  <description>Restoring old and blurry face photos with AI.</description>
-  <link>https://github.com/Nutlope/restorePhotos</link>
-  <guid isPermaLink="false">3054</guid>
-  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / BioGPT</title>
-  <description></description>
-  <link>https://github.com/microsoft/BioGPT</link>
-  <guid isPermaLink="false">3053</guid>
-  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>nostr-protocol / nostr</title>
-  <description>a truly censorship-resistant alternative to Twitter that has a chance of working</description>
-  <link>https://github.com/nostr-protocol/nostr</link>
-  <guid isPermaLink="false">3052</guid>
-  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>massgravel / Microsoft-Activation-Scripts</title>
-  <description>A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</description>
-  <link>https://github.com/massgravel/Microsoft-Activation-Scripts</link>
-  <guid isPermaLink="false">3051</guid>
-  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>jmforsythe / Git-Heat-Map</title>
-  <description></description>
-  <link>https://github.com/jmforsythe/Git-Heat-Map</link>
-  <guid isPermaLink="false">3050</guid>
-  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>snesrev / zelda3</title>
-  <description></description>
-  <link>https://github.com/snesrev/zelda3</link>
-  <guid isPermaLink="false">3049</guid>
-  <pubDate>Thu, 02 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>acheong08 / ChatGPT</title>
-  <description>Real browserless ChatGPT library and command line tool. Using official API</description>
-  <link>https://github.com/acheong08/ChatGPT</link>
-  <guid isPermaLink="false">3015</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>Cysharp / SimdLinq</title>
-  <description>Drop-in replacement of LINQ aggregation operations extremely faster with SIMD.</description>
-  <link>https://github.com/Cysharp/SimdLinq</link>
-  <guid isPermaLink="false">3014</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>Anduin2017 / HowToCook</title>
-  <description>程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).</description>
-  <link>https://github.com/Anduin2017/HowToCook</link>
-  <guid isPermaLink="false">3013</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / ML-For-Beginners</title>
-  <description>12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all</description>
-  <link>https://github.com/microsoft/ML-For-Beginners</link>
-  <guid isPermaLink="false">3012</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>GitHubDaily / GitHubDaily</title>
-  <description>坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.</description>
-  <link>https://github.com/GitHubDaily/GitHubDaily</link>
-  <guid isPermaLink="false">3011</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / Data-Science-For-Beginners</title>
-  <description>10 Weeks, 20 Lessons, Data Science for All!</description>
-  <link>https://github.com/microsoft/Data-Science-For-Beginners</link>
-  <guid isPermaLink="false">3010</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>goldbergyoni / nodebestpractices</title>
-  <description>✅ The Node.js best practices list (November 2022)</description>
-  <link>https://github.com/goldbergyoni/nodebestpractices</link>
-  <guid isPermaLink="false">3009</guid>
-  <pubDate>Wed, 01 Feb 2023 09:00:13 -0800</pubDate>
  </item>
 
 </channel>
