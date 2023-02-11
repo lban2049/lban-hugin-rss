@@ -8,9 +8,121 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 10 Feb 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Fri, 10 Feb 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Sat, 11 Feb 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Sat, 11 Feb 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>activepieces / activepieces</title>
+  <description>No-code Business Automation Tool. An open source alternative to Zapier.</description>
+  <link>https://github.com/activepieces/activepieces</link>
+  <guid isPermaLink="false">3354</guid>
+  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>Leizhenpeng / feishu-chatGpt</title>
+  <description>Feishu ChatGpt 在飞书上与ChatGPT随时对话~</description>
+  <link>https://github.com/Leizhenpeng/feishu-chatGpt</link>
+  <guid isPermaLink="false">3353</guid>
+  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>enhuiz / vall-e</title>
+  <description>An unofficial PyTorch implementation of the audio LM VALL-E</description>
+  <link>https://github.com/enhuiz/vall-e</link>
+  <guid isPermaLink="false">3352</guid>
+  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>Shopify / hydrogen</title>
+  <description>Hydrogen is Shopify’s stack for headless commerce. It provides a set of tools, utilities, and best-in-class examples for building dynamic and performant commerce applications. Hydrogen is designed to dovetail with Remix, Shopify’s full stack web framework, but it also provides a React library portable to other supporting frameworks.</description>
+  <link>https://github.com/Shopify/hydrogen</link>
+  <guid isPermaLink="false">3351</guid>
+  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>leminlimez / Cowabunga</title>
+  <description>iOS 14.0-15.7.1 &amp; 16.0-16.1.2 MacDirtyCow ToolBox</description>
+  <link>https://github.com/leminlimez/Cowabunga</link>
+  <guid isPermaLink="false">3350</guid>
+  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>nerfstudio-project / nerfstudio</title>
+  <description>A collaboration friendly studio for NeRFs</description>
+  <link>https://github.com/nerfstudio-project/nerfstudio</link>
+  <guid isPermaLink="false">3349</guid>
+  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>ethereum-optimism / op-analytics</title>
+  <description>On-Chain Data, Utilities, References, and other Analytics on Optimism</description>
+  <link>https://github.com/ethereum-optimism/op-analytics</link>
+  <guid isPermaLink="false">3348</guid>
+  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>aquasecurity / trivy</title>
+  <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
+  <link>https://github.com/aquasecurity/trivy</link>
+  <guid isPermaLink="false">3347</guid>
+  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>eryajf / chatgpt-dingtalk</title>
+  <description>ChatGPT机器人在钉钉群聊中交互</description>
+  <link>https://github.com/eryajf/chatgpt-dingtalk</link>
+  <guid isPermaLink="false">3346</guid>
+  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>TheD1rkMtr / FilelessPELoader</title>
+  <description>Loading Remote AES Encrypted PE in memory , Decrypted it and run it</description>
+  <link>https://github.com/TheD1rkMtr/FilelessPELoader</link>
+  <guid isPermaLink="false">3345</guid>
+  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>pedroslopez / whatsapp-web.js</title>
+  <description>A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app</description>
+  <link>https://github.com/pedroslopez/whatsapp-web.js</link>
+  <guid isPermaLink="false">3344</guid>
+  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>MichalGeyer / plug-and-play</title>
+  <description>Official Pytorch Implementation for “Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation”</description>
+  <link>https://github.com/MichalGeyer/plug-and-play</link>
+  <guid isPermaLink="false">3343</guid>
+  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>uutils / coreutils</title>
+  <description>Cross-platform Rust rewrite of the GNU coreutils</description>
+  <link>https://github.com/uutils/coreutils</link>
+  <guid isPermaLink="false">3342</guid>
+  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>jaymody / picoGPT</title>
+  <description>An unnecessarily tiny and minimal implementation of GPT-2 in NumPy.</description>
+  <link>https://github.com/jaymody/picoGPT</link>
+  <guid isPermaLink="false">3341</guid>
+  <pubDate>Sat, 11 Feb 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>cloudflare / wildebeest</title>
+  <description>Wildebeest is an ActivityPub and Mastodon-compatible server</description>
+  <link>https://github.com/cloudflare/wildebeest</link>
+  <guid isPermaLink="false">3340</guid>
+  <pubDate>Sat, 11 Feb 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>acikkaynak / deprem-yardim-backend-go</title>
+  <description></description>
+  <link>https://github.com/acikkaynak/deprem-yardim-backend-go</link>
+  <guid isPermaLink="false">3339</guid>
+  <pubDate>Sat, 11 Feb 2023 09:00:09 -0800</pubDate>
+ </item>
  <item>
   <title>devfullcycle / imersao12</title>
   <description></description>
@@ -178,118 +290,6 @@
   <link>https://github.com/BaRRaKudaRain/PCem-ROMs</link>
   <guid isPermaLink="false">3228</guid>
   <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>samim23 / polymath</title>
-  <description>Convert any music library into a music production sample-library with ML</description>
-  <link>https://github.com/samim23/polymath</link>
-  <guid isPermaLink="false">3227</guid>
-  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>acikkaynak / deprem-yardim-backend</title>
-  <description>afetharita.com backend projesi</description>
-  <link>https://github.com/acikkaynak/deprem-yardim-backend</link>
-  <guid isPermaLink="false">3226</guid>
-  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>djun / wechatbot</title>
-  <description>为个人微信接入ChatGPT</description>
-  <link>https://github.com/djun/wechatbot</link>
-  <guid isPermaLink="false">3225</guid>
-  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>openai / openai-cookbook</title>
-  <description>Examples and guides for using the OpenAI API</description>
-  <link>https://github.com/openai/openai-cookbook</link>
-  <guid isPermaLink="false">3156</guid>
-  <pubDate>Wed, 08 Feb 2023 09:00:12 -0800</pubDate>
- </item>
- <item>
-  <title>lencx / ChatGPT</title>
-  <description>🔮 ChatGPT Desktop Application (Mac, Windows and Linux)</description>
-  <link>https://github.com/lencx/ChatGPT</link>
-  <guid isPermaLink="false">3155</guid>
-  <pubDate>Wed, 08 Feb 2023 09:00:12 -0800</pubDate>
- </item>
- <item>
-  <title>denoland / deno</title>
-  <description>A modern runtime for JavaScript and TypeScript.</description>
-  <link>https://github.com/denoland/deno</link>
-  <guid isPermaLink="false">3154</guid>
-  <pubDate>Wed, 08 Feb 2023 09:00:12 -0800</pubDate>
- </item>
- <item>
-  <title>eliaszon / Programmers-Overseas-Job-Interview-Handbook</title>
-  <description>🏂🏻 程序员海外工作/英文面试手册</description>
-  <link>https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook</link>
-  <guid isPermaLink="false">3153</guid>
-  <pubDate>Wed, 08 Feb 2023 09:00:12 -0800</pubDate>
- </item>
- <item>
-  <title>TheD1rkMtr / NTDLLReflection</title>
-  <description>Bypass Userland EDR hooks by Loading Reflective Ntdll in memory from a remote server based on Windows ReleaseID to avoid opening a handle to ntdll , and trigger exported APIs from the export table</description>
-  <link>https://github.com/TheD1rkMtr/NTDLLReflection</link>
-  <guid isPermaLink="false">3152</guid>
-  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>stefan-jansen / machine-learning-for-trading</title>
-  <description>Code for Machine Learning for Algorithmic Trading, 2nd edition.</description>
-  <link>https://github.com/stefan-jansen/machine-learning-for-trading</link>
-  <guid isPermaLink="false">3151</guid>
-  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>tachiyomiorg / tachiyomi</title>
-  <description>Free and open source manga reader for Android.</description>
-  <link>https://github.com/tachiyomiorg/tachiyomi</link>
-  <guid isPermaLink="false">3150</guid>
-  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>LeagueOfPoro / CapsuleFarmerEvolved</title>
-  <description>Automatically drops from lolesports.com and farm Esports Capsules</description>
-  <link>https://github.com/LeagueOfPoro/CapsuleFarmerEvolved</link>
-  <guid isPermaLink="false">3149</guid>
-  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>hikari-no-yume / touchHLE</title>
-  <description>High-level emulator for iPhone OS apps</description>
-  <link>https://github.com/hikari-no-yume/touchHLE</link>
-  <guid isPermaLink="false">3148</guid>
-  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>youshandefeiyang / IPTV</title>
-  <description>肥羊的4K/8K超高清IPTV直播源&amp;&amp;直播代码仓库</description>
-  <link>https://github.com/youshandefeiyang/IPTV</link>
-  <guid isPermaLink="false">3147</guid>
-  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>f / awesome-chatgpt-prompts</title>
-  <description>This repo includes ChatGPT prompt curation to use ChatGPT better.</description>
-  <link>https://github.com/f/awesome-chatgpt-prompts</link>
-  <guid isPermaLink="false">3146</guid>
-  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>Azure / review-checklists</title>
-  <description>This repo contains code and examples to operationalize spreadsheet-based checklists that can be used for Azure design reviews on multiple technologies.</description>
-  <link>https://github.com/Azure/review-checklists</link>
-  <guid isPermaLink="false">3145</guid>
-  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
- </item>
- <item>
-  <title>zhayujie / chatgpt-on-wechat</title>
-  <description>使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.</description>
-  <link>https://github.com/zhayujie/chatgpt-on-wechat</link>
-  <guid isPermaLink="false">3144</guid>
-  <pubDate>Wed, 08 Feb 2023 09:00:11 -0800</pubDate>
  </item>
 
 </channel>

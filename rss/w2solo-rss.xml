@@ -8,9 +8,30 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 10 Feb 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Fri, 10 Feb 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Sat, 11 Feb 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Sat, 11 Feb 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>[抽一个 ChatGPT 账号] 1link.fun 每周分享 10 个有趣的链接</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3736</link>
+  <pubDate>Sat, 11 Feb 2023 04:40:37 -0800</pubDate>
+  <guid isPermaLink="false">3373</guid>
+ </item>
+ <item>
+  <title>新人报道，自我介绍【附 chatGPT 润色版】</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3735</link>
+  <pubDate>Sat, 11 Feb 2023 04:29:27 -0800</pubDate>
+  <guid isPermaLink="false">3374</guid>
+ </item>
+ <item>
+  <title>LeapSearch - 搜索引擎插件</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3734</link>
+  <pubDate>Fri, 10 Feb 2023 14:17:18 -0800</pubDate>
+  <guid isPermaLink="false">3375</guid>
+ </item>
  <item>
   <title>新人报道，非常荣幸和大家一起探索独立开发之路</title>
   <description></description>
@@ -269,27 +290,6 @@
   <link>https://w2solo.com/topics/3710</link>
   <pubDate>Wed, 18 Jan 2023 20:29:09 -0800</pubDate>
   <guid isPermaLink="false">2441</guid>
- </item>
- <item>
-  <title>半年历程 - Chrome 插件试水阶段总结</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3720</link>
-  <pubDate>Wed, 18 Jan 2023 19:08:27 -0800</pubDate>
-  <guid isPermaLink="false">2442</guid>
- </item>
- <item>
-  <title>大家如何构建用户体系的呢？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3719</link>
-  <pubDate>Tue, 17 Jan 2023 23:05:41 -0800</pubDate>
-  <guid isPermaLink="false">2386</guid>
- </item>
- <item>
-  <title>阅读修改版 无需你注册登录永久免费</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3718</link>
-  <pubDate>Mon, 16 Jan 2023 20:18:28 -0800</pubDate>
-  <guid isPermaLink="false">2328</guid>
  </item>
 
 </channel>
