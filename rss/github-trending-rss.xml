@@ -8,9 +8,121 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 11 Feb 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Sat, 11 Feb 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Sun, 12 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 12 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>commaai / openpilot</title>
+  <description>openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.</description>
+  <link>https://github.com/commaai/openpilot</link>
+  <guid isPermaLink="false">3397</guid>
+  <pubDate>Sun, 12 Feb 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>waylaidwanderer / node-chatgpt-api</title>
+  <description>A ChatGPT implementation with support for Bing's GPT-4 version of ChatGPT, plus the official ChatGPT model via OpenAI's API. Available as a Node.js module, REST API server, and CLI app.</description>
+  <link>https://github.com/waylaidwanderer/node-chatgpt-api</link>
+  <guid isPermaLink="false">3396</guid>
+  <pubDate>Sun, 12 Feb 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>huggingface / peft</title>
+  <description>🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.</description>
+  <link>https://github.com/huggingface/peft</link>
+  <guid isPermaLink="false">3395</guid>
+  <pubDate>Sun, 12 Feb 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>jaymody / picoGPT</title>
+  <description>An unnecessarily tiny implementation of GPT-2 in NumPy.</description>
+  <link>https://github.com/jaymody/picoGPT</link>
+  <guid isPermaLink="false">3394</guid>
+  <pubDate>Sun, 12 Feb 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>karfly / chatgpt_telegram_bot</title>
+  <description></description>
+  <link>https://github.com/karfly/chatgpt_telegram_bot</link>
+  <guid isPermaLink="false">3393</guid>
+  <pubDate>Sun, 12 Feb 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>alibaba / lowcode-engine</title>
+  <description>An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系</description>
+  <link>https://github.com/alibaba/lowcode-engine</link>
+  <guid isPermaLink="false">3392</guid>
+  <pubDate>Sun, 12 Feb 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>lensterxyz / lenster</title>
+  <description>Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿</description>
+  <link>https://github.com/lensterxyz/lenster</link>
+  <guid isPermaLink="false">3391</guid>
+  <pubDate>Sun, 12 Feb 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>calcom / cal.com</title>
+  <description>Scheduling infrastructure for absolutely everyone.</description>
+  <link>https://github.com/calcom/cal.com</link>
+  <guid isPermaLink="false">3390</guid>
+  <pubDate>Sun, 12 Feb 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>ExamProCo / aws-bootcamp-cruddur-2023</title>
+  <description>This is the starting codebase that will be used in the FREE AWS Cloud Project Bootcamp 2023</description>
+  <link>https://github.com/ExamProCo/aws-bootcamp-cruddur-2023</link>
+  <guid isPermaLink="false">3389</guid>
+  <pubDate>Sun, 12 Feb 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>eugeneyan / applied-ml</title>
+  <description>📚 Papers &amp; tech blogs by companies sharing their work on data science &amp; machine learning in production.</description>
+  <link>https://github.com/eugeneyan/applied-ml</link>
+  <guid isPermaLink="false">3388</guid>
+  <pubDate>Sun, 12 Feb 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>juspay / hyperswitch</title>
+  <description>An Open Source Financial Switch to make Payments fast, reliable and affordable</description>
+  <link>https://github.com/juspay/hyperswitch</link>
+  <guid isPermaLink="false">3387</guid>
+  <pubDate>Sun, 12 Feb 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>acikkaynak / deprem-io-backend</title>
+  <description>current back Deprem.io is a platform to help with the recent earthquakes in Turkiye</description>
+  <link>https://github.com/acikkaynak/deprem-io-backend</link>
+  <guid isPermaLink="false">3386</guid>
+  <pubDate>Sun, 12 Feb 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>acheong08 / EdgeGPT</title>
+  <description>Reverse engineered API of Microsoft's Bing Chat</description>
+  <link>https://github.com/acheong08/EdgeGPT</link>
+  <guid isPermaLink="false">3385</guid>
+  <pubDate>Sun, 12 Feb 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>mastodon / mastodon</title>
+  <description>Your self-hosted, globally interconnected microblogging community</description>
+  <link>https://github.com/mastodon/mastodon</link>
+  <guid isPermaLink="false">3384</guid>
+  <pubDate>Sun, 12 Feb 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>acikkaynak / deprem-io-frontend</title>
+  <description>current-front</description>
+  <link>https://github.com/acikkaynak/deprem-io-frontend</link>
+  <guid isPermaLink="false">3383</guid>
+  <pubDate>Sun, 12 Feb 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>guaguaguaxia / weekly_report</title>
+  <description></description>
+  <link>https://github.com/guaguaguaxia/weekly_report</link>
+  <guid isPermaLink="false">3382</guid>
+  <pubDate>Sun, 12 Feb 2023 09:00:01 -0800</pubDate>
+ </item>
  <item>
   <title>activepieces / activepieces</title>
   <description>No-code Business Automation Tool. An open source alternative to Zapier.</description>
@@ -178,118 +290,6 @@
   <link>https://github.com/YuxinWenRick/hard-prompts-made-easy</link>
   <guid isPermaLink="false">3284</guid>
   <pubDate>Fri, 10 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>c4s73r / NetworkNightmare</title>
-  <description>Network Pentesting Mindmap by Caster</description>
-  <link>https://github.com/c4s73r/NetworkNightmare</link>
-  <guid isPermaLink="false">3283</guid>
-  <pubDate>Fri, 10 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>obi1kenobi / trustfall</title>
-  <description>If GraphQL were more like SQL: a query language for any combination of data sources.</description>
-  <link>https://github.com/obi1kenobi/trustfall</link>
-  <guid isPermaLink="false">3282</guid>
-  <pubDate>Fri, 10 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>cisagov / ESXiArgs-Recover</title>
-  <description>A tool to recover from ESXiArgs ransomware</description>
-  <link>https://github.com/cisagov/ESXiArgs-Recover</link>
-  <guid isPermaLink="false">3281</guid>
-  <pubDate>Fri, 10 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>openai / gpt-2</title>
-  <description>Code for the paper "Language Models are Unsupervised Multitask Learners"</description>
-  <link>https://github.com/openai/gpt-2</link>
-  <guid isPermaLink="false">3280</guid>
-  <pubDate>Fri, 10 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>sashabaranov / go-gpt3</title>
-  <description>OpenAI GPT-3 and DALL·E API wrapper for Go</description>
-  <link>https://github.com/sashabaranov/go-gpt3</link>
-  <guid isPermaLink="false">3279</guid>
-  <pubDate>Fri, 10 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>rustdesk / rustdesk</title>
-  <description>Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.</description>
-  <link>https://github.com/rustdesk/rustdesk</link>
-  <guid isPermaLink="false">3278</guid>
-  <pubDate>Fri, 10 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>acikkaynak / yardim-agi-flutter</title>
-  <description>Bu uygulama, ihtiyaç sahibi depremzedelerin hangi adreste, nelere ihtiyaçları olduğu ve iletişim alma yöntemi bilgilerini ekleyebildiği; aynı zamanda girilen ihtiyaç taleplerinin listelenerek yardımseverlerin bu ihtiyaçları karşılayabilmesi amacıyla tasarlandı.</description>
-  <link>https://github.com/acikkaynak/yardim-agi-flutter</link>
-  <guid isPermaLink="false">3237</guid>
-  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>kyujin-cho / pixel-volte-patch</title>
-  <description>Rootless replacement for persist.dbg.volte_avail_ovr patch</description>
-  <link>https://github.com/kyujin-cho/pixel-volte-patch</link>
-  <guid isPermaLink="false">3236</guid>
-  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>Fndroid / clash_for_windows_pkg</title>
-  <description>A Windows/macOS GUI based on Clash</description>
-  <link>https://github.com/Fndroid/clash_for_windows_pkg</link>
-  <guid isPermaLink="false">3235</guid>
-  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>shajen / rtl-sdr-scanner-cpp</title>
-  <description></description>
-  <link>https://github.com/shajen/rtl-sdr-scanner-cpp</link>
-  <guid isPermaLink="false">3234</guid>
-  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>acikkaynak / deprem-yardim-frontend</title>
-  <description>afetharita.com frontend projesi. https://rc.afetharita.com/</description>
-  <link>https://github.com/acikkaynak/deprem-yardim-frontend</link>
-  <guid isPermaLink="false">3233</guid>
-  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>cezaraugusto / You-Dont-Know-JS</title>
-  <description>📗📒 (PT-Br translation) JS Book Series.</description>
-  <link>https://github.com/cezaraugusto/You-Dont-Know-JS</link>
-  <guid isPermaLink="false">3232</guid>
-  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>eatmoreapple / openwechat</title>
-  <description>golang微信SDK</description>
-  <link>https://github.com/eatmoreapple/openwechat</link>
-  <guid isPermaLink="false">3231</guid>
-  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>houko / wechatgpt</title>
-  <description>wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）</description>
-  <link>https://github.com/houko/wechatgpt</link>
-  <guid isPermaLink="false">3230</guid>
-  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>AIGCT / EASYChatGPT</title>
-  <description>This is an application project of 'chatgpt',only applicable to desktop environment.</description>
-  <link>https://github.com/AIGCT/EASYChatGPT</link>
-  <guid isPermaLink="false">3229</guid>
-  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>BaRRaKudaRain / PCem-ROMs</title>
-  <description>This is a collection of requiered ROMs files for PCem emulator. RIP PCem 2021</description>
-  <link>https://github.com/BaRRaKudaRain/PCem-ROMs</link>
-  <guid isPermaLink="false">3228</guid>
-  <pubDate>Thu, 09 Feb 2023 09:00:05 -0800</pubDate>
  </item>
 
 </channel>
