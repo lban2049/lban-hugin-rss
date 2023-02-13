@@ -8,9 +8,30 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 12 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sun, 12 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Mon, 13 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 13 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>【日时记】- 记录你的时间，让你的时间更有价值。</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3742</link>
+  <pubDate>Mon, 13 Feb 2023 04:47:43 -0800</pubDate>
+  <guid isPermaLink="false">3481</guid>
+ </item>
+ <item>
+  <title>独立产品灵感周刊 DecoHack #047 - 安卓手机上最有用的 APP</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3741</link>
+  <pubDate>Mon, 13 Feb 2023 01:22:52 -0800</pubDate>
+  <guid isPermaLink="false">3482</guid>
+ </item>
+ <item>
+  <title>微信小程序 - 指尖待办清单</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3740</link>
+  <pubDate>Sun, 12 Feb 2023 17:52:18 -0800</pubDate>
+  <guid isPermaLink="false">3483</guid>
+ </item>
  <item>
   <title>[抽一个 ChatGPT 账号] 1link.fun 每周分享 10 个有趣的链接</title>
   <description></description>
@@ -269,27 +290,6 @@
   <link>https://w2solo.com/topics/3721</link>
   <pubDate>Sun, 22 Jan 2023 08:43:19 -0800</pubDate>
   <guid isPermaLink="false">2580</guid>
- </item>
- <item>
-  <title>大家如何构建用户体系的呢？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3719</link>
-  <pubDate>Fri, 20 Jan 2023 18:15:38 -0800</pubDate>
-  <guid isPermaLink="false">2540</guid>
- </item>
- <item>
-  <title>阅读修改版 无需你注册登录永久免费</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3718</link>
-  <pubDate>Fri, 20 Jan 2023 16:43:31 -0800</pubDate>
-  <guid isPermaLink="false">2541</guid>
- </item>
- <item>
-  <title>量化交易和交易所的对接工具，做单一的事情</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3710</link>
-  <pubDate>Wed, 18 Jan 2023 20:29:09 -0800</pubDate>
-  <guid isPermaLink="false">2441</guid>
  </item>
 
 </channel>
