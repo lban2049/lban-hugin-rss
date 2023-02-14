@@ -8,9 +8,23 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 13 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 13 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 14 Feb 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Tue, 14 Feb 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>新人报道，自我介绍，UI 设计师转 Python</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3744</link>
+  <pubDate>Tue, 14 Feb 2023 05:18:27 -0800</pubDate>
+  <guid isPermaLink="false">3545</guid>
+ </item>
+ <item>
+  <title>每日工具箱随身助手</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3743</link>
+  <pubDate>Mon, 13 Feb 2023 18:25:52 -0800</pubDate>
+  <guid isPermaLink="false">3546</guid>
+ </item>
  <item>
   <title>【日时记】- 记录你的时间，让你的时间更有价值。</title>
   <description></description>
@@ -276,20 +290,6 @@
   <link>https://w2solo.com/topics/3721</link>
   <pubDate>Wed, 25 Jan 2023 01:24:28 -0800</pubDate>
   <guid isPermaLink="false">2702</guid>
- </item>
- <item>
-  <title>大家如何构建用户体系的呢？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3719</link>
-  <pubDate>Mon, 23 Jan 2023 06:49:25 -0800</pubDate>
-  <guid isPermaLink="false">2620</guid>
- </item>
- <item>
-  <title>今年的第一个工具项目，前端变量管理，还挺新鲜的😃😃</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3721</link>
-  <pubDate>Sun, 22 Jan 2023 08:43:19 -0800</pubDate>
-  <guid isPermaLink="false">2580</guid>
  </item>
 
 </channel>

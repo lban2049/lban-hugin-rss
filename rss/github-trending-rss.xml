@@ -8,9 +8,114 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 13 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 13 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 14 Feb 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Tue, 14 Feb 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Alamofire / Alamofire</title>
+  <description>Elegant HTTP Networking in Swift</description>
+  <link>https://github.com/Alamofire/Alamofire</link>
+  <guid isPermaLink="false">3513</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>jackfrued / Python-100-Days</title>
+  <description>Python - 100天从新手到大师</description>
+  <link>https://github.com/jackfrued/Python-100-Days</link>
+  <guid isPermaLink="false">3512</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>btcpayserver / btcpayserver</title>
+  <description>Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.</description>
+  <link>https://github.com/btcpayserver/btcpayserver</link>
+  <guid isPermaLink="false">3511</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>tektoncd / pipeline</title>
+  <description>A cloud-native Pipeline resource.</description>
+  <link>https://github.com/tektoncd/pipeline</link>
+  <guid isPermaLink="false">3510</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>haoheliu / AudioLDM</title>
+  <description>AudioLDM: Generate speech, sound effects, music and beyond, with text.</description>
+  <link>https://github.com/haoheliu/AudioLDM</link>
+  <guid isPermaLink="false">3509</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>danielgindi / Charts</title>
+  <description>Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</description>
+  <link>https://github.com/danielgindi/Charts</link>
+  <guid isPermaLink="false">3508</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>liu673cn / box</title>
+  <description>TVbox开源版（空壳-自行配置）</description>
+  <link>https://github.com/liu673cn/box</link>
+  <guid isPermaLink="false">3507</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>Azure / azure-sdk-for-net</title>
+  <description>This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.</description>
+  <link>https://github.com/Azure/azure-sdk-for-net</link>
+  <guid isPermaLink="false">3506</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>angular / angular</title>
+  <description>The modern web developer’s platform</description>
+  <link>https://github.com/angular/angular</link>
+  <guid isPermaLink="false">3505</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>bytemate / chatapi-single</title>
+  <description>Simple and powerful ChatGPT-API-Server</description>
+  <link>https://github.com/bytemate/chatapi-single</link>
+  <guid isPermaLink="false">3504</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>palera1n / palera1n-c</title>
+  <description>palera1n written in C</description>
+  <link>https://github.com/palera1n/palera1n-c</link>
+  <guid isPermaLink="false">3503</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>alexbatalov / fallout2-ce</title>
+  <description>Fallout 2 for modern operating systems</description>
+  <link>https://github.com/alexbatalov/fallout2-ce</link>
+  <guid isPermaLink="false">3502</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>acantril / learn-cantrill-io-labs</title>
+  <description>Standard and Advanced Demos for learn.cantrill.io courses</description>
+  <link>https://github.com/acantril/learn-cantrill-io-labs</link>
+  <guid isPermaLink="false">3501</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>TheR1D / shell_gpt</title>
+  <description>A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.</description>
+  <link>https://github.com/TheR1D/shell_gpt</link>
+  <guid isPermaLink="false">3500</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>annfelix / DEVOPS-WORLD</title>
+  <description></description>
+  <link>https://github.com/annfelix/DEVOPS-WORLD</link>
+  <guid isPermaLink="false">3499</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
  <item>
   <title>openwrt / openwrt</title>
   <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
@@ -185,111 +290,6 @@
   <link>https://github.com/juspay/hyperswitch</link>
   <guid isPermaLink="false">3387</guid>
   <pubDate>Sun, 12 Feb 2023 09:00:01 -0800</pubDate>
- </item>
- <item>
-  <title>acikkaynak / deprem-io-backend</title>
-  <description>current back Deprem.io is a platform to help with the recent earthquakes in Turkiye</description>
-  <link>https://github.com/acikkaynak/deprem-io-backend</link>
-  <guid isPermaLink="false">3386</guid>
-  <pubDate>Sun, 12 Feb 2023 09:00:01 -0800</pubDate>
- </item>
- <item>
-  <title>acheong08 / EdgeGPT</title>
-  <description>Reverse engineered API of Microsoft's Bing Chat</description>
-  <link>https://github.com/acheong08/EdgeGPT</link>
-  <guid isPermaLink="false">3385</guid>
-  <pubDate>Sun, 12 Feb 2023 09:00:01 -0800</pubDate>
- </item>
- <item>
-  <title>mastodon / mastodon</title>
-  <description>Your self-hosted, globally interconnected microblogging community</description>
-  <link>https://github.com/mastodon/mastodon</link>
-  <guid isPermaLink="false">3384</guid>
-  <pubDate>Sun, 12 Feb 2023 09:00:01 -0800</pubDate>
- </item>
- <item>
-  <title>acikkaynak / deprem-io-frontend</title>
-  <description>current-front</description>
-  <link>https://github.com/acikkaynak/deprem-io-frontend</link>
-  <guid isPermaLink="false">3383</guid>
-  <pubDate>Sun, 12 Feb 2023 09:00:01 -0800</pubDate>
- </item>
- <item>
-  <title>guaguaguaxia / weekly_report</title>
-  <description></description>
-  <link>https://github.com/guaguaguaxia/weekly_report</link>
-  <guid isPermaLink="false">3382</guid>
-  <pubDate>Sun, 12 Feb 2023 09:00:01 -0800</pubDate>
- </item>
- <item>
-  <title>activepieces / activepieces</title>
-  <description>No-code Business Automation Tool. An open source alternative to Zapier.</description>
-  <link>https://github.com/activepieces/activepieces</link>
-  <guid isPermaLink="false">3354</guid>
-  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>Leizhenpeng / feishu-chatGpt</title>
-  <description>Feishu ChatGpt 在飞书上与ChatGPT随时对话~</description>
-  <link>https://github.com/Leizhenpeng/feishu-chatGpt</link>
-  <guid isPermaLink="false">3353</guid>
-  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>enhuiz / vall-e</title>
-  <description>An unofficial PyTorch implementation of the audio LM VALL-E</description>
-  <link>https://github.com/enhuiz/vall-e</link>
-  <guid isPermaLink="false">3352</guid>
-  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>Shopify / hydrogen</title>
-  <description>Hydrogen is Shopify’s stack for headless commerce. It provides a set of tools, utilities, and best-in-class examples for building dynamic and performant commerce applications. Hydrogen is designed to dovetail with Remix, Shopify’s full stack web framework, but it also provides a React library portable to other supporting frameworks.</description>
-  <link>https://github.com/Shopify/hydrogen</link>
-  <guid isPermaLink="false">3351</guid>
-  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>leminlimez / Cowabunga</title>
-  <description>iOS 14.0-15.7.1 &amp; 16.0-16.1.2 MacDirtyCow ToolBox</description>
-  <link>https://github.com/leminlimez/Cowabunga</link>
-  <guid isPermaLink="false">3350</guid>
-  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>nerfstudio-project / nerfstudio</title>
-  <description>A collaboration friendly studio for NeRFs</description>
-  <link>https://github.com/nerfstudio-project/nerfstudio</link>
-  <guid isPermaLink="false">3349</guid>
-  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>ethereum-optimism / op-analytics</title>
-  <description>On-Chain Data, Utilities, References, and other Analytics on Optimism</description>
-  <link>https://github.com/ethereum-optimism/op-analytics</link>
-  <guid isPermaLink="false">3348</guid>
-  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>aquasecurity / trivy</title>
-  <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
-  <link>https://github.com/aquasecurity/trivy</link>
-  <guid isPermaLink="false">3347</guid>
-  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>eryajf / chatgpt-dingtalk</title>
-  <description>ChatGPT机器人在钉钉群聊中交互</description>
-  <link>https://github.com/eryajf/chatgpt-dingtalk</link>
-  <guid isPermaLink="false">3346</guid>
-  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>TheD1rkMtr / FilelessPELoader</title>
-  <description>Loading Remote AES Encrypted PE in memory , Decrypted it and run it</description>
-  <link>https://github.com/TheD1rkMtr/FilelessPELoader</link>
-  <guid isPermaLink="false">3345</guid>
-  <pubDate>Sat, 11 Feb 2023 09:00:10 -0800</pubDate>
  </item>
 
 </channel>

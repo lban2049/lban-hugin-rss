@@ -8,9 +8,93 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 13 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 13 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 14 Feb 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Tue, 14 Feb 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>What are you biggest challenges in building your startup / indie hacking?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/what-are-you-biggest-challenges-in-building-your-startup-indie-hacking-ac13f018a5</link>
+  <guid isPermaLink="false">3558</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Would you use AR business cards?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/would-you-use-ar-business-cards-e2524b17c9</link>
+  <guid isPermaLink="false">3557</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Would SEO soon be a thing of the past?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/would-seo-soon-be-a-thing-of-the-past-265615b153</link>
+  <guid isPermaLink="false">3556</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>How to increase retention for an infrequent use case?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-to-increase-retention-for-an-infrequent-use-case-23b6372ffe</link>
+  <guid isPermaLink="false">3555</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>What's New: Using GIFs for brand awareness</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/whats-new-using-gifs-for-brand-awareness-0feb3617e4</link>
+  <guid isPermaLink="false">3554</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Top 3 tasks to complete to ensure a successful website launch</title>
+  <description></description>
+  <link>https://www.indiehackers.com/product/splitmyexpenses/top-3-tasks-to-complete-to-ensure-a-successful-website-launch--NOCrcnUjGWHwh2H4XH3</link>
+  <guid isPermaLink="false">3553</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>SaaS Product Management shouldn't be this confusing</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/saas-product-management-shouldnt-be-this-confusing-e6afaa853d</link>
+  <guid isPermaLink="false">3552</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Can someone explain "serverless" to me like I'm 5?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/can-someone-explain-serverless-to-me-like-i-m-5-7e67fea10e</link>
+  <guid isPermaLink="false">3551</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>A social media that doesn't allow posting contents (directly)</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/a-social-media-that-doesnt-allow-posting-contents-directly-f441fe19b0</link>
+  <guid isPermaLink="false">3550</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>How we ship great products fast with no project/product managers</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-we-ship-great-products-fast-with-no-project-product-managers-025a7398ba</link>
+  <guid isPermaLink="false">3549</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Free plan discontinued -&gt; Over 1k MRR</title>
+  <description></description>
+  <link>https://www.indiehackers.com/product/sheet2api/free-plan-discontinued-over-1k-mrr--NOB_dzL1FBZcOohC9Bf</link>
+  <guid isPermaLink="false">3548</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Freemium vs free trial: Where do you stand?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/freemium-vs-free-trial-where-do-you-stand-e2fba41ba5</link>
+  <guid isPermaLink="false">3547</guid>
+  <pubDate>Tue, 14 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
  <item>
   <title>My bootstrapped indie startup has just been acquired for 5 figures. AMA!</title>
   <description></description>
@@ -206,90 +290,6 @@
   <link>https://www.indiehackers.com/post/just-published-my-app-in-google-play-store-d3079d3fbd</link>
   <guid isPermaLink="false">3381</guid>
   <pubDate>Sat, 11 Feb 2023 09:00:16 -0800</pubDate>
- </item>
- <item>
-  <title>List[dot]app domain/app for sale</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/listdot-app-domain-app-for-sale-a1bc9b27c3</link>
-  <guid isPermaLink="false">3380</guid>
-  <pubDate>Sat, 11 Feb 2023 09:00:16 -0800</pubDate>
- </item>
- <item>
-  <title>My Fifth Year as a Full-Time Indie Hacker</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/my-fifth-year-as-a-full-time-indie-hacker-dc490fe474</link>
-  <guid isPermaLink="false">3379</guid>
-  <pubDate>Sat, 11 Feb 2023 09:00:16 -0800</pubDate>
- </item>
- <item>
-  <title>There's a lot of cool stuff happening in tech right now</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/theres-a-lot-of-cool-stuff-happening-in-tech-right-now-7da33fa99f</link>
-  <guid isPermaLink="false">3378</guid>
-  <pubDate>Sat, 11 Feb 2023 09:00:16 -0800</pubDate>
- </item>
- <item>
-  <title>Built a profitable startup in 1 night</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/built-a-profitable-startup-in-1-night-0b22599901</link>
-  <guid isPermaLink="false">3377</guid>
-  <pubDate>Sat, 11 Feb 2023 09:00:16 -0800</pubDate>
- </item>
- <item>
-  <title>Invest in things that don't change</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/invest-in-things-that-dont-change-9f7cff99db</link>
-  <guid isPermaLink="false">3376</guid>
-  <pubDate>Sat, 11 Feb 2023 09:00:16 -0800</pubDate>
- </item>
- <item>
-  <title>My approach to product development</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/my-approach-to-product-development-89ee5fbefa</link>
-  <guid isPermaLink="false">3338</guid>
-  <pubDate>Fri, 10 Feb 2023 09:00:15 -0800</pubDate>
- </item>
- <item>
-  <title>2nd newsletter posted: Please don't outsource your entire startup</title>
-  <description></description>
-  <link>https://www.indiehackers.com/product/diyfounder-com/2nd-newsletter-posted-please-dont-outsource-your-entire-startup--NNr2HLte35EIrSBvyt4</link>
-  <guid isPermaLink="false">3337</guid>
-  <pubDate>Fri, 10 Feb 2023 09:00:15 -0800</pubDate>
- </item>
- <item>
-  <title>How I made over $800,000 online in 2022</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-i-made-over-800-000-online-in-2022-8400c7ce31</link>
-  <guid isPermaLink="false">3336</guid>
-  <pubDate>Fri, 10 Feb 2023 09:00:15 -0800</pubDate>
- </item>
- <item>
-  <title>Indie Hacker Chats - 001 with @MuneebAwan</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/indie-hacker-chats-001-with-muneebawan-1690a9272c</link>
-  <guid isPermaLink="false">3335</guid>
-  <pubDate>Fri, 10 Feb 2023 09:00:15 -0800</pubDate>
- </item>
- <item>
-  <title>How do you find early adopters for a coming soon page?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-do-you-find-early-adopters-for-a-coming-soon-page-5b31979771</link>
-  <guid isPermaLink="false">3334</guid>
-  <pubDate>Fri, 10 Feb 2023 09:00:15 -0800</pubDate>
- </item>
- <item>
-  <title>Things I'm doing differently second time round</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/things-im-doing-differently-second-time-round-0a1ae2ad79</link>
-  <guid isPermaLink="false">3333</guid>
-  <pubDate>Fri, 10 Feb 2023 09:00:15 -0800</pubDate>
- </item>
- <item>
-  <title>How to politely tell your client that he had fucked up [10 useful templates]</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-to-politely-tell-your-client-that-he-had-fucked-up-10-useful-templates-c432472599</link>
-  <guid isPermaLink="false">3332</guid>
-  <pubDate>Fri, 10 Feb 2023 09:00:15 -0800</pubDate>
  </item>
 
 </channel>
