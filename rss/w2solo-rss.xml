@@ -8,9 +8,37 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 14 Feb 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Tue, 14 Feb 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Thu, 16 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Thu, 16 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>继续找前端一起做个财富记账类 APP</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3746</link>
+  <pubDate>Thu, 16 Feb 2023 05:59:10 -0800</pubDate>
+  <guid isPermaLink="false">3619</guid>
+ </item>
+ <item>
+  <title>介绍 tvcal.app → 电视剧日历生成器</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3747</link>
+  <pubDate>Wed, 15 Feb 2023 23:59:28 -0800</pubDate>
+  <guid isPermaLink="false">3620</guid>
+ </item>
+ <item>
+  <title>新人报道，自我介绍，UI 设计师转 Python</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3744</link>
+  <pubDate>Wed, 15 Feb 2023 05:22:09 -0800</pubDate>
+  <guid isPermaLink="false">3621</guid>
+ </item>
+ <item>
+  <title>新人报道，携着我的小作品</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3745</link>
+  <pubDate>Wed, 15 Feb 2023 02:25:04 -0800</pubDate>
+  <guid isPermaLink="false">3622</guid>
+ </item>
  <item>
   <title>新人报道，自我介绍，UI 设计师转 Python</title>
   <description></description>
@@ -262,34 +290,6 @@
   <link>https://w2solo.com/topics/3691</link>
   <pubDate>Fri, 27 Jan 2023 23:43:34 -0800</pubDate>
   <guid isPermaLink="false">2831</guid>
- </item>
- <item>
-  <title>怎么发掘业务</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3700</link>
-  <pubDate>Thu, 26 Jan 2023 20:26:12 -0800</pubDate>
-  <guid isPermaLink="false">2780</guid>
- </item>
- <item>
-  <title>今年的第一个工具项目，前端变量管理，还挺新鲜的😃😃</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3721</link>
-  <pubDate>Thu, 26 Jan 2023 00:59:02 -0800</pubDate>
-  <guid isPermaLink="false">2737</guid>
- </item>
- <item>
-  <title>访谈 guyskk：做出了个有稳定收益的小程序的故事</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3722</link>
-  <pubDate>Wed, 25 Jan 2023 04:01:25 -0800</pubDate>
-  <guid isPermaLink="false">2701</guid>
- </item>
- <item>
-  <title>今年的第一个工具项目，前端变量管理，还挺新鲜的😃😃</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3721</link>
-  <pubDate>Wed, 25 Jan 2023 01:24:28 -0800</pubDate>
-  <guid isPermaLink="false">2702</guid>
  </item>
 
 </channel>

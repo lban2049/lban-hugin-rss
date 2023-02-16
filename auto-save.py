@@ -30,5 +30,11 @@ for url in save_list:
 os.system("auto-push.sh")
 # os.system("git commit -m 'auto update'")
 # os.system("git push")
+# 求两个数中的最大值
+def max(a,b):
+    if a > b:
+        return a
+    else:
+        return b
 
 print('auto push success')
