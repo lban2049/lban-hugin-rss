@@ -8,9 +8,30 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 16 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Thu, 16 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Fri, 17 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 17 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>新人报道，刚刚开始的独立 app 开发者，请各位多指教</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3748</link>
+  <pubDate>Fri, 17 Feb 2023 04:57:10 -0800</pubDate>
+  <guid isPermaLink="false">3682</guid>
+ </item>
+ <item>
+  <title>微信小程序 - 指尖待办清单</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3740</link>
+  <pubDate>Thu, 16 Feb 2023 19:10:13 -0800</pubDate>
+  <guid isPermaLink="false">3683</guid>
+ </item>
+ <item>
+  <title>继续找前端一起做个财富记账类 APP</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3746</link>
+  <pubDate>Thu, 16 Feb 2023 15:10:27 -0800</pubDate>
+  <guid isPermaLink="false">3684</guid>
+ </item>
  <item>
   <title>继续找前端一起做个财富记账类 APP</title>
   <description></description>
@@ -269,27 +290,6 @@
   <link>https://w2solo.com/topics/3722</link>
   <pubDate>Sat, 28 Jan 2023 04:37:49 -0800</pubDate>
   <guid isPermaLink="false">2828</guid>
- </item>
- <item>
-  <title>大家如何构建用户体系的呢？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3719</link>
-  <pubDate>Sat, 28 Jan 2023 04:33:39 -0800</pubDate>
-  <guid isPermaLink="false">2829</guid>
- </item>
- <item>
-  <title>怎么发掘业务</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3700</link>
-  <pubDate>Sat, 28 Jan 2023 00:20:22 -0800</pubDate>
-  <guid isPermaLink="false">2830</guid>
- </item>
- <item>
-  <title>Dawn Launcher Windows 快捷启动工具</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3691</link>
-  <pubDate>Fri, 27 Jan 2023 23:43:34 -0800</pubDate>
-  <guid isPermaLink="false">2831</guid>
  </item>
 
 </channel>

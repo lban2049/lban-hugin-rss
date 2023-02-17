@@ -8,9 +8,100 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 16 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Thu, 16 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Fri, 17 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 17 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>ruanyf / weekly</title>
+  <description>科技爱好者周刊，每周五发布</description>
+  <link>https://github.com/ruanyf/weekly</link>
+  <guid isPermaLink="false">3654</guid>
+  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>amazon-science / mm-cot</title>
+  <description>Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated)</description>
+  <link>https://github.com/amazon-science/mm-cot</link>
+  <guid isPermaLink="false">3653</guid>
+  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>Developer-Y / cs-video-courses</title>
+  <description>List of Computer Science courses with video lectures.</description>
+  <link>https://github.com/Developer-Y/cs-video-courses</link>
+  <guid isPermaLink="false">3652</guid>
+  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>navopw / whatsapp-chatgpt</title>
+  <description>ChatGPT + Whatsapp = AI Assistant 🚀</description>
+  <link>https://github.com/navopw/whatsapp-chatgpt</link>
+  <guid isPermaLink="false">3651</guid>
+  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>mfaisalkhatri / awesome-learning</title>
+  <description>Curated lists of awesome learning resources for a Software Test Automation Engineer</description>
+  <link>https://github.com/mfaisalkhatri/awesome-learning</link>
+  <guid isPermaLink="false">3650</guid>
+  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>hpcaitech / EnergonAI</title>
+  <description>Large-scale model inference.</description>
+  <link>https://github.com/hpcaitech/EnergonAI</link>
+  <guid isPermaLink="false">3649</guid>
+  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>Daiyimo / Access-chatGPT-in-Siri</title>
+  <description>chatGPT接入Siri指南，目前仅限iPhone端，后续会更新Android</description>
+  <link>https://github.com/Daiyimo/Access-chatGPT-in-Siri</link>
+  <guid isPermaLink="false">3648</guid>
+  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>NvChad / NvChad</title>
+  <description>An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime</description>
+  <link>https://github.com/NvChad/NvChad</link>
+  <guid isPermaLink="false">3647</guid>
+  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>mermaid-js / mermaid</title>
+  <description>Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown</description>
+  <link>https://github.com/mermaid-js/mermaid</link>
+  <guid isPermaLink="false">3646</guid>
+  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>deepmind / mctx</title>
+  <description>Monte Carlo tree search in JAX</description>
+  <link>https://github.com/deepmind/mctx</link>
+  <guid isPermaLink="false">3645</guid>
+  <pubDate>Fri, 17 Feb 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>shyamsn97 / mario-gpt</title>
+  <description>Generating Mario Levels with GPT2. Code for the paper "MarioGPT: Open-Ended Text2Level Generation through Large Language Models" https://arxiv.org/abs/2302.05981</description>
+  <link>https://github.com/shyamsn97/mario-gpt</link>
+  <guid isPermaLink="false">3644</guid>
+  <pubDate>Fri, 17 Feb 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>Nutlope / aicommits</title>
+  <description>A CLI that writes your git commit messages for you with AI</description>
+  <link>https://github.com/Nutlope/aicommits</link>
+  <guid isPermaLink="false">3643</guid>
+  <pubDate>Fri, 17 Feb 2023 09:00:06 -0800</pubDate>
+ </item>
+ <item>
+  <title>rerun-io / rerun</title>
+  <description>Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui</description>
+  <link>https://github.com/rerun-io/rerun</link>
+  <guid isPermaLink="false">3642</guid>
+  <pubDate>Fri, 17 Feb 2023 09:00:06 -0800</pubDate>
+ </item>
  <item>
   <title>odoo / odoo</title>
   <description>Odoo. Open Source Apps To Grow Your Business.</description>
@@ -199,97 +290,6 @@
   <link>https://github.com/alexbatalov/fallout2-ce</link>
   <guid isPermaLink="false">3502</guid>
   <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>acantril / learn-cantrill-io-labs</title>
-  <description>Standard and Advanced Demos for learn.cantrill.io courses</description>
-  <link>https://github.com/acantril/learn-cantrill-io-labs</link>
-  <guid isPermaLink="false">3501</guid>
-  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>TheR1D / shell_gpt</title>
-  <description>A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.</description>
-  <link>https://github.com/TheR1D/shell_gpt</link>
-  <guid isPermaLink="false">3500</guid>
-  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>annfelix / DEVOPS-WORLD</title>
-  <description></description>
-  <link>https://github.com/annfelix/DEVOPS-WORLD</link>
-  <guid isPermaLink="false">3499</guid>
-  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>openwrt / openwrt</title>
-  <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
-  <link>https://github.com/openwrt/openwrt</link>
-  <guid isPermaLink="false">3446</guid>
-  <pubDate>Mon, 13 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>Asabeneh / 30-Days-Of-JavaScript</title>
-  <description>30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.</description>
-  <link>https://github.com/Asabeneh/30-Days-Of-JavaScript</link>
-  <guid isPermaLink="false">3445</guid>
-  <pubDate>Mon, 13 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>obsproject / obs-studio</title>
-  <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
-  <link>https://github.com/obsproject/obs-studio</link>
-  <guid isPermaLink="false">3444</guid>
-  <pubDate>Mon, 13 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>TheR1D / shell_gpt</title>
-  <description>A command-line interface (CLI) productivity tool powered by OpenAI's text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.</description>
-  <link>https://github.com/TheR1D/shell_gpt</link>
-  <guid isPermaLink="false">3443</guid>
-  <pubDate>Mon, 13 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>prusa3d / PrusaSlicer</title>
-  <description>G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)</description>
-  <link>https://github.com/prusa3d/PrusaSlicer</link>
-  <guid isPermaLink="false">3442</guid>
-  <pubDate>Mon, 13 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>williamboman / mason.nvim</title>
-  <description>Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.</description>
-  <link>https://github.com/williamboman/mason.nvim</link>
-  <guid isPermaLink="false">3441</guid>
-  <pubDate>Mon, 13 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>alexbatalov / fallout1-ce</title>
-  <description>Fallout for modern operating systems</description>
-  <link>https://github.com/alexbatalov/fallout1-ce</link>
-  <guid isPermaLink="false">3440</guid>
-  <pubDate>Mon, 13 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>bytemate / larkgpt</title>
-  <description>Lark chatgpt bot</description>
-  <link>https://github.com/bytemate/larkgpt</link>
-  <guid isPermaLink="false">3439</guid>
-  <pubDate>Mon, 13 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>ayyucedemirbas / TurkeyLearningInitiative</title>
-  <description>TLI offers educational resources for earthquake-affected communities in Turkey. Find a comprehensive curriculum and detailed course materials in this repository, covering a range of subjects. Join the effort to support continued education and make a difference.</description>
-  <link>https://github.com/ayyucedemirbas/TurkeyLearningInitiative</link>
-  <guid isPermaLink="false">3438</guid>
-  <pubDate>Mon, 13 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>google / styleguide</title>
-  <description>Style guides for Google-originated open-source projects</description>
-  <link>https://github.com/google/styleguide</link>
-  <guid isPermaLink="false">3437</guid>
-  <pubDate>Mon, 13 Feb 2023 09:00:03 -0800</pubDate>
  </item>
 
 </channel>
