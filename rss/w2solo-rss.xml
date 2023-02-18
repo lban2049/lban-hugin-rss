@@ -8,9 +8,23 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 17 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Fri, 17 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sat, 18 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sat, 18 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>新人报道，刚刚开始的独立 app 开发者，请各位多指教</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3748</link>
+  <pubDate>Fri, 17 Feb 2023 20:10:52 -0800</pubDate>
+  <guid isPermaLink="false">3742</guid>
+ </item>
+ <item>
+  <title>新人报道，携着我的小作品</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3745</link>
+  <pubDate>Fri, 17 Feb 2023 09:56:59 -0800</pubDate>
+  <guid isPermaLink="false">3743</guid>
+ </item>
  <item>
   <title>新人报道，刚刚开始的独立 app 开发者，请各位多指教</title>
   <description></description>
@@ -276,20 +290,6 @@
   <link>https://w2solo.com/topics/3723</link>
   <pubDate>Sun, 29 Jan 2023 00:06:17 -0800</pubDate>
   <guid isPermaLink="false">2886</guid>
- </item>
- <item>
-  <title>大家如何构建用户体系的呢？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3719</link>
-  <pubDate>Sat, 28 Jan 2023 18:54:01 -0800</pubDate>
-  <guid isPermaLink="false">2887</guid>
- </item>
- <item>
-  <title>访谈 guyskk：做出了个有稳定收益的小程序的故事</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3722</link>
-  <pubDate>Sat, 28 Jan 2023 04:37:49 -0800</pubDate>
-  <guid isPermaLink="false">2828</guid>
  </item>
 
 </channel>

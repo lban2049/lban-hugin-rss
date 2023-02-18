@@ -8,9 +8,128 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 17 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Fri, 17 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sat, 18 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sat, 18 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>practical-tutorials / project-based-learning</title>
+  <description>Curated list of project-based tutorials</description>
+  <link>https://github.com/practical-tutorials/project-based-learning</link>
+  <guid isPermaLink="false">3715</guid>
+  <pubDate>Sat, 18 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>d2l-ai / d2l-zh</title>
+  <description>《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。</description>
+  <link>https://github.com/d2l-ai/d2l-zh</link>
+  <guid isPermaLink="false">3714</guid>
+  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>gradio-app / gradio</title>
+  <description>Create UIs for your machine learning model in Python in 3 minutes</description>
+  <link>https://github.com/gradio-app/gradio</link>
+  <guid isPermaLink="false">3713</guid>
+  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>antlr / grammars-v4</title>
+  <description>Grammars written for ANTLR v4; expectation that the grammars are free of actions.</description>
+  <link>https://github.com/antlr/grammars-v4</link>
+  <guid isPermaLink="false">3712</guid>
+  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>ytdl-org / youtube-dl</title>
+  <description>Command-line program to download videos from YouTube.com and other video sites</description>
+  <link>https://github.com/ytdl-org/youtube-dl</link>
+  <guid isPermaLink="false">3711</guid>
+  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>realm / SwiftLint</title>
+  <description>A tool to enforce Swift style and conventions.</description>
+  <link>https://github.com/realm/SwiftLint</link>
+  <guid isPermaLink="false">3710</guid>
+  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>skywind3000 / kcp</title>
+  <description>⚡ KCP - A Fast and Reliable ARQ Protocol</description>
+  <link>https://github.com/skywind3000/kcp</link>
+  <guid isPermaLink="false">3709</guid>
+  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>Chanzhaoyu / chatgpt-web</title>
+  <description>使用 express 和 vue3 搭建的 GPT-3 模型演示网页</description>
+  <link>https://github.com/Chanzhaoyu/chatgpt-web</link>
+  <guid isPermaLink="false">3708</guid>
+  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>palera1n / palera1n</title>
+  <description>iOS 15.0-16.3 (semi-)tethered checkm8 jailbreak</description>
+  <link>https://github.com/palera1n/palera1n</link>
+  <guid isPermaLink="false">3707</guid>
+  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>Free-TV / IPTV</title>
+  <description>M3U Playlist for free TV channels</description>
+  <link>https://github.com/Free-TV/IPTV</link>
+  <guid isPermaLink="false">3706</guid>
+  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>DrKLO / Telegram</title>
+  <description>Telegram for Android source</description>
+  <link>https://github.com/DrKLO/Telegram</link>
+  <guid isPermaLink="false">3705</guid>
+  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>slawlor / ractor</title>
+  <description>Rust actor framework</description>
+  <link>https://github.com/slawlor/ractor</link>
+  <guid isPermaLink="false">3704</guid>
+  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>nvim-lua / kickstart.nvim</title>
+  <description>A launch point for your personal nvim configuration</description>
+  <link>https://github.com/nvim-lua/kickstart.nvim</link>
+  <guid isPermaLink="false">3703</guid>
+  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>lllyasviel / style2paints</title>
+  <description>sketch + style = paints 🎨 (TOG2018/SIGGRAPH2018ASIA)</description>
+  <link>https://github.com/lllyasviel/style2paints</link>
+  <guid isPermaLink="false">3702</guid>
+  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>NAStool / nas-tools</title>
+  <description>NAS媒体库管理工具</description>
+  <link>https://github.com/NAStool/nas-tools</link>
+  <guid isPermaLink="false">3701</guid>
+  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>askrella / whatsapp-chatgpt</title>
+  <description>ChatGPT + DALL-E + Whatsapp = AI Assistant 🚀</description>
+  <link>https://github.com/askrella/whatsapp-chatgpt</link>
+  <guid isPermaLink="false">3700</guid>
+  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>yt-dlp / yt-dlp</title>
+  <description>A youtube-dl fork with additional features and fixes</description>
+  <link>https://github.com/yt-dlp/yt-dlp</link>
+  <guid isPermaLink="false">3699</guid>
+  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
  <item>
   <title>ruanyf / weekly</title>
   <description>科技爱好者周刊，每周五发布</description>
@@ -171,125 +290,6 @@
   <link>https://github.com/kingToolbox/WindTerm</link>
   <guid isPermaLink="false">3564</guid>
   <pubDate>Thu, 16 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>johnlui / PPHC</title>
-  <description>📙《高并发的哲学原理》开源图书</description>
-  <link>https://github.com/johnlui/PPHC</link>
-  <guid isPermaLink="false">3563</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>cfortuner / promptable</title>
-  <description>Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀</description>
-  <link>https://github.com/cfortuner/promptable</link>
-  <guid isPermaLink="false">3562</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>opera-gaming / gxmods</title>
-  <description>Documentation for GX mods</description>
-  <link>https://github.com/opera-gaming/gxmods</link>
-  <guid isPermaLink="false">3561</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>Mikubill / sd-webui-controlnet</title>
-  <description>WebUI extension for ControlNet</description>
-  <link>https://github.com/Mikubill/sd-webui-controlnet</link>
-  <guid isPermaLink="false">3560</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>hpcaitech / ColossalAI</title>
-  <description>Making big AI models cheaper, easier, and more scalable</description>
-  <link>https://github.com/hpcaitech/ColossalAI</link>
-  <guid isPermaLink="false">3559</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>Alamofire / Alamofire</title>
-  <description>Elegant HTTP Networking in Swift</description>
-  <link>https://github.com/Alamofire/Alamofire</link>
-  <guid isPermaLink="false">3513</guid>
-  <pubDate>Tue, 14 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>jackfrued / Python-100-Days</title>
-  <description>Python - 100天从新手到大师</description>
-  <link>https://github.com/jackfrued/Python-100-Days</link>
-  <guid isPermaLink="false">3512</guid>
-  <pubDate>Tue, 14 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>btcpayserver / btcpayserver</title>
-  <description>Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.</description>
-  <link>https://github.com/btcpayserver/btcpayserver</link>
-  <guid isPermaLink="false">3511</guid>
-  <pubDate>Tue, 14 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>tektoncd / pipeline</title>
-  <description>A cloud-native Pipeline resource.</description>
-  <link>https://github.com/tektoncd/pipeline</link>
-  <guid isPermaLink="false">3510</guid>
-  <pubDate>Tue, 14 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>haoheliu / AudioLDM</title>
-  <description>AudioLDM: Generate speech, sound effects, music and beyond, with text.</description>
-  <link>https://github.com/haoheliu/AudioLDM</link>
-  <guid isPermaLink="false">3509</guid>
-  <pubDate>Tue, 14 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>danielgindi / Charts</title>
-  <description>Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</description>
-  <link>https://github.com/danielgindi/Charts</link>
-  <guid isPermaLink="false">3508</guid>
-  <pubDate>Tue, 14 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>liu673cn / box</title>
-  <description>TVbox开源版（空壳-自行配置）</description>
-  <link>https://github.com/liu673cn/box</link>
-  <guid isPermaLink="false">3507</guid>
-  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>Azure / azure-sdk-for-net</title>
-  <description>This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.</description>
-  <link>https://github.com/Azure/azure-sdk-for-net</link>
-  <guid isPermaLink="false">3506</guid>
-  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>angular / angular</title>
-  <description>The modern web developer’s platform</description>
-  <link>https://github.com/angular/angular</link>
-  <guid isPermaLink="false">3505</guid>
-  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>bytemate / chatapi-single</title>
-  <description>Simple and powerful ChatGPT-API-Server</description>
-  <link>https://github.com/bytemate/chatapi-single</link>
-  <guid isPermaLink="false">3504</guid>
-  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>palera1n / palera1n-c</title>
-  <description>palera1n written in C</description>
-  <link>https://github.com/palera1n/palera1n-c</link>
-  <guid isPermaLink="false">3503</guid>
-  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>alexbatalov / fallout2-ce</title>
-  <description>Fallout 2 for modern operating systems</description>
-  <link>https://github.com/alexbatalov/fallout2-ce</link>
-  <guid isPermaLink="false">3502</guid>
-  <pubDate>Tue, 14 Feb 2023 09:00:04 -0800</pubDate>
  </item>
 
 </channel>
