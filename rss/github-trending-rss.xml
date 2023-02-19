@@ -8,9 +8,114 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 18 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sat, 18 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sun, 19 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 19 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>microsoft / Web-Dev-For-Beginners</title>
+  <description>24 Lessons, 12 Weeks, Get Started as a Web Developer</description>
+  <link>https://github.com/microsoft/Web-Dev-For-Beginners</link>
+  <guid isPermaLink="false">3768</guid>
+  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>CompVis / stable-diffusion</title>
+  <description>A latent text-to-image diffusion model</description>
+  <link>https://github.com/CompVis/stable-diffusion</link>
+  <guid isPermaLink="false">3767</guid>
+  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>neovim / neovim</title>
+  <description>Vim-fork focused on extensibility and usability</description>
+  <link>https://github.com/neovim/neovim</link>
+  <guid isPermaLink="false">3766</guid>
+  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>leptos-rs / leptos</title>
+  <description>Build fast web applications with Rust.</description>
+  <link>https://github.com/leptos-rs/leptos</link>
+  <guid isPermaLink="false">3765</guid>
+  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>invoke-ai / InvokeAI</title>
+  <description>InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.</description>
+  <link>https://github.com/invoke-ai/InvokeAI</link>
+  <guid isPermaLink="false">3764</guid>
+  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>TencentARC / T2I-Adapter</title>
+  <description>T2I-Adapter</description>
+  <link>https://github.com/TencentARC/T2I-Adapter</link>
+  <guid isPermaLink="false">3763</guid>
+  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>XTLS / REALITY</title>
+  <description>THE NEXT FUTURE</description>
+  <link>https://github.com/XTLS/REALITY</link>
+  <guid isPermaLink="false">3762</guid>
+  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>kohya-ss / sd-scripts</title>
+  <description></description>
+  <link>https://github.com/kohya-ss/sd-scripts</link>
+  <guid isPermaLink="false">3761</guid>
+  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>kettle11 / tangle</title>
+  <description>Radically simple multiplayer / networked WebAssembly</description>
+  <link>https://github.com/kettle11/tangle</link>
+  <guid isPermaLink="false">3760</guid>
+  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>brave-people / Dev-Event</title>
+  <description>🎉🎈 개발자 {웨비나, 컨퍼런스, 해커톤} 행사를 알려드립니다. [with 남송리 삼번지]</description>
+  <link>https://github.com/brave-people/Dev-Event</link>
+  <guid isPermaLink="false">3759</guid>
+  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>omenking / aws-bootcamp-cruddur-2023</title>
+  <description></description>
+  <link>https://github.com/omenking/aws-bootcamp-cruddur-2023</link>
+  <guid isPermaLink="false">3758</guid>
+  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>chvancooten / NimPlant</title>
+  <description>A light-weight first-stage C2 implant written in Nim.</description>
+  <link>https://github.com/chvancooten/NimPlant</link>
+  <guid isPermaLink="false">3757</guid>
+  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>hwchase17 / langchainjs</title>
+  <description></description>
+  <link>https://github.com/hwchase17/langchainjs</link>
+  <guid isPermaLink="false">3756</guid>
+  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>AUTOMATIC1111 / stable-diffusion-webui</title>
+  <description>Stable Diffusion web UI</description>
+  <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
+  <guid isPermaLink="false">3755</guid>
+  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>askrella / whatsapp-chatgpt</title>
+  <description>ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀</description>
+  <link>https://github.com/askrella/whatsapp-chatgpt</link>
+  <guid isPermaLink="false">3754</guid>
+  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
  <item>
   <title>practical-tutorials / project-based-learning</title>
   <description>Curated list of project-based tutorials</description>
@@ -185,111 +290,6 @@
   <link>https://github.com/NvChad/NvChad</link>
   <guid isPermaLink="false">3647</guid>
   <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>mermaid-js / mermaid</title>
-  <description>Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown</description>
-  <link>https://github.com/mermaid-js/mermaid</link>
-  <guid isPermaLink="false">3646</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>deepmind / mctx</title>
-  <description>Monte Carlo tree search in JAX</description>
-  <link>https://github.com/deepmind/mctx</link>
-  <guid isPermaLink="false">3645</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>shyamsn97 / mario-gpt</title>
-  <description>Generating Mario Levels with GPT2. Code for the paper "MarioGPT: Open-Ended Text2Level Generation through Large Language Models" https://arxiv.org/abs/2302.05981</description>
-  <link>https://github.com/shyamsn97/mario-gpt</link>
-  <guid isPermaLink="false">3644</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>Nutlope / aicommits</title>
-  <description>A CLI that writes your git commit messages for you with AI</description>
-  <link>https://github.com/Nutlope/aicommits</link>
-  <guid isPermaLink="false">3643</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>rerun-io / rerun</title>
-  <description>Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui</description>
-  <link>https://github.com/rerun-io/rerun</link>
-  <guid isPermaLink="false">3642</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>odoo / odoo</title>
-  <description>Odoo. Open Source Apps To Grow Your Business.</description>
-  <link>https://github.com/odoo/odoo</link>
-  <guid isPermaLink="false">3573</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>xiaolincoder / CS-Base</title>
-  <description>图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com</description>
-  <link>https://github.com/xiaolincoder/CS-Base</link>
-  <guid isPermaLink="false">3572</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>shieldfy / API-Security-Checklist</title>
-  <description>Checklist of the most important security countermeasures when designing, testing, and releasing your API</description>
-  <link>https://github.com/shieldfy/API-Security-Checklist</link>
-  <guid isPermaLink="false">3571</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>midudev / aprendiendo-react</title>
-  <description>Curso para aprender React desde cero</description>
-  <link>https://github.com/midudev/aprendiendo-react</link>
-  <guid isPermaLink="false">3570</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>timqian / chinese-independent-blogs</title>
-  <description>中文独立博客列表</description>
-  <link>https://github.com/timqian/chinese-independent-blogs</link>
-  <guid isPermaLink="false">3569</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>YunaiV / ruoyi-vue-pro</title>
-  <description>🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue &amp; Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！</description>
-  <link>https://github.com/YunaiV/ruoyi-vue-pro</link>
-  <guid isPermaLink="false">3568</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>navopw / whatsapp-chatgpt</title>
-  <description>Whatsapp + ChatGPT = ❤️</description>
-  <link>https://github.com/navopw/whatsapp-chatgpt</link>
-  <guid isPermaLink="false">3567</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>zloirock / core-js</title>
-  <description>Standard Library</description>
-  <link>https://github.com/zloirock/core-js</link>
-  <guid isPermaLink="false">3566</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>laravel / laravel</title>
-  <description>Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.</description>
-  <link>https://github.com/laravel/laravel</link>
-  <guid isPermaLink="false">3565</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:06 -0800</pubDate>
- </item>
- <item>
-  <title>kingToolbox / WindTerm</title>
-  <description>A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.</description>
-  <link>https://github.com/kingToolbox/WindTerm</link>
-  <guid isPermaLink="false">3564</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:06 -0800</pubDate>
  </item>
 
 </channel>

@@ -8,9 +8,37 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 18 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sat, 18 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sun, 19 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 19 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>w2solo 第一次线下聚会完美谢幕</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3750</link>
+  <pubDate>Sun, 19 Feb 2023 07:15:28 -0800</pubDate>
+  <guid isPermaLink="false">3793</guid>
+ </item>
+ <item>
+  <title>新人报道，自我介绍，UI 设计师转 Python</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3744</link>
+  <pubDate>Sun, 19 Feb 2023 05:48:59 -0800</pubDate>
+  <guid isPermaLink="false">3794</guid>
+ </item>
+ <item>
+  <title>一个用来管理你网站 Storage 数据的浏览器扩展</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3749</link>
+  <pubDate>Sat, 18 Feb 2023 23:50:36 -0800</pubDate>
+  <guid isPermaLink="false">3795</guid>
+ </item>
+ <item>
+  <title>新人报道，刚刚开始的独立 app 开发者，请各位多指教</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3748</link>
+  <pubDate>Sat, 18 Feb 2023 21:14:26 -0800</pubDate>
+  <guid isPermaLink="false">3796</guid>
+ </item>
  <item>
   <title>新人报道，刚刚开始的独立 app 开发者，请各位多指教</title>
   <description></description>
@@ -262,34 +290,6 @@
   <link>https://w2solo.com/topics/3722</link>
   <pubDate>Mon, 30 Jan 2023 22:04:00 -0800</pubDate>
   <guid isPermaLink="false">2985</guid>
- </item>
- <item>
-  <title>彻底去除了所有广告无需登录注册书源稳定数千！</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3724</link>
-  <pubDate>Mon, 30 Jan 2023 18:56:32 -0800</pubDate>
-  <guid isPermaLink="false">2987</guid>
- </item>
- <item>
-  <title>独立产品灵感周刊 DecoHack #045 - 新春程序员寻找 “副业” 灵感指南</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3725</link>
-  <pubDate>Sun, 29 Jan 2023 21:26:40 -0800</pubDate>
-  <guid isPermaLink="false">2938</guid>
- </item>
- <item>
-  <title>彻底去除了所有广告无需登录注册书源稳定数千！</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3724</link>
-  <pubDate>Sun, 29 Jan 2023 05:51:47 -0800</pubDate>
-  <guid isPermaLink="false">2885</guid>
- </item>
- <item>
-  <title>新人报道，非常荣幸和大家一起探索独立开发之路</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3723</link>
-  <pubDate>Sun, 29 Jan 2023 00:06:17 -0800</pubDate>
-  <guid isPermaLink="false">2886</guid>
  </item>
 
 </channel>
