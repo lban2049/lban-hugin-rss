@@ -8,9 +8,93 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 19 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sun, 19 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Mon, 20 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 20 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Githunt - Extract emails of developers on Github</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/githunt-extract-emails-of-developers-on-github-5eaf395c44</link>
+  <guid isPermaLink="false">3864</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>What was your feeling before 2 hrs of your ProductHunt launch? I am Nervous 😬 and Excited 😆.</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/what-was-your-feeling-before-2-hrs-of-your-producthunt-launch-i-am-nervous-and-excited-d753290099</link>
+  <guid isPermaLink="false">3863</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>This happened</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/this-happened-86d32eff61</link>
+  <guid isPermaLink="false">3862</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>Traffic stats for my post getting featured in newsletters</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/traffic-stats-for-my-post-getting-featured-in-newsletters-e5902b8fec</link>
+  <guid isPermaLink="false">3861</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>My account got locked on DigitalOcean. Looking for hosting</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/my-account-got-locked-on-digitalocean-looking-for-hosting-fc09661cce</link>
+  <guid isPermaLink="false">3860</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>Crossed 700 subs, started 123 days ago.</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/crossed-700-subs-started-123-days-ago-e8eb7f28b7</link>
+  <guid isPermaLink="false">3859</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>What are the best lesser known Substack features?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/what-are-the-best-lesser-known-substack-features-1c96d22ce6</link>
+  <guid isPermaLink="false">3858</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>Newsletter about Generative AI and startups</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/newsletter-about-generative-ai-and-startups-d0719b63b3</link>
+  <guid isPermaLink="false">3857</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>Anyone else tired of seeing chatGPT everywhere for everything?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/anyone-else-tired-of-seeing-chatgpt-everywhere-for-everything-874f275afc</link>
+  <guid isPermaLink="false">3856</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>🎙️ Monday's Show Up!</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/mondays-show-up-70ff82ff94</link>
+  <guid isPermaLink="false">3855</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>As a freelancer or consultant, what do you use to keep track of the time you spend on a project?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/as-a-freelancer-or-consultant-what-do-you-use-to-keep-track-of-the-time-you-spend-on-a-project-4da4353dc7</link>
+  <guid isPermaLink="false">3854</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
+ <item>
+  <title>How to avoid creating products that no one wants</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-to-avoid-creating-products-that-no-one-wants-5ba40e0805</link>
+  <guid isPermaLink="false">3853</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:13 -0800</pubDate>
+ </item>
  <item>
   <title>Have you tried bootstrapping freemium?</title>
   <description></description>
@@ -206,90 +290,6 @@
   <link>https://www.indiehackers.com/post/seeking-a-technical-co-founder-for-a-creator-saas-idea-be2072fa63</link>
   <guid isPermaLink="false">3694</guid>
   <pubDate>Fri, 17 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>Lessons learned from 5 years of indie hacking</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/lessons-learned-from-5-years-of-indie-hacking-215e6062ec</link>
-  <guid isPermaLink="false">3693</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>What's the difference between a Developer, Engineer, and Coder?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/whats-the-difference-between-a-developer-engineer-and-coder-40e7a479fc</link>
-  <guid isPermaLink="false">3692</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>How to use cross-promotion to grow your newsletter faster</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-to-use-cross-promotion-to-grow-your-newsletter-faster-193d279814</link>
-  <guid isPermaLink="false">3691</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>What if the “start small” strategy doesn’t work for a project?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/product/everycards/what-if-the-start-small-strategy-doesn-t-work-for-a-project--NONum7yM411Z2RRxIRM</link>
-  <guid isPermaLink="false">3690</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>17 best PayPal alternatives for 2023</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/17-best-paypal-alternatives-for-2023-eb6a6eb91f</link>
-  <guid isPermaLink="false">3689</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>Are indie hackers doing things right?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/are-indie-hackers-doing-things-right-3d5ab3ad99</link>
-  <guid isPermaLink="false">3688</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>How do you find problems to solve when you don't have the domain knowledge?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-do-you-find-problems-to-solve-when-you-dont-have-the-domain-knowledge-eec4a39b26</link>
-  <guid isPermaLink="false">3687</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>The problem with trying to make the best things</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/the-problem-with-trying-to-make-the-best-things-c143b1696d</link>
-  <guid isPermaLink="false">3686</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>The death of no-code: Why no-code has no future in a world of AI</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/the-death-of-no-code-why-no-code-has-no-future-in-a-world-of-ai-472d0410d2</link>
-  <guid isPermaLink="false">3685</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>Launching my first SaaS and here's my plan to land our first 10 customers.</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/launching-my-first-saas-and-heres-my-plan-to-land-our-first-10-customers-8a365fed53</link>
-  <guid isPermaLink="false">3641</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:14 -0800</pubDate>
- </item>
- <item>
-  <title>How do you deploy your projects?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-do-you-deploy-your-projects-c712e7136b</link>
-  <guid isPermaLink="false">3640</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:14 -0800</pubDate>
- </item>
- <item>
-  <title>Reddit for Personal Branding: Why &amp; How?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/reddit-for-personal-branding-why-how-274d24629b</link>
-  <guid isPermaLink="false">3639</guid>
-  <pubDate>Thu, 16 Feb 2023 09:00:14 -0800</pubDate>
  </item>
 
 </channel>

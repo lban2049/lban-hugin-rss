@@ -8,9 +8,79 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 19 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sun, 19 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Mon, 20 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 20 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>sindresorhus / awesome</title>
+  <description>😎 Awesome lists about all kinds of interesting topics</description>
+  <link>https://github.com/sindresorhus/awesome</link>
+  <guid isPermaLink="false">3819</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>civitai / sd_civitai_extension</title>
+  <description>All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI</description>
+  <link>https://github.com/civitai/sd_civitai_extension</link>
+  <guid isPermaLink="false">3818</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>TencentARC / GFPGAN</title>
+  <description>GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.</description>
+  <link>https://github.com/TencentARC/GFPGAN</link>
+  <guid isPermaLink="false">3817</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>Learn-with-Sumit / think-in-a-redux-way</title>
+  <description>Think in a Redux way - React-Redux basic to advanced Bangla course by Learn with Sumit</description>
+  <link>https://github.com/Learn-with-Sumit/think-in-a-redux-way</link>
+  <guid isPermaLink="false">3816</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>huggingface / diffusers</title>
+  <description>🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch</description>
+  <link>https://github.com/huggingface/diffusers</link>
+  <guid isPermaLink="false">3815</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / hack-together</title>
+  <description>Hack Together: Microsoft Graph and .NET is a hackathon for .NET developers to learn Microsoft Graph and Microsoft 365.</description>
+  <link>https://github.com/microsoft/hack-together</link>
+  <guid isPermaLink="false">3814</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>replicate / scribble-diffusion</title>
+  <description>Turn your rough sketch into a refined image using AI</description>
+  <link>https://github.com/replicate/scribble-diffusion</link>
+  <guid isPermaLink="false">3813</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>LazyVim / LazyVim</title>
+  <description>Neovim config for the lazy</description>
+  <link>https://github.com/LazyVim/LazyVim</link>
+  <guid isPermaLink="false">3812</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>kamranahmedse / developer-roadmap</title>
+  <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
+  <link>https://github.com/kamranahmedse/developer-roadmap</link>
+  <guid isPermaLink="false">3811</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>trpc / trpc</title>
+  <description>🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.</description>
+  <link>https://github.com/trpc/trpc</link>
+  <guid isPermaLink="false">3810</guid>
+  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
  <item>
   <title>microsoft / Web-Dev-For-Beginners</title>
   <description>24 Lessons, 12 Weeks, Get Started as a Web Developer</description>
@@ -220,76 +290,6 @@
   <link>https://github.com/NAStool/nas-tools</link>
   <guid isPermaLink="false">3701</guid>
   <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>askrella / whatsapp-chatgpt</title>
-  <description>ChatGPT + DALL-E + Whatsapp = AI Assistant 🚀</description>
-  <link>https://github.com/askrella/whatsapp-chatgpt</link>
-  <guid isPermaLink="false">3700</guid>
-  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>yt-dlp / yt-dlp</title>
-  <description>A youtube-dl fork with additional features and fixes</description>
-  <link>https://github.com/yt-dlp/yt-dlp</link>
-  <guid isPermaLink="false">3699</guid>
-  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>ruanyf / weekly</title>
-  <description>科技爱好者周刊，每周五发布</description>
-  <link>https://github.com/ruanyf/weekly</link>
-  <guid isPermaLink="false">3654</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>amazon-science / mm-cot</title>
-  <description>Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated)</description>
-  <link>https://github.com/amazon-science/mm-cot</link>
-  <guid isPermaLink="false">3653</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>Developer-Y / cs-video-courses</title>
-  <description>List of Computer Science courses with video lectures.</description>
-  <link>https://github.com/Developer-Y/cs-video-courses</link>
-  <guid isPermaLink="false">3652</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>navopw / whatsapp-chatgpt</title>
-  <description>ChatGPT + Whatsapp = AI Assistant 🚀</description>
-  <link>https://github.com/navopw/whatsapp-chatgpt</link>
-  <guid isPermaLink="false">3651</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>mfaisalkhatri / awesome-learning</title>
-  <description>Curated lists of awesome learning resources for a Software Test Automation Engineer</description>
-  <link>https://github.com/mfaisalkhatri/awesome-learning</link>
-  <guid isPermaLink="false">3650</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>hpcaitech / EnergonAI</title>
-  <description>Large-scale model inference.</description>
-  <link>https://github.com/hpcaitech/EnergonAI</link>
-  <guid isPermaLink="false">3649</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>Daiyimo / Access-chatGPT-in-Siri</title>
-  <description>chatGPT接入Siri指南，目前仅限iPhone端，后续会更新Android</description>
-  <link>https://github.com/Daiyimo/Access-chatGPT-in-Siri</link>
-  <guid isPermaLink="false">3648</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>NvChad / NvChad</title>
-  <description>An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime</description>
-  <link>https://github.com/NvChad/NvChad</link>
-  <guid isPermaLink="false">3647</guid>
-  <pubDate>Fri, 17 Feb 2023 09:00:07 -0800</pubDate>
  </item>
 
 </channel>
