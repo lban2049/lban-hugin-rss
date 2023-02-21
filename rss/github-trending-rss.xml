@@ -8,9 +8,121 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 20 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 20 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 21 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Tue, 21 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>gothinkster / realworld</title>
+  <description>"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅</description>
+  <link>https://github.com/gothinkster/realworld</link>
+  <guid isPermaLink="false">3880</guid>
+  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>AbdBarho / stable-diffusion-webui-docker</title>
+  <description>Easy Docker setup for Stable Diffusion with user-friendly UI</description>
+  <link>https://github.com/AbdBarho/stable-diffusion-webui-docker</link>
+  <guid isPermaLink="false">3879</guid>
+  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>freefq / free</title>
+  <description>翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子</description>
+  <link>https://github.com/freefq/free</link>
+  <guid isPermaLink="false">3878</guid>
+  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>coollabsio / coolify</title>
+  <description>An open-source &amp; self-hostable Heroku / Netlify alternative.</description>
+  <link>https://github.com/coollabsio/coolify</link>
+  <guid isPermaLink="false">3877</guid>
+  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>danijar / dreamerv3</title>
+  <description>Mastering Diverse Domains through World Models</description>
+  <link>https://github.com/danijar/dreamerv3</link>
+  <guid isPermaLink="false">3876</guid>
+  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>jlevy / the-art-of-command-line</title>
+  <description>Master the command line, in one page</description>
+  <link>https://github.com/jlevy/the-art-of-command-line</link>
+  <guid isPermaLink="false">3875</guid>
+  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>dair-ai / Prompt-Engineering-Guide</title>
+  <description>🐙 Guides, papers, and resources for prompt engineering</description>
+  <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
+  <guid isPermaLink="false">3874</guid>
+  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>vinta / awesome-python</title>
+  <description>A curated list of awesome Python frameworks, libraries, software and resources</description>
+  <link>https://github.com/vinta/awesome-python</link>
+  <guid isPermaLink="false">3873</guid>
+  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>zinclabs / zincsearch</title>
+  <description>ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.</description>
+  <link>https://github.com/zinclabs/zincsearch</link>
+  <guid isPermaLink="false">3872</guid>
+  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>dunbar12138 / pix2pix3D</title>
+  <description>pix2pix3D: Generating 3D Objects from 2D User Inputs</description>
+  <link>https://github.com/dunbar12138/pix2pix3D</link>
+  <guid isPermaLink="false">3871</guid>
+  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>fkunn1326 / openpose-editor</title>
+  <description>Openpose Editor for AUTOMATIC1111's stable-diffusion-webui</description>
+  <link>https://github.com/fkunn1326/openpose-editor</link>
+  <guid isPermaLink="false">3870</guid>
+  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>liupan1890 / aliyunpan</title>
+  <description>阿里云盘小白羊版 阿里云盘PC版 aliyundriver</description>
+  <link>https://github.com/liupan1890/aliyunpan</link>
+  <guid isPermaLink="false">3869</guid>
+  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>Klocman / Bulk-Crap-Uninstaller</title>
+  <description>Remove large amounts of unwanted applications quickly.</description>
+  <link>https://github.com/Klocman/Bulk-Crap-Uninstaller</link>
+  <guid isPermaLink="false">3868</guid>
+  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>immersive-translate / immersive-translate</title>
+  <description>Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展</description>
+  <link>https://github.com/immersive-translate/immersive-translate</link>
+  <guid isPermaLink="false">3867</guid>
+  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>jwasham / coding-interview-university</title>
+  <description>A complete computer science study plan to become a software engineer.</description>
+  <link>https://github.com/jwasham/coding-interview-university</link>
+  <guid isPermaLink="false">3866</guid>
+  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>DvorakDwarf / Infinite-Storage-Glitch</title>
+  <description>ISG lets you use YouTube as cloud storage for ANY files, not just video</description>
+  <link>https://github.com/DvorakDwarf/Infinite-Storage-Glitch</link>
+  <guid isPermaLink="false">3865</guid>
+  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
+ </item>
  <item>
   <title>sindresorhus / awesome</title>
   <description>😎 Awesome lists about all kinds of interesting topics</description>
@@ -178,118 +290,6 @@
   <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
   <guid isPermaLink="false">3755</guid>
   <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>askrella / whatsapp-chatgpt</title>
-  <description>ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀</description>
-  <link>https://github.com/askrella/whatsapp-chatgpt</link>
-  <guid isPermaLink="false">3754</guid>
-  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>practical-tutorials / project-based-learning</title>
-  <description>Curated list of project-based tutorials</description>
-  <link>https://github.com/practical-tutorials/project-based-learning</link>
-  <guid isPermaLink="false">3715</guid>
-  <pubDate>Sat, 18 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>d2l-ai / d2l-zh</title>
-  <description>《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。</description>
-  <link>https://github.com/d2l-ai/d2l-zh</link>
-  <guid isPermaLink="false">3714</guid>
-  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>gradio-app / gradio</title>
-  <description>Create UIs for your machine learning model in Python in 3 minutes</description>
-  <link>https://github.com/gradio-app/gradio</link>
-  <guid isPermaLink="false">3713</guid>
-  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>antlr / grammars-v4</title>
-  <description>Grammars written for ANTLR v4; expectation that the grammars are free of actions.</description>
-  <link>https://github.com/antlr/grammars-v4</link>
-  <guid isPermaLink="false">3712</guid>
-  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>ytdl-org / youtube-dl</title>
-  <description>Command-line program to download videos from YouTube.com and other video sites</description>
-  <link>https://github.com/ytdl-org/youtube-dl</link>
-  <guid isPermaLink="false">3711</guid>
-  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>realm / SwiftLint</title>
-  <description>A tool to enforce Swift style and conventions.</description>
-  <link>https://github.com/realm/SwiftLint</link>
-  <guid isPermaLink="false">3710</guid>
-  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>skywind3000 / kcp</title>
-  <description>⚡ KCP - A Fast and Reliable ARQ Protocol</description>
-  <link>https://github.com/skywind3000/kcp</link>
-  <guid isPermaLink="false">3709</guid>
-  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>Chanzhaoyu / chatgpt-web</title>
-  <description>使用 express 和 vue3 搭建的 GPT-3 模型演示网页</description>
-  <link>https://github.com/Chanzhaoyu/chatgpt-web</link>
-  <guid isPermaLink="false">3708</guid>
-  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>palera1n / palera1n</title>
-  <description>iOS 15.0-16.3 (semi-)tethered checkm8 jailbreak</description>
-  <link>https://github.com/palera1n/palera1n</link>
-  <guid isPermaLink="false">3707</guid>
-  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>Free-TV / IPTV</title>
-  <description>M3U Playlist for free TV channels</description>
-  <link>https://github.com/Free-TV/IPTV</link>
-  <guid isPermaLink="false">3706</guid>
-  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>DrKLO / Telegram</title>
-  <description>Telegram for Android source</description>
-  <link>https://github.com/DrKLO/Telegram</link>
-  <guid isPermaLink="false">3705</guid>
-  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>slawlor / ractor</title>
-  <description>Rust actor framework</description>
-  <link>https://github.com/slawlor/ractor</link>
-  <guid isPermaLink="false">3704</guid>
-  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>nvim-lua / kickstart.nvim</title>
-  <description>A launch point for your personal nvim configuration</description>
-  <link>https://github.com/nvim-lua/kickstart.nvim</link>
-  <guid isPermaLink="false">3703</guid>
-  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>lllyasviel / style2paints</title>
-  <description>sketch + style = paints 🎨 (TOG2018/SIGGRAPH2018ASIA)</description>
-  <link>https://github.com/lllyasviel/style2paints</link>
-  <guid isPermaLink="false">3702</guid>
-  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>NAStool / nas-tools</title>
-  <description>NAS媒体库管理工具</description>
-  <link>https://github.com/NAStool/nas-tools</link>
-  <guid isPermaLink="false">3701</guid>
-  <pubDate>Sat, 18 Feb 2023 09:00:04 -0800</pubDate>
  </item>
 
 </channel>

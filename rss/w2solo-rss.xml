@@ -8,9 +8,44 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 20 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Mon, 20 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Tue, 21 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Tue, 21 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>google play 因无障碍服务，通过不了审核</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3755</link>
+  <pubDate>Tue, 21 Feb 2023 04:28:40 -0800</pubDate>
+  <guid isPermaLink="false">3911</guid>
+ </item>
+ <item>
+  <title>独立产品灵感周刊 DecoHack #048 - 优秀独立开发产品推荐</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3754</link>
+  <pubDate>Tue, 21 Feb 2023 01:54:57 -0800</pubDate>
+  <guid isPermaLink="false">3912</guid>
+ </item>
+ <item>
+  <title>传值的起源</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3753</link>
+  <pubDate>Tue, 21 Feb 2023 01:21:54 -0800</pubDate>
+  <guid isPermaLink="false">3913</guid>
+ </item>
+ <item>
+  <title>独立开发周报 #1 (0213-0219)</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3752</link>
+  <pubDate>Mon, 20 Feb 2023 22:37:53 -0800</pubDate>
+  <guid isPermaLink="false">3914</guid>
+ </item>
+ <item>
+  <title>介绍 tvcal.app → 电视剧日历生成器</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3747</link>
+  <pubDate>Mon, 20 Feb 2023 20:58:04 -0800</pubDate>
+  <guid isPermaLink="false">3915</guid>
+ </item>
  <item>
   <title>App 获取第一批用户的经验总结</title>
   <description></description>
@@ -255,41 +290,6 @@
   <link>https://w2solo.com/topics/3731</link>
   <pubDate>Tue, 07 Feb 2023 18:48:22 -0800</pubDate>
   <guid isPermaLink="false">3208</guid>
- </item>
- <item>
-  <title>个人创业开发财富记账类 APP，寻 Flutter 开发一起</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3726</link>
-  <pubDate>Tue, 07 Feb 2023 02:10:21 -0800</pubDate>
-  <guid isPermaLink="false">3209</guid>
- </item>
- <item>
-  <title>友映计划，主要功能是同屏一起看视频，屏幕共享可实现同步刷抖音，还可以视频连麦</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3713</link>
-  <pubDate>Tue, 07 Feb 2023 02:09:59 -0800</pubDate>
-  <guid isPermaLink="false">3210</guid>
- </item>
- <item>
-  <title>新人报道</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3729</link>
-  <pubDate>Mon, 06 Feb 2023 07:58:02 -0800</pubDate>
-  <guid isPermaLink="false">3211</guid>
- </item>
- <item>
-  <title>独立产品灵感周刊 DecoHack #046 - 试试用 ChatGPT 写周刊</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3728</link>
-  <pubDate>Sun, 05 Feb 2023 18:55:04 -0800</pubDate>
-  <guid isPermaLink="false">3212</guid>
- </item>
- <item>
-  <title>外包项目- 开发 APP（IOS Android 两版本）</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3727</link>
-  <pubDate>Sat, 04 Feb 2023 21:53:24 -0800</pubDate>
-  <guid isPermaLink="false">3213</guid>
  </item>
 
 </channel>
