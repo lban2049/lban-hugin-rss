@@ -8,9 +8,86 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 21 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Tue, 21 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Wed, 22 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Wed, 22 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Bkebi-Group / Bkebi-GC-Release</title>
+  <description>Download Bkebi-GC Here</description>
+  <link>https://github.com/Bkebi-Group/Bkebi-GC-Release</link>
+  <guid isPermaLink="false">3940</guid>
+  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>Eugeny / tabby</title>
+  <description>A terminal for a more modern age</description>
+  <link>https://github.com/Eugeny/tabby</link>
+  <guid isPermaLink="false">3939</guid>
+  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>camenduru / stable-diffusion-webui-colab</title>
+  <description>stable diffusion webui colab</description>
+  <link>https://github.com/camenduru/stable-diffusion-webui-colab</link>
+  <guid isPermaLink="false">3938</guid>
+  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>howl-anderson / unlocking-the-power-of-llms</title>
+  <description>使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！每日更新～</description>
+  <link>https://github.com/howl-anderson/unlocking-the-power-of-llms</link>
+  <guid isPermaLink="false">3937</guid>
+  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>dair-ai / Prompt-Engineering-Guide</title>
+  <description>🐙 Guides, papers, lecture, and resources for prompt engineering</description>
+  <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
+  <guid isPermaLink="false">3936</guid>
+  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>total-typescript / ts-reset</title>
+  <description>A 'CSS reset' for TypeScript, improving types for common JavaScript API's</description>
+  <link>https://github.com/total-typescript/ts-reset</link>
+  <guid isPermaLink="false">3935</guid>
+  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>DovAmir / awesome-design-patterns</title>
+  <description>A curated list of software and architecture related design patterns.</description>
+  <link>https://github.com/DovAmir/awesome-design-patterns</link>
+  <guid isPermaLink="false">3934</guid>
+  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>Kanaries / pygwalker</title>
+  <description>PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis</description>
+  <link>https://github.com/Kanaries/pygwalker</link>
+  <guid isPermaLink="false">3933</guid>
+  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>FMInference / FlexGen</title>
+  <description>Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput large-batch generation.</description>
+  <link>https://github.com/FMInference/FlexGen</link>
+  <guid isPermaLink="false">3932</guid>
+  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>bregman-arie / devops-exercises</title>
+  <description>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions</description>
+  <link>https://github.com/bregman-arie/devops-exercises</link>
+  <guid isPermaLink="false">3931</guid>
+  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>askrella / whatsapp-chatgpt</title>
+  <description>ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀 🤖</description>
+  <link>https://github.com/askrella/whatsapp-chatgpt</link>
+  <guid isPermaLink="false">3930</guid>
+  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
+ </item>
  <item>
   <title>gothinkster / realworld</title>
   <description>"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅</description>
@@ -212,83 +289,6 @@
   <description>Vim-fork focused on extensibility and usability</description>
   <link>https://github.com/neovim/neovim</link>
   <guid isPermaLink="false">3766</guid>
-  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>leptos-rs / leptos</title>
-  <description>Build fast web applications with Rust.</description>
-  <link>https://github.com/leptos-rs/leptos</link>
-  <guid isPermaLink="false">3765</guid>
-  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>invoke-ai / InvokeAI</title>
-  <description>InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.</description>
-  <link>https://github.com/invoke-ai/InvokeAI</link>
-  <guid isPermaLink="false">3764</guid>
-  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>TencentARC / T2I-Adapter</title>
-  <description>T2I-Adapter</description>
-  <link>https://github.com/TencentARC/T2I-Adapter</link>
-  <guid isPermaLink="false">3763</guid>
-  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>XTLS / REALITY</title>
-  <description>THE NEXT FUTURE</description>
-  <link>https://github.com/XTLS/REALITY</link>
-  <guid isPermaLink="false">3762</guid>
-  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>kohya-ss / sd-scripts</title>
-  <description></description>
-  <link>https://github.com/kohya-ss/sd-scripts</link>
-  <guid isPermaLink="false">3761</guid>
-  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>kettle11 / tangle</title>
-  <description>Radically simple multiplayer / networked WebAssembly</description>
-  <link>https://github.com/kettle11/tangle</link>
-  <guid isPermaLink="false">3760</guid>
-  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>brave-people / Dev-Event</title>
-  <description>🎉🎈 개발자 {웨비나, 컨퍼런스, 해커톤} 행사를 알려드립니다. [with 남송리 삼번지]</description>
-  <link>https://github.com/brave-people/Dev-Event</link>
-  <guid isPermaLink="false">3759</guid>
-  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>omenking / aws-bootcamp-cruddur-2023</title>
-  <description></description>
-  <link>https://github.com/omenking/aws-bootcamp-cruddur-2023</link>
-  <guid isPermaLink="false">3758</guid>
-  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>chvancooten / NimPlant</title>
-  <description>A light-weight first-stage C2 implant written in Nim.</description>
-  <link>https://github.com/chvancooten/NimPlant</link>
-  <guid isPermaLink="false">3757</guid>
-  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>hwchase17 / langchainjs</title>
-  <description></description>
-  <link>https://github.com/hwchase17/langchainjs</link>
-  <guid isPermaLink="false">3756</guid>
-  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>AUTOMATIC1111 / stable-diffusion-webui</title>
-  <description>Stable Diffusion web UI</description>
-  <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
-  <guid isPermaLink="false">3755</guid>
   <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
  </item>
 
