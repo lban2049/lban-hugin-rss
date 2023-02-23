@@ -8,9 +8,30 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 22 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Wed, 22 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Thu, 23 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Thu, 23 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>哈哈，终于开发了一款面向程序员的小程序工具</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3756</link>
+  <pubDate>Thu, 23 Feb 2023 04:48:40 -0800</pubDate>
+  <guid isPermaLink="false">4031</guid>
+ </item>
+ <item>
+  <title>罐头冥想 - 小清新视觉化冥想 app</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3730</link>
+  <pubDate>Thu, 23 Feb 2023 03:06:23 -0800</pubDate>
+  <guid isPermaLink="false">4032</guid>
+ </item>
+ <item>
+  <title>新人报道，刚刚开始的独立 app 开发者，请各位多指教</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3748</link>
+  <pubDate>Thu, 23 Feb 2023 01:15:59 -0800</pubDate>
+  <guid isPermaLink="false">4033</guid>
+ </item>
  <item>
   <title>哈哈，终于开发了一款面向程序员的小程序工具</title>
   <description></description>
@@ -269,27 +290,6 @@
   <link>https://w2solo.com/topics/3732</link>
   <pubDate>Thu, 09 Feb 2023 23:35:36 -0800</pubDate>
   <guid isPermaLink="false">3323</guid>
- </item>
- <item>
-  <title>新人报道</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3729</link>
-  <pubDate>Thu, 09 Feb 2023 23:35:26 -0800</pubDate>
-  <guid isPermaLink="false">3324</guid>
- </item>
- <item>
-  <title>Dawn Launcher Windows 快捷启动工具</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3691</link>
-  <pubDate>Thu, 09 Feb 2023 20:56:25 -0800</pubDate>
-  <guid isPermaLink="false">3325</guid>
- </item>
- <item>
-  <title>请教下各位开发者，注册个体户对当前工作及后续找工作是否有影响？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3732</link>
-  <pubDate>Thu, 09 Feb 2023 00:45:20 -0800</pubDate>
-  <guid isPermaLink="false">3266</guid>
  </item>
 
 </channel>

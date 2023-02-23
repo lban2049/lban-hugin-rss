@@ -8,9 +8,93 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 22 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Wed, 22 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Thu, 23 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Thu, 23 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>CryoByte33 / steam-deck-utilities</title>
+  <description>A utility to improve performance and help manage storage on Steam Deck.</description>
+  <link>https://github.com/CryoByte33/steam-deck-utilities</link>
+  <guid isPermaLink="false">3998</guid>
+  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>horizon3ai / CVE-2022-39952</title>
+  <description>POC for CVE-2022-39952</description>
+  <link>https://github.com/horizon3ai/CVE-2022-39952</link>
+  <guid isPermaLink="false">3997</guid>
+  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>localsend / localsend</title>
+  <description>An open source cross-platform alternative to AirDrop</description>
+  <link>https://github.com/localsend/localsend</link>
+  <guid isPermaLink="false">3996</guid>
+  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>Ignitetechnologies / Mindmap</title>
+  <description>This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them</description>
+  <link>https://github.com/Ignitetechnologies/Mindmap</link>
+  <guid isPermaLink="false">3995</guid>
+  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>geohot / tinygrad</title>
+  <description>You like pytorch? You like micrograd? You love tinygrad! ❤️</description>
+  <link>https://github.com/geohot/tinygrad</link>
+  <guid isPermaLink="false">3994</guid>
+  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>phodal / ai-research</title>
+  <description>【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。</description>
+  <link>https://github.com/phodal/ai-research</link>
+  <guid isPermaLink="false">3993</guid>
+  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>itwanger / toBeBetterJavaer</title>
+  <description>一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄</description>
+  <link>https://github.com/itwanger/toBeBetterJavaer</link>
+  <guid isPermaLink="false">3992</guid>
+  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>epicmaxco / vuestic-ui</title>
+  <description>Free and Open Source UI Library for Vue 3 🤘</description>
+  <link>https://github.com/epicmaxco/vuestic-ui</link>
+  <guid isPermaLink="false">3991</guid>
+  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>immich-app / immich</title>
+  <description>Self-hosted photo and video backup solution directly from your mobile phone.</description>
+  <link>https://github.com/immich-app/immich</link>
+  <guid isPermaLink="false">3990</guid>
+  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>Atmosphere-NX / Atmosphere</title>
+  <description>Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.</description>
+  <link>https://github.com/Atmosphere-NX/Atmosphere</link>
+  <guid isPermaLink="false">3989</guid>
+  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>MysticFoxDE / WINDOWS-OPTIMIZATIONS</title>
+  <description>SKRIPTS FOR WINDOWS DESUBOPTIMIZATION</description>
+  <link>https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS</link>
+  <guid isPermaLink="false">3988</guid>
+  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
+ <item>
+  <title>civitai / civitai</title>
+  <description>A repository of models, textual inversions, and more</description>
+  <link>https://github.com/civitai/civitai</link>
+  <guid isPermaLink="false">3987</guid>
+  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
+ </item>
  <item>
   <title>Bkebi-Group / Bkebi-GC-Release</title>
   <description>Download Bkebi-GC Here</description>
@@ -206,90 +290,6 @@
   <link>https://github.com/sindresorhus/awesome</link>
   <guid isPermaLink="false">3819</guid>
   <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>civitai / sd_civitai_extension</title>
-  <description>All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI</description>
-  <link>https://github.com/civitai/sd_civitai_extension</link>
-  <guid isPermaLink="false">3818</guid>
-  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>TencentARC / GFPGAN</title>
-  <description>GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.</description>
-  <link>https://github.com/TencentARC/GFPGAN</link>
-  <guid isPermaLink="false">3817</guid>
-  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>Learn-with-Sumit / think-in-a-redux-way</title>
-  <description>Think in a Redux way - React-Redux basic to advanced Bangla course by Learn with Sumit</description>
-  <link>https://github.com/Learn-with-Sumit/think-in-a-redux-way</link>
-  <guid isPermaLink="false">3816</guid>
-  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>huggingface / diffusers</title>
-  <description>🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch</description>
-  <link>https://github.com/huggingface/diffusers</link>
-  <guid isPermaLink="false">3815</guid>
-  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / hack-together</title>
-  <description>Hack Together: Microsoft Graph and .NET is a hackathon for .NET developers to learn Microsoft Graph and Microsoft 365.</description>
-  <link>https://github.com/microsoft/hack-together</link>
-  <guid isPermaLink="false">3814</guid>
-  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>replicate / scribble-diffusion</title>
-  <description>Turn your rough sketch into a refined image using AI</description>
-  <link>https://github.com/replicate/scribble-diffusion</link>
-  <guid isPermaLink="false">3813</guid>
-  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>LazyVim / LazyVim</title>
-  <description>Neovim config for the lazy</description>
-  <link>https://github.com/LazyVim/LazyVim</link>
-  <guid isPermaLink="false">3812</guid>
-  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>kamranahmedse / developer-roadmap</title>
-  <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
-  <link>https://github.com/kamranahmedse/developer-roadmap</link>
-  <guid isPermaLink="false">3811</guid>
-  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>trpc / trpc</title>
-  <description>🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.</description>
-  <link>https://github.com/trpc/trpc</link>
-  <guid isPermaLink="false">3810</guid>
-  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / Web-Dev-For-Beginners</title>
-  <description>24 Lessons, 12 Weeks, Get Started as a Web Developer</description>
-  <link>https://github.com/microsoft/Web-Dev-For-Beginners</link>
-  <guid isPermaLink="false">3768</guid>
-  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>CompVis / stable-diffusion</title>
-  <description>A latent text-to-image diffusion model</description>
-  <link>https://github.com/CompVis/stable-diffusion</link>
-  <guid isPermaLink="false">3767</guid>
-  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>neovim / neovim</title>
-  <description>Vim-fork focused on extensibility and usability</description>
-  <link>https://github.com/neovim/neovim</link>
-  <guid isPermaLink="false">3766</guid>
-  <pubDate>Sun, 19 Feb 2023 09:00:04 -0800</pubDate>
  </item>
 
 </channel>
