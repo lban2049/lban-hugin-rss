@@ -8,9 +8,114 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 23 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Thu, 23 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Fri, 24 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 24 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>ethereum / go-ethereum</title>
+  <description>Official Go implementation of the Ethereum protocol</description>
+  <link>https://github.com/ethereum/go-ethereum</link>
+  <guid isPermaLink="false">4060</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>DataLinkDC / dinky</title>
+  <description>Dinky is an out of the box one-stop real-time computing platform dedicated to the construction and practice of Unified Streaming &amp; Batch and Unified Data Lake &amp; Data Warehouse. Based on Apache Flink, Dinky provides the ability to connect many big data frameworks including OLAP and Data Lake.</description>
+  <link>https://github.com/DataLinkDC/dinky</link>
+  <guid isPermaLink="false">4059</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>f / awesome-chatgpt-prompts</title>
+  <description>This repo includes ChatGPT prompt curation to use ChatGPT better.</description>
+  <link>https://github.com/f/awesome-chatgpt-prompts</link>
+  <guid isPermaLink="false">4058</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>hashicorp / terraform-provider-aws</title>
+  <description>Terraform AWS provider</description>
+  <link>https://github.com/hashicorp/terraform-provider-aws</link>
+  <guid isPermaLink="false">4057</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / BioGPT</title>
+  <description></description>
+  <link>https://github.com/microsoft/BioGPT</link>
+  <guid isPermaLink="false">4056</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>poteto / hiring-without-whiteboards</title>
+  <description>⭐️ Companies that don't have a broken hiring process</description>
+  <link>https://github.com/poteto/hiring-without-whiteboards</link>
+  <guid isPermaLink="false">4055</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>flutter / packages</title>
+  <description>A collection of useful packages maintained by the Flutter team</description>
+  <link>https://github.com/flutter/packages</link>
+  <guid isPermaLink="false">4054</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>motion-canvas / motion-canvas</title>
+  <description>Visualize Complex Ideas Programmatically</description>
+  <link>https://github.com/motion-canvas/motion-canvas</link>
+  <guid isPermaLink="false">4053</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>ann-afame / DEVOPS-WORLD</title>
+  <description></description>
+  <link>https://github.com/ann-afame/DEVOPS-WORLD</link>
+  <guid isPermaLink="false">4052</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>lupantech / ScienceQA</title>
+  <description>Data and code for NeurIPS 2022 Paper "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering".</description>
+  <link>https://github.com/lupantech/ScienceQA</link>
+  <guid isPermaLink="false">4051</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>CTCaer / hekate</title>
+  <description>hekate - A GUI based Nintendo Switch Bootloader</description>
+  <link>https://github.com/CTCaer/hekate</link>
+  <guid isPermaLink="false">4050</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>o-oconnell / minixfromscratch</title>
+  <description>Development and compilation setup for the book version of MINIX (3.1.0) on QEMU</description>
+  <link>https://github.com/o-oconnell/minixfromscratch</link>
+  <guid isPermaLink="false">4049</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / LMOps</title>
+  <description>General technology for enabling AI capabilities w/ LLMs and Generative AI models</description>
+  <link>https://github.com/microsoft/LMOps</link>
+  <guid isPermaLink="false">4048</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>AmbientRun / Ambient</title>
+  <description>The multiplayer game engine</description>
+  <link>https://github.com/AmbientRun/Ambient</link>
+  <guid isPermaLink="false">4047</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>mjl- / mox</title>
+  <description>modern full-featured open source secure mail server for low-maintenance self-hosted email</description>
+  <link>https://github.com/mjl-/mox</link>
+  <guid isPermaLink="false">4046</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
  <item>
   <title>CryoByte33 / steam-deck-utilities</title>
   <description>A utility to improve performance and help manage storage on Steam Deck.</description>
@@ -185,111 +290,6 @@
   <link>https://github.com/AbdBarho/stable-diffusion-webui-docker</link>
   <guid isPermaLink="false">3879</guid>
   <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>freefq / free</title>
-  <description>翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子</description>
-  <link>https://github.com/freefq/free</link>
-  <guid isPermaLink="false">3878</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>coollabsio / coolify</title>
-  <description>An open-source &amp; self-hostable Heroku / Netlify alternative.</description>
-  <link>https://github.com/coollabsio/coolify</link>
-  <guid isPermaLink="false">3877</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>danijar / dreamerv3</title>
-  <description>Mastering Diverse Domains through World Models</description>
-  <link>https://github.com/danijar/dreamerv3</link>
-  <guid isPermaLink="false">3876</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>jlevy / the-art-of-command-line</title>
-  <description>Master the command line, in one page</description>
-  <link>https://github.com/jlevy/the-art-of-command-line</link>
-  <guid isPermaLink="false">3875</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>dair-ai / Prompt-Engineering-Guide</title>
-  <description>🐙 Guides, papers, and resources for prompt engineering</description>
-  <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
-  <guid isPermaLink="false">3874</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>vinta / awesome-python</title>
-  <description>A curated list of awesome Python frameworks, libraries, software and resources</description>
-  <link>https://github.com/vinta/awesome-python</link>
-  <guid isPermaLink="false">3873</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>zinclabs / zincsearch</title>
-  <description>ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.</description>
-  <link>https://github.com/zinclabs/zincsearch</link>
-  <guid isPermaLink="false">3872</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>dunbar12138 / pix2pix3D</title>
-  <description>pix2pix3D: Generating 3D Objects from 2D User Inputs</description>
-  <link>https://github.com/dunbar12138/pix2pix3D</link>
-  <guid isPermaLink="false">3871</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>fkunn1326 / openpose-editor</title>
-  <description>Openpose Editor for AUTOMATIC1111's stable-diffusion-webui</description>
-  <link>https://github.com/fkunn1326/openpose-editor</link>
-  <guid isPermaLink="false">3870</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>liupan1890 / aliyunpan</title>
-  <description>阿里云盘小白羊版 阿里云盘PC版 aliyundriver</description>
-  <link>https://github.com/liupan1890/aliyunpan</link>
-  <guid isPermaLink="false">3869</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>Klocman / Bulk-Crap-Uninstaller</title>
-  <description>Remove large amounts of unwanted applications quickly.</description>
-  <link>https://github.com/Klocman/Bulk-Crap-Uninstaller</link>
-  <guid isPermaLink="false">3868</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>immersive-translate / immersive-translate</title>
-  <description>Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展</description>
-  <link>https://github.com/immersive-translate/immersive-translate</link>
-  <guid isPermaLink="false">3867</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>jwasham / coding-interview-university</title>
-  <description>A complete computer science study plan to become a software engineer.</description>
-  <link>https://github.com/jwasham/coding-interview-university</link>
-  <guid isPermaLink="false">3866</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>DvorakDwarf / Infinite-Storage-Glitch</title>
-  <description>ISG lets you use YouTube as cloud storage for ANY files, not just video</description>
-  <link>https://github.com/DvorakDwarf/Infinite-Storage-Glitch</link>
-  <guid isPermaLink="false">3865</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>sindresorhus / awesome</title>
-  <description>😎 Awesome lists about all kinds of interesting topics</description>
-  <link>https://github.com/sindresorhus/awesome</link>
-  <guid isPermaLink="false">3819</guid>
-  <pubDate>Mon, 20 Feb 2023 09:00:07 -0800</pubDate>
  </item>
 
 </channel>

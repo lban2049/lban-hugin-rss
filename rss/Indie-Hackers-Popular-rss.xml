@@ -8,9 +8,100 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 23 Feb 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Thu, 23 Feb 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Fri, 24 Feb 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Fri, 24 Feb 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Reasons why ChatGPT might fail but expert-mini-ChatGPTs will win</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/reasons-why-chatgpt-might-fail-but-expert-mini-chatgpts-will-win-9951655774</link>
+  <guid isPermaLink="false">4104</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>I run a subreddit (r/SaaS) with 45,000 members. How can I make it better?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/i-run-a-subreddit-r-saas-with-45-000-members-how-can-i-make-it-better-da9da89e88</link>
+  <guid isPermaLink="false">4103</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>I'm quit my full-time job and I'm a full-time solo founder now!</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/im-quit-my-full-time-job-and-i-m-a-full-time-solo-founder-now-75912c17b7</link>
+  <guid isPermaLink="false">4102</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>We have 3k+ signups, paying users and potential B2B client, how to reach VCs?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/we-have-3k-signups-paying-users-and-potential-b2b-client-how-to-reach-vcs-6051837c1a</link>
+  <guid isPermaLink="false">4101</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Where to validate startup ideas?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/where-to-validate-startup-ideas-4dbbaa205b</link>
+  <guid isPermaLink="false">4100</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Roast my newsletter</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/roast-my-newsletter-e06cda0e06</link>
+  <guid isPermaLink="false">4099</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>A Day in the Life of an Indie Hacker</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/a-day-in-the-life-of-an-indie-hacker-e90c8f717a</link>
+  <guid isPermaLink="false">4098</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Ways to get users to promote your product</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/ways-to-get-users-to-promote-your-product-00ecf52076</link>
+  <guid isPermaLink="false">4097</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Submit your directory &amp; I'll add it to my website</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/submit-your-directory-ill-add-it-to-my-website-d0f74762fd</link>
+  <guid isPermaLink="false">4096</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Zero To Founder is on Product Hunt</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/zero-to-founder-is-on-product-hunt-6623cbede8</link>
+  <guid isPermaLink="false">4095</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Roast my Agencies Website</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/roast-my-agencies-website-5163a3fd01</link>
+  <guid isPermaLink="false">4094</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>Do you use best practices when prototyping?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/do-you-use-best-practices-when-prototyping-ac282432ed</link>
+  <guid isPermaLink="false">4093</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
+ <item>
+  <title>I created a site that gets 300K-500K organic visits/month in 12 months - AMA</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/i-created-a-site-that-gets-300k-500k-organic-visits-month-in-12-months-ama-d5441ead9a</link>
+  <guid isPermaLink="false">4092</guid>
+  <pubDate>Fri, 24 Feb 2023 09:00:11 -0800</pubDate>
+ </item>
  <item>
   <title>I have my first paying customer and other little victories ! 🥰</title>
   <description></description>
@@ -199,97 +290,6 @@
   <link>https://www.indiehackers.com/post/what-would-80k-website-visits-month-mean-for-your-business-where-are-you-at-now-0a191250b6</link>
   <guid isPermaLink="false">3926</guid>
   <pubDate>Tue, 21 Feb 2023 09:00:16 -0800</pubDate>
- </item>
- <item>
-  <title>Customer Churn rate? 😠 Example? Reasons? Tool to measure &amp; Reduce it?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/customer-churn-rate-example-reasons-tool-to-measure-reduce-it-73b20667d6</link>
-  <guid isPermaLink="false">3925</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:16 -0800</pubDate>
- </item>
- <item>
-  <title>My experience spending $100 on Reddit ads</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/my-experience-spending-100-on-reddit-ads-69cd62022e</link>
-  <guid isPermaLink="false">3924</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:16 -0800</pubDate>
- </item>
- <item>
-  <title>Using AI to summarize Reddit for business ideas</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/using-ai-to-summarize-reddit-for-business-ideas-f21f4c5e08</link>
-  <guid isPermaLink="false">3923</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:16 -0800</pubDate>
- </item>
- <item>
-  <title>+850 Niche Slack channels to promote your startup</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/850-niche-slack-channels-to-promote-your-startup-370bc79466</link>
-  <guid isPermaLink="false">3922</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:16 -0800</pubDate>
- </item>
- <item>
-  <title>Top B2B marketing channels in 2023</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/top-b2b-marketing-channels-in-2023-0bad8084f6</link>
-  <guid isPermaLink="false">3921</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:16 -0800</pubDate>
- </item>
- <item>
-  <title>If you are building a video game, this gamer survey report could be valuable.</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/if-you-are-building-a-video-game-this-gamer-survey-report-could-be-valuable-1c33d93584</link>
-  <guid isPermaLink="false">3920</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:16 -0800</pubDate>
- </item>
- <item>
-  <title>ChatGTP And AI Isn't Going To Make Your Startup Idea Successful</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/chatgtp-and-ai-isnt-going-to-make-your-startup-idea-successful-46a8aec517</link>
-  <guid isPermaLink="false">3919</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:16 -0800</pubDate>
- </item>
- <item>
-  <title>My post got to the top 1 of the month in 1 day at r/startups (1.1M subs). But they've banned me.</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/my-post-got-to-the-top-1-of-the-month-in-1-day-at-r-startups-1-1m-subs-but-they-ve-banned-me-0dd2b418ba</link>
-  <guid isPermaLink="false">3918</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:16 -0800</pubDate>
- </item>
- <item>
-  <title>Solo founders who built a SaaS with a great frontend/ui?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/solo-founders-who-built-a-saas-with-a-great-frontend-ui-f1de7c0678</link>
-  <guid isPermaLink="false">3917</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:16 -0800</pubDate>
- </item>
- <item>
-  <title>Getting free users to pay up</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/getting-free-users-to-pay-up-02393c488f</link>
-  <guid isPermaLink="false">3916</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:16 -0800</pubDate>
- </item>
- <item>
-  <title>Githunt - Extract emails of developers on Github</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/githunt-extract-emails-of-developers-on-github-5eaf395c44</link>
-  <guid isPermaLink="false">3864</guid>
-  <pubDate>Mon, 20 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>What was your feeling before 2 hrs of your ProductHunt launch? I am Nervous 😬 and Excited 😆.</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/what-was-your-feeling-before-2-hrs-of-your-producthunt-launch-i-am-nervous-and-excited-d753290099</link>
-  <guid isPermaLink="false">3863</guid>
-  <pubDate>Mon, 20 Feb 2023 09:00:13 -0800</pubDate>
- </item>
- <item>
-  <title>This happened</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/this-happened-86d32eff61</link>
-  <guid isPermaLink="false">3862</guid>
-  <pubDate>Mon, 20 Feb 2023 09:00:13 -0800</pubDate>
  </item>
 
 </channel>
