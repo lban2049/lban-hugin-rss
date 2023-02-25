@@ -8,9 +8,121 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 24 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Fri, 24 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sat, 25 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sat, 25 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>tensorflow / tensorflow</title>
+  <description>An Open Source Machine Learning Framework for Everyone</description>
+  <link>https://github.com/tensorflow/tensorflow</link>
+  <guid isPermaLink="false">4120</guid>
+  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>zulip / zulip</title>
+  <description>Zulip server and web application. Open-source team chat that helps teams stay productive and focused.</description>
+  <link>https://github.com/zulip/zulip</link>
+  <guid isPermaLink="false">4119</guid>
+  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>mui / mui-x</title>
+  <description>MUI X: Advanced and powerful React components for complex use-cases.</description>
+  <link>https://github.com/mui/mui-x</link>
+  <guid isPermaLink="false">4118</guid>
+  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>trigaten / Learn_Prompting</title>
+  <description></description>
+  <link>https://github.com/trigaten/Learn_Prompting</link>
+  <guid isPermaLink="false">4117</guid>
+  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>open-mmlab / mmocr</title>
+  <description>OpenMMLab Text Detection, Recognition and Understanding Toolbox</description>
+  <link>https://github.com/open-mmlab/mmocr</link>
+  <guid isPermaLink="false">4116</guid>
+  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>tensorflow / models</title>
+  <description>Models and examples built with TensorFlow</description>
+  <link>https://github.com/tensorflow/models</link>
+  <guid isPermaLink="false">4115</guid>
+  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>Fndroid / clash_for_windows_pkg</title>
+  <description>A Windows/macOS GUI based on Clash</description>
+  <link>https://github.com/Fndroid/clash_for_windows_pkg</link>
+  <guid isPermaLink="false">4114</guid>
+  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>ryanmcdermott / clean-code-javascript</title>
+  <description>🛁 Clean Code concepts adapted for JavaScript</description>
+  <link>https://github.com/ryanmcdermott/clean-code-javascript</link>
+  <guid isPermaLink="false">4113</guid>
+  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>fastlane / fastlane</title>
+  <description>🚀 The easiest way to automate building and releasing your iOS and Android apps</description>
+  <link>https://github.com/fastlane/fastlane</link>
+  <guid isPermaLink="false">4112</guid>
+  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>TheAlgorithms / Python</title>
+  <description>All Algorithms implemented in Python</description>
+  <link>https://github.com/TheAlgorithms/Python</link>
+  <guid isPermaLink="false">4111</guid>
+  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>Universidade-Livre / ciencia-da-computacao</title>
+  <description>🎓 Um caminho para a educação autodidata em Ciência da Computação!</description>
+  <link>https://github.com/Universidade-Livre/ciencia-da-computacao</link>
+  <guid isPermaLink="false">4110</guid>
+  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>Chanzhaoyu / chatgpt-web</title>
+  <description>用 express 和 vue3 搭建的同时支持 `openAI Key` 和 `网页 accessToken` 的 ChatGPT 演示网页</description>
+  <link>https://github.com/Chanzhaoyu/chatgpt-web</link>
+  <guid isPermaLink="false">4109</guid>
+  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>prowler-cloud / prowler</title>
+  <description>Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.</description>
+  <link>https://github.com/prowler-cloud/prowler</link>
+  <guid isPermaLink="false">4108</guid>
+  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>itwanger / toBeBetterJavaer</title>
+  <description>一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java程序员进阶之路😄</description>
+  <link>https://github.com/itwanger/toBeBetterJavaer</link>
+  <guid isPermaLink="false">4107</guid>
+  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>sultim-t / xash-rt</title>
+  <description>Fork of the Xash3D FWGS with a real-time path tracing</description>
+  <link>https://github.com/sultim-t/xash-rt</link>
+  <guid isPermaLink="false">4106</guid>
+  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>serverless-stack / sst</title>
+  <description>💥 SST makes it easy to build full-stack serverless apps.</description>
+  <link>https://github.com/serverless-stack/sst</link>
+  <guid isPermaLink="false">4105</guid>
+  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
  <item>
   <title>ethereum / go-ethereum</title>
   <description>Official Go implementation of the Ethereum protocol</description>
@@ -178,118 +290,6 @@
   <link>https://github.com/immich-app/immich</link>
   <guid isPermaLink="false">3990</guid>
   <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>Atmosphere-NX / Atmosphere</title>
-  <description>Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.</description>
-  <link>https://github.com/Atmosphere-NX/Atmosphere</link>
-  <guid isPermaLink="false">3989</guid>
-  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>MysticFoxDE / WINDOWS-OPTIMIZATIONS</title>
-  <description>SKRIPTS FOR WINDOWS DESUBOPTIMIZATION</description>
-  <link>https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS</link>
-  <guid isPermaLink="false">3988</guid>
-  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>civitai / civitai</title>
-  <description>A repository of models, textual inversions, and more</description>
-  <link>https://github.com/civitai/civitai</link>
-  <guid isPermaLink="false">3987</guid>
-  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>Bkebi-Group / Bkebi-GC-Release</title>
-  <description>Download Bkebi-GC Here</description>
-  <link>https://github.com/Bkebi-Group/Bkebi-GC-Release</link>
-  <guid isPermaLink="false">3940</guid>
-  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>Eugeny / tabby</title>
-  <description>A terminal for a more modern age</description>
-  <link>https://github.com/Eugeny/tabby</link>
-  <guid isPermaLink="false">3939</guid>
-  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>camenduru / stable-diffusion-webui-colab</title>
-  <description>stable diffusion webui colab</description>
-  <link>https://github.com/camenduru/stable-diffusion-webui-colab</link>
-  <guid isPermaLink="false">3938</guid>
-  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>howl-anderson / unlocking-the-power-of-llms</title>
-  <description>使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！每日更新～</description>
-  <link>https://github.com/howl-anderson/unlocking-the-power-of-llms</link>
-  <guid isPermaLink="false">3937</guid>
-  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>dair-ai / Prompt-Engineering-Guide</title>
-  <description>🐙 Guides, papers, lecture, and resources for prompt engineering</description>
-  <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
-  <guid isPermaLink="false">3936</guid>
-  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>total-typescript / ts-reset</title>
-  <description>A 'CSS reset' for TypeScript, improving types for common JavaScript API's</description>
-  <link>https://github.com/total-typescript/ts-reset</link>
-  <guid isPermaLink="false">3935</guid>
-  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>DovAmir / awesome-design-patterns</title>
-  <description>A curated list of software and architecture related design patterns.</description>
-  <link>https://github.com/DovAmir/awesome-design-patterns</link>
-  <guid isPermaLink="false">3934</guid>
-  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>Kanaries / pygwalker</title>
-  <description>PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis</description>
-  <link>https://github.com/Kanaries/pygwalker</link>
-  <guid isPermaLink="false">3933</guid>
-  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>FMInference / FlexGen</title>
-  <description>Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput large-batch generation.</description>
-  <link>https://github.com/FMInference/FlexGen</link>
-  <guid isPermaLink="false">3932</guid>
-  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>bregman-arie / devops-exercises</title>
-  <description>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions</description>
-  <link>https://github.com/bregman-arie/devops-exercises</link>
-  <guid isPermaLink="false">3931</guid>
-  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>askrella / whatsapp-chatgpt</title>
-  <description>ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀 🤖</description>
-  <link>https://github.com/askrella/whatsapp-chatgpt</link>
-  <guid isPermaLink="false">3930</guid>
-  <pubDate>Wed, 22 Feb 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>gothinkster / realworld</title>
-  <description>"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅</description>
-  <link>https://github.com/gothinkster/realworld</link>
-  <guid isPermaLink="false">3880</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>AbdBarho / stable-diffusion-webui-docker</title>
-  <description>Easy Docker setup for Stable Diffusion with user-friendly UI</description>
-  <link>https://github.com/AbdBarho/stable-diffusion-webui-docker</link>
-  <guid isPermaLink="false">3879</guid>
-  <pubDate>Tue, 21 Feb 2023 09:00:07 -0800</pubDate>
  </item>
 
 </channel>
