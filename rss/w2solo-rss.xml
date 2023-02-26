@@ -8,9 +8,51 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 25 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sat, 25 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sun, 26 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 26 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>新人报道，已经无业游民半年，做过一个项目，已废弃。现上来看看机会</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3761</link>
+  <pubDate>Sun, 26 Feb 2023 04:45:53 -0800</pubDate>
+  <guid isPermaLink="false">4190</guid>
+ </item>
+ <item>
+  <title>「喝水笔记」微信小程序🌈目前有 5 万用户</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3758</link>
+  <pubDate>Sat, 25 Feb 2023 23:32:28 -0800</pubDate>
+  <guid isPermaLink="false">4191</guid>
+ </item>
+ <item>
+  <title>APP 内用到铃声去哪里找？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3760</link>
+  <pubDate>Sat, 25 Feb 2023 23:07:40 -0800</pubDate>
+  <guid isPermaLink="false">4192</guid>
+ </item>
+ <item>
+  <title>手帐 app 寻合作</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3759</link>
+  <pubDate>Sat, 25 Feb 2023 22:42:13 -0800</pubDate>
+  <guid isPermaLink="false">4193</guid>
+ </item>
+ <item>
+  <title>新人报道，刚刚开始的独立 app 开发者，请各位多指教</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3748</link>
+  <pubDate>Sat, 25 Feb 2023 21:13:16 -0800</pubDate>
+  <guid isPermaLink="false">4194</guid>
+ </item>
+ <item>
+  <title>Adobe Color 的替代软件：焰火十二卷</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3757</link>
+  <pubDate>Sat, 25 Feb 2023 21:01:16 -0800</pubDate>
+  <guid isPermaLink="false">4195</guid>
+ </item>
  <item>
   <title>哈哈，终于开发了一款面向程序员的小程序工具</title>
   <description></description>
@@ -248,48 +290,6 @@
   <link>https://w2solo.com/topics/3741</link>
   <pubDate>Mon, 13 Feb 2023 01:22:52 -0800</pubDate>
   <guid isPermaLink="false">3482</guid>
- </item>
- <item>
-  <title>微信小程序 - 指尖待办清单</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3740</link>
-  <pubDate>Sun, 12 Feb 2023 17:52:18 -0800</pubDate>
-  <guid isPermaLink="false">3483</guid>
- </item>
- <item>
-  <title>[抽一个 ChatGPT 账号] 1link.fun 每周分享 10 个有趣的链接</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3736</link>
-  <pubDate>Sat, 11 Feb 2023 04:40:37 -0800</pubDate>
-  <guid isPermaLink="false">3373</guid>
- </item>
- <item>
-  <title>新人报道，自我介绍【附 chatGPT 润色版】</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3735</link>
-  <pubDate>Sat, 11 Feb 2023 04:29:27 -0800</pubDate>
-  <guid isPermaLink="false">3374</guid>
- </item>
- <item>
-  <title>LeapSearch - 搜索引擎插件</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3734</link>
-  <pubDate>Fri, 10 Feb 2023 14:17:18 -0800</pubDate>
-  <guid isPermaLink="false">3375</guid>
- </item>
- <item>
-  <title>新人报道，非常荣幸和大家一起探索独立开发之路</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3723</link>
-  <pubDate>Fri, 10 Feb 2023 01:34:40 -0800</pubDate>
-  <guid isPermaLink="false">3321</guid>
- </item>
- <item>
-  <title>新来人报个道，分享一下我的小作品</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3733</link>
-  <pubDate>Fri, 10 Feb 2023 01:32:26 -0800</pubDate>
-  <guid isPermaLink="false">3322</guid>
  </item>
 
 </channel>

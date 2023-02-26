@@ -8,9 +8,128 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 25 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sat, 25 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sun, 26 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Sun, 26 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>MortezaBashsiz / CFScanner</title>
+  <description>Cloud Flare scanner</description>
+  <link>https://github.com/MortezaBashsiz/CFScanner</link>
+  <guid isPermaLink="false">4168</guid>
+  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>henryhu712 / technote</title>
+  <description>编程笔记</description>
+  <link>https://github.com/henryhu712/technote</link>
+  <guid isPermaLink="false">4167</guid>
+  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>Chanzhaoyu / chatgpt-web</title>
+  <description>用 Express 和 Vue3 搭建的同时支持 openAI Key 和 网页 accessToken 的 ChatGPT 演示网页</description>
+  <link>https://github.com/Chanzhaoyu/chatgpt-web</link>
+  <guid isPermaLink="false">4166</guid>
+  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>nushell / nushell</title>
+  <description>A new type of shell</description>
+  <link>https://github.com/nushell/nushell</link>
+  <guid isPermaLink="false">4165</guid>
+  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>firstcontributions / first-contributions</title>
+  <description>🚀✨ Help beginners to contribute to open source projects</description>
+  <link>https://github.com/firstcontributions/first-contributions</link>
+  <guid isPermaLink="false">4164</guid>
+  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>cloudquery / cloudquery</title>
+  <description>The open source high performance data integration platform built for developers. 数据整合</description>
+  <link>https://github.com/cloudquery/cloudquery</link>
+  <guid isPermaLink="false">4163</guid>
+  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>GoAdminGroup / go-admin</title>
+  <description>A golang framework helps gopher to build a data visualization and admin panel in ten minutes</description>
+  <link>https://github.com/GoAdminGroup/go-admin</link>
+  <guid isPermaLink="false">4162</guid>
+  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>willwulfken / MidJourney-Styles-and-Keywords-Reference</title>
+  <description>A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!</description>
+  <link>https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference</link>
+  <guid isPermaLink="false">4161</guid>
+  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>vlang / v</title>
+  <description>Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io</description>
+  <link>https://github.com/vlang/v</link>
+  <guid isPermaLink="false">4160</guid>
+  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>ethereum-optimism / optimism</title>
+  <description>Optimism is Ethereum, scaled.</description>
+  <link>https://github.com/ethereum-optimism/optimism</link>
+  <guid isPermaLink="false">4159</guid>
+  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>KKGo1999 / Stable-diffusion-person</title>
+  <description>由基于Stable-diffusion的Chilloutmix模型生成高清真实的人像</description>
+  <link>https://github.com/KKGo1999/Stable-diffusion-person</link>
+  <guid isPermaLink="false">4158</guid>
+  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>oven-sh / bun</title>
+  <description>Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.</description>
+  <link>https://github.com/oven-sh/bun</link>
+  <guid isPermaLink="false">4157</guid>
+  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>OwO-Network / DeepLX</title>
+  <description>DeepL Free API (No TOKEN required)</description>
+  <link>https://github.com/OwO-Network/DeepLX</link>
+  <guid isPermaLink="false">4156</guid>
+  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>memochou1993 / gpt-ai-assistant</title>
+  <description>OpenAI + LINE + Vercel = GPT AI Assistant</description>
+  <link>https://github.com/memochou1993/gpt-ai-assistant</link>
+  <guid isPermaLink="false">4155</guid>
+  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>facebookresearch / llama</title>
+  <description>Inference code for LLaMA models</description>
+  <link>https://github.com/facebookresearch/llama</link>
+  <guid isPermaLink="false">4154</guid>
+  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>awesome-selfhosted / awesome-selfhosted</title>
+  <description>A list of Free Software network services and web applications which can be hosted on your own servers</description>
+  <link>https://github.com/awesome-selfhosted/awesome-selfhosted</link>
+  <guid isPermaLink="false">4153</guid>
+  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>usememos / memos</title>
+  <description>An open-source, self-hosted memo hub with knowledge management and social networking.</description>
+  <link>https://github.com/usememos/memos</link>
+  <guid isPermaLink="false">4152</guid>
+  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
  <item>
   <title>tensorflow / tensorflow</title>
   <description>An Open Source Machine Learning Framework for Everyone</description>
@@ -171,125 +290,6 @@
   <link>https://github.com/flutter/packages</link>
   <guid isPermaLink="false">4054</guid>
   <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>motion-canvas / motion-canvas</title>
-  <description>Visualize Complex Ideas Programmatically</description>
-  <link>https://github.com/motion-canvas/motion-canvas</link>
-  <guid isPermaLink="false">4053</guid>
-  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>ann-afame / DEVOPS-WORLD</title>
-  <description></description>
-  <link>https://github.com/ann-afame/DEVOPS-WORLD</link>
-  <guid isPermaLink="false">4052</guid>
-  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>lupantech / ScienceQA</title>
-  <description>Data and code for NeurIPS 2022 Paper "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering".</description>
-  <link>https://github.com/lupantech/ScienceQA</link>
-  <guid isPermaLink="false">4051</guid>
-  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>CTCaer / hekate</title>
-  <description>hekate - A GUI based Nintendo Switch Bootloader</description>
-  <link>https://github.com/CTCaer/hekate</link>
-  <guid isPermaLink="false">4050</guid>
-  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>o-oconnell / minixfromscratch</title>
-  <description>Development and compilation setup for the book version of MINIX (3.1.0) on QEMU</description>
-  <link>https://github.com/o-oconnell/minixfromscratch</link>
-  <guid isPermaLink="false">4049</guid>
-  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / LMOps</title>
-  <description>General technology for enabling AI capabilities w/ LLMs and Generative AI models</description>
-  <link>https://github.com/microsoft/LMOps</link>
-  <guid isPermaLink="false">4048</guid>
-  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>AmbientRun / Ambient</title>
-  <description>The multiplayer game engine</description>
-  <link>https://github.com/AmbientRun/Ambient</link>
-  <guid isPermaLink="false">4047</guid>
-  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>mjl- / mox</title>
-  <description>modern full-featured open source secure mail server for low-maintenance self-hosted email</description>
-  <link>https://github.com/mjl-/mox</link>
-  <guid isPermaLink="false">4046</guid>
-  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>CryoByte33 / steam-deck-utilities</title>
-  <description>A utility to improve performance and help manage storage on Steam Deck.</description>
-  <link>https://github.com/CryoByte33/steam-deck-utilities</link>
-  <guid isPermaLink="false">3998</guid>
-  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>horizon3ai / CVE-2022-39952</title>
-  <description>POC for CVE-2022-39952</description>
-  <link>https://github.com/horizon3ai/CVE-2022-39952</link>
-  <guid isPermaLink="false">3997</guid>
-  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>localsend / localsend</title>
-  <description>An open source cross-platform alternative to AirDrop</description>
-  <link>https://github.com/localsend/localsend</link>
-  <guid isPermaLink="false">3996</guid>
-  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>Ignitetechnologies / Mindmap</title>
-  <description>This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them</description>
-  <link>https://github.com/Ignitetechnologies/Mindmap</link>
-  <guid isPermaLink="false">3995</guid>
-  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>geohot / tinygrad</title>
-  <description>You like pytorch? You like micrograd? You love tinygrad! ❤️</description>
-  <link>https://github.com/geohot/tinygrad</link>
-  <guid isPermaLink="false">3994</guid>
-  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>phodal / ai-research</title>
-  <description>【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。</description>
-  <link>https://github.com/phodal/ai-research</link>
-  <guid isPermaLink="false">3993</guid>
-  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>itwanger / toBeBetterJavaer</title>
-  <description>一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄</description>
-  <link>https://github.com/itwanger/toBeBetterJavaer</link>
-  <guid isPermaLink="false">3992</guid>
-  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>epicmaxco / vuestic-ui</title>
-  <description>Free and Open Source UI Library for Vue 3 🤘</description>
-  <link>https://github.com/epicmaxco/vuestic-ui</link>
-  <guid isPermaLink="false">3991</guid>
-  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
- </item>
- <item>
-  <title>immich-app / immich</title>
-  <description>Self-hosted photo and video backup solution directly from your mobile phone.</description>
-  <link>https://github.com/immich-app/immich</link>
-  <guid isPermaLink="false">3990</guid>
-  <pubDate>Thu, 23 Feb 2023 09:00:05 -0800</pubDate>
  </item>
 
 </channel>
