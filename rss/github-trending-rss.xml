@@ -8,9 +8,107 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 26 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sun, 26 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Mon, 27 Feb 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 27 Feb 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>innnky / so-vits-svc</title>
+  <description>基于vits与softvc的歌声音色转换模型</description>
+  <link>https://github.com/innnky/so-vits-svc</link>
+  <guid isPermaLink="false">4220</guid>
+  <pubDate>Mon, 27 Feb 2023 09:00:04 -0800</pubDate>
+ </item>
+ <item>
+  <title>echasnovski / mini.nvim</title>
+  <description>Library of 20+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort</description>
+  <link>https://github.com/echasnovski/mini.nvim</link>
+  <guid isPermaLink="false">4219</guid>
+  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>huggingface / swift-coreml-diffusers</title>
+  <description>Swift app demonstrating Core ML Stable Diffusion</description>
+  <link>https://github.com/huggingface/swift-coreml-diffusers</link>
+  <guid isPermaLink="false">4218</guid>
+  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>sympy / sympy</title>
+  <description>A computer algebra system written in pure Python</description>
+  <link>https://github.com/sympy/sympy</link>
+  <guid isPermaLink="false">4217</guid>
+  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>jdxcode / rtx</title>
+  <description>Runtime Executor (asdf rust clone)</description>
+  <link>https://github.com/jdxcode/rtx</link>
+  <guid isPermaLink="false">4216</guid>
+  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>termux / termux-packages</title>
+  <description>A build system and primary set of packages for Termux.</description>
+  <link>https://github.com/termux/termux-packages</link>
+  <guid isPermaLink="false">4215</guid>
+  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>abacaj / awesome-transformers</title>
+  <description>A curated list of awesome transformer models.</description>
+  <link>https://github.com/abacaj/awesome-transformers</link>
+  <guid isPermaLink="false">4214</guid>
+  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>damo-vilab / composer</title>
+  <description>Official implementation of "Composer: Creative and Controllable Image Synthesis with Composable Conditions"</description>
+  <link>https://github.com/damo-vilab/composer</link>
+  <guid isPermaLink="false">4213</guid>
+  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>whitead / paper-qa</title>
+  <description>LLM Chain for answering questions from documents with citations</description>
+  <link>https://github.com/whitead/paper-qa</link>
+  <guid isPermaLink="false">4212</guid>
+  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>LeagueOfPoro / CapsuleFarmerEvolved</title>
+  <description>Automatically drops from lolesports.com and farm Esports Capsules</description>
+  <link>https://github.com/LeagueOfPoro/CapsuleFarmerEvolved</link>
+  <guid isPermaLink="false">4211</guid>
+  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>Haxxnet / Compose-Examples</title>
+  <description>Various Docker Compose examples of selfhosted FOSS and proprietary projects.</description>
+  <link>https://github.com/Haxxnet/Compose-Examples</link>
+  <guid isPermaLink="false">4210</guid>
+  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>iggredible / Learn-Vim</title>
+  <description>Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖</description>
+  <link>https://github.com/iggredible/Learn-Vim</link>
+  <guid isPermaLink="false">4209</guid>
+  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>freeCodeCamp / freeCodeCamp</title>
+  <description>freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.</description>
+  <link>https://github.com/freeCodeCamp/freeCodeCamp</link>
+  <guid isPermaLink="false">4208</guid>
+  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>home-assistant / core</title>
+  <description>🏡 Open source home automation that puts local control and privacy first.</description>
+  <link>https://github.com/home-assistant/core</link>
+  <guid isPermaLink="false">4207</guid>
+  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
+ </item>
  <item>
   <title>MortezaBashsiz / CFScanner</title>
   <description>Cloud Flare scanner</description>
@@ -192,104 +290,6 @@
   <link>https://github.com/fastlane/fastlane</link>
   <guid isPermaLink="false">4112</guid>
   <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>TheAlgorithms / Python</title>
-  <description>All Algorithms implemented in Python</description>
-  <link>https://github.com/TheAlgorithms/Python</link>
-  <guid isPermaLink="false">4111</guid>
-  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>Universidade-Livre / ciencia-da-computacao</title>
-  <description>🎓 Um caminho para a educação autodidata em Ciência da Computação!</description>
-  <link>https://github.com/Universidade-Livre/ciencia-da-computacao</link>
-  <guid isPermaLink="false">4110</guid>
-  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>Chanzhaoyu / chatgpt-web</title>
-  <description>用 express 和 vue3 搭建的同时支持 `openAI Key` 和 `网页 accessToken` 的 ChatGPT 演示网页</description>
-  <link>https://github.com/Chanzhaoyu/chatgpt-web</link>
-  <guid isPermaLink="false">4109</guid>
-  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>prowler-cloud / prowler</title>
-  <description>Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.</description>
-  <link>https://github.com/prowler-cloud/prowler</link>
-  <guid isPermaLink="false">4108</guid>
-  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>itwanger / toBeBetterJavaer</title>
-  <description>一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java程序员进阶之路😄</description>
-  <link>https://github.com/itwanger/toBeBetterJavaer</link>
-  <guid isPermaLink="false">4107</guid>
-  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>sultim-t / xash-rt</title>
-  <description>Fork of the Xash3D FWGS with a real-time path tracing</description>
-  <link>https://github.com/sultim-t/xash-rt</link>
-  <guid isPermaLink="false">4106</guid>
-  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>serverless-stack / sst</title>
-  <description>💥 SST makes it easy to build full-stack serverless apps.</description>
-  <link>https://github.com/serverless-stack/sst</link>
-  <guid isPermaLink="false">4105</guid>
-  <pubDate>Sat, 25 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>ethereum / go-ethereum</title>
-  <description>Official Go implementation of the Ethereum protocol</description>
-  <link>https://github.com/ethereum/go-ethereum</link>
-  <guid isPermaLink="false">4060</guid>
-  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>DataLinkDC / dinky</title>
-  <description>Dinky is an out of the box one-stop real-time computing platform dedicated to the construction and practice of Unified Streaming &amp; Batch and Unified Data Lake &amp; Data Warehouse. Based on Apache Flink, Dinky provides the ability to connect many big data frameworks including OLAP and Data Lake.</description>
-  <link>https://github.com/DataLinkDC/dinky</link>
-  <guid isPermaLink="false">4059</guid>
-  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>f / awesome-chatgpt-prompts</title>
-  <description>This repo includes ChatGPT prompt curation to use ChatGPT better.</description>
-  <link>https://github.com/f/awesome-chatgpt-prompts</link>
-  <guid isPermaLink="false">4058</guid>
-  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>hashicorp / terraform-provider-aws</title>
-  <description>Terraform AWS provider</description>
-  <link>https://github.com/hashicorp/terraform-provider-aws</link>
-  <guid isPermaLink="false">4057</guid>
-  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / BioGPT</title>
-  <description></description>
-  <link>https://github.com/microsoft/BioGPT</link>
-  <guid isPermaLink="false">4056</guid>
-  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>poteto / hiring-without-whiteboards</title>
-  <description>⭐️ Companies that don't have a broken hiring process</description>
-  <link>https://github.com/poteto/hiring-without-whiteboards</link>
-  <guid isPermaLink="false">4055</guid>
-  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>flutter / packages</title>
-  <description>A collection of useful packages maintained by the Flutter team</description>
-  <link>https://github.com/flutter/packages</link>
-  <guid isPermaLink="false">4054</guid>
-  <pubDate>Fri, 24 Feb 2023 09:00:03 -0800</pubDate>
  </item>
 
 </channel>

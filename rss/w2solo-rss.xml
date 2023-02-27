@@ -8,9 +8,37 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 26 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Sun, 26 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Mon, 27 Feb 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Mon, 27 Feb 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>创业就像是养植物🌻</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3762</link>
+  <pubDate>Mon, 27 Feb 2023 07:11:46 -0800</pubDate>
+  <guid isPermaLink="false">4249</guid>
+ </item>
+ <item>
+  <title>独立产品灵感周刊 DecoHack #049 - 开发者如何学习 UI 设计</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3765</link>
+  <pubDate>Mon, 27 Feb 2023 03:10:14 -0800</pubDate>
+  <guid isPermaLink="false">4250</guid>
+ </item>
+ <item>
+  <title>「事线 - 串事成线」多项目时间线记录工具</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3763</link>
+  <pubDate>Mon, 27 Feb 2023 01:23:31 -0800</pubDate>
+  <guid isPermaLink="false">4251</guid>
+ </item>
+ <item>
+  <title>关于营业执照</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3764</link>
+  <pubDate>Mon, 27 Feb 2023 01:22:59 -0800</pubDate>
+  <guid isPermaLink="false">4252</guid>
+ </item>
  <item>
   <title>新人报道，已经无业游民半年，做过一个项目，已废弃。现上来看看机会</title>
   <description></description>
@@ -262,34 +290,6 @@
   <link>https://w2solo.com/topics/3745</link>
   <pubDate>Wed, 15 Feb 2023 02:25:04 -0800</pubDate>
   <guid isPermaLink="false">3622</guid>
- </item>
- <item>
-  <title>新人报道，自我介绍，UI 设计师转 Python</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3744</link>
-  <pubDate>Tue, 14 Feb 2023 05:18:27 -0800</pubDate>
-  <guid isPermaLink="false">3545</guid>
- </item>
- <item>
-  <title>每日工具箱随身助手</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3743</link>
-  <pubDate>Mon, 13 Feb 2023 18:25:52 -0800</pubDate>
-  <guid isPermaLink="false">3546</guid>
- </item>
- <item>
-  <title>【日时记】- 记录你的时间，让你的时间更有价值。</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3742</link>
-  <pubDate>Mon, 13 Feb 2023 04:47:43 -0800</pubDate>
-  <guid isPermaLink="false">3481</guid>
- </item>
- <item>
-  <title>独立产品灵感周刊 DecoHack #047 - 安卓手机上最有用的 APP</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3741</link>
-  <pubDate>Mon, 13 Feb 2023 01:22:52 -0800</pubDate>
-  <guid isPermaLink="false">3482</guid>
  </item>
 
 </channel>
