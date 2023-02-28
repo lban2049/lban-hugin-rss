@@ -8,9 +8,30 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 27 Feb 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Mon, 27 Feb 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Tue, 28 Feb 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Tue, 28 Feb 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>简单智能、功能齐备的云端音视频工具</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3767</link>
+  <pubDate>Tue, 28 Feb 2023 08:55:10 -0800</pubDate>
+  <guid isPermaLink="false">4310</guid>
+ </item>
+ <item>
+  <title>产品出海</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3766</link>
+  <pubDate>Tue, 28 Feb 2023 05:21:30 -0800</pubDate>
+  <guid isPermaLink="false">4311</guid>
+ </item>
+ <item>
+  <title>关于营业执照</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3764</link>
+  <pubDate>Tue, 28 Feb 2023 02:15:33 -0800</pubDate>
+  <guid isPermaLink="false">4312</guid>
+ </item>
  <item>
   <title>创业就像是养植物🌻</title>
   <description></description>
@@ -269,27 +290,6 @@
   <link>https://w2solo.com/topics/3746</link>
   <pubDate>Thu, 16 Feb 2023 05:59:10 -0800</pubDate>
   <guid isPermaLink="false">3619</guid>
- </item>
- <item>
-  <title>介绍 tvcal.app → 电视剧日历生成器</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3747</link>
-  <pubDate>Wed, 15 Feb 2023 23:59:28 -0800</pubDate>
-  <guid isPermaLink="false">3620</guid>
- </item>
- <item>
-  <title>新人报道，自我介绍，UI 设计师转 Python</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3744</link>
-  <pubDate>Wed, 15 Feb 2023 05:22:09 -0800</pubDate>
-  <guid isPermaLink="false">3621</guid>
- </item>
- <item>
-  <title>新人报道，携着我的小作品</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3745</link>
-  <pubDate>Wed, 15 Feb 2023 02:25:04 -0800</pubDate>
-  <guid isPermaLink="false">3622</guid>
  </item>
 
 </channel>
