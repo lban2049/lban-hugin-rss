@@ -8,9 +8,30 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 28 Feb 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Tue, 28 Feb 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Wed, 01 Mar 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Wed, 01 Mar 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>新人报道，已经无业游民半年，做过一个项目，已废弃。现上来看看机会</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3761</link>
+  <pubDate>Wed, 01 Mar 2023 05:58:00 -0800</pubDate>
+  <guid isPermaLink="false">4366</guid>
+ </item>
+ <item>
+  <title>在线白板的终极形态 - BoardOS</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3769</link>
+  <pubDate>Wed, 01 Mar 2023 00:50:53 -0800</pubDate>
+  <guid isPermaLink="false">4367</guid>
+ </item>
+ <item>
+  <title>欢迎大家使用我的新作品 - 贷款计算器</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3768</link>
+  <pubDate>Tue, 28 Feb 2023 21:18:01 -0800</pubDate>
+  <guid isPermaLink="false">4368</guid>
+ </item>
  <item>
   <title>简单智能、功能齐备的云端音视频工具</title>
   <description></description>
@@ -269,27 +290,6 @@
   <link>https://w2solo.com/topics/3748</link>
   <pubDate>Fri, 17 Feb 2023 04:57:10 -0800</pubDate>
   <guid isPermaLink="false">3682</guid>
- </item>
- <item>
-  <title>微信小程序 - 指尖待办清单</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3740</link>
-  <pubDate>Thu, 16 Feb 2023 19:10:13 -0800</pubDate>
-  <guid isPermaLink="false">3683</guid>
- </item>
- <item>
-  <title>继续找前端一起做个财富记账类 APP</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3746</link>
-  <pubDate>Thu, 16 Feb 2023 15:10:27 -0800</pubDate>
-  <guid isPermaLink="false">3684</guid>
- </item>
- <item>
-  <title>继续找前端一起做个财富记账类 APP</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3746</link>
-  <pubDate>Thu, 16 Feb 2023 05:59:10 -0800</pubDate>
-  <guid isPermaLink="false">3619</guid>
  </item>
 
 </channel>

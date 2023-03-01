@@ -8,9 +8,121 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 28 Feb 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Tue, 28 Feb 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Wed, 01 Mar 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Wed, 01 Mar 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>stretchr / testify</title>
+  <description>A toolkit with common assertions and mocks that plays nicely with the standard library</description>
+  <link>https://github.com/stretchr/testify</link>
+  <guid isPermaLink="false">4342</guid>
+  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>flutter / flutter</title>
+  <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
+  <link>https://github.com/flutter/flutter</link>
+  <guid isPermaLink="false">4341</guid>
+  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>bmaltais / kohya_ss</title>
+  <description></description>
+  <link>https://github.com/bmaltais/kohya_ss</link>
+  <guid isPermaLink="false">4340</guid>
+  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>mukulpatnaik / researchgpt</title>
+  <description>An open-source LLM based research assistant that allows you to have a conversation with a research paper</description>
+  <link>https://github.com/mukulpatnaik/researchgpt</link>
+  <guid isPermaLink="false">4339</guid>
+  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>greshake / llm-security</title>
+  <description>New ways of breaking app-integrated LLMs</description>
+  <link>https://github.com/greshake/llm-security</link>
+  <guid isPermaLink="false">4338</guid>
+  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / winget-cli</title>
+  <description>Windows Package Manager CLI (aka winget)</description>
+  <link>https://github.com/microsoft/winget-cli</link>
+  <guid isPermaLink="false">4337</guid>
+  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>open-telemetry / opentelemetry-go</title>
+  <description>OpenTelemetry Go API and SDK</description>
+  <link>https://github.com/open-telemetry/opentelemetry-go</link>
+  <guid isPermaLink="false">4336</guid>
+  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>python-poetry / poetry</title>
+  <description>Python packaging and dependency management made easy</description>
+  <link>https://github.com/python-poetry/poetry</link>
+  <guid isPermaLink="false">4335</guid>
+  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>tsl0922 / ttyd</title>
+  <description>Share your terminal over the web</description>
+  <link>https://github.com/tsl0922/ttyd</link>
+  <guid isPermaLink="false">4334</guid>
+  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>honghuangdc / soybean-admin</title>
+  <description>A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]</description>
+  <link>https://github.com/honghuangdc/soybean-admin</link>
+  <guid isPermaLink="false">4333</guid>
+  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>ZeroMemoryEx / Amsi-Killer</title>
+  <description>Lifetime AMSI bypass</description>
+  <link>https://github.com/ZeroMemoryEx/Amsi-Killer</link>
+  <guid isPermaLink="false">4332</guid>
+  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>apache / doris</title>
+  <description>Apache Doris is an easy-to-use, high performance and unified analytics database.</description>
+  <link>https://github.com/apache/doris</link>
+  <guid isPermaLink="false">4331</guid>
+  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>mrsked / mrsk</title>
+  <description>Deploy web apps anywhere.</description>
+  <link>https://github.com/mrsked/mrsk</link>
+  <guid isPermaLink="false">4330</guid>
+  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>dotnet / maui</title>
+  <description>.NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.</description>
+  <link>https://github.com/dotnet/maui</link>
+  <guid isPermaLink="false">4329</guid>
+  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>nebuly-ai / nebullvm</title>
+  <description>Plug and play modules to optimize the performances of your AI systems 🚀</description>
+  <link>https://github.com/nebuly-ai/nebullvm</link>
+  <guid isPermaLink="false">4328</guid>
+  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>ErickWendel / semana-javascript-expert07</title>
+  <description>JS Expert Week 7.0 - 🙅🤏🏻 Controlling Streaming Platforms using Eye and Hand Detection 👁🖐</description>
+  <link>https://github.com/ErickWendel/semana-javascript-expert07</link>
+  <guid isPermaLink="false">4327</guid>
+  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
  <item>
   <title>gojue / ecapture</title>
   <description>capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android x86_64/Aarch64.</description>
@@ -178,118 +290,6 @@
   <link>https://github.com/iggredible/Learn-Vim</link>
   <guid isPermaLink="false">4209</guid>
   <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>freeCodeCamp / freeCodeCamp</title>
-  <description>freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.</description>
-  <link>https://github.com/freeCodeCamp/freeCodeCamp</link>
-  <guid isPermaLink="false">4208</guid>
-  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>home-assistant / core</title>
-  <description>🏡 Open source home automation that puts local control and privacy first.</description>
-  <link>https://github.com/home-assistant/core</link>
-  <guid isPermaLink="false">4207</guid>
-  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>MortezaBashsiz / CFScanner</title>
-  <description>Cloud Flare scanner</description>
-  <link>https://github.com/MortezaBashsiz/CFScanner</link>
-  <guid isPermaLink="false">4168</guid>
-  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>henryhu712 / technote</title>
-  <description>编程笔记</description>
-  <link>https://github.com/henryhu712/technote</link>
-  <guid isPermaLink="false">4167</guid>
-  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>Chanzhaoyu / chatgpt-web</title>
-  <description>用 Express 和 Vue3 搭建的同时支持 openAI Key 和 网页 accessToken 的 ChatGPT 演示网页</description>
-  <link>https://github.com/Chanzhaoyu/chatgpt-web</link>
-  <guid isPermaLink="false">4166</guid>
-  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>nushell / nushell</title>
-  <description>A new type of shell</description>
-  <link>https://github.com/nushell/nushell</link>
-  <guid isPermaLink="false">4165</guid>
-  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>firstcontributions / first-contributions</title>
-  <description>🚀✨ Help beginners to contribute to open source projects</description>
-  <link>https://github.com/firstcontributions/first-contributions</link>
-  <guid isPermaLink="false">4164</guid>
-  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>cloudquery / cloudquery</title>
-  <description>The open source high performance data integration platform built for developers. 数据整合</description>
-  <link>https://github.com/cloudquery/cloudquery</link>
-  <guid isPermaLink="false">4163</guid>
-  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>GoAdminGroup / go-admin</title>
-  <description>A golang framework helps gopher to build a data visualization and admin panel in ten minutes</description>
-  <link>https://github.com/GoAdminGroup/go-admin</link>
-  <guid isPermaLink="false">4162</guid>
-  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>willwulfken / MidJourney-Styles-and-Keywords-Reference</title>
-  <description>A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!</description>
-  <link>https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference</link>
-  <guid isPermaLink="false">4161</guid>
-  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>vlang / v</title>
-  <description>Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io</description>
-  <link>https://github.com/vlang/v</link>
-  <guid isPermaLink="false">4160</guid>
-  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>ethereum-optimism / optimism</title>
-  <description>Optimism is Ethereum, scaled.</description>
-  <link>https://github.com/ethereum-optimism/optimism</link>
-  <guid isPermaLink="false">4159</guid>
-  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>KKGo1999 / Stable-diffusion-person</title>
-  <description>由基于Stable-diffusion的Chilloutmix模型生成高清真实的人像</description>
-  <link>https://github.com/KKGo1999/Stable-diffusion-person</link>
-  <guid isPermaLink="false">4158</guid>
-  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>oven-sh / bun</title>
-  <description>Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.</description>
-  <link>https://github.com/oven-sh/bun</link>
-  <guid isPermaLink="false">4157</guid>
-  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>OwO-Network / DeepLX</title>
-  <description>DeepL Free API (No TOKEN required)</description>
-  <link>https://github.com/OwO-Network/DeepLX</link>
-  <guid isPermaLink="false">4156</guid>
-  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>memochou1993 / gpt-ai-assistant</title>
-  <description>OpenAI + LINE + Vercel = GPT AI Assistant</description>
-  <link>https://github.com/memochou1993/gpt-ai-assistant</link>
-  <guid isPermaLink="false">4155</guid>
-  <pubDate>Sun, 26 Feb 2023 09:00:04 -0800</pubDate>
  </item>
 
 </channel>
