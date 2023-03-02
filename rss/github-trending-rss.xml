@@ -8,9 +8,93 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 01 Mar 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Wed, 01 Mar 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Thu, 02 Mar 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Thu, 02 Mar 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>FFmpeg / FFmpeg</title>
+  <description>Mirror of https://git.ffmpeg.org/ffmpeg.git</description>
+  <link>https://github.com/FFmpeg/FFmpeg</link>
+  <guid isPermaLink="false">4395</guid>
+  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>openai / openai-cookbook</title>
+  <description>Examples and guides for using the OpenAI API</description>
+  <link>https://github.com/openai/openai-cookbook</link>
+  <guid isPermaLink="false">4394</guid>
+  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>grafana / mimir</title>
+  <description>Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.</description>
+  <link>https://github.com/grafana/mimir</link>
+  <guid isPermaLink="false">4393</guid>
+  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>lukasz-madon / awesome-remote-job</title>
+  <description>A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python</description>
+  <link>https://github.com/lukasz-madon/awesome-remote-job</link>
+  <guid isPermaLink="false">4392</guid>
+  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>ddotta / awesome-polars</title>
+  <description>A curated list of Polars talks, tools, examples &amp; articles. Contributions welcome !</description>
+  <link>https://github.com/ddotta/awesome-polars</link>
+  <guid isPermaLink="false">4391</guid>
+  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>typeorm / typeorm</title>
+  <description>ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.</description>
+  <link>https://github.com/typeorm/typeorm</link>
+  <guid isPermaLink="false">4390</guid>
+  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>amusi / CVPR2023-Papers-with-Code</title>
+  <description>CVPR 2023 论文和开源项目合集</description>
+  <link>https://github.com/amusi/CVPR2023-Papers-with-Code</link>
+  <guid isPermaLink="false">4389</guid>
+  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>0x192 / universal-android-debloater</title>
+  <description>Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.</description>
+  <link>https://github.com/0x192/universal-android-debloater</link>
+  <guid isPermaLink="false">4388</guid>
+  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>openai / openai-python</title>
+  <description>The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.</description>
+  <link>https://github.com/openai/openai-python</link>
+  <guid isPermaLink="false">4387</guid>
+  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / unilm</title>
+  <description>Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities</description>
+  <link>https://github.com/microsoft/unilm</link>
+  <guid isPermaLink="false">4386</guid>
+  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>ockeghem / badtodo</title>
+  <description></description>
+  <link>https://github.com/ockeghem/badtodo</link>
+  <guid isPermaLink="false">4385</guid>
+  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>donnemartin / system-design-primer</title>
+  <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+  <link>https://github.com/donnemartin/system-design-primer</link>
+  <guid isPermaLink="false">4384</guid>
+  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
  <item>
   <title>stretchr / testify</title>
   <description>A toolkit with common assertions and mocks that plays nicely with the standard library</description>
@@ -206,90 +290,6 @@
   <link>https://github.com/google/comprehensive-rust</link>
   <guid isPermaLink="false">4265</guid>
   <pubDate>Tue, 28 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>innnky / so-vits-svc</title>
-  <description>基于vits与softvc的歌声音色转换模型</description>
-  <link>https://github.com/innnky/so-vits-svc</link>
-  <guid isPermaLink="false">4220</guid>
-  <pubDate>Mon, 27 Feb 2023 09:00:04 -0800</pubDate>
- </item>
- <item>
-  <title>echasnovski / mini.nvim</title>
-  <description>Library of 20+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort</description>
-  <link>https://github.com/echasnovski/mini.nvim</link>
-  <guid isPermaLink="false">4219</guid>
-  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>huggingface / swift-coreml-diffusers</title>
-  <description>Swift app demonstrating Core ML Stable Diffusion</description>
-  <link>https://github.com/huggingface/swift-coreml-diffusers</link>
-  <guid isPermaLink="false">4218</guid>
-  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>sympy / sympy</title>
-  <description>A computer algebra system written in pure Python</description>
-  <link>https://github.com/sympy/sympy</link>
-  <guid isPermaLink="false">4217</guid>
-  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>jdxcode / rtx</title>
-  <description>Runtime Executor (asdf rust clone)</description>
-  <link>https://github.com/jdxcode/rtx</link>
-  <guid isPermaLink="false">4216</guid>
-  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>termux / termux-packages</title>
-  <description>A build system and primary set of packages for Termux.</description>
-  <link>https://github.com/termux/termux-packages</link>
-  <guid isPermaLink="false">4215</guid>
-  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>abacaj / awesome-transformers</title>
-  <description>A curated list of awesome transformer models.</description>
-  <link>https://github.com/abacaj/awesome-transformers</link>
-  <guid isPermaLink="false">4214</guid>
-  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>damo-vilab / composer</title>
-  <description>Official implementation of "Composer: Creative and Controllable Image Synthesis with Composable Conditions"</description>
-  <link>https://github.com/damo-vilab/composer</link>
-  <guid isPermaLink="false">4213</guid>
-  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>whitead / paper-qa</title>
-  <description>LLM Chain for answering questions from documents with citations</description>
-  <link>https://github.com/whitead/paper-qa</link>
-  <guid isPermaLink="false">4212</guid>
-  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>LeagueOfPoro / CapsuleFarmerEvolved</title>
-  <description>Automatically drops from lolesports.com and farm Esports Capsules</description>
-  <link>https://github.com/LeagueOfPoro/CapsuleFarmerEvolved</link>
-  <guid isPermaLink="false">4211</guid>
-  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>Haxxnet / Compose-Examples</title>
-  <description>Various Docker Compose examples of selfhosted FOSS and proprietary projects.</description>
-  <link>https://github.com/Haxxnet/Compose-Examples</link>
-  <guid isPermaLink="false">4210</guid>
-  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>iggredible / Learn-Vim</title>
-  <description>Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖</description>
-  <link>https://github.com/iggredible/Learn-Vim</link>
-  <guid isPermaLink="false">4209</guid>
-  <pubDate>Mon, 27 Feb 2023 09:00:03 -0800</pubDate>
  </item>
 
 </channel>

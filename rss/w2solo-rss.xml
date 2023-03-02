@@ -8,9 +8,44 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 01 Mar 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Wed, 01 Mar 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Thu, 02 Mar 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Thu, 02 Mar 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>新人报道，已经无业游民半年，做过一个项目，已废弃。现上来看看机会</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3761</link>
+  <pubDate>Wed, 01 Mar 2023 23:32:50 -0800</pubDate>
+  <guid isPermaLink="false">4396</guid>
+ </item>
+ <item>
+  <title>Dawn Launcher 发布两个月左右，3000+ 用户下载并使用</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3772</link>
+  <pubDate>Wed, 01 Mar 2023 19:29:43 -0800</pubDate>
+  <guid isPermaLink="false">4397</guid>
+ </item>
+ <item>
+  <title>手帐 app 寻合作</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3759</link>
+  <pubDate>Wed, 01 Mar 2023 19:21:35 -0800</pubDate>
+  <guid isPermaLink="false">4398</guid>
+ </item>
+ <item>
+  <title>在线密码学工具</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3771</link>
+  <pubDate>Wed, 01 Mar 2023 17:02:09 -0800</pubDate>
+  <guid isPermaLink="false">4399</guid>
+ </item>
+ <item>
+  <title>失业在家，做点小东西，大家看看</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3770</link>
+  <pubDate>Wed, 01 Mar 2023 16:28:49 -0800</pubDate>
+  <guid isPermaLink="false">4400</guid>
+ </item>
  <item>
   <title>新人报道，已经无业游民半年，做过一个项目，已废弃。现上来看看机会</title>
   <description></description>
@@ -255,41 +290,6 @@
   <link>https://w2solo.com/topics/3744</link>
   <pubDate>Sun, 19 Feb 2023 05:48:59 -0800</pubDate>
   <guid isPermaLink="false">3794</guid>
- </item>
- <item>
-  <title>一个用来管理你网站 Storage 数据的浏览器扩展</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3749</link>
-  <pubDate>Sat, 18 Feb 2023 23:50:36 -0800</pubDate>
-  <guid isPermaLink="false">3795</guid>
- </item>
- <item>
-  <title>新人报道，刚刚开始的独立 app 开发者，请各位多指教</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3748</link>
-  <pubDate>Sat, 18 Feb 2023 21:14:26 -0800</pubDate>
-  <guid isPermaLink="false">3796</guid>
- </item>
- <item>
-  <title>新人报道，刚刚开始的独立 app 开发者，请各位多指教</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3748</link>
-  <pubDate>Fri, 17 Feb 2023 20:10:52 -0800</pubDate>
-  <guid isPermaLink="false">3742</guid>
- </item>
- <item>
-  <title>新人报道，携着我的小作品</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3745</link>
-  <pubDate>Fri, 17 Feb 2023 09:56:59 -0800</pubDate>
-  <guid isPermaLink="false">3743</guid>
- </item>
- <item>
-  <title>新人报道，刚刚开始的独立 app 开发者，请各位多指教</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3748</link>
-  <pubDate>Fri, 17 Feb 2023 04:57:10 -0800</pubDate>
-  <guid isPermaLink="false">3682</guid>
  </item>
 
 </channel>
