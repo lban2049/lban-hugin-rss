@@ -8,9 +8,114 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 02 Mar 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Thu, 02 Mar 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Fri, 03 Mar 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 03 Mar 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>CleverRaven / Cataclysm-DDA</title>
+  <description>Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.</description>
+  <link>https://github.com/CleverRaven/Cataclysm-DDA</link>
+  <guid isPermaLink="false">4431</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>GrowingGit / GitHub-Chinese-Top-Charts</title>
+  <description>🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。</description>
+  <link>https://github.com/GrowingGit/GitHub-Chinese-Top-Charts</link>
+  <guid isPermaLink="false">4430</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>microsoft / PowerToys</title>
+  <description>Windows system utilities to maximize productivity</description>
+  <link>https://github.com/microsoft/PowerToys</link>
+  <guid isPermaLink="false">4429</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>hiifeng / V2ray-for-Doprax</title>
+  <description>The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.</description>
+  <link>https://github.com/hiifeng/V2ray-for-Doprax</link>
+  <guid isPermaLink="false">4428</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>betalgo / openai</title>
+  <description>Open AI ChatGPT, GPT-3 and DALL-E dotnet SDK</description>
+  <link>https://github.com/betalgo/openai</link>
+  <guid isPermaLink="false">4427</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>karfly / chatgpt_telegram_bot</title>
+  <description></description>
+  <link>https://github.com/karfly/chatgpt_telegram_bot</link>
+  <guid isPermaLink="false">4426</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>openai / openai-node</title>
+  <description>Node.js library for the OpenAI API</description>
+  <link>https://github.com/openai/openai-node</link>
+  <guid isPermaLink="false">4425</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>sashabaranov / go-gpt3</title>
+  <description>OpenAI ChatGPT, GPT-3 and DALL·E API wrapper for Go</description>
+  <link>https://github.com/sashabaranov/go-gpt3</link>
+  <guid isPermaLink="false">4424</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>ServiceWeaver / weaver</title>
+  <description>Programming framework for writing and deploying cloud applications.</description>
+  <link>https://github.com/ServiceWeaver/weaver</link>
+  <guid isPermaLink="false">4423</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>yihong0618 / xiaogpt</title>
+  <description>play chatgpt with xiaomi ai speaker</description>
+  <link>https://github.com/yihong0618/xiaogpt</link>
+  <guid isPermaLink="false">4422</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>TheoKanning / openai-java</title>
+  <description>OpenAI GPT-3 Api Client in Java</description>
+  <link>https://github.com/TheoKanning/openai-java</link>
+  <guid isPermaLink="false">4421</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>transitive-bullshit / chatgpt-api</title>
+  <description>Node.js client for the official ChatGPT API. 🔥</description>
+  <link>https://github.com/transitive-bullshit/chatgpt-api</link>
+  <guid isPermaLink="false">4420</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>openai / openai-quickstart-python</title>
+  <description>Python example app from the OpenAI API quickstart tutorial</description>
+  <link>https://github.com/openai/openai-quickstart-python</link>
+  <guid isPermaLink="false">4419</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
+ </item>
+ <item>
+  <title>openai / whisper</title>
+  <description>Robust Speech Recognition via Large-Scale Weak Supervision</description>
+  <link>https://github.com/openai/whisper</link>
+  <guid isPermaLink="false">4418</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>zhayujie / chatgpt-on-wechat</title>
+  <description>使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.</description>
+  <link>https://github.com/zhayujie/chatgpt-on-wechat</link>
+  <guid isPermaLink="false">4417</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:02 -0800</pubDate>
+ </item>
  <item>
   <title>FFmpeg / FFmpeg</title>
   <description>Mirror of https://git.ffmpeg.org/ffmpeg.git</description>
@@ -185,111 +290,6 @@
   <link>https://github.com/mrsked/mrsk</link>
   <guid isPermaLink="false">4330</guid>
   <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>dotnet / maui</title>
-  <description>.NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.</description>
-  <link>https://github.com/dotnet/maui</link>
-  <guid isPermaLink="false">4329</guid>
-  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>nebuly-ai / nebullvm</title>
-  <description>Plug and play modules to optimize the performances of your AI systems 🚀</description>
-  <link>https://github.com/nebuly-ai/nebullvm</link>
-  <guid isPermaLink="false">4328</guid>
-  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>ErickWendel / semana-javascript-expert07</title>
-  <description>JS Expert Week 7.0 - 🙅🤏🏻 Controlling Streaming Platforms using Eye and Hand Detection 👁🖐</description>
-  <link>https://github.com/ErickWendel/semana-javascript-expert07</link>
-  <guid isPermaLink="false">4327</guid>
-  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>gojue / ecapture</title>
-  <description>capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android x86_64/Aarch64.</description>
-  <link>https://github.com/gojue/ecapture</link>
-  <guid isPermaLink="false">4276</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>vuejs / vue</title>
-  <description>This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core</description>
-  <link>https://github.com/vuejs/vue</link>
-  <guid isPermaLink="false">4275</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>odomu / aliyunpan</title>
-  <description>阿里云盘小白羊v3</description>
-  <link>https://github.com/odomu/aliyunpan</link>
-  <guid isPermaLink="false">4274</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>hwchase17 / langchain</title>
-  <description>⚡ Building applications with LLMs through composability ⚡</description>
-  <link>https://github.com/hwchase17/langchain</link>
-  <guid isPermaLink="false">4273</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>Asabeneh / 30-Days-Of-Python</title>
-  <description>30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.</description>
-  <link>https://github.com/Asabeneh/30-Days-Of-Python</link>
-  <guid isPermaLink="false">4272</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>ntdevlabs / tiny11builder</title>
-  <description>Scripts to build a trimmed-down Windows 11 image.</description>
-  <link>https://github.com/ntdevlabs/tiny11builder</link>
-  <guid isPermaLink="false">4271</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>Infisical / infisical</title>
-  <description>♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.</description>
-  <link>https://github.com/Infisical/infisical</link>
-  <guid isPermaLink="false">4270</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>NVlabs / VoxFormer</title>
-  <description>[CVPR 2023] A Cutting-edge Baseline for 3D Semantic Occupancy Prediction</description>
-  <link>https://github.com/NVlabs/VoxFormer</link>
-  <guid isPermaLink="false">4269</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>VinsonLaro / stable-diffusion-webui-chinese</title>
-  <description>stable-diffusion-webui 的汉化版本</description>
-  <link>https://github.com/VinsonLaro/stable-diffusion-webui-chinese</link>
-  <guid isPermaLink="false">4268</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>AnTi-anti / damai_ticket</title>
-  <description>大麦网抢票脚本</description>
-  <link>https://github.com/AnTi-anti/damai_ticket</link>
-  <guid isPermaLink="false">4267</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>MakiNaruto / Automatic_ticket_purchase</title>
-  <description>大麦网抢票脚本</description>
-  <link>https://github.com/MakiNaruto/Automatic_ticket_purchase</link>
-  <guid isPermaLink="false">4266</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>google / comprehensive-rust</title>
-  <description>This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.</description>
-  <link>https://github.com/google/comprehensive-rust</link>
-  <guid isPermaLink="false">4265</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:03 -0800</pubDate>
  </item>
 
 </channel>

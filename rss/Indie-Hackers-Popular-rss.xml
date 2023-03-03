@@ -8,9 +8,72 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 02 Mar 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Thu, 02 Mar 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Fri, 03 Mar 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Fri, 03 Mar 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Cold Email Template - What do you think?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/cold-email-template-what-do-you-think-9575a6eb86</link>
+  <guid isPermaLink="false">4483</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>Is this a good strategy?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/is-this-a-good-strategy-1fd67a4661</link>
+  <guid isPermaLink="false">4482</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>UPDATED LIST: I curated a list of SaaS Starter Kits (including supported languages/pricing)</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/updated-list-i-curated-a-list-of-saas-starter-kits-including-supported-languages-pricing-135e50a3ce</link>
+  <guid isPermaLink="false">4481</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>Collect in-app feedback on your page- Why or why not?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/collect-in-app-feedback-on-your-page-why-or-why-not-3215511730</link>
+  <guid isPermaLink="false">4480</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>I rebuilt my blog using Next.JS and Tailwind</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/i-rebuilt-my-blog-using-next-js-and-tailwind-e22b4b4897</link>
+  <guid isPermaLink="false">4479</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>First paid customer who I don't know personally - what I improved since launch</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/first-paid-customer-who-i-dont-know-personally-what-i-improved-since-launch-a3971f6b8b</link>
+  <guid isPermaLink="false">4478</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>Product Hunt Launch: How We Earned Our First Dollars with ChatGPT</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/product-hunt-launch-how-we-earned-our-first-dollars-with-chatgpt-73e351fe30</link>
+  <guid isPermaLink="false">4477</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>Do you need to add AI to your product?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/do-you-need-to-add-ai-to-your-product-5db78d49a9</link>
+  <guid isPermaLink="false">4476</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>Choosing boring technology for SaaS</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/choosing-boring-technology-for-saas-90ebd37b6f</link>
+  <guid isPermaLink="false">4475</guid>
+  <pubDate>Fri, 03 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
  <item>
   <title>Building a new landing page creator powered by GPT</title>
   <description></description>
@@ -227,69 +290,6 @@
   <link>https://www.indiehackers.com/post/open-source-trendy-admin-dashboard-template-for-tailwind-css-and-react-73de7d6790</link>
   <guid isPermaLink="false">4369</guid>
   <pubDate>Wed, 01 Mar 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>[beta test] Laytur - a read it later app with a twist</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/beta-test-laytur-a-read-it-later-app-with-a-twist-58968f1971</link>
-  <guid isPermaLink="false">4326</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>How failure and rebuilding our SaaS helped us launch our first product ⚡</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-failure-and-rebuilding-our-saas-helped-us-launch-our-first-product-54d66f4b07</link>
-  <guid isPermaLink="false">4325</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>How to build in public?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-to-build-in-public-bcfb09f3f8</link>
-  <guid isPermaLink="false">4324</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>One Simple Strategy to Overcome Feeling Overwhelmed with Massive Todo List</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/one-simple-strategy-to-overcome-feeling-overwhelmed-with-massive-todo-list-742a387b97</link>
-  <guid isPermaLink="false">4323</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>How would you monetize a low-frequency but still-valuable tool?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-would-you-monetize-a-low-frequency-but-still-valuable-tool-615e3aa258</link>
-  <guid isPermaLink="false">4322</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>What's New: Are feedback forms a waste of time?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/whats-new-are-feedback-forms-a-waste-of-time-9f5a4b0aca</link>
-  <guid isPermaLink="false">4321</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>Pricing Psychology</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/pricing-psychology-b07b1a84d7</link>
-  <guid isPermaLink="false">4320</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>Will you use a website builder that allows you to associate your custom domain under a free plan?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/will-you-use-a-website-builder-that-allows-you-to-associate-your-custom-domain-under-a-free-plan-12a95aab99</link>
-  <guid isPermaLink="false">4319</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>How Femke built a design community around her expertise</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-femke-built-a-design-community-around-her-expertise-f284c26eba</link>
-  <guid isPermaLink="false">4318</guid>
-  <pubDate>Tue, 28 Feb 2023 09:00:10 -0800</pubDate>
  </item>
 
 </channel>

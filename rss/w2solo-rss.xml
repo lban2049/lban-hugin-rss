@@ -8,9 +8,30 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 02 Mar 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Thu, 02 Mar 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Fri, 03 Mar 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Fri, 03 Mar 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>你们要的 AI 元宇宙来了，ChatGPT 还有其他的各种 AI 工具我都帮你们找到了</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3774</link>
+  <pubDate>Fri, 03 Mar 2023 05:27:30 -0800</pubDate>
+  <guid isPermaLink="false">4472</guid>
+ </item>
+ <item>
+  <title>失业在家，做点小东西，大家看看</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3770</link>
+  <pubDate>Fri, 03 Mar 2023 03:07:45 -0800</pubDate>
+  <guid isPermaLink="false">4473</guid>
+ </item>
+ <item>
+  <title>基于 ChatGPT 3.5 Turbo 开发的小程序，速度快到飞起</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3773</link>
+  <pubDate>Fri, 03 Mar 2023 02:07:36 -0800</pubDate>
+  <guid isPermaLink="false">4474</guid>
+ </item>
  <item>
   <title>新人报道，已经无业游民半年，做过一个项目，已废弃。现上来看看机会</title>
   <description></description>
@@ -269,27 +290,6 @@
   <link>https://w2solo.com/topics/3750</link>
   <pubDate>Mon, 20 Feb 2023 04:08:01 -0800</pubDate>
   <guid isPermaLink="false">3847</guid>
- </item>
- <item>
-  <title>新人报道，携着我的小作品</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3745</link>
-  <pubDate>Sun, 19 Feb 2023 21:51:33 -0800</pubDate>
-  <guid isPermaLink="false">3852</guid>
- </item>
- <item>
-  <title>w2solo 第一次线下聚会完美谢幕</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3750</link>
-  <pubDate>Sun, 19 Feb 2023 07:15:28 -0800</pubDate>
-  <guid isPermaLink="false">3793</guid>
- </item>
- <item>
-  <title>新人报道，自我介绍，UI 设计师转 Python</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3744</link>
-  <pubDate>Sun, 19 Feb 2023 05:48:59 -0800</pubDate>
-  <guid isPermaLink="false">3794</guid>
  </item>
 
 </channel>
