@@ -8,9 +8,93 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 03 Mar 2023 13:00:02 -0800</lastBuildDate>
- <pubDate>Fri, 03 Mar 2023 13:00:02 -0800</pubDate>
+ <lastBuildDate>Sat, 04 Mar 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Sat, 04 Mar 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>FeatureProbe / FeatureProbe</title>
+  <description>FeatureProbe is an open source feature management service. 开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。</description>
+  <link>https://github.com/FeatureProbe/FeatureProbe</link>
+  <guid isPermaLink="false">4495</guid>
+  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>openai-php / client</title>
+  <description>⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.</description>
+  <link>https://github.com/openai-php/client</link>
+  <guid isPermaLink="false">4494</guid>
+  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>ZhangZhuoSJTU / Web3Bugs</title>
+  <description>Demystifying Exploitable Bugs in Smart Contracts</description>
+  <link>https://github.com/ZhangZhuoSJTU/Web3Bugs</link>
+  <guid isPermaLink="false">4493</guid>
+  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>cisagov / decider</title>
+  <description>A web application that assists network defenders, analysts, and researcher in the process of mapping adversary behaviors to the MITRE ATT&amp;CK® framework.</description>
+  <link>https://github.com/cisagov/decider</link>
+  <guid isPermaLink="false">4492</guid>
+  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>RUB-SysSec / DroneSecurity</title>
+  <description>DroneSecurity (NDSS 2023)</description>
+  <link>https://github.com/RUB-SysSec/DroneSecurity</link>
+  <guid isPermaLink="false">4491</guid>
+  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>Nutlope / roomGPT</title>
+  <description>Upload a photo of your room to generate your dream room with AI.</description>
+  <link>https://github.com/Nutlope/roomGPT</link>
+  <guid isPermaLink="false">4490</guid>
+  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>mckaywrigley / paul-graham-gpt</title>
+  <description>AI search &amp; chat for all of Paul Graham’s essays.</description>
+  <link>https://github.com/mckaywrigley/paul-graham-gpt</link>
+  <guid isPermaLink="false">4489</guid>
+  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>869413421 / chatgpt-web</title>
+  <description>基于ChatGPT3.5 API实现的私有化web程序</description>
+  <link>https://github.com/869413421/chatgpt-web</link>
+  <guid isPermaLink="false">4488</guid>
+  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>JimmyLv / BiliGPT</title>
+  <description>BiliGPT 哔哩哔哩 · 视频内容一键总结</description>
+  <link>https://github.com/JimmyLv/BiliGPT</link>
+  <guid isPermaLink="false">4487</guid>
+  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>Chanzhaoyu / chatgpt-web</title>
+  <description>用 Express 和 Vue3 搭建的 ChatGPT 演示网页</description>
+  <link>https://github.com/Chanzhaoyu/chatgpt-web</link>
+  <guid isPermaLink="false">4486</guid>
+  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>ddiu8081 / chatgpt-demo</title>
+  <description>A demo repo based on OpenAI API (gpt-3.5-turbo)</description>
+  <link>https://github.com/ddiu8081/chatgpt-demo</link>
+  <guid isPermaLink="false">4485</guid>
+  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>yihong0618 / bilingual_book_maker</title>
+  <description>Make bilingual epub books Using AI translate</description>
+  <link>https://github.com/yihong0618/bilingual_book_maker</link>
+  <guid isPermaLink="false">4484</guid>
+  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
  <item>
   <title>CleverRaven / Cataclysm-DDA</title>
   <description>Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.</description>
@@ -205,90 +289,6 @@
   <description>A toolkit with common assertions and mocks that plays nicely with the standard library</description>
   <link>https://github.com/stretchr/testify</link>
   <guid isPermaLink="false">4342</guid>
-  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>flutter / flutter</title>
-  <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
-  <link>https://github.com/flutter/flutter</link>
-  <guid isPermaLink="false">4341</guid>
-  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>bmaltais / kohya_ss</title>
-  <description></description>
-  <link>https://github.com/bmaltais/kohya_ss</link>
-  <guid isPermaLink="false">4340</guid>
-  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>mukulpatnaik / researchgpt</title>
-  <description>An open-source LLM based research assistant that allows you to have a conversation with a research paper</description>
-  <link>https://github.com/mukulpatnaik/researchgpt</link>
-  <guid isPermaLink="false">4339</guid>
-  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>greshake / llm-security</title>
-  <description>New ways of breaking app-integrated LLMs</description>
-  <link>https://github.com/greshake/llm-security</link>
-  <guid isPermaLink="false">4338</guid>
-  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / winget-cli</title>
-  <description>Windows Package Manager CLI (aka winget)</description>
-  <link>https://github.com/microsoft/winget-cli</link>
-  <guid isPermaLink="false">4337</guid>
-  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>open-telemetry / opentelemetry-go</title>
-  <description>OpenTelemetry Go API and SDK</description>
-  <link>https://github.com/open-telemetry/opentelemetry-go</link>
-  <guid isPermaLink="false">4336</guid>
-  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>python-poetry / poetry</title>
-  <description>Python packaging and dependency management made easy</description>
-  <link>https://github.com/python-poetry/poetry</link>
-  <guid isPermaLink="false">4335</guid>
-  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>tsl0922 / ttyd</title>
-  <description>Share your terminal over the web</description>
-  <link>https://github.com/tsl0922/ttyd</link>
-  <guid isPermaLink="false">4334</guid>
-  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>honghuangdc / soybean-admin</title>
-  <description>A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]</description>
-  <link>https://github.com/honghuangdc/soybean-admin</link>
-  <guid isPermaLink="false">4333</guid>
-  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>ZeroMemoryEx / Amsi-Killer</title>
-  <description>Lifetime AMSI bypass</description>
-  <link>https://github.com/ZeroMemoryEx/Amsi-Killer</link>
-  <guid isPermaLink="false">4332</guid>
-  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>apache / doris</title>
-  <description>Apache Doris is an easy-to-use, high performance and unified analytics database.</description>
-  <link>https://github.com/apache/doris</link>
-  <guid isPermaLink="false">4331</guid>
-  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>mrsked / mrsk</title>
-  <description>Deploy web apps anywhere.</description>
-  <link>https://github.com/mrsked/mrsk</link>
-  <guid isPermaLink="false">4330</guid>
   <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
  </item>
 
