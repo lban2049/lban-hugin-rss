@@ -8,9 +8,44 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 04 Mar 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Sat, 04 Mar 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Sun, 05 Mar 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Sun, 05 Mar 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>欢迎大家使用我的新作品 - 截长图 LiviePhoto 转换器等</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3777</link>
+  <pubDate>Sun, 05 Mar 2023 01:21:13 -0800</pubDate>
+  <guid isPermaLink="false">4572</guid>
+ </item>
+ <item>
+  <title>在线白板的终极形态 - BoardOS</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3769</link>
+  <pubDate>Sat, 04 Mar 2023 22:00:07 -0800</pubDate>
+  <guid isPermaLink="false">4573</guid>
+ </item>
+ <item>
+  <title>新项目来了——“我有好点子”</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3776</link>
+  <pubDate>Sat, 04 Mar 2023 21:24:35 -0800</pubDate>
+  <guid isPermaLink="false">4574</guid>
+ </item>
+ <item>
+  <title>失业在家，做点小东西，大家看看</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3770</link>
+  <pubDate>Sat, 04 Mar 2023 20:50:27 -0800</pubDate>
+  <guid isPermaLink="false">4575</guid>
+ </item>
+ <item>
+  <title>新人报道，已经无业游民半年，做过一个项目，已废弃。现上来看看机会</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3761</link>
+  <pubDate>Sat, 04 Mar 2023 19:03:45 -0800</pubDate>
+  <guid isPermaLink="false">4576</guid>
+ </item>
  <item>
   <title>Dawn Launcher 发布两个月左右，3000+ 用户下载并使用</title>
   <description></description>
@@ -243,53 +278,18 @@
   <guid isPermaLink="false">3975</guid>
  </item>
  <item>
+  <title>w2solo 北京第一次线下聚会完美谢幕</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3750</link>
+  <pubDate>Tue, 21 Feb 2023 17:35:04 -0800</pubDate>
+  <guid isPermaLink="false">4571</guid>
+ </item>
+ <item>
   <title>w2solo 第一次线下聚会完美谢幕</title>
   <description></description>
   <link>https://w2solo.com/topics/3750</link>
   <pubDate>Tue, 21 Feb 2023 17:35:04 -0800</pubDate>
   <guid isPermaLink="false">3974</guid>
- </item>
- <item>
-  <title>google play 因无障碍服务，通过不了审核</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3755</link>
-  <pubDate>Tue, 21 Feb 2023 04:28:40 -0800</pubDate>
-  <guid isPermaLink="false">3911</guid>
- </item>
- <item>
-  <title>独立产品灵感周刊 DecoHack #048 - 优秀独立开发产品推荐</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3754</link>
-  <pubDate>Tue, 21 Feb 2023 01:54:57 -0800</pubDate>
-  <guid isPermaLink="false">3912</guid>
- </item>
- <item>
-  <title>传值的起源</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3753</link>
-  <pubDate>Tue, 21 Feb 2023 01:21:54 -0800</pubDate>
-  <guid isPermaLink="false">3913</guid>
- </item>
- <item>
-  <title>独立开发周报 #1 (0213-0219)</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3752</link>
-  <pubDate>Mon, 20 Feb 2023 22:37:53 -0800</pubDate>
-  <guid isPermaLink="false">3914</guid>
- </item>
- <item>
-  <title>介绍 tvcal.app → 电视剧日历生成器</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3747</link>
-  <pubDate>Mon, 20 Feb 2023 20:58:04 -0800</pubDate>
-  <guid isPermaLink="false">3915</guid>
- </item>
- <item>
-  <title>App 获取第一批用户的经验总结</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3751</link>
-  <pubDate>Mon, 20 Feb 2023 06:35:50 -0800</pubDate>
-  <guid isPermaLink="false">3848</guid>
  </item>
 
 </channel>

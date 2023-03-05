@@ -8,9 +8,79 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 04 Mar 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Sat, 04 Mar 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Sun, 05 Mar 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Sun, 05 Mar 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>misskey-dev / misskey</title>
+  <description>🌎 An interplanetary microblogging platform 🚀</description>
+  <link>https://github.com/misskey-dev/misskey</link>
+  <guid isPermaLink="false">4543</guid>
+  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>adrianhajdin / project_3D_developer_portfolio</title>
+  <description></description>
+  <link>https://github.com/adrianhajdin/project_3D_developer_portfolio</link>
+  <guid isPermaLink="false">4542</guid>
+  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>Uniswap / wallet</title>
+  <description>Uniswap Wallet is the simplest, safest, and most powerful self-custodial crypto wallet. It is developed by the Uniswap Labs team, inventors of the Uniswap Protocol.</description>
+  <link>https://github.com/Uniswap/wallet</link>
+  <guid isPermaLink="false">4541</guid>
+  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>yu-takagi / StableDiffusionReconstruction</title>
+  <description>Takagi and Nishimoto, CVPR 2023</description>
+  <link>https://github.com/yu-takagi/StableDiffusionReconstruction</link>
+  <guid isPermaLink="false">4540</guid>
+  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>yuzu-emu / yuzu</title>
+  <description>Nintendo Switch Emulator</description>
+  <link>https://github.com/yuzu-emu/yuzu</link>
+  <guid isPermaLink="false">4539</guid>
+  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>zhayujie / bot-on-anything</title>
+  <description>Connect AI models (like ChatGPT-3.5, GPT-3.0) to apps (like Wechat, public account, DingTalk, Telegram, QQ). 将 ChatGPT 等算法模型应用于各类平台，目前已完成命令行、个人微信、公众号、QQ、Telegram、Gmail邮箱、Slack，计划接入Web、企业微信、钉钉等。</description>
+  <link>https://github.com/zhayujie/bot-on-anything</link>
+  <guid isPermaLink="false">4538</guid>
+  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>godotengine / godot-docs</title>
+  <description>Godot Engine official documentation</description>
+  <link>https://github.com/godotengine/godot-docs</link>
+  <guid isPermaLink="false">4537</guid>
+  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>jerryjliu / gpt_index</title>
+  <description>LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.</description>
+  <link>https://github.com/jerryjliu/gpt_index</link>
+  <guid isPermaLink="false">4536</guid>
+  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>sashabaranov / go-openai</title>
+  <description>OpenAI ChatGPT, GPT-3, DALL·E, Whisper API wrapper for Go</description>
+  <link>https://github.com/sashabaranov/go-openai</link>
+  <guid isPermaLink="false">4535</guid>
+  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
+ </item>
+ <item>
+  <title>shadcn / taxonomy</title>
+  <description>An open source application built using the new router, server components and everything new in Next.js 13.</description>
+  <link>https://github.com/shadcn/taxonomy</link>
+  <guid isPermaLink="false">4534</guid>
+  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
+ </item>
  <item>
   <title>FeatureProbe / FeatureProbe</title>
   <description>FeatureProbe is an open source feature management service. 开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。</description>
@@ -220,76 +290,6 @@
   <link>https://github.com/grafana/mimir</link>
   <guid isPermaLink="false">4393</guid>
   <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>lukasz-madon / awesome-remote-job</title>
-  <description>A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python</description>
-  <link>https://github.com/lukasz-madon/awesome-remote-job</link>
-  <guid isPermaLink="false">4392</guid>
-  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>ddotta / awesome-polars</title>
-  <description>A curated list of Polars talks, tools, examples &amp; articles. Contributions welcome !</description>
-  <link>https://github.com/ddotta/awesome-polars</link>
-  <guid isPermaLink="false">4391</guid>
-  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>typeorm / typeorm</title>
-  <description>ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.</description>
-  <link>https://github.com/typeorm/typeorm</link>
-  <guid isPermaLink="false">4390</guid>
-  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>amusi / CVPR2023-Papers-with-Code</title>
-  <description>CVPR 2023 论文和开源项目合集</description>
-  <link>https://github.com/amusi/CVPR2023-Papers-with-Code</link>
-  <guid isPermaLink="false">4389</guid>
-  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>0x192 / universal-android-debloater</title>
-  <description>Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.</description>
-  <link>https://github.com/0x192/universal-android-debloater</link>
-  <guid isPermaLink="false">4388</guid>
-  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>openai / openai-python</title>
-  <description>The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.</description>
-  <link>https://github.com/openai/openai-python</link>
-  <guid isPermaLink="false">4387</guid>
-  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>microsoft / unilm</title>
-  <description>Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities</description>
-  <link>https://github.com/microsoft/unilm</link>
-  <guid isPermaLink="false">4386</guid>
-  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>ockeghem / badtodo</title>
-  <description></description>
-  <link>https://github.com/ockeghem/badtodo</link>
-  <guid isPermaLink="false">4385</guid>
-  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>donnemartin / system-design-primer</title>
-  <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
-  <link>https://github.com/donnemartin/system-design-primer</link>
-  <guid isPermaLink="false">4384</guid>
-  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>stretchr / testify</title>
-  <description>A toolkit with common assertions and mocks that plays nicely with the standard library</description>
-  <link>https://github.com/stretchr/testify</link>
-  <guid isPermaLink="false">4342</guid>
-  <pubDate>Wed, 01 Mar 2023 09:00:03 -0800</pubDate>
  </item>
 
 </channel>
