@@ -8,9 +8,51 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 05 Mar 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Sun, 05 Mar 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Mon, 06 Mar 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Mon, 06 Mar 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>独立开发周报 #1 (0213-0219)</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3752</link>
+  <pubDate>Mon, 06 Mar 2023 04:26:04 -0800</pubDate>
+  <guid isPermaLink="false">4625</guid>
+ </item>
+ <item>
+  <title>独立产品灵感周刊 DecoHack #050 - 基于 ChatGPT 的 API 能做什么产品</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3780</link>
+  <pubDate>Mon, 06 Mar 2023 01:01:56 -0800</pubDate>
+  <guid isPermaLink="false">4626</guid>
+ </item>
+ <item>
+  <title>独立开发周报 #2(0220-0226)</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3779</link>
+  <pubDate>Sun, 05 Mar 2023 21:05:11 -0800</pubDate>
+  <guid isPermaLink="false">4627</guid>
+ </item>
+ <item>
+  <title>哈哈，终于开发了一款面向程序员的小程序工具</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3756</link>
+  <pubDate>Sun, 05 Mar 2023 18:45:48 -0800</pubDate>
+  <guid isPermaLink="false">4628</guid>
+ </item>
+ <item>
+  <title>微信小程序对接了个 chatGPT，欢迎大家来免费玩</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3778</link>
+  <pubDate>Sun, 05 Mar 2023 18:33:45 -0800</pubDate>
+  <guid isPermaLink="false">4629</guid>
+ </item>
+ <item>
+  <title>失业在家，做点小东西，大家看看</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3770</link>
+  <pubDate>Sun, 05 Mar 2023 11:02:02 -0800</pubDate>
+  <guid isPermaLink="false">4630</guid>
+ </item>
  <item>
   <title>欢迎大家使用我的新作品 - 截长图 LiviePhoto 转换器等</title>
   <description></description>
@@ -248,48 +290,6 @@
   <link>https://w2solo.com/topics/3756</link>
   <pubDate>Thu, 23 Feb 2023 17:46:05 -0800</pubDate>
   <guid isPermaLink="false">4091</guid>
- </item>
- <item>
-  <title>哈哈，终于开发了一款面向程序员的小程序工具</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3756</link>
-  <pubDate>Thu, 23 Feb 2023 04:48:40 -0800</pubDate>
-  <guid isPermaLink="false">4031</guid>
- </item>
- <item>
-  <title>罐头冥想 - 小清新视觉化冥想 app</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3730</link>
-  <pubDate>Thu, 23 Feb 2023 03:06:23 -0800</pubDate>
-  <guid isPermaLink="false">4032</guid>
- </item>
- <item>
-  <title>新人报道，刚刚开始的独立 app 开发者，请各位多指教</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3748</link>
-  <pubDate>Thu, 23 Feb 2023 01:15:59 -0800</pubDate>
-  <guid isPermaLink="false">4033</guid>
- </item>
- <item>
-  <title>哈哈，终于开发了一款面向程序员的小程序工具</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3756</link>
-  <pubDate>Wed, 22 Feb 2023 04:26:06 -0800</pubDate>
-  <guid isPermaLink="false">3975</guid>
- </item>
- <item>
-  <title>w2solo 北京第一次线下聚会完美谢幕</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3750</link>
-  <pubDate>Tue, 21 Feb 2023 17:35:04 -0800</pubDate>
-  <guid isPermaLink="false">4571</guid>
- </item>
- <item>
-  <title>w2solo 第一次线下聚会完美谢幕</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3750</link>
-  <pubDate>Tue, 21 Feb 2023 17:35:04 -0800</pubDate>
-  <guid isPermaLink="false">3974</guid>
  </item>
 
 </channel>

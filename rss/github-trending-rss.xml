@@ -8,9 +8,72 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 05 Mar 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Sun, 05 Mar 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Mon, 06 Mar 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Mon, 06 Mar 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>LAION-AI / Open-Assistant</title>
+  <description>OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.</description>
+  <link>https://github.com/LAION-AI/Open-Assistant</link>
+  <guid isPermaLink="false">4595</guid>
+  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>hackingthemarkets / chatgpt-api-whisper-api-voice-assistant</title>
+  <description>chatgpt api and whisper api tutorial - voice conversation with therapist</description>
+  <link>https://github.com/hackingthemarkets/chatgpt-api-whisper-api-voice-assistant</link>
+  <guid isPermaLink="false">4594</guid>
+  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>KoboldAI / KoboldAI-Client</title>
+  <description></description>
+  <link>https://github.com/KoboldAI/KoboldAI-Client</link>
+  <guid isPermaLink="false">4593</guid>
+  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>Yue-Yang / ChatGPT-Siri</title>
+  <description>Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model, supports continuous conversations, configure the API key &amp; save chat records. 由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录。</description>
+  <link>https://github.com/Yue-Yang/ChatGPT-Siri</link>
+  <guid isPermaLink="false">4592</guid>
+  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>yt-dlp / yt-dlp</title>
+  <description>A youtube-dl fork with additional features and fixes</description>
+  <link>https://github.com/yt-dlp/yt-dlp</link>
+  <guid isPermaLink="false">4591</guid>
+  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>OpenBB-finance / OpenBBTerminal</title>
+  <description>Investment Research for Everyone, Anywhere.</description>
+  <link>https://github.com/OpenBB-finance/OpenBBTerminal</link>
+  <guid isPermaLink="false">4590</guid>
+  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>reorx / awesome-chatgpt-api</title>
+  <description>Curated list of apps and tools that not only use the new ChatGPT API, but also allow user to configure their own API keys, enabling free and on-demand usage of their own quota.</description>
+  <link>https://github.com/reorx/awesome-chatgpt-api</link>
+  <guid isPermaLink="false">4589</guid>
+  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>oobabooga / text-generation-webui</title>
+  <description>A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.</description>
+  <link>https://github.com/oobabooga/text-generation-webui</link>
+  <guid isPermaLink="false">4588</guid>
+  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
+ </item>
+ <item>
+  <title>GaiZhenbiao / ChuanhuChatGPT</title>
+  <description>GUI for ChatGPT API</description>
+  <link>https://github.com/GaiZhenbiao/ChuanhuChatGPT</link>
+  <guid isPermaLink="false">4587</guid>
+  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
+ </item>
  <item>
   <title>misskey-dev / misskey</title>
   <description>🌎 An interplanetary microblogging platform 🚀</description>
@@ -227,69 +290,6 @@
   <link>https://github.com/ServiceWeaver/weaver</link>
   <guid isPermaLink="false">4423</guid>
   <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>yihong0618 / xiaogpt</title>
-  <description>play chatgpt with xiaomi ai speaker</description>
-  <link>https://github.com/yihong0618/xiaogpt</link>
-  <guid isPermaLink="false">4422</guid>
-  <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>TheoKanning / openai-java</title>
-  <description>OpenAI GPT-3 Api Client in Java</description>
-  <link>https://github.com/TheoKanning/openai-java</link>
-  <guid isPermaLink="false">4421</guid>
-  <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>transitive-bullshit / chatgpt-api</title>
-  <description>Node.js client for the official ChatGPT API. 🔥</description>
-  <link>https://github.com/transitive-bullshit/chatgpt-api</link>
-  <guid isPermaLink="false">4420</guid>
-  <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>openai / openai-quickstart-python</title>
-  <description>Python example app from the OpenAI API quickstart tutorial</description>
-  <link>https://github.com/openai/openai-quickstart-python</link>
-  <guid isPermaLink="false">4419</guid>
-  <pubDate>Fri, 03 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>openai / whisper</title>
-  <description>Robust Speech Recognition via Large-Scale Weak Supervision</description>
-  <link>https://github.com/openai/whisper</link>
-  <guid isPermaLink="false">4418</guid>
-  <pubDate>Fri, 03 Mar 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>zhayujie / chatgpt-on-wechat</title>
-  <description>使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.</description>
-  <link>https://github.com/zhayujie/chatgpt-on-wechat</link>
-  <guid isPermaLink="false">4417</guid>
-  <pubDate>Fri, 03 Mar 2023 09:00:02 -0800</pubDate>
- </item>
- <item>
-  <title>FFmpeg / FFmpeg</title>
-  <description>Mirror of https://git.ffmpeg.org/ffmpeg.git</description>
-  <link>https://github.com/FFmpeg/FFmpeg</link>
-  <guid isPermaLink="false">4395</guid>
-  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>openai / openai-cookbook</title>
-  <description>Examples and guides for using the OpenAI API</description>
-  <link>https://github.com/openai/openai-cookbook</link>
-  <guid isPermaLink="false">4394</guid>
-  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
- </item>
- <item>
-  <title>grafana / mimir</title>
-  <description>Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.</description>
-  <link>https://github.com/grafana/mimir</link>
-  <guid isPermaLink="false">4393</guid>
-  <pubDate>Thu, 02 Mar 2023 09:00:03 -0800</pubDate>
  </item>
 
 </channel>
