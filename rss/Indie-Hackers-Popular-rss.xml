@@ -8,9 +8,86 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 06 Mar 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Mon, 06 Mar 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Tue, 07 Mar 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Tue, 07 Mar 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>The right amount of "cutting edge" when starting a project</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/the-right-amount-of-cutting-edge-when-starting-a-project-a931f4b04c</link>
+  <guid isPermaLink="false">4703</guid>
+  <pubDate>Tue, 07 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>How to remember things that are hard to memorized</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-to-remember-things-that-are-hard-to-memorized-3a311728c3</link>
+  <guid isPermaLink="false">4702</guid>
+  <pubDate>Tue, 07 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>Authentication Learning Hub 📚 Looking for more content ideas</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/authentication-learning-hub-looking-for-more-content-ideas-5592bf5606</link>
+  <guid isPermaLink="false">4701</guid>
+  <pubDate>Tue, 07 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>Build A.I. in 15 Minutes with AWS Lambda, Rekognition &amp; API Gateway</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/build-a-i-in-15-minutes-with-aws-lambda-rekognition-api-gateway-72a6e14915</link>
+  <guid isPermaLink="false">4700</guid>
+  <pubDate>Tue, 07 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>If I died tomorrow, how long would my app (5K MRR) keep running?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/if-i-died-tomorrow-how-long-would-my-app-5k-mrr-keep-running-c52af8b378</link>
+  <guid isPermaLink="false">4699</guid>
+  <pubDate>Tue, 07 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>🚨 Get kinky with your first customer?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/get-kinky-with-your-first-customer-b44995919b</link>
+  <guid isPermaLink="false">4698</guid>
+  <pubDate>Tue, 07 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>A product to centralize metrics from Google/Linkedin/Instagram/etc., manage ads and benchmark with others</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/a-product-to-centralize-metrics-from-google-linkedin-instagram-etc-manage-ads-and-benchmark-with-others-ee1c118afa</link>
+  <guid isPermaLink="false">4697</guid>
+  <pubDate>Tue, 07 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>Our product just went live on Product Hunt 🚀 after a year of hard work</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/our-product-just-went-live-on-product-hunt-after-a-year-of-hard-work-3003669b1a</link>
+  <guid isPermaLink="false">4696</guid>
+  <pubDate>Tue, 07 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>Do you write a newsletter or a blog? Why not get a free backlink for every new article 😊</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/do-you-write-a-newsletter-or-a-blog-why-not-get-a-free-backlink-for-every-new-article-05995724df</link>
+  <guid isPermaLink="false">4695</guid>
+  <pubDate>Tue, 07 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>Launched my app, but it only has 10 users.</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/launched-my-app-but-it-only-has-10-users-d01c10d311</link>
+  <guid isPermaLink="false">4694</guid>
+  <pubDate>Tue, 07 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
+ <item>
+  <title>Low-hanging social proof opportunities for indie hackers</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/low-hanging-social-proof-opportunities-for-indie-hackers-87718d4776</link>
+  <guid isPermaLink="false">4693</guid>
+  <pubDate>Tue, 07 Mar 2023 09:00:09 -0800</pubDate>
+ </item>
  <item>
   <title>Builders Weekly 3/3/23</title>
   <description></description>
@@ -213,83 +290,6 @@
   <link>https://www.indiehackers.com/post/i-made-my-first-500-with-a-pay-what-you-want-product-thanks-to-reddit-0a0ab81866</link>
   <guid isPermaLink="false">4528</guid>
   <pubDate>Sat, 04 Mar 2023 09:00:18 -0800</pubDate>
- </item>
- <item>
-  <title>Don't Fall for the Follower Count Trap</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/dont-fall-for-the-follower-count-trap-84a5248766</link>
-  <guid isPermaLink="false">4527</guid>
-  <pubDate>Sat, 04 Mar 2023 09:00:18 -0800</pubDate>
- </item>
- <item>
-  <title>Share your project if you don't charge and tell us why you're not charging</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/share-your-project-if-you-dont-charge-and-tell-us-why-you-re-not-charging-ba30589a52</link>
-  <guid isPermaLink="false">4526</guid>
-  <pubDate>Sat, 04 Mar 2023 09:00:18 -0800</pubDate>
- </item>
- <item>
-  <title>Was the Product Hunt launch worth it?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/was-the-product-hunt-launch-worth-it-fd52a9c9e0</link>
-  <guid isPermaLink="false">4525</guid>
-  <pubDate>Sat, 04 Mar 2023 09:00:18 -0800</pubDate>
- </item>
- <item>
-  <title>MVP Dilema, is UX important?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/mvp-dilema-is-ux-important-1392636034</link>
-  <guid isPermaLink="false">4524</guid>
-  <pubDate>Sat, 04 Mar 2023 09:00:18 -0800</pubDate>
- </item>
- <item>
-  <title>What are you building this weekend? 🤔</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/what-are-you-building-this-weekend-dbf887002f</link>
-  <guid isPermaLink="false">4523</guid>
-  <pubDate>Sat, 04 Mar 2023 09:00:18 -0800</pubDate>
- </item>
- <item>
-  <title>Simple drag &amp; drop dashboard builder for Chakra UI and React</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/simple-drag-drop-dashboard-builder-for-chakra-ui-and-react-620f60c4dd</link>
-  <guid isPermaLink="false">4522</guid>
-  <pubDate>Sat, 04 Mar 2023 09:00:18 -0800</pubDate>
- </item>
- <item>
-  <title>Looking for content ideas, drop a 🔗 to your project</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/looking-for-content-ideas-drop-a-to-your-project-84115d00ac</link>
-  <guid isPermaLink="false">4521</guid>
-  <pubDate>Sat, 04 Mar 2023 09:00:18 -0800</pubDate>
- </item>
- <item>
-  <title>Cold Email Template - What do you think?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/cold-email-template-what-do-you-think-9575a6eb86</link>
-  <guid isPermaLink="false">4483</guid>
-  <pubDate>Fri, 03 Mar 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>Is this a good strategy?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/is-this-a-good-strategy-1fd67a4661</link>
-  <guid isPermaLink="false">4482</guid>
-  <pubDate>Fri, 03 Mar 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>UPDATED LIST: I curated a list of SaaS Starter Kits (including supported languages/pricing)</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/updated-list-i-curated-a-list-of-saas-starter-kits-including-supported-languages-pricing-135e50a3ce</link>
-  <guid isPermaLink="false">4481</guid>
-  <pubDate>Fri, 03 Mar 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>Collect in-app feedback on your page- Why or why not?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/collect-in-app-feedback-on-your-page-why-or-why-not-3215511730</link>
-  <guid isPermaLink="false">4480</guid>
-  <pubDate>Fri, 03 Mar 2023 09:00:09 -0800</pubDate>
  </item>
 
 </channel>
