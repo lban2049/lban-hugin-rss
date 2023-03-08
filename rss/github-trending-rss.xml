@@ -8,9 +8,121 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 07 Mar 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Tue, 07 Mar 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Wed, 08 Mar 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Wed, 08 Mar 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>swisskyrepo / PayloadsAllTheThings</title>
+  <description>A list of useful payloads and bypass for Web Application Security and Pentest/CTF</description>
+  <link>https://github.com/swisskyrepo/PayloadsAllTheThings</link>
+  <guid isPermaLink="false">4719</guid>
+  <pubDate>Wed, 08 Mar 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>ant-design / ant-design</title>
+  <description>An enterprise-class UI design language and React UI library</description>
+  <link>https://github.com/ant-design/ant-design</link>
+  <guid isPermaLink="false">4718</guid>
+  <pubDate>Wed, 08 Mar 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>dirk1983 / chatgpt</title>
+  <description>PHP版调用OpenAI最新接口和模型gpt-3.5-turbo进行问答的Demo，采用Stream流模式通信，一边生成一边输出，响应速度超过官网。前端采用JS的EventSource，支持Markdown格式解析，代码有着色处理。页面UI简洁，支持上下文连续会话。源码只有两三个文件，没用任何框架，支持所有PHP版本。只需要修改stream.php中的API_KEY即可使用，也可让浏览者使用自定义API_KEY。</description>
+  <link>https://github.com/dirk1983/chatgpt</link>
+  <guid isPermaLink="false">4717</guid>
+  <pubDate>Wed, 08 Mar 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>Shopify / sarama</title>
+  <description>Sarama is a Go library for Apache Kafka.</description>
+  <link>https://github.com/Shopify/sarama</link>
+  <guid isPermaLink="false">4716</guid>
+  <pubDate>Wed, 08 Mar 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>paritytech / polkadot</title>
+  <description>Polkadot Node Implementation</description>
+  <link>https://github.com/paritytech/polkadot</link>
+  <guid isPermaLink="false">4715</guid>
+  <pubDate>Wed, 08 Mar 2023 09:00:02 -0800</pubDate>
+ </item>
+ <item>
+  <title>bevyengine / bevy</title>
+  <description>A refreshingly simple data-driven game engine built in Rust</description>
+  <link>https://github.com/bevyengine/bevy</link>
+  <guid isPermaLink="false">4714</guid>
+  <pubDate>Wed, 08 Mar 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>RustPython / RustPython</title>
+  <description>A Python Interpreter written in Rust</description>
+  <link>https://github.com/RustPython/RustPython</link>
+  <guid isPermaLink="false">4713</guid>
+  <pubDate>Wed, 08 Mar 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>ggerganov / whisper.cpp</title>
+  <description>Port of OpenAI's Whisper model in C/C++</description>
+  <link>https://github.com/ggerganov/whisper.cpp</link>
+  <guid isPermaLink="false">4712</guid>
+  <pubDate>Wed, 08 Mar 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>excalidraw / excalidraw</title>
+  <description>Virtual whiteboard for sketching hand-drawn like diagrams</description>
+  <link>https://github.com/excalidraw/excalidraw</link>
+  <guid isPermaLink="false">4711</guid>
+  <pubDate>Wed, 08 Mar 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>prompt-engineering / click-prompt</title>
+  <description>ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click. ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。</description>
+  <link>https://github.com/prompt-engineering/click-prompt</link>
+  <guid isPermaLink="false">4710</guid>
+  <pubDate>Wed, 08 Mar 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>mli / paper-reading</title>
+  <description>深度学习经典、新论文逐段精读</description>
+  <link>https://github.com/mli/paper-reading</link>
+  <guid isPermaLink="false">4709</guid>
+  <pubDate>Wed, 08 Mar 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>paritytech / substrate</title>
+  <description>Substrate: The platform for blockchain innovators</description>
+  <link>https://github.com/paritytech/substrate</link>
+  <guid isPermaLink="false">4708</guid>
+  <pubDate>Wed, 08 Mar 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>Ice-Hazymoon / openai-scf-proxy</title>
+  <description>使用腾讯云函数一分钟搭建 OpenAI 免翻墙代理</description>
+  <link>https://github.com/Ice-Hazymoon/openai-scf-proxy</link>
+  <guid isPermaLink="false">4707</guid>
+  <pubDate>Wed, 08 Mar 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>WordAsImage / Word-As-Image</title>
+  <description></description>
+  <link>https://github.com/WordAsImage/Word-As-Image</link>
+  <guid isPermaLink="false">4706</guid>
+  <pubDate>Wed, 08 Mar 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>TBXark / ChatGPT-Telegram-Workers</title>
+  <description>Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.</description>
+  <link>https://github.com/TBXark/ChatGPT-Telegram-Workers</link>
+  <guid isPermaLink="false">4705</guid>
+  <pubDate>Wed, 08 Mar 2023 09:00:01 -0800</pubDate>
+ </item>
+ <item>
+  <title>keijiro / AIShader</title>
+  <description>ChatGPT-powered shader generator for Unity</description>
+  <link>https://github.com/keijiro/AIShader</link>
+  <guid isPermaLink="false">4704</guid>
+  <pubDate>Wed, 08 Mar 2023 09:00:01 -0800</pubDate>
+ </item>
  <item>
   <title>jexom / sd-webui-depth-lib</title>
   <description>Depth map library for use with the Control Net extension for Automatic1111/stable-diffusion-webui</description>
@@ -178,118 +290,6 @@
   <link>https://github.com/GaiZhenbiao/ChuanhuChatGPT</link>
   <guid isPermaLink="false">4587</guid>
   <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>misskey-dev / misskey</title>
-  <description>🌎 An interplanetary microblogging platform 🚀</description>
-  <link>https://github.com/misskey-dev/misskey</link>
-  <guid isPermaLink="false">4543</guid>
-  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>adrianhajdin / project_3D_developer_portfolio</title>
-  <description></description>
-  <link>https://github.com/adrianhajdin/project_3D_developer_portfolio</link>
-  <guid isPermaLink="false">4542</guid>
-  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>Uniswap / wallet</title>
-  <description>Uniswap Wallet is the simplest, safest, and most powerful self-custodial crypto wallet. It is developed by the Uniswap Labs team, inventors of the Uniswap Protocol.</description>
-  <link>https://github.com/Uniswap/wallet</link>
-  <guid isPermaLink="false">4541</guid>
-  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>yu-takagi / StableDiffusionReconstruction</title>
-  <description>Takagi and Nishimoto, CVPR 2023</description>
-  <link>https://github.com/yu-takagi/StableDiffusionReconstruction</link>
-  <guid isPermaLink="false">4540</guid>
-  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>yuzu-emu / yuzu</title>
-  <description>Nintendo Switch Emulator</description>
-  <link>https://github.com/yuzu-emu/yuzu</link>
-  <guid isPermaLink="false">4539</guid>
-  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>zhayujie / bot-on-anything</title>
-  <description>Connect AI models (like ChatGPT-3.5, GPT-3.0) to apps (like Wechat, public account, DingTalk, Telegram, QQ). 将 ChatGPT 等算法模型应用于各类平台，目前已完成命令行、个人微信、公众号、QQ、Telegram、Gmail邮箱、Slack，计划接入Web、企业微信、钉钉等。</description>
-  <link>https://github.com/zhayujie/bot-on-anything</link>
-  <guid isPermaLink="false">4538</guid>
-  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>godotengine / godot-docs</title>
-  <description>Godot Engine official documentation</description>
-  <link>https://github.com/godotengine/godot-docs</link>
-  <guid isPermaLink="false">4537</guid>
-  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>jerryjliu / gpt_index</title>
-  <description>LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.</description>
-  <link>https://github.com/jerryjliu/gpt_index</link>
-  <guid isPermaLink="false">4536</guid>
-  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>sashabaranov / go-openai</title>
-  <description>OpenAI ChatGPT, GPT-3, DALL·E, Whisper API wrapper for Go</description>
-  <link>https://github.com/sashabaranov/go-openai</link>
-  <guid isPermaLink="false">4535</guid>
-  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>shadcn / taxonomy</title>
-  <description>An open source application built using the new router, server components and everything new in Next.js 13.</description>
-  <link>https://github.com/shadcn/taxonomy</link>
-  <guid isPermaLink="false">4534</guid>
-  <pubDate>Sun, 05 Mar 2023 09:00:10 -0800</pubDate>
- </item>
- <item>
-  <title>FeatureProbe / FeatureProbe</title>
-  <description>FeatureProbe is an open source feature management service. 开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。</description>
-  <link>https://github.com/FeatureProbe/FeatureProbe</link>
-  <guid isPermaLink="false">4495</guid>
-  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>openai-php / client</title>
-  <description>⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.</description>
-  <link>https://github.com/openai-php/client</link>
-  <guid isPermaLink="false">4494</guid>
-  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>ZhangZhuoSJTU / Web3Bugs</title>
-  <description>Demystifying Exploitable Bugs in Smart Contracts</description>
-  <link>https://github.com/ZhangZhuoSJTU/Web3Bugs</link>
-  <guid isPermaLink="false">4493</guid>
-  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>cisagov / decider</title>
-  <description>A web application that assists network defenders, analysts, and researcher in the process of mapping adversary behaviors to the MITRE ATT&amp;CK® framework.</description>
-  <link>https://github.com/cisagov/decider</link>
-  <guid isPermaLink="false">4492</guid>
-  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>RUB-SysSec / DroneSecurity</title>
-  <description>DroneSecurity (NDSS 2023)</description>
-  <link>https://github.com/RUB-SysSec/DroneSecurity</link>
-  <guid isPermaLink="false">4491</guid>
-  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
- </item>
- <item>
-  <title>Nutlope / roomGPT</title>
-  <description>Upload a photo of your room to generate your dream room with AI.</description>
-  <link>https://github.com/Nutlope/roomGPT</link>
-  <guid isPermaLink="false">4490</guid>
-  <pubDate>Sat, 04 Mar 2023 09:00:09 -0800</pubDate>
  </item>
 
 </channel>

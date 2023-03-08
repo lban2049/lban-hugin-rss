@@ -8,9 +8,44 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 07 Mar 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Tue, 07 Mar 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Wed, 08 Mar 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Wed, 08 Mar 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>一款创意时钟——「文字时钟」</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3783</link>
+  <pubDate>Wed, 08 Mar 2023 06:15:35 -0800</pubDate>
+  <guid isPermaLink="false">4756</guid>
+ </item>
+ <item>
+  <title>哈哈，终于开发了一款面向程序员的小程序工具</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3756</link>
+  <pubDate>Wed, 08 Mar 2023 00:31:25 -0800</pubDate>
+  <guid isPermaLink="false">4757</guid>
+ </item>
+ <item>
+  <title>发福利了，我造了一个 AI 元宇宙</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3774</link>
+  <pubDate>Wed, 08 Mar 2023 00:30:39 -0800</pubDate>
+  <guid isPermaLink="false">4758</guid>
+ </item>
+ <item>
+  <title>w2solo 北京第一次线下聚会完美谢幕</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3750</link>
+  <pubDate>Tue, 07 Mar 2023 22:09:00 -0800</pubDate>
+  <guid isPermaLink="false">4755</guid>
+ </item>
+ <item>
+  <title>手帐 app 寻合作</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3759</link>
+  <pubDate>Tue, 07 Mar 2023 10:04:10 -0800</pubDate>
+  <guid isPermaLink="false">4759</guid>
+ </item>
  <item>
   <title>简洁美观的免费名片制作工具</title>
   <description></description>
@@ -255,41 +290,6 @@
   <link>https://w2solo.com/topics/3762</link>
   <pubDate>Mon, 27 Feb 2023 07:11:46 -0800</pubDate>
   <guid isPermaLink="false">4249</guid>
- </item>
- <item>
-  <title>独立产品灵感周刊 DecoHack #049 - 开发者如何学习 UI 设计</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3765</link>
-  <pubDate>Mon, 27 Feb 2023 03:10:14 -0800</pubDate>
-  <guid isPermaLink="false">4250</guid>
- </item>
- <item>
-  <title>「事线 - 串事成线」多项目时间线记录工具</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3763</link>
-  <pubDate>Mon, 27 Feb 2023 01:23:31 -0800</pubDate>
-  <guid isPermaLink="false">4251</guid>
- </item>
- <item>
-  <title>关于营业执照</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3764</link>
-  <pubDate>Mon, 27 Feb 2023 01:22:59 -0800</pubDate>
-  <guid isPermaLink="false">4252</guid>
- </item>
- <item>
-  <title>新人报道，已经无业游民半年，做过一个项目，已废弃。现上来看看机会</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3761</link>
-  <pubDate>Sun, 26 Feb 2023 04:45:53 -0800</pubDate>
-  <guid isPermaLink="false">4190</guid>
- </item>
- <item>
-  <title>「喝水笔记」微信小程序🌈目前有 5 万用户</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3758</link>
-  <pubDate>Sat, 25 Feb 2023 23:32:28 -0800</pubDate>
-  <guid isPermaLink="false">4191</guid>
  </item>
 
 </channel>
