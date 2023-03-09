@@ -8,9 +8,107 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 08 Mar 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Wed, 08 Mar 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Thu, 09 Mar 2023 13:00:02 -0800</lastBuildDate>
+ <pubDate>Thu, 09 Mar 2023 13:00:02 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>alist-org / alist</title>
+  <description>🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。</description>
+  <link>https://github.com/alist-org/alist</link>
+  <guid isPermaLink="false">4786</guid>
+  <pubDate>Thu, 09 Mar 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>fffaraz / awesome-cpp</title>
+  <description>A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.</description>
+  <link>https://github.com/fffaraz/awesome-cpp</link>
+  <guid isPermaLink="false">4785</guid>
+  <pubDate>Thu, 09 Mar 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>futantan / OpenGpt</title>
+  <description></description>
+  <link>https://github.com/futantan/OpenGpt</link>
+  <guid isPermaLink="false">4784</guid>
+  <pubDate>Thu, 09 Mar 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>Avik-Jain / 100-Days-Of-ML-Code</title>
+  <description>100 Days of ML Coding</description>
+  <link>https://github.com/Avik-Jain/100-Days-Of-ML-Code</link>
+  <guid isPermaLink="false">4783</guid>
+  <pubDate>Thu, 09 Mar 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>Blackymas / NSPanel_HA_Blueprint</title>
+  <description>This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code</description>
+  <link>https://github.com/Blackymas/NSPanel_HA_Blueprint</link>
+  <guid isPermaLink="false">4782</guid>
+  <pubDate>Thu, 09 Mar 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>facebook / react-native</title>
+  <description>A framework for building native applications using React</description>
+  <link>https://github.com/facebook/react-native</link>
+  <guid isPermaLink="false">4781</guid>
+  <pubDate>Thu, 09 Mar 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>NVlabs / prismer</title>
+  <description>The implementation of "Prismer: A Vision-Language Model with An Ensemble of Experts".</description>
+  <link>https://github.com/NVlabs/prismer</link>
+  <guid isPermaLink="false">4780</guid>
+  <pubDate>Thu, 09 Mar 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>boson-ai / homepage</title>
+  <description></description>
+  <link>https://github.com/boson-ai/homepage</link>
+  <guid isPermaLink="false">4779</guid>
+  <pubDate>Thu, 09 Mar 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>easychen / openai-gpt-dev-notes-for-cn-developer</title>
+  <description>如何快速开发一个OpenAI/GPT应用：国内开发者笔记</description>
+  <link>https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer</link>
+  <guid isPermaLink="false">4778</guid>
+  <pubDate>Thu, 09 Mar 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>zinclabs / zincsearch</title>
+  <description>ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.</description>
+  <link>https://github.com/zinclabs/zincsearch</link>
+  <guid isPermaLink="false">4777</guid>
+  <pubDate>Thu, 09 Mar 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>DataTalksClub / data-engineering-zoomcamp</title>
+  <description>Free Data Engineering course!</description>
+  <link>https://github.com/DataTalksClub/data-engineering-zoomcamp</link>
+  <guid isPermaLink="false">4776</guid>
+  <pubDate>Thu, 09 Mar 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>Bearer / bearer</title>
+  <description>Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD).</description>
+  <link>https://github.com/Bearer/bearer</link>
+  <guid isPermaLink="false">4775</guid>
+  <pubDate>Thu, 09 Mar 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>sindresorhus / awesome</title>
+  <description>😎 Awesome lists about all kinds of interesting topics</description>
+  <link>https://github.com/sindresorhus/awesome</link>
+  <guid isPermaLink="false">4774</guid>
+  <pubDate>Thu, 09 Mar 2023 09:00:08 -0800</pubDate>
+ </item>
+ <item>
+  <title>yetone / openai-translator</title>
+  <description>基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用</description>
+  <link>https://github.com/yetone/openai-translator</link>
+  <guid isPermaLink="false">4773</guid>
+  <pubDate>Thu, 09 Mar 2023 09:00:08 -0800</pubDate>
+ </item>
  <item>
   <title>swisskyrepo / PayloadsAllTheThings</title>
   <description>A list of useful payloads and bypass for Web Application Security and Pentest/CTF</description>
@@ -192,104 +290,6 @@
   <link>https://github.com/reorx/awesome-chatgpt-api</link>
   <guid isPermaLink="false">4649</guid>
   <pubDate>Tue, 07 Mar 2023 09:00:01 -0800</pubDate>
- </item>
- <item>
-  <title>AbdullahAlfaraj / Auto-Photoshop-StableDiffusion-Plugin</title>
-  <description>A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.</description>
-  <link>https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin</link>
-  <guid isPermaLink="false">4648</guid>
-  <pubDate>Tue, 07 Mar 2023 09:00:01 -0800</pubDate>
- </item>
- <item>
-  <title>ahmedbahaaeldin / From-0-to-Research-Scientist-resources-guide</title>
-  <description>Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.</description>
-  <link>https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide</link>
-  <guid isPermaLink="false">4647</guid>
-  <pubDate>Tue, 07 Mar 2023 09:00:01 -0800</pubDate>
- </item>
- <item>
-  <title>yetone / bob-plugin-openai-translator</title>
-  <description>基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！</description>
-  <link>https://github.com/yetone/bob-plugin-openai-translator</link>
-  <guid isPermaLink="false">4646</guid>
-  <pubDate>Tue, 07 Mar 2023 09:00:01 -0800</pubDate>
- </item>
- <item>
-  <title>yetone / openai-translator</title>
-  <description>基于 ChatGPT API 的划词翻译 Chrome 插件</description>
-  <link>https://github.com/yetone/openai-translator</link>
-  <guid isPermaLink="false">4645</guid>
-  <pubDate>Tue, 07 Mar 2023 09:00:01 -0800</pubDate>
- </item>
- <item>
-  <title>shawwn / llama-dl</title>
-  <description>High-speed download of LLaMA, Facebook's 65B parameter GPT model</description>
-  <link>https://github.com/shawwn/llama-dl</link>
-  <guid isPermaLink="false">4644</guid>
-  <pubDate>Tue, 07 Mar 2023 09:00:01 -0800</pubDate>
- </item>
- <item>
-  <title>LAION-AI / Open-Assistant</title>
-  <description>OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.</description>
-  <link>https://github.com/LAION-AI/Open-Assistant</link>
-  <guid isPermaLink="false">4595</guid>
-  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>hackingthemarkets / chatgpt-api-whisper-api-voice-assistant</title>
-  <description>chatgpt api and whisper api tutorial - voice conversation with therapist</description>
-  <link>https://github.com/hackingthemarkets/chatgpt-api-whisper-api-voice-assistant</link>
-  <guid isPermaLink="false">4594</guid>
-  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>KoboldAI / KoboldAI-Client</title>
-  <description></description>
-  <link>https://github.com/KoboldAI/KoboldAI-Client</link>
-  <guid isPermaLink="false">4593</guid>
-  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>Yue-Yang / ChatGPT-Siri</title>
-  <description>Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model, supports continuous conversations, configure the API key &amp; save chat records. 由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录。</description>
-  <link>https://github.com/Yue-Yang/ChatGPT-Siri</link>
-  <guid isPermaLink="false">4592</guid>
-  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>yt-dlp / yt-dlp</title>
-  <description>A youtube-dl fork with additional features and fixes</description>
-  <link>https://github.com/yt-dlp/yt-dlp</link>
-  <guid isPermaLink="false">4591</guid>
-  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>OpenBB-finance / OpenBBTerminal</title>
-  <description>Investment Research for Everyone, Anywhere.</description>
-  <link>https://github.com/OpenBB-finance/OpenBBTerminal</link>
-  <guid isPermaLink="false">4590</guid>
-  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>reorx / awesome-chatgpt-api</title>
-  <description>Curated list of apps and tools that not only use the new ChatGPT API, but also allow user to configure their own API keys, enabling free and on-demand usage of their own quota.</description>
-  <link>https://github.com/reorx/awesome-chatgpt-api</link>
-  <guid isPermaLink="false">4589</guid>
-  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>oobabooga / text-generation-webui</title>
-  <description>A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.</description>
-  <link>https://github.com/oobabooga/text-generation-webui</link>
-  <guid isPermaLink="false">4588</guid>
-  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
- </item>
- <item>
-  <title>GaiZhenbiao / ChuanhuChatGPT</title>
-  <description>GUI for ChatGPT API</description>
-  <link>https://github.com/GaiZhenbiao/ChuanhuChatGPT</link>
-  <guid isPermaLink="false">4587</guid>
-  <pubDate>Mon, 06 Mar 2023 09:00:07 -0800</pubDate>
  </item>
 
 </channel>
