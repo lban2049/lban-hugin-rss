@@ -8,9 +8,16 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 10 Mar 2023 13:00:03 -0800</lastBuildDate>
- <pubDate>Fri, 10 Mar 2023 13:00:03 -0800</pubDate>
+ <lastBuildDate>Sat, 11 Mar 2023 13:00:03 -0800</lastBuildDate>
+ <pubDate>Sat, 11 Mar 2023 13:00:03 -0800</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>极简&amp;赚钱&amp;Build in Public</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3785</link>
+  <pubDate>Sat, 11 Mar 2023 04:38:10 -0800</pubDate>
+  <guid isPermaLink="false">4939</guid>
+ </item>
  <item>
   <title>一款高效的非专注背单词软件 资料分享网站 寻找创业合作伙伴 IOS 端开发 运营伙伴</title>
   <description></description>
@@ -283,13 +290,6 @@
   <link>https://w2solo.com/topics/3769</link>
   <pubDate>Wed, 01 Mar 2023 00:50:53 -0800</pubDate>
   <guid isPermaLink="false">4367</guid>
- </item>
- <item>
-  <title>欢迎大家使用我的新作品 - 贷款计算器</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3768</link>
-  <pubDate>Tue, 28 Feb 2023 21:18:01 -0800</pubDate>
-  <guid isPermaLink="false">4368</guid>
  </item>
 
 </channel>
