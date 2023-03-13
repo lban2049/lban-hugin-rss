@@ -8,9 +8,37 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 12 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Sun, 12 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Mon, 13 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Mon, 13 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>极简&amp;赚钱&amp;Build in Public</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3785</link>
+  <pubDate>Mon, 13 Mar 2023 09:31:57 -0700</pubDate>
+  <guid isPermaLink="false">5037</guid>
+ </item>
+ <item>
+  <title># 独立开发周报 #4 (0306-0312)</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3787</link>
+  <pubDate>Mon, 13 Mar 2023 00:56:03 -0700</pubDate>
+  <guid isPermaLink="false">5038</guid>
+ </item>
+ <item>
+  <title>个人如果开发工具类和社交类的小程序，要从什么方面开始做需求分析？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3786</link>
+  <pubDate>Sun, 12 Mar 2023 18:26:32 -0700</pubDate>
+  <guid isPermaLink="false">5039</guid>
+ </item>
+ <item>
+  <title>一款高效的非专注背单词软件 资料分享网站 寻找创业合作伙伴 IOS 端开发 运营伙伴</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3784</link>
+  <pubDate>Sun, 12 Mar 2023 18:11:04 -0700</pubDate>
+  <guid isPermaLink="false">5040</guid>
+ </item>
  <item>
   <title>一款高效的非专注背单词软件 资料分享网站 寻找创业合作伙伴 IOS 端开发 运营伙伴</title>
   <description></description>
@@ -262,34 +290,6 @@
   <link>https://w2solo.com/topics/3772</link>
   <pubDate>Wed, 01 Mar 2023 19:29:43 -0800</pubDate>
   <guid isPermaLink="false">4397</guid>
- </item>
- <item>
-  <title>手帐 app 寻合作</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3759</link>
-  <pubDate>Wed, 01 Mar 2023 19:21:35 -0800</pubDate>
-  <guid isPermaLink="false">4398</guid>
- </item>
- <item>
-  <title>在线密码学工具</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3771</link>
-  <pubDate>Wed, 01 Mar 2023 17:02:09 -0800</pubDate>
-  <guid isPermaLink="false">4399</guid>
- </item>
- <item>
-  <title>失业在家，做点小东西，大家看看</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3770</link>
-  <pubDate>Wed, 01 Mar 2023 16:28:49 -0800</pubDate>
-  <guid isPermaLink="false">4400</guid>
- </item>
- <item>
-  <title>新人报道，已经无业游民半年，做过一个项目，已废弃。现上来看看机会</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3761</link>
-  <pubDate>Wed, 01 Mar 2023 05:58:00 -0800</pubDate>
-  <guid isPermaLink="false">4366</guid>
  </item>
 
 </channel>
