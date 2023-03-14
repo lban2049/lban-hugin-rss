@@ -8,9 +8,30 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 13 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Mon, 13 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Tue, 14 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Tue, 14 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title># 独立开发周报 #4 (0306-0312)——ChatGPT API 初尝试</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3787</link>
+  <pubDate>Tue, 14 Mar 2023 09:17:59 -0700</pubDate>
+  <guid isPermaLink="false">5104</guid>
+ </item>
+ <item>
+  <title>AlphaSheet 一不小心就做成了收费插件，无心插柳，柳成阴！</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3788</link>
+  <pubDate>Mon, 13 Mar 2023 23:38:14 -0700</pubDate>
+  <guid isPermaLink="false">5105</guid>
+ </item>
+ <item>
+  <title>极简&amp;赚钱&amp;Build in Public</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3785</link>
+  <pubDate>Mon, 13 Mar 2023 21:18:54 -0700</pubDate>
+  <guid isPermaLink="false">5106</guid>
+ </item>
  <item>
   <title>极简&amp;赚钱&amp;Build in Public</title>
   <description></description>
@@ -269,27 +290,6 @@
   <link>https://w2solo.com/topics/3770</link>
   <pubDate>Fri, 03 Mar 2023 03:07:45 -0800</pubDate>
   <guid isPermaLink="false">4473</guid>
- </item>
- <item>
-  <title>基于 ChatGPT 3.5 Turbo 开发的小程序，速度快到飞起</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3773</link>
-  <pubDate>Fri, 03 Mar 2023 02:07:36 -0800</pubDate>
-  <guid isPermaLink="false">4474</guid>
- </item>
- <item>
-  <title>新人报道，已经无业游民半年，做过一个项目，已废弃。现上来看看机会</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3761</link>
-  <pubDate>Wed, 01 Mar 2023 23:32:50 -0800</pubDate>
-  <guid isPermaLink="false">4396</guid>
- </item>
- <item>
-  <title>Dawn Launcher 发布两个月左右，3000+ 用户下载并使用</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3772</link>
-  <pubDate>Wed, 01 Mar 2023 19:29:43 -0800</pubDate>
-  <guid isPermaLink="false">4397</guid>
  </item>
 
 </channel>
