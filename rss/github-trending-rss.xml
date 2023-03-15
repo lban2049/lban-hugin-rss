@@ -8,9 +8,114 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 14 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Tue, 14 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Wed, 15 Mar 2023 14:00:02 -0700</lastBuildDate>
+ <pubDate>Wed, 15 Mar 2023 14:00:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>facebookresearch / llama</title>
+  <description>Inference code for LLaMA models</description>
+  <link>https://github.com/facebookresearch/llama</link>
+  <guid isPermaLink="false">5121</guid>
+  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
+ </item>
+ <item>
+  <title>Const-me / Whisper</title>
+  <description>High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model</description>
+  <link>https://github.com/Const-me/Whisper</link>
+  <guid isPermaLink="false">5120</guid>
+  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
+ </item>
+ <item>
+  <title>acheong08 / EdgeGPT</title>
+  <description>Reverse engineered API of Microsoft's Bing Chat</description>
+  <link>https://github.com/acheong08/EdgeGPT</link>
+  <guid isPermaLink="false">5119</guid>
+  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
+ </item>
+ <item>
+  <title>orhun / halp</title>
+  <description>A CLI tool to get help with CLI tools 🐙</description>
+  <link>https://github.com/orhun/halp</link>
+  <guid isPermaLink="false">5118</guid>
+  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
+ </item>
+ <item>
+  <title>poorjobless / pinduoduo_backdoor_code</title>
+  <description>拼多多事件的脱壳后的部分代码</description>
+  <link>https://github.com/poorjobless/pinduoduo_backdoor_code</link>
+  <guid isPermaLink="false">5117</guid>
+  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
+ </item>
+ <item>
+  <title>upscayl / upscayl</title>
+  <description>🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.</description>
+  <link>https://github.com/upscayl/upscayl</link>
+  <guid isPermaLink="false">5116</guid>
+  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
+ </item>
+ <item>
+  <title>xx025 / carrot</title>
+  <description>这儿收集了一些免费好用的ChatGPT镜像站 当前：55个站点</description>
+  <link>https://github.com/xx025/carrot</link>
+  <guid isPermaLink="false">5115</guid>
+  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
+ </item>
+ <item>
+  <title>thu-ml / unidiffuser</title>
+  <description>Code and models for the paper "One Transformer Fits All Distributions in Multi-Modal Diffusion"</description>
+  <link>https://github.com/thu-ml/unidiffuser</link>
+  <guid isPermaLink="false">5114</guid>
+  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
+ </item>
+ <item>
+  <title>cocktailpeanut / dalai</title>
+  <description>The simplest way to run LLaMA on your local machine</description>
+  <link>https://github.com/cocktailpeanut/dalai</link>
+  <guid isPermaLink="false">5113</guid>
+  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
+ </item>
+ <item>
+  <title>MasterBin-IIAU / UNINEXT</title>
+  <description>[CVPR'23] Universal Instance Perception as Object Discovery and Retrieval</description>
+  <link>https://github.com/MasterBin-IIAU/UNINEXT</link>
+  <guid isPermaLink="false">5112</guid>
+  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
+ </item>
+ <item>
+  <title>ayaka14732 / ChatGPTAPIFree</title>
+  <description>A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!</description>
+  <link>https://github.com/ayaka14732/ChatGPTAPIFree</link>
+  <guid isPermaLink="false">5111</guid>
+  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
+ </item>
+ <item>
+  <title>pynecone-io / pynecone</title>
+  <description>🕸 Web apps in pure Python 🐍</description>
+  <link>https://github.com/pynecone-io/pynecone</link>
+  <guid isPermaLink="false">5110</guid>
+  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
+ </item>
+ <item>
+  <title>comfyanonymous / ComfyUI</title>
+  <description>A powerful and modular stable diffusion GUI with a graph/nodes interface.</description>
+  <link>https://github.com/comfyanonymous/ComfyUI</link>
+  <guid isPermaLink="false">5109</guid>
+  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
+ </item>
+ <item>
+  <title>cogentapps / chat-with-gpt</title>
+  <description>An open-source ChatGPT app with a voice</description>
+  <link>https://github.com/cogentapps/chat-with-gpt</link>
+  <guid isPermaLink="false">5108</guid>
+  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
+ </item>
+ <item>
+  <title>tatsu-lab / stanford_alpaca</title>
+  <description>Code and documentation to train Stanford's Alpaca models, and generate the data.</description>
+  <link>https://github.com/tatsu-lab/stanford_alpaca</link>
+  <guid isPermaLink="false">5107</guid>
+  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
+ </item>
  <item>
   <title>ggerganov / ggml</title>
   <description>Tensor library for machine learning</description>
@@ -185,111 +290,6 @@
   <link>https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper</link>
   <guid isPermaLink="false">4965</guid>
   <pubDate>Sun, 12 Mar 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>IHP-GmbH / IHP-Open-PDK</title>
-  <description>130nm BiCMOS Open Source PDK, dedicated for Analog, Mixed Signal and RF Design</description>
-  <link>https://github.com/IHP-GmbH/IHP-Open-PDK</link>
-  <guid isPermaLink="false">4964</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>neovim / neovim</title>
-  <description>Vim-fork focused on extensibility and usability</description>
-  <link>https://github.com/neovim/neovim</link>
-  <guid isPermaLink="false">4963</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>randaller / llama-chat</title>
-  <description>Chat with Meta's LLaMA models at home made easy</description>
-  <link>https://github.com/randaller/llama-chat</link>
-  <guid isPermaLink="false">4962</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>kamranahmedse / developer-roadmap</title>
-  <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
-  <link>https://github.com/kamranahmedse/developer-roadmap</link>
-  <guid isPermaLink="false">4961</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>web-infra-dev / rspack</title>
-  <description>A fast Rust-based web bundler 🦀️</description>
-  <link>https://github.com/web-infra-dev/rspack</link>
-  <guid isPermaLink="false">4960</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>ann-afame / DEVOPS-WORLD</title>
-  <description></description>
-  <link>https://github.com/ann-afame/DEVOPS-WORLD</link>
-  <guid isPermaLink="false">4959</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>camenduru / stable-diffusion-webui-colab</title>
-  <description>stable diffusion webui colab</description>
-  <link>https://github.com/camenduru/stable-diffusion-webui-colab</link>
-  <guid isPermaLink="false">4958</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>GanymedeNil / document.ai</title>
-  <description>基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)</description>
-  <link>https://github.com/GanymedeNil/document.ai</link>
-  <guid isPermaLink="false">4957</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>davinci1012 / pinduoduo_backdoor_unpacker</title>
-  <description>Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo</description>
-  <link>https://github.com/davinci1012/pinduoduo_backdoor_unpacker</link>
-  <guid isPermaLink="false">4956</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>ggerganov / llama.cpp</title>
-  <description>Port of Facebook's LLaMA model in C/C++</description>
-  <link>https://github.com/ggerganov/llama.cpp</link>
-  <guid isPermaLink="false">4955</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>public-apis / public-apis</title>
-  <description>A collective list of free APIs</description>
-  <link>https://github.com/public-apis/public-apis</link>
-  <guid isPermaLink="false">4954</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>EbookFoundation / free-programming-books</title>
-  <description>📚 Freely available programming books</description>
-  <link>https://github.com/EbookFoundation/free-programming-books</link>
-  <guid isPermaLink="false">4953</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>caesarHQ / textSQL</title>
-  <description></description>
-  <link>https://github.com/caesarHQ/textSQL</link>
-  <guid isPermaLink="false">4952</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>wong2 / chatgpt-google-extension</title>
-  <description>A browser extension that enhance search engines with ChatGPT</description>
-  <link>https://github.com/wong2/chatgpt-google-extension</link>
-  <guid isPermaLink="false">4951</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>microsoft / visual-chatgpt</title>
-  <description>Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models</description>
-  <link>https://github.com/microsoft/visual-chatgpt</link>
-  <guid isPermaLink="false">4950</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:05 -0700</pubDate>
  </item>
 
 </channel>

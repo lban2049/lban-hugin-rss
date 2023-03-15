@@ -8,9 +8,37 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 14 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Tue, 14 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Wed, 15 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Wed, 15 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>有没有擅长设计的小伙伴合作实现一个图片处理小程序？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3790</link>
+  <pubDate>Wed, 15 Mar 2023 04:11:51 -0700</pubDate>
+  <guid isPermaLink="false">5151</guid>
+ </item>
+ <item>
+  <title>极简&amp;赚钱&amp;Build in Public</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3785</link>
+  <pubDate>Tue, 14 Mar 2023 23:55:18 -0700</pubDate>
+  <guid isPermaLink="false">5152</guid>
+ </item>
+ <item>
+  <title>我的成本 300 元的在线 Excel 翻译产品</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3789</link>
+  <pubDate>Tue, 14 Mar 2023 20:06:08 -0700</pubDate>
+  <guid isPermaLink="false">5153</guid>
+ </item>
+ <item>
+  <title># 独立开发周报 #4 (0306-0312)——ChatGPT API 初尝试</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3787</link>
+  <pubDate>Tue, 14 Mar 2023 16:39:26 -0700</pubDate>
+  <guid isPermaLink="false">5154</guid>
+ </item>
  <item>
   <title># 独立开发周报 #4 (0306-0312)——ChatGPT API 初尝试</title>
   <description></description>
@@ -262,34 +290,6 @@
   <link>https://w2solo.com/topics/3774</link>
   <pubDate>Sat, 04 Mar 2023 03:24:42 -0800</pubDate>
   <guid isPermaLink="false">4518</guid>
- </item>
- <item>
-  <title>简单智能、功能齐备的云端音视频工具</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3767</link>
-  <pubDate>Fri, 03 Mar 2023 22:29:40 -0800</pubDate>
-  <guid isPermaLink="false">4519</guid>
- </item>
- <item>
-  <title>最近用 Astro 写了个开源个人网站，欢迎前来访问！</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3775</link>
-  <pubDate>Fri, 03 Mar 2023 19:20:33 -0800</pubDate>
-  <guid isPermaLink="false">4520</guid>
- </item>
- <item>
-  <title>你们要的 AI 元宇宙来了，ChatGPT 还有其他的各种 AI 工具我都帮你们找到了</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3774</link>
-  <pubDate>Fri, 03 Mar 2023 05:27:30 -0800</pubDate>
-  <guid isPermaLink="false">4472</guid>
- </item>
- <item>
-  <title>失业在家，做点小东西，大家看看</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3770</link>
-  <pubDate>Fri, 03 Mar 2023 03:07:45 -0800</pubDate>
-  <guid isPermaLink="false">4473</guid>
  </item>
 
 </channel>
