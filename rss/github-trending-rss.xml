@@ -8,9 +8,121 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 15 Mar 2023 14:00:02 -0700</lastBuildDate>
- <pubDate>Wed, 15 Mar 2023 14:00:02 -0700</pubDate>
+ <lastBuildDate>Fri, 17 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Fri, 17 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>huggingface / transformers</title>
+  <description>🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.</description>
+  <link>https://github.com/huggingface/transformers</link>
+  <guid isPermaLink="false">5187</guid>
+  <pubDate>Fri, 17 Mar 2023 10:00:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>nuxt / nuxt</title>
+  <description>Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.</description>
+  <link>https://github.com/nuxt/nuxt</link>
+  <guid isPermaLink="false">5186</guid>
+  <pubDate>Fri, 17 Mar 2023 10:00:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>pytorch / pytorch</title>
+  <description>Tensors and Dynamic neural networks in Python with strong GPU acceleration</description>
+  <link>https://github.com/pytorch/pytorch</link>
+  <guid isPermaLink="false">5185</guid>
+  <pubDate>Fri, 17 Mar 2023 10:00:11 -0700</pubDate>
+ </item>
+ <item>
+  <title>WassimTenachi / PhySO</title>
+  <description>Physical Symbolic Optimization</description>
+  <link>https://github.com/WassimTenachi/PhySO</link>
+  <guid isPermaLink="false">5184</guid>
+  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>openai / evals</title>
+  <description>Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.</description>
+  <link>https://github.com/openai/evals</link>
+  <guid isPermaLink="false">5183</guid>
+  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>karpathy / nanoGPT</title>
+  <description>The simplest, fastest repository for training/finetuning medium-sized GPTs.</description>
+  <link>https://github.com/karpathy/nanoGPT</link>
+  <guid isPermaLink="false">5182</guid>
+  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>lapce / lapce</title>
+  <description>Lightning-fast and Powerful Code Editor written in Rust</description>
+  <link>https://github.com/lapce/lapce</link>
+  <guid isPermaLink="false">5181</guid>
+  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>massgravel / Microsoft-Activation-Scripts</title>
+  <description>A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</description>
+  <link>https://github.com/massgravel/Microsoft-Activation-Scripts</link>
+  <guid isPermaLink="false">5180</guid>
+  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>brunosimon / folio-2019</title>
+  <description></description>
+  <link>https://github.com/brunosimon/folio-2019</link>
+  <guid isPermaLink="false">5179</guid>
+  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>xx025 / carrot</title>
+  <description>这儿收集了一些免费好用的ChatGPT镜像站 当前：60个站点</description>
+  <link>https://github.com/xx025/carrot</link>
+  <guid isPermaLink="false">5178</guid>
+  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>THUDM / ChatGLM-6B</title>
+  <description>ChatGLM-6B：开源双语对话语言模型 | An open bilingual dialogue language model</description>
+  <link>https://github.com/THUDM/ChatGLM-6B</link>
+  <guid isPermaLink="false">5177</guid>
+  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>tloen / alpaca-lora</title>
+  <description>Finetuning InstructLLaMA on consumer hardware</description>
+  <link>https://github.com/tloen/alpaca-lora</link>
+  <guid isPermaLink="false">5176</guid>
+  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>apache / incubator-opendal</title>
+  <description>Apache OpenDAL: Access data freely, painlessly, and efficiently.</description>
+  <link>https://github.com/apache/incubator-opendal</link>
+  <guid isPermaLink="false">5175</guid>
+  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>setzer22 / llama-rs</title>
+  <description>Run LLaMA inference on CPU, with Rust 🦀🚀🦙</description>
+  <link>https://github.com/setzer22/llama-rs</link>
+  <guid isPermaLink="false">5174</guid>
+  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>logspace-ai / langflow</title>
+  <description>⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.</description>
+  <link>https://github.com/logspace-ai/langflow</link>
+  <guid isPermaLink="false">5173</guid>
+  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>dreamworksanimation / openmoonray</title>
+  <description></description>
+  <link>https://github.com/dreamworksanimation/openmoonray</link>
+  <guid isPermaLink="false">5172</guid>
+  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
  <item>
   <title>facebookresearch / llama</title>
   <description>Inference code for LLaMA models</description>
@@ -178,118 +290,6 @@
   <link>https://github.com/midudev/openui.com</link>
   <guid isPermaLink="false">5058</guid>
   <pubDate>Tue, 14 Mar 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>Bin-Huang / chatbox</title>
-  <description>a cross-platform desktop client for OpenAI API, also a prompt debugging and management tool.</description>
-  <link>https://github.com/Bin-Huang/chatbox</link>
-  <guid isPermaLink="false">5057</guid>
-  <pubDate>Tue, 14 Mar 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>exaloop / codon</title>
-  <description>A high-performance, zero-overhead, extensible Python compiler using LLVM</description>
-  <link>https://github.com/exaloop/codon</link>
-  <guid isPermaLink="false">5056</guid>
-  <pubDate>Tue, 14 Mar 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>AstroNvim / AstroNvim</title>
-  <description>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins</description>
-  <link>https://github.com/AstroNvim/AstroNvim</link>
-  <guid isPermaLink="false">5055</guid>
-  <pubDate>Tue, 14 Mar 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>zauberzeug / nicegui</title>
-  <description>Create web-based UI with Python. The nice way.</description>
-  <link>https://github.com/zauberzeug/nicegui</link>
-  <guid isPermaLink="false">5013</guid>
-  <pubDate>Mon, 13 Mar 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>Genymobile / scrcpy</title>
-  <description>Display and control your Android device</description>
-  <link>https://github.com/Genymobile/scrcpy</link>
-  <guid isPermaLink="false">5012</guid>
-  <pubDate>Mon, 13 Mar 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>CS-BAOYAN / CSSummerCamp2023</title>
-  <description></description>
-  <link>https://github.com/CS-BAOYAN/CSSummerCamp2023</link>
-  <guid isPermaLink="false">5011</guid>
-  <pubDate>Mon, 13 Mar 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>The-Art-of-Hacking / h4cker</title>
-  <description>This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.</description>
-  <link>https://github.com/The-Art-of-Hacking/h4cker</link>
-  <guid isPermaLink="false">5010</guid>
-  <pubDate>Mon, 13 Mar 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>mckaywrigley / chatbot-ui</title>
-  <description>A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.</description>
-  <link>https://github.com/mckaywrigley/chatbot-ui</link>
-  <guid isPermaLink="false">5009</guid>
-  <pubDate>Mon, 13 Mar 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>sherlock-project / sherlock</title>
-  <description>🔎 Hunt down social media accounts by username across social networks</description>
-  <link>https://github.com/sherlock-project/sherlock</link>
-  <guid isPermaLink="false">5008</guid>
-  <pubDate>Mon, 13 Mar 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>tangly1024 / NotionNext</title>
-  <description>一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。</description>
-  <link>https://github.com/tangly1024/NotionNext</link>
-  <guid isPermaLink="false">5007</guid>
-  <pubDate>Mon, 13 Mar 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>termux / termux-packages</title>
-  <description>A package build system for Termux.</description>
-  <link>https://github.com/termux/termux-packages</link>
-  <guid isPermaLink="false">5006</guid>
-  <pubDate>Mon, 13 Mar 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>kaixindelele / ChatPaper</title>
-  <description>Use ChatGPT to summarize the arXiv papers.</description>
-  <link>https://github.com/kaixindelele/ChatPaper</link>
-  <guid isPermaLink="false">5005</guid>
-  <pubDate>Mon, 13 Mar 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>togethercomputer / OpenChatKit</title>
-  <description></description>
-  <link>https://github.com/togethercomputer/OpenChatKit</link>
-  <guid isPermaLink="false">5004</guid>
-  <pubDate>Mon, 13 Mar 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>getaurora / download</title>
-  <description>极光官方版本下载页 翻墙 代理 科学上网 外网 加速器 梯子 路由</description>
-  <link>https://github.com/getaurora/download</link>
-  <guid isPermaLink="false">4967</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>pkuliyi2015 / multidiffusion-upscaler-for-automatic1111</title>
-  <description>MultiDiffusion implementation with VAE VRAM optimize</description>
-  <link>https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111</link>
-  <guid isPermaLink="false">4966</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>butaixianran / Stable-Diffusion-Webui-Civitai-Helper</title>
-  <description>Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.</description>
-  <link>https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper</link>
-  <guid isPermaLink="false">4965</guid>
-  <pubDate>Sun, 12 Mar 2023 10:00:06 -0700</pubDate>
  </item>
 
 </channel>
