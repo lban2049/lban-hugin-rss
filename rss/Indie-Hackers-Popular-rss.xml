@@ -8,9 +8,79 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 17 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Fri, 17 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Sat, 18 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Sat, 18 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Why consider Node.js alternatives?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/why-consider-node-js-alternatives-936f7ea756</link>
+  <guid isPermaLink="false">5292</guid>
+  <pubDate>Sat, 18 Mar 2023 10:00:27 -0700</pubDate>
+ </item>
+ <item>
+  <title>🚀 Launching AppShots : App Store Screenshot Creator</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/launching-appshots-app-store-screenshot-creator-aa2955f99c</link>
+  <guid isPermaLink="false">5291</guid>
+  <pubDate>Sat, 18 Mar 2023 10:00:26 -0700</pubDate>
+ </item>
+ <item>
+  <title>My journey bootstrapping a SaaS to 7-figures</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/my-journey-bootstrapping-a-saas-to-7-figures-652497ec54</link>
+  <guid isPermaLink="false">5290</guid>
+  <pubDate>Sat, 18 Mar 2023 10:00:26 -0700</pubDate>
+ </item>
+ <item>
+  <title>Since this GPT4 was showcased the other day anyone would be interested in the domain GraphicDesigner . AI?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/since-this-gpt4-was-showcased-the-other-day-anyone-would-be-interested-in-the-domain-graphicdesigner-ai-d8bfdaee56</link>
+  <guid isPermaLink="false">5289</guid>
+  <pubDate>Sat, 18 Mar 2023 10:00:26 -0700</pubDate>
+ </item>
+ <item>
+  <title>How I built a SaaS in 30 days (Product Hunt Launch Challenge)</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-i-built-a-saas-in-30-days-product-hunt-launch-challenge-d3f28f3a0e</link>
+  <guid isPermaLink="false">5288</guid>
+  <pubDate>Sat, 18 Mar 2023 10:00:26 -0700</pubDate>
+ </item>
+ <item>
+  <title>🕴️The G of the Week: Ryan Reynolds</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/the-g-of-the-week-ryan-reynolds-463d90c512</link>
+  <guid isPermaLink="false">5287</guid>
+  <pubDate>Sat, 18 Mar 2023 10:00:26 -0700</pubDate>
+ </item>
+ <item>
+  <title>2 full years, my first SaaS startup is over</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/2-full-years-my-first-saas-startup-is-over-38092f62e4</link>
+  <guid isPermaLink="false">5286</guid>
+  <pubDate>Sat, 18 Mar 2023 10:00:26 -0700</pubDate>
+ </item>
+ <item>
+  <title>Referral Programs: Goals, Dual-Rewards, Niche Sites</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/referral-programs-goals-dual-rewards-niche-sites-ebe1957ebf</link>
+  <guid isPermaLink="false">5285</guid>
+  <pubDate>Sat, 18 Mar 2023 10:00:26 -0700</pubDate>
+ </item>
+ <item>
+  <title>How we built a side project in 16 hours with a $0 budget</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-we-built-a-side-project-in-16-hours-with-a-0-budget-cb80e1ca2f</link>
+  <guid isPermaLink="false">5284</guid>
+  <pubDate>Sat, 18 Mar 2023 10:00:26 -0700</pubDate>
+ </item>
+ <item>
+  <title>Why I failed to build a startup in 24 hrs</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/why-i-failed-to-build-a-startup-in-24-hrs-df52ee56ee</link>
+  <guid isPermaLink="false">5283</guid>
+  <pubDate>Sat, 18 Mar 2023 10:00:26 -0700</pubDate>
+ </item>
  <item>
   <title>Saas Reporting Analytics, The Executives' Guide to New Business Building</title>
   <description></description>
@@ -220,76 +290,6 @@
   <link>https://www.indiehackers.com/post/please-vet-my-startup-idea-chatgpt-client-for-teams-d3bdbeec77</link>
   <guid isPermaLink="false">5160</guid>
   <pubDate>Wed, 15 Mar 2023 10:00:12 -0700</pubDate>
- </item>
- <item>
-  <title>I doubled our user base in 24 hours &amp; how we turn it into video content</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/i-doubled-our-user-base-in-24-hours-how-we-turn-it-into-video-content-5047c04ee6</link>
-  <guid isPermaLink="false">5159</guid>
-  <pubDate>Wed, 15 Mar 2023 10:00:12 -0700</pubDate>
- </item>
- <item>
-  <title>Suggest some amazing virtual tech conferences plz</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/suggest-some-amazing-virtual-tech-conferences-plz-ca1704d3d7</link>
-  <guid isPermaLink="false">5158</guid>
-  <pubDate>Wed, 15 Mar 2023 10:00:12 -0700</pubDate>
- </item>
- <item>
-  <title>I've made a free drag and drop React template builder</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/ive-made-a-free-drag-and-drop-react-template-builder-a1c77e2501</link>
-  <guid isPermaLink="false">5157</guid>
-  <pubDate>Wed, 15 Mar 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>AMA - $12.5k in sales for Bullet within a month of launch</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/ama-12-5k-in-sales-for-bullet-within-a-month-of-launch-c0bf7cb879</link>
-  <guid isPermaLink="false">5156</guid>
-  <pubDate>Wed, 15 Mar 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>How I Built CoverLetterGPT and got 200 users/payments in 5 days</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-i-built-coverlettergpt-and-got-200-users-payments-in-5-days-2e38e620d1</link>
-  <guid isPermaLink="false">5155</guid>
-  <pubDate>Wed, 15 Mar 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>Early Stage Market Feedback</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/early-stage-market-feedback-8ee62191b6</link>
-  <guid isPermaLink="false">5054</guid>
-  <pubDate>Mon, 13 Mar 2023 10:00:14 -0700</pubDate>
- </item>
- <item>
-  <title>What is you favorite activity as a founder?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/what-is-you-favorite-activity-as-a-founder-7fa22e4b39</link>
-  <guid isPermaLink="false">5053</guid>
-  <pubDate>Mon, 13 Mar 2023 10:00:14 -0700</pubDate>
- </item>
- <item>
-  <title>How do you cope with the fustration and depression of not working on your business full time</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-do-you-cope-with-the-fustration-and-depression-of-not-working-on-your-business-full-time-6e89049329</link>
-  <guid isPermaLink="false">5052</guid>
-  <pubDate>Mon, 13 Mar 2023 10:00:14 -0700</pubDate>
- </item>
- <item>
-  <title>🚀 Just launched a "sweet" budget photoshoot experience with Purrfect AI・Photo Studio 😻</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/just-launched-a-sweet-budget-photoshoot-experience-with-purrfect-ai-photo-studio-008e71e2a7</link>
-  <guid isPermaLink="false">5051</guid>
-  <pubDate>Mon, 13 Mar 2023 10:00:14 -0700</pubDate>
- </item>
- <item>
-  <title>First steps for a SaaS product for niche industry</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/first-steps-for-a-saas-product-for-niche-industry-8c00ca2545</link>
-  <guid isPermaLink="false">5050</guid>
-  <pubDate>Mon, 13 Mar 2023 10:00:13 -0700</pubDate>
  </item>
 
 </channel>
