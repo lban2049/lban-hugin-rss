@@ -8,9 +8,149 @@
  <title>v2ex creating RSS</title>
  <description>v2ex creating RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 18 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Sat, 18 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Sun, 19 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Sun, 19 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>ChatGPT Next - 私有化部署的网页版聊天机器人</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/924933#reply15</link>
+  <pubDate>Sun, 19 Mar 2023 09:55:25 -0700</pubDate>
+  <guid isPermaLink="false">5294</guid>
+ </item>
+ <item>
+  <title>既然手机能用半导体制冷散热，为什么服务器和 PC 机不使用呢？</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/925372#reply10</link>
+  <pubDate>Sun, 19 Mar 2023 09:28:27 -0700</pubDate>
+  <guid isPermaLink="false">5293</guid>
+ </item>
+ <item>
+  <title>Aoi - ChatGPT 命令行版本，自动执行命令，自动查询数据库</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/925359#reply2</link>
+  <pubDate>Sun, 19 Mar 2023 09:18:26 -0700</pubDate>
+  <guid isPermaLink="false">5296</guid>
+ </item>
+ <item>
+  <title>[VVEX] 使用 Flutter 开发的第二好看的 V2 客户端 🤪</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/923791#reply107</link>
+  <pubDate>Sun, 19 Mar 2023 09:06:07 -0700</pubDate>
+  <guid isPermaLink="false">5312</guid>
+ </item>
+ <item>
+  <title>用 vue3 写了一个模仿 windows 系统的 UI 框架</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/925027#reply16</link>
+  <pubDate>Sun, 19 Mar 2023 08:58:48 -0700</pubDate>
+  <guid isPermaLink="false">5304</guid>
+ </item>
+ <item>
+  <title>📝 xLog - 链上开源博客社区和创作者激励计划</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/925034#reply31</link>
+  <pubDate>Sun, 19 Mar 2023 08:35:26 -0700</pubDate>
+  <guid isPermaLink="false">5295</guid>
+ </item>
+ <item>
+  <title>是否有一个整理短文（发朋友圈或 twitter）之类的 AI 工具</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/925092#reply4</link>
+  <pubDate>Sun, 19 Mar 2023 07:26:37 -0700</pubDate>
+  <guid isPermaLink="false">5305</guid>
+ </item>
+ <item>
+  <title>Cnbeta Lite 复活</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/925317#reply1</link>
+  <pubDate>Sun, 19 Mar 2023 07:05:41 -0700</pubDate>
+  <guid isPermaLink="false">5299</guid>
+ </item>
+ <item>
+  <title>利用 ChatGPT 帮助学习英语（读写）</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/925207#reply3</link>
+  <pubDate>Sun, 19 Mar 2023 06:14:59 -0700</pubDate>
+  <guid isPermaLink="false">5302</guid>
+ </item>
+ <item>
+  <title>Alist-encrypt 再也不用担心网盘资源被封啦，可在线播放加密视频</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/925236#reply5</link>
+  <pubDate>Sun, 19 Mar 2023 05:24:47 -0700</pubDate>
+  <guid isPermaLink="false">5301</guid>
+ </item>
+ <item>
+  <title>简图(easydraw) --- 一款 hand writing 风格的绘图服务</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/925273#reply17</link>
+  <pubDate>Sun, 19 Mar 2023 05:19:47 -0700</pubDate>
+  <guid isPermaLink="false">5297</guid>
+ </item>
+ <item>
+  <title>chatgpt 最终会简化整个工作流程</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/924866#reply6</link>
+  <pubDate>Sun, 19 Mar 2023 05:02:03 -0700</pubDate>
+  <guid isPermaLink="false">5308</guid>
+ </item>
+ <item>
+  <title>[V2Fun] V2EX 第三方 app，现已支持 iPad 版</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/921903#reply109</link>
+  <pubDate>Sun, 19 Mar 2023 04:36:37 -0700</pubDate>
+  <guid isPermaLink="false">5307</guid>
+ </item>
+ <item>
+  <title>Light-GPT，私有化 AI 问答的 WEB 应用， Docker 镜像一键部署～</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/925306#reply5</link>
+  <pubDate>Sun, 19 Mar 2023 02:34:18 -0700</pubDate>
+  <guid isPermaLink="false">5298</guid>
+ </item>
+ <item>
+  <title>[小答]老婆说想在手机上使用 ChatGPT，安排~~~ 送码？</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/924053#reply50</link>
+  <pubDate>Sun, 19 Mar 2023 01:45:54 -0700</pubDate>
+  <guid isPermaLink="false">5309</guid>
+ </item>
+ <item>
+  <title>0 成本， 16 小时，我们做了个帮助外国朋友生成中文名的 tiny side project</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/925121#reply7</link>
+  <pubDate>Sun, 19 Mar 2023 01:15:06 -0700</pubDate>
+  <guid isPermaLink="false">5303</guid>
+ </item>
+ <item>
+  <title>HTTP basic authentication + HTTPS 的组合似乎也挺安全的</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/925126#reply15</link>
+  <pubDate>Sat, 18 Mar 2023 22:00:15 -0700</pubDate>
+  <guid isPermaLink="false">5300</guid>
+ </item>
+ <item>
+  <title>Checkget - 基于 ChatGPT 的浏览器助手 [踢楼送码]</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/923908#reply99</link>
+  <pubDate>Sat, 18 Mar 2023 19:43:09 -0700</pubDate>
+  <guid isPermaLink="false">5306</guid>
+ </item>
+ <item>
+  <title>类似 github 但是是去中心化代码托管平台, 这个想法怎么样</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/924447#reply13</link>
+  <pubDate>Sat, 18 Mar 2023 19:00:40 -0700</pubDate>
+  <guid isPermaLink="false">5310</guid>
+ </item>
+ <item>
+  <title>315 来了，为什么不试试 AI 编写道歉公关文？</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/924323#reply3</link>
+  <pubDate>Sat, 18 Mar 2023 18:27:29 -0700</pubDate>
+  <guid isPermaLink="false">5311</guid>
+ </item>
  <item>
   <title>ChatGPT Next - 私有化部署的网页版聊天机器人</title>
   <description></description>
@@ -150,146 +290,6 @@
   <link>https://www.v2ex.com/t/925025#reply3</link>
   <pubDate>Fri, 17 Mar 2023 19:37:40 -0700</pubDate>
   <guid isPermaLink="false">5270</guid>
- </item>
- <item>
-  <title>批量下载喜马拉雅专辑内音频</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/924956#reply1</link>
-  <pubDate>Fri, 17 Mar 2023 18:23:56 -0700</pubDate>
-  <guid isPermaLink="false">5272</guid>
- </item>
- <item>
-  <title>推荐一个适用于大 web 时代的效率工具: webbox —— 组织你的常用网站</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/924764#reply11</link>
-  <pubDate>Fri, 17 Mar 2023 11:25:28 -0700</pubDate>
-  <guid isPermaLink="false">5275</guid>
- </item>
- <item>
-  <title>再不学习 AI 就晚了？</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/923859#reply44</link>
-  <pubDate>Fri, 17 Mar 2023 11:04:45 -0700</pubDate>
-  <guid isPermaLink="false">5279</guid>
- </item>
- <item>
-  <title>「3body-lang」三体编程语言 v0.1.0 支持了首个系统库 rand.3body 自带乱纪元属性</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/924967#reply2</link>
-  <pubDate>Fri, 17 Mar 2023 09:17:56 -0700</pubDate>
-  <guid isPermaLink="false">5188</guid>
- </item>
- <item>
-  <title>这波 AI 浪潮可以助推四天工作制甚至三天工作制吗？</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/924810#reply139</link>
-  <pubDate>Fri, 17 Mar 2023 08:47:01 -0700</pubDate>
-  <guid isPermaLink="false">5189</guid>
- </item>
- <item>
-  <title>IndexNow Action 发布了</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/923879#reply8</link>
-  <pubDate>Fri, 17 Mar 2023 08:09:26 -0700</pubDate>
-  <guid isPermaLink="false">5227</guid>
- </item>
- <item>
-  <title>批量下载喜马拉雅专辑内音频</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/924956#reply0</link>
-  <pubDate>Fri, 17 Mar 2023 06:43:12 -0700</pubDate>
-  <guid isPermaLink="false">5191</guid>
- </item>
- <item>
-  <title>ChatGPT Next - 私有化部署的网页版聊天机器人</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/924933#reply7</link>
-  <pubDate>Fri, 17 Mar 2023 06:40:39 -0700</pubDate>
-  <guid isPermaLink="false">5190</guid>
- </item>
- <item>
-  <title>awesome 再 awesome， awesome list 王中王，整了一个专门搜集 prompt engineering 有关 awesome list 的 awesome list</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/924870#reply2</link>
-  <pubDate>Fri, 17 Mar 2023 05:37:15 -0700</pubDate>
-  <guid isPermaLink="false">5194</guid>
- </item>
- <item>
-  <title>Checkget - 基于 ChatGPT 的浏览器助手 [踢楼送码]</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/923908#reply92</link>
-  <pubDate>Fri, 17 Mar 2023 05:25:52 -0700</pubDate>
-  <guid isPermaLink="false">5192</guid>
- </item>
- <item>
-  <title>很多人已经写过的 chatgpt demo，再来写一个</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/924368#reply1</link>
-  <pubDate>Fri, 17 Mar 2023 03:57:07 -0700</pubDate>
-  <guid isPermaLink="false">5210</guid>
- </item>
- <item>
-  <title>《折痕》</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/924778#reply2</link>
-  <pubDate>Fri, 17 Mar 2023 03:32:34 -0700</pubDate>
-  <guid isPermaLink="false">5199</guid>
- </item>
- <item>
-  <title>chatgpt 最终会简化整个工作流程</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/924866#reply5</link>
-  <pubDate>Fri, 17 Mar 2023 03:08:30 -0700</pubDate>
-  <guid isPermaLink="false">5193</guid>
- </item>
- <item>
-  <title>再不学习 AI 就晚了？</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/923859#reply42</link>
-  <pubDate>Fri, 17 Mar 2023 02:34:52 -0700</pubDate>
-  <guid isPermaLink="false">5213</guid>
- </item>
- <item>
-  <title>[V2Fun] V2EX 第三方 app，现已支持 iPad 版</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/921903#reply105</link>
-  <pubDate>Fri, 17 Mar 2023 02:30:43 -0700</pubDate>
-  <guid isPermaLink="false">5203</guid>
- </item>
- <item>
-  <title>文字生成图片可能的用法</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/924621#reply5</link>
-  <pubDate>Fri, 17 Mar 2023 02:29:29 -0700</pubDate>
-  <guid isPermaLink="false">5201</guid>
- </item>
- <item>
-  <title>推荐一个适用于大 web 时代的效率工具: webbox —— 组织你的常用网站</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/924764#reply10</link>
-  <pubDate>Fri, 17 Mar 2023 02:02:44 -0700</pubDate>
-  <guid isPermaLink="false">5196</guid>
- </item>
- <item>
-  <title>我认为判定机器是否拥有智能的标准或许应该是：主观能动性</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/924319#reply14</link>
-  <pubDate>Fri, 17 Mar 2023 01:47:10 -0700</pubDate>
-  <guid isPermaLink="false">5207</guid>
- </item>
- <item>
-  <title>RSS 你关注的一页搞定</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/924740#reply5</link>
-  <pubDate>Fri, 17 Mar 2023 01:39:37 -0700</pubDate>
-  <guid isPermaLink="false">5198</guid>
- </item>
- <item>
-  <title>[VVEX] 使用 Flutter 开发的第二好看的 V2 客户端 🤪</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/923791#reply104</link>
-  <pubDate>Fri, 17 Mar 2023 01:07:28 -0700</pubDate>
-  <guid isPermaLink="false">5219</guid>
  </item>
 
 </channel>

@@ -8,9 +8,51 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 18 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Sat, 18 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Sun, 19 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Sun, 19 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>一个 ChatGPT 小程序《神奇海螺》</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3798</link>
+  <pubDate>Sun, 19 Mar 2023 05:31:06 -0700</pubDate>
+  <guid isPermaLink="false">5313</guid>
+ </item>
+ <item>
+  <title>关于软著及商标问题</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3796</link>
+  <pubDate>Sun, 19 Mar 2023 01:39:06 -0700</pubDate>
+  <guid isPermaLink="false">5314</guid>
+ </item>
+ <item>
+  <title>有没有擅长设计的小伙伴合作实现一个图片处理小程序？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3790</link>
+  <pubDate>Sat, 18 Mar 2023 06:49:14 -0700</pubDate>
+  <guid isPermaLink="false">5315</guid>
+ </item>
+ <item>
+  <title>0 成本， 16 小时，我们做了个帮助外国朋友生成中文名的 tiny side project</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3797</link>
+  <pubDate>Sat, 18 Mar 2023 03:29:54 -0700</pubDate>
+  <guid isPermaLink="false">5316</guid>
+ </item>
+ <item>
+  <title>个人如果开发工具类和社交类的小程序，要从什么方面开始做需求分析？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3786</link>
+  <pubDate>Sat, 18 Mar 2023 02:01:46 -0700</pubDate>
+  <guid isPermaLink="false">5317</guid>
+ </item>
+ <item>
+  <title>失业在家，做点小东西，大家看看</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3770</link>
+  <pubDate>Fri, 17 Mar 2023 20:23:03 -0700</pubDate>
+  <guid isPermaLink="false">5318</guid>
+ </item>
  <item>
   <title>我是「会话微件」开发者</title>
   <description></description>
@@ -54,6 +96,13 @@
   <guid isPermaLink="false">5237</guid>
  </item>
  <item>
+  <title>寻找创业合作伙伴 IOS 端开发 运营伙伴</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3784</link>
+  <pubDate>Thu, 16 Mar 2023 18:58:29 -0700</pubDate>
+  <guid isPermaLink="false">5319</guid>
+ </item>
+ <item>
   <title>一款高效的非专注背单词软件 资料分享网站 寻找创业合作伙伴 IOS 端开发 运营伙伴</title>
   <description></description>
   <link>https://w2solo.com/topics/3784</link>
@@ -94,6 +143,13 @@
   <link>https://w2solo.com/topics/3785</link>
   <pubDate>Tue, 14 Mar 2023 23:55:18 -0700</pubDate>
   <guid isPermaLink="false">5152</guid>
+ </item>
+ <item>
+  <title>我的成本 300 元的在线文档翻译产品</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3789</link>
+  <pubDate>Tue, 14 Mar 2023 20:06:08 -0700</pubDate>
+  <guid isPermaLink="false">5320</guid>
  </item>
  <item>
   <title>我的成本 300 元的在线 Excel 翻译产品</title>
@@ -234,62 +290,6 @@
   <link>https://w2solo.com/topics/3759</link>
   <pubDate>Tue, 07 Mar 2023 10:04:10 -0800</pubDate>
   <guid isPermaLink="false">4759</guid>
- </item>
- <item>
-  <title>简洁美观的免费名片制作工具</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3782</link>
-  <pubDate>Tue, 07 Mar 2023 07:36:18 -0800</pubDate>
-  <guid isPermaLink="false">4689</guid>
- </item>
- <item>
-  <title>手帐 app 寻合作</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3759</link>
-  <pubDate>Tue, 07 Mar 2023 01:21:48 -0800</pubDate>
-  <guid isPermaLink="false">4690</guid>
- </item>
- <item>
-  <title>w2solo 北京第一次线下聚会完美谢幕</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3750</link>
-  <pubDate>Tue, 07 Mar 2023 00:26:27 -0800</pubDate>
-  <guid isPermaLink="false">4688</guid>
- </item>
- <item>
-  <title>简单智能、功能齐备的云端音视频工具</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3767</link>
-  <pubDate>Mon, 06 Mar 2023 23:32:01 -0800</pubDate>
-  <guid isPermaLink="false">4691</guid>
- </item>
- <item>
-  <title>独立开发周报 #3(0227-0305)</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3781</link>
-  <pubDate>Mon, 06 Mar 2023 19:00:58 -0800</pubDate>
-  <guid isPermaLink="false">4692</guid>
- </item>
- <item>
-  <title>独立开发周报 #1 (0213-0219)</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3752</link>
-  <pubDate>Mon, 06 Mar 2023 04:26:04 -0800</pubDate>
-  <guid isPermaLink="false">4625</guid>
- </item>
- <item>
-  <title>独立产品灵感周刊 DecoHack #050 - 基于 ChatGPT 的 API 能做什么产品</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3780</link>
-  <pubDate>Mon, 06 Mar 2023 01:01:56 -0800</pubDate>
-  <guid isPermaLink="false">4626</guid>
- </item>
- <item>
-  <title>独立开发周报 #2(0220-0226)</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3779</link>
-  <pubDate>Sun, 05 Mar 2023 21:05:11 -0800</pubDate>
-  <guid isPermaLink="false">4627</guid>
  </item>
 
 </channel>
