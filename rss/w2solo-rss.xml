@@ -8,9 +8,37 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 19 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Sun, 19 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Mon, 20 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Mon, 20 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>请教下大家，在独立开发中遇到素材插画一般都是从哪里获取到的呢？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3801</link>
+  <pubDate>Mon, 20 Mar 2023 07:07:35 -0700</pubDate>
+  <guid isPermaLink="false">5387</guid>
+ </item>
+ <item>
+  <title>Dawn Launcher 发布两个月左右，3000+ 用户下载并使用</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3772</link>
+  <pubDate>Mon, 20 Mar 2023 01:10:39 -0700</pubDate>
+  <guid isPermaLink="false">5388</guid>
+ </item>
+ <item>
+  <title>独立开发周记 #5 ——AI 助力</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3800</link>
+  <pubDate>Sun, 19 Mar 2023 23:35:56 -0700</pubDate>
+  <guid isPermaLink="false">5389</guid>
+ </item>
+ <item>
+  <title>小小里程碑，独立开发的作品简单简历 easycv.cn 月收入达到 2000 元</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3799</link>
+  <pubDate>Sun, 19 Mar 2023 19:18:27 -0700</pubDate>
+  <guid isPermaLink="false">5390</guid>
+ </item>
  <item>
   <title>一个 ChatGPT 小程序《神奇海螺》</title>
   <description></description>
@@ -262,34 +290,6 @@
   <link>https://w2solo.com/topics/3783</link>
   <pubDate>Wed, 08 Mar 2023 06:15:35 -0800</pubDate>
   <guid isPermaLink="false">4756</guid>
- </item>
- <item>
-  <title>哈哈，终于开发了一款面向程序员的小程序工具</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3756</link>
-  <pubDate>Wed, 08 Mar 2023 00:31:25 -0800</pubDate>
-  <guid isPermaLink="false">4757</guid>
- </item>
- <item>
-  <title>发福利了，我造了一个 AI 元宇宙</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3774</link>
-  <pubDate>Wed, 08 Mar 2023 00:30:39 -0800</pubDate>
-  <guid isPermaLink="false">4758</guid>
- </item>
- <item>
-  <title>w2solo 北京第一次线下聚会完美谢幕</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3750</link>
-  <pubDate>Tue, 07 Mar 2023 22:09:00 -0800</pubDate>
-  <guid isPermaLink="false">4755</guid>
- </item>
- <item>
-  <title>手帐 app 寻合作</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3759</link>
-  <pubDate>Tue, 07 Mar 2023 10:04:10 -0800</pubDate>
-  <guid isPermaLink="false">4759</guid>
  </item>
 
 </channel>
