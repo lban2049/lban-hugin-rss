@@ -8,9 +8,107 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 20 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Mon, 20 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Tue, 21 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Tue, 21 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>hwchase17 / langchain</title>
+  <description>⚡ Building applications with LLMs through composability ⚡</description>
+  <link>https://github.com/hwchase17/langchain</link>
+  <guid isPermaLink="false">5419</guid>
+  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>enricoros / nextjs-chatgpt-app</title>
+  <description>💬 Responsive chat application powered by OpenAI's GPT-4, with response streaming, code highlighting, various presets for developers. Using Next.js, React, Joy.</description>
+  <link>https://github.com/enricoros/nextjs-chatgpt-app</link>
+  <guid isPermaLink="false">5418</guid>
+  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>TheR1D / shell_gpt</title>
+  <description>A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.</description>
+  <link>https://github.com/TheR1D/shell_gpt</link>
+  <guid isPermaLink="false">5417</guid>
+  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>GerevAI / gerev</title>
+  <description>google-like search for workplaces (powered by open-source LLMs) 🔎</description>
+  <link>https://github.com/GerevAI/gerev</link>
+  <guid isPermaLink="false">5416</guid>
+  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>dair-ai / Prompt-Engineering-Guide</title>
+  <description>🐙 Guides, papers, lecture, and resources for prompt engineering</description>
+  <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
+  <guid isPermaLink="false">5415</guid>
+  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>D4RK-R4BB1T / Dark-Web-Archives</title>
+  <description>Archives of the criminal side of the internet</description>
+  <link>https://github.com/D4RK-R4BB1T/Dark-Web-Archives</link>
+  <guid isPermaLink="false">5414</guid>
+  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>BloopAI / bloop</title>
+  <description>bloop is a fast code search engine written in Rust.</description>
+  <link>https://github.com/BloopAI/bloop</link>
+  <guid isPermaLink="false">5413</guid>
+  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>TheExplainthis / AI-Products-All-In-One</title>
+  <description>彙整了真正實用的 ChatGPT 與生成式 AI 工具</description>
+  <link>https://github.com/TheExplainthis/AI-Products-All-In-One</link>
+  <guid isPermaLink="false">5412</guid>
+  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>gannonh / gpt3.5-turbo-pgvector</title>
+  <description>ChatGTP (gpt3.5-turbo) starter app</description>
+  <link>https://github.com/gannonh/gpt3.5-turbo-pgvector</link>
+  <guid isPermaLink="false">5411</guid>
+  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>biobootloader / wolverine</title>
+  <description></description>
+  <link>https://github.com/biobootloader/wolverine</link>
+  <guid isPermaLink="false">5410</guid>
+  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>ourongxing / chatgpt-vercel</title>
+  <description>Powered by OpenAI API (gpt-3.5-turbo) and Vercel</description>
+  <link>https://github.com/ourongxing/chatgpt-vercel</link>
+  <guid isPermaLink="false">5409</guid>
+  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>apache / incubator-paimon</title>
+  <description>Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics.</description>
+  <link>https://github.com/apache/incubator-paimon</link>
+  <guid isPermaLink="false">5408</guid>
+  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>josStorer / chatGPTBox</title>
+  <description>Integrating ChatGPT into your browser deeply, everything you need is here</description>
+  <link>https://github.com/josStorer/chatGPTBox</link>
+  <guid isPermaLink="false">5407</guid>
+  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>keijiro / AICommand</title>
+  <description>ChatGPT integration with Unity Editor</description>
+  <link>https://github.com/keijiro/AICommand</link>
+  <guid isPermaLink="false">5406</guid>
+  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
+ </item>
  <item>
   <title>PCSX2 / pcsx2</title>
   <description>PCSX2 - The Playstation 2 Emulator</description>
@@ -192,104 +290,6 @@
   <link>https://github.com/karpathy/nanoGPT</link>
   <guid isPermaLink="false">5182</guid>
   <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>lapce / lapce</title>
-  <description>Lightning-fast and Powerful Code Editor written in Rust</description>
-  <link>https://github.com/lapce/lapce</link>
-  <guid isPermaLink="false">5181</guid>
-  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>massgravel / Microsoft-Activation-Scripts</title>
-  <description>A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</description>
-  <link>https://github.com/massgravel/Microsoft-Activation-Scripts</link>
-  <guid isPermaLink="false">5180</guid>
-  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>brunosimon / folio-2019</title>
-  <description></description>
-  <link>https://github.com/brunosimon/folio-2019</link>
-  <guid isPermaLink="false">5179</guid>
-  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>xx025 / carrot</title>
-  <description>这儿收集了一些免费好用的ChatGPT镜像站 当前：60个站点</description>
-  <link>https://github.com/xx025/carrot</link>
-  <guid isPermaLink="false">5178</guid>
-  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>THUDM / ChatGLM-6B</title>
-  <description>ChatGLM-6B：开源双语对话语言模型 | An open bilingual dialogue language model</description>
-  <link>https://github.com/THUDM/ChatGLM-6B</link>
-  <guid isPermaLink="false">5177</guid>
-  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>tloen / alpaca-lora</title>
-  <description>Finetuning InstructLLaMA on consumer hardware</description>
-  <link>https://github.com/tloen/alpaca-lora</link>
-  <guid isPermaLink="false">5176</guid>
-  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>apache / incubator-opendal</title>
-  <description>Apache OpenDAL: Access data freely, painlessly, and efficiently.</description>
-  <link>https://github.com/apache/incubator-opendal</link>
-  <guid isPermaLink="false">5175</guid>
-  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>setzer22 / llama-rs</title>
-  <description>Run LLaMA inference on CPU, with Rust 🦀🚀🦙</description>
-  <link>https://github.com/setzer22/llama-rs</link>
-  <guid isPermaLink="false">5174</guid>
-  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>logspace-ai / langflow</title>
-  <description>⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.</description>
-  <link>https://github.com/logspace-ai/langflow</link>
-  <guid isPermaLink="false">5173</guid>
-  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>dreamworksanimation / openmoonray</title>
-  <description></description>
-  <link>https://github.com/dreamworksanimation/openmoonray</link>
-  <guid isPermaLink="false">5172</guid>
-  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>facebookresearch / llama</title>
-  <description>Inference code for LLaMA models</description>
-  <link>https://github.com/facebookresearch/llama</link>
-  <guid isPermaLink="false">5121</guid>
-  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>Const-me / Whisper</title>
-  <description>High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model</description>
-  <link>https://github.com/Const-me/Whisper</link>
-  <guid isPermaLink="false">5120</guid>
-  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>acheong08 / EdgeGPT</title>
-  <description>Reverse engineered API of Microsoft's Bing Chat</description>
-  <link>https://github.com/acheong08/EdgeGPT</link>
-  <guid isPermaLink="false">5119</guid>
-  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>orhun / halp</title>
-  <description>A CLI tool to get help with CLI tools 🐙</description>
-  <link>https://github.com/orhun/halp</link>
-  <guid isPermaLink="false">5118</guid>
-  <pubDate>Wed, 15 Mar 2023 10:00:05 -0700</pubDate>
  </item>
 
 </channel>
