@@ -8,9 +8,86 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 21 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Tue, 21 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Wed, 22 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Wed, 22 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Beomi / KoAlpaca</title>
+  <description>KoAlpaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)</description>
+  <link>https://github.com/Beomi/KoAlpaca</link>
+  <guid isPermaLink="false">5475</guid>
+  <pubDate>Wed, 22 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>Ciphey / Ciphey</title>
+  <description>⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡</description>
+  <link>https://github.com/Ciphey/Ciphey</link>
+  <guid isPermaLink="false">5474</guid>
+  <pubDate>Wed, 22 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>chidiwilliams / buzz</title>
+  <description>Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.</description>
+  <link>https://github.com/chidiwilliams/buzz</link>
+  <guid isPermaLink="false">5473</guid>
+  <pubDate>Wed, 22 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>lensterxyz / lenster</title>
+  <description>Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿</description>
+  <link>https://github.com/lensterxyz/lenster</link>
+  <guid isPermaLink="false">5472</guid>
+  <pubDate>Wed, 22 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>mymusise / ChatGLM-Tuning</title>
+  <description>一种平价的chatgpt实现方案, 基于ChatGLM-6B + LoRA</description>
+  <link>https://github.com/mymusise/ChatGLM-Tuning</link>
+  <guid isPermaLink="false">5471</guid>
+  <pubDate>Wed, 22 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>PlexPt / chatgpt-java</title>
+  <description>ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。</description>
+  <link>https://github.com/PlexPt/chatgpt-java</link>
+  <guid isPermaLink="false">5470</guid>
+  <pubDate>Wed, 22 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>Leizhenpeng / feishu-chatgpt</title>
+  <description>🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀</description>
+  <link>https://github.com/Leizhenpeng/feishu-chatgpt</link>
+  <guid isPermaLink="false">5469</guid>
+  <pubDate>Wed, 22 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>pelennor2170 / NAM_models</title>
+  <description>A repository collecting model files for Neural Amp Modeler (NAM) all in one place</description>
+  <link>https://github.com/pelennor2170/NAM_models</link>
+  <guid isPermaLink="false">5468</guid>
+  <pubDate>Wed, 22 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>dair-ai / Prompt-Engineering-Guide</title>
+  <description>🐙 Guides, papers, lecture, notebooks and resources for prompt engineering</description>
+  <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
+  <guid isPermaLink="false">5467</guid>
+  <pubDate>Wed, 22 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>GerevAI / gerev</title>
+  <description>🧠 ChatGPT search engine for workplace knowledge 🔎</description>
+  <link>https://github.com/GerevAI/gerev</link>
+  <guid isPermaLink="false">5466</guid>
+  <pubDate>Wed, 22 Mar 2023 10:00:07 -0700</pubDate>
+ </item>
+ <item>
+  <title>deep-diver / Alpaca-LoRA-Serve</title>
+  <description>Alpaca-LoRA as Chatbot service</description>
+  <link>https://github.com/deep-diver/Alpaca-LoRA-Serve</link>
+  <guid isPermaLink="false">5465</guid>
+  <pubDate>Wed, 22 Mar 2023 10:00:07 -0700</pubDate>
+ </item>
  <item>
   <title>hwchase17 / langchain</title>
   <description>⚡ Building applications with LLMs through composability ⚡</description>
@@ -213,83 +290,6 @@
   <link>https://github.com/gencay/vscode-chatgpt</link>
   <guid isPermaLink="false">5336</guid>
   <pubDate>Mon, 20 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>raysan5 / raylib</title>
-  <description>A simple and easy-to-use library to enjoy videogames programming</description>
-  <link>https://github.com/raysan5/raylib</link>
-  <guid isPermaLink="false">5335</guid>
-  <pubDate>Mon, 20 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>mckaywrigley / chatbot-ui</title>
-  <description>A ChatGPT clone for running locally in your browser.</description>
-  <link>https://github.com/mckaywrigley/chatbot-ui</link>
-  <guid isPermaLink="false">5334</guid>
-  <pubDate>Mon, 20 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>mayooear / gpt4-pdf-chatbot-langchain</title>
-  <description>GPT4 &amp; LangChain Chatbot for large PDF docs</description>
-  <link>https://github.com/mayooear/gpt4-pdf-chatbot-langchain</link>
-  <guid isPermaLink="false">5333</guid>
-  <pubDate>Mon, 20 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>tloen / alpaca-lora</title>
-  <description>Instruct-tune LLaMA on consumer hardware</description>
-  <link>https://github.com/tloen/alpaca-lora</link>
-  <guid isPermaLink="false">5332</guid>
-  <pubDate>Mon, 20 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>microsoft / semantic-kernel</title>
-  <description>Integrate cutting-edge LLM technology quickly and easily into your apps</description>
-  <link>https://github.com/microsoft/semantic-kernel</link>
-  <guid isPermaLink="false">5331</guid>
-  <pubDate>Mon, 20 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>huggingface / transformers</title>
-  <description>🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.</description>
-  <link>https://github.com/huggingface/transformers</link>
-  <guid isPermaLink="false">5187</guid>
-  <pubDate>Fri, 17 Mar 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>nuxt / nuxt</title>
-  <description>Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.</description>
-  <link>https://github.com/nuxt/nuxt</link>
-  <guid isPermaLink="false">5186</guid>
-  <pubDate>Fri, 17 Mar 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>pytorch / pytorch</title>
-  <description>Tensors and Dynamic neural networks in Python with strong GPU acceleration</description>
-  <link>https://github.com/pytorch/pytorch</link>
-  <guid isPermaLink="false">5185</guid>
-  <pubDate>Fri, 17 Mar 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>WassimTenachi / PhySO</title>
-  <description>Physical Symbolic Optimization</description>
-  <link>https://github.com/WassimTenachi/PhySO</link>
-  <guid isPermaLink="false">5184</guid>
-  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>openai / evals</title>
-  <description>Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.</description>
-  <link>https://github.com/openai/evals</link>
-  <guid isPermaLink="false">5183</guid>
-  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>karpathy / nanoGPT</title>
-  <description>The simplest, fastest repository for training/finetuning medium-sized GPTs.</description>
-  <link>https://github.com/karpathy/nanoGPT</link>
-  <guid isPermaLink="false">5182</guid>
-  <pubDate>Fri, 17 Mar 2023 10:00:10 -0700</pubDate>
  </item>
 
 </channel>

@@ -8,9 +8,37 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 21 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Tue, 21 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Wed, 22 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Wed, 22 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>日记应用寻找靠谱的运营</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3805</link>
+  <pubDate>Wed, 22 Mar 2023 07:40:39 -0700</pubDate>
+  <guid isPermaLink="false">5504</guid>
+ </item>
+ <item>
+  <title>《安全评估报告》有了解的吗？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3802</link>
+  <pubDate>Wed, 22 Mar 2023 01:40:27 -0700</pubDate>
+  <guid isPermaLink="false">5505</guid>
+ </item>
+ <item>
+  <title>我的成本 300 元的在线 Excel 翻译产品 - 批量翻译功能上线</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3804</link>
+  <pubDate>Wed, 22 Mar 2023 00:59:11 -0700</pubDate>
+  <guid isPermaLink="false">5506</guid>
+ </item>
+ <item>
+  <title>面向开发者的多合一工具箱</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3803</link>
+  <pubDate>Tue, 21 Mar 2023 20:56:45 -0700</pubDate>
+  <guid isPermaLink="false">5507</guid>
+ </item>
  <item>
   <title>请教下大家，在独立开发中遇到素材插画一般都是从哪里获取到的呢？</title>
   <description></description>
@@ -262,34 +290,6 @@
   <link>https://w2solo.com/topics/3784</link>
   <pubDate>Sat, 11 Mar 2023 23:36:29 -0800</pubDate>
   <guid isPermaLink="false">4992</guid>
- </item>
- <item>
-  <title>极简&amp;赚钱&amp;Build in Public</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3785</link>
-  <pubDate>Sat, 11 Mar 2023 04:38:10 -0800</pubDate>
-  <guid isPermaLink="false">4939</guid>
- </item>
- <item>
-  <title>一款高效的非专注背单词软件 资料分享网站 寻找创业合作伙伴 IOS 端开发 运营伙伴</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3784</link>
-  <pubDate>Thu, 09 Mar 2023 23:30:01 -0800</pubDate>
-  <guid isPermaLink="false">4882</guid>
- </item>
- <item>
-  <title>一款创意时钟——「文字时钟」</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3783</link>
-  <pubDate>Thu, 09 Mar 2023 20:12:30 -0800</pubDate>
-  <guid isPermaLink="false">4883</guid>
- </item>
- <item>
-  <title>一款创意时钟——「文字时钟」</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3783</link>
-  <pubDate>Thu, 09 Mar 2023 06:30:19 -0800</pubDate>
-  <guid isPermaLink="false">4820</guid>
  </item>
 
 </channel>
