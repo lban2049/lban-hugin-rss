@@ -8,9 +8,23 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 22 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Wed, 22 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Thu, 23 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Thu, 23 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>用 ChatGpt 的 api 写了一个操作表格的助手叫 AiExcel，打打字操作表格</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3806</link>
+  <pubDate>Thu, 23 Mar 2023 02:32:24 -0700</pubDate>
+  <guid isPermaLink="false">5558</guid>
+ </item>
+ <item>
+  <title>日记应用寻找靠谱的运营</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3805</link>
+  <pubDate>Wed, 22 Mar 2023 18:25:35 -0700</pubDate>
+  <guid isPermaLink="false">5559</guid>
+ </item>
  <item>
   <title>日记应用寻找靠谱的运营</title>
   <description></description>
@@ -276,20 +290,6 @@
   <link>https://w2solo.com/topics/3786</link>
   <pubDate>Sun, 12 Mar 2023 18:26:32 -0700</pubDate>
   <guid isPermaLink="false">5039</guid>
- </item>
- <item>
-  <title>一款高效的非专注背单词软件 资料分享网站 寻找创业合作伙伴 IOS 端开发 运营伙伴</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3784</link>
-  <pubDate>Sun, 12 Mar 2023 18:11:04 -0700</pubDate>
-  <guid isPermaLink="false">5040</guid>
- </item>
- <item>
-  <title>一款高效的非专注背单词软件 资料分享网站 寻找创业合作伙伴 IOS 端开发 运营伙伴</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3784</link>
-  <pubDate>Sat, 11 Mar 2023 23:36:29 -0800</pubDate>
-  <guid isPermaLink="false">4992</guid>
  </item>
 
 </channel>
