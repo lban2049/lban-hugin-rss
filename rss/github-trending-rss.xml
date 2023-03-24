@@ -8,9 +8,93 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 23 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Thu, 23 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Fri, 24 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Fri, 24 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>lukasHoel / text2room</title>
+  <description>Text2Room generates textured 3D meshes from a given text prompt using 2D text-to-image models.</description>
+  <link>https://github.com/lukasHoel/text2room</link>
+  <guid isPermaLink="false">5583</guid>
+  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>BlinkDL / ChatRWKV</title>
+  <description>ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.</description>
+  <link>https://github.com/BlinkDL/ChatRWKV</link>
+  <guid isPermaLink="false">5582</guid>
+  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>ddobokki / chatgpt_stock_report</title>
+  <description>그날의 증권사 리포트를 챗 gpt를 활용해 요약하는 레포</description>
+  <link>https://github.com/ddobokki/chatgpt_stock_report</link>
+  <guid isPermaLink="false">5581</guid>
+  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>evanw / thumbhash</title>
+  <description>A very compact representation of an image placeholder</description>
+  <link>https://github.com/evanw/thumbhash</link>
+  <guid isPermaLink="false">5580</guid>
+  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>programthink / books</title>
+  <description>【编程随想】收藏的电子书清单（多个学科，含下载链接）</description>
+  <link>https://github.com/programthink/books</link>
+  <guid isPermaLink="false">5579</guid>
+  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>codebdy / rxdrag</title>
+  <description>Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计</description>
+  <link>https://github.com/codebdy/rxdrag</link>
+  <guid isPermaLink="false">5578</guid>
+  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>dragonflydb / dragonfly</title>
+  <description>A modern replacement for Redis and Memcached</description>
+  <link>https://github.com/dragonflydb/dragonfly</link>
+  <guid isPermaLink="false">5577</guid>
+  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>LC1332 / Chinese-alpaca-lora</title>
+  <description>骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 &amp; 李鲁鲁 @ 商汤科技 &amp; 冷子昂 @ 商汤科技</description>
+  <link>https://github.com/LC1332/Chinese-alpaca-lora</link>
+  <guid isPermaLink="false">5576</guid>
+  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>BlinkDL / RWKV-LM</title>
+  <description>RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.</description>
+  <link>https://github.com/BlinkDL/RWKV-LM</link>
+  <guid isPermaLink="false">5575</guid>
+  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>programthink / zhao</title>
+  <description>【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵</description>
+  <link>https://github.com/programthink/zhao</link>
+  <guid isPermaLink="false">5574</guid>
+  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>mrsked / mrsk</title>
+  <description>Deploy web apps anywhere.</description>
+  <link>https://github.com/mrsked/mrsk</link>
+  <guid isPermaLink="false">5573</guid>
+  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>nsarrazin / serge</title>
+  <description>A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.</description>
+  <link>https://github.com/nsarrazin/serge</link>
+  <guid isPermaLink="false">5572</guid>
+  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
+ </item>
  <item>
   <title>htr-tech / zphisher</title>
   <description>An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !</description>
@@ -206,90 +290,6 @@
   <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
   <guid isPermaLink="false">5415</guid>
   <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
- </item>
- <item>
-  <title>D4RK-R4BB1T / Dark-Web-Archives</title>
-  <description>Archives of the criminal side of the internet</description>
-  <link>https://github.com/D4RK-R4BB1T/Dark-Web-Archives</link>
-  <guid isPermaLink="false">5414</guid>
-  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
- </item>
- <item>
-  <title>BloopAI / bloop</title>
-  <description>bloop is a fast code search engine written in Rust.</description>
-  <link>https://github.com/BloopAI/bloop</link>
-  <guid isPermaLink="false">5413</guid>
-  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
- </item>
- <item>
-  <title>TheExplainthis / AI-Products-All-In-One</title>
-  <description>彙整了真正實用的 ChatGPT 與生成式 AI 工具</description>
-  <link>https://github.com/TheExplainthis/AI-Products-All-In-One</link>
-  <guid isPermaLink="false">5412</guid>
-  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
- </item>
- <item>
-  <title>gannonh / gpt3.5-turbo-pgvector</title>
-  <description>ChatGTP (gpt3.5-turbo) starter app</description>
-  <link>https://github.com/gannonh/gpt3.5-turbo-pgvector</link>
-  <guid isPermaLink="false">5411</guid>
-  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
- </item>
- <item>
-  <title>biobootloader / wolverine</title>
-  <description></description>
-  <link>https://github.com/biobootloader/wolverine</link>
-  <guid isPermaLink="false">5410</guid>
-  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
- </item>
- <item>
-  <title>ourongxing / chatgpt-vercel</title>
-  <description>Powered by OpenAI API (gpt-3.5-turbo) and Vercel</description>
-  <link>https://github.com/ourongxing/chatgpt-vercel</link>
-  <guid isPermaLink="false">5409</guid>
-  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
- </item>
- <item>
-  <title>apache / incubator-paimon</title>
-  <description>Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics.</description>
-  <link>https://github.com/apache/incubator-paimon</link>
-  <guid isPermaLink="false">5408</guid>
-  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
- </item>
- <item>
-  <title>josStorer / chatGPTBox</title>
-  <description>Integrating ChatGPT into your browser deeply, everything you need is here</description>
-  <link>https://github.com/josStorer/chatGPTBox</link>
-  <guid isPermaLink="false">5407</guid>
-  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
- </item>
- <item>
-  <title>keijiro / AICommand</title>
-  <description>ChatGPT integration with Unity Editor</description>
-  <link>https://github.com/keijiro/AICommand</link>
-  <guid isPermaLink="false">5406</guid>
-  <pubDate>Tue, 21 Mar 2023 10:00:02 -0700</pubDate>
- </item>
- <item>
-  <title>PCSX2 / pcsx2</title>
-  <description>PCSX2 - The Playstation 2 Emulator</description>
-  <link>https://github.com/PCSX2/pcsx2</link>
-  <guid isPermaLink="false">5350</guid>
-  <pubDate>Mon, 20 Mar 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>34j / so-vits-svc-fork</title>
-  <description>so-vits-svc fork with REALTIME support (voice changer) and greatly improved interface.</description>
-  <link>https://github.com/34j/so-vits-svc-fork</link>
-  <guid isPermaLink="false">5349</guid>
-  <pubDate>Mon, 20 Mar 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>lencx / ChatGPT</title>
-  <description>🔮 ChatGPT Desktop Application (Mac, Windows and Linux)</description>
-  <link>https://github.com/lencx/ChatGPT</link>
-  <guid isPermaLink="false">5348</guid>
-  <pubDate>Mon, 20 Mar 2023 10:00:06 -0700</pubDate>
  </item>
 
 </channel>

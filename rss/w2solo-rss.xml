@@ -8,9 +8,58 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 23 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Thu, 23 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Fri, 24 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Fri, 24 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>日记应用寻找靠谱的运营</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3805</link>
+  <pubDate>Fri, 24 Mar 2023 06:02:56 -0700</pubDate>
+  <guid isPermaLink="false">5613</guid>
+ </item>
+ <item>
+  <title>关于软著及商标问题</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3796</link>
+  <pubDate>Fri, 24 Mar 2023 04:25:45 -0700</pubDate>
+  <guid isPermaLink="false">5614</guid>
+ </item>
+ <item>
+  <title>独立开发者线上聚会 2023-03-26（周日）</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3807</link>
+  <pubDate>Fri, 24 Mar 2023 03:50:31 -0700</pubDate>
+  <guid isPermaLink="false">5615</guid>
+ </item>
+ <item>
+  <title>我的成本 300 元的在线 Excel 翻译产品 - 批量翻译功能上线</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3804</link>
+  <pubDate>Fri, 24 Mar 2023 02:53:14 -0700</pubDate>
+  <guid isPermaLink="false">5616</guid>
+ </item>
+ <item>
+  <title>《安全评估报告》有了解的吗？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3802</link>
+  <pubDate>Fri, 24 Mar 2023 00:39:44 -0700</pubDate>
+  <guid isPermaLink="false">5617</guid>
+ </item>
+ <item>
+  <title>有没有擅长设计的小伙伴合作实现一个图片处理小程序？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3790</link>
+  <pubDate>Thu, 23 Mar 2023 22:59:50 -0700</pubDate>
+  <guid isPermaLink="false">5618</guid>
+ </item>
+ <item>
+  <title>用 ChatGpt 的 api 写了一个操作表格的助手叫 AiExcel，打打字操作表格</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3806</link>
+  <pubDate>Thu, 23 Mar 2023 22:56:57 -0700</pubDate>
+  <guid isPermaLink="false">5619</guid>
+ </item>
  <item>
   <title>用 ChatGpt 的 api 写了一个操作表格的助手叫 AiExcel，打打字操作表格</title>
   <description></description>
@@ -241,55 +290,6 @@
   <link>https://w2solo.com/topics/3789</link>
   <pubDate>Tue, 14 Mar 2023 20:06:08 -0700</pubDate>
   <guid isPermaLink="false">5153</guid>
- </item>
- <item>
-  <title># 独立开发周报 #4 (0306-0312)——ChatGPT API 初尝试</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3787</link>
-  <pubDate>Tue, 14 Mar 2023 16:39:26 -0700</pubDate>
-  <guid isPermaLink="false">5154</guid>
- </item>
- <item>
-  <title># 独立开发周报 #4 (0306-0312)——ChatGPT API 初尝试</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3787</link>
-  <pubDate>Tue, 14 Mar 2023 09:17:59 -0700</pubDate>
-  <guid isPermaLink="false">5104</guid>
- </item>
- <item>
-  <title>AlphaSheet 一不小心就做成了收费插件，无心插柳，柳成阴！</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3788</link>
-  <pubDate>Mon, 13 Mar 2023 23:38:14 -0700</pubDate>
-  <guid isPermaLink="false">5105</guid>
- </item>
- <item>
-  <title>极简&amp;赚钱&amp;Build in Public</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3785</link>
-  <pubDate>Mon, 13 Mar 2023 21:18:54 -0700</pubDate>
-  <guid isPermaLink="false">5106</guid>
- </item>
- <item>
-  <title>极简&amp;赚钱&amp;Build in Public</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3785</link>
-  <pubDate>Mon, 13 Mar 2023 09:31:57 -0700</pubDate>
-  <guid isPermaLink="false">5037</guid>
- </item>
- <item>
-  <title># 独立开发周报 #4 (0306-0312)</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3787</link>
-  <pubDate>Mon, 13 Mar 2023 00:56:03 -0700</pubDate>
-  <guid isPermaLink="false">5038</guid>
- </item>
- <item>
-  <title>个人如果开发工具类和社交类的小程序，要从什么方面开始做需求分析？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3786</link>
-  <pubDate>Sun, 12 Mar 2023 18:26:32 -0700</pubDate>
-  <guid isPermaLink="false">5039</guid>
  </item>
 
 </channel>
