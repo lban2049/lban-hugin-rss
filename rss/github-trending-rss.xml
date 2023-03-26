@@ -8,9 +8,107 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 25 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Sat, 25 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Sun, 26 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Sun, 26 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>matter-labs / zksync-era</title>
+  <description>zkSync era</description>
+  <link>https://github.com/matter-labs/zksync-era</link>
+  <guid isPermaLink="false">5678</guid>
+  <pubDate>Sun, 26 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>neonbjb / tortoise-tts</title>
+  <description>A multi-voice TTS system trained with an emphasis on quality</description>
+  <link>https://github.com/neonbjb/tortoise-tts</link>
+  <guid isPermaLink="false">5677</guid>
+  <pubDate>Sun, 26 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>excalidraw / excalidraw</title>
+  <description>Virtual whiteboard for sketching hand-drawn like diagrams</description>
+  <link>https://github.com/excalidraw/excalidraw</link>
+  <guid isPermaLink="false">5676</guid>
+  <pubDate>Sun, 26 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Picsart-AI-Research / Text2Video-Zero</title>
+  <description>Text-to-Image Diffusion Models are Zero-Shot Video Generators</description>
+  <link>https://github.com/Picsart-AI-Research/Text2Video-Zero</link>
+  <guid isPermaLink="false">5675</guid>
+  <pubDate>Sun, 26 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>codecrafters-io / build-your-own-x</title>
+  <description>Master programming by recreating your favorite technologies from scratch.</description>
+  <link>https://github.com/codecrafters-io/build-your-own-x</link>
+  <guid isPermaLink="false">5674</guid>
+  <pubDate>Sun, 26 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>matter-labs / zksync-web-era-docs</title>
+  <description>zkSync Era Documentation</description>
+  <link>https://github.com/matter-labs/zksync-web-era-docs</link>
+  <guid isPermaLink="false">5673</guid>
+  <pubDate>Sun, 26 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>flipperdevices / flipperzero-firmware</title>
+  <description>Flipper Zero firmware source code</description>
+  <link>https://github.com/flipperdevices/flipperzero-firmware</link>
+  <guid isPermaLink="false">5672</guid>
+  <pubDate>Sun, 26 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>acantril / learn-cantrill-io-labs</title>
+  <description>Standard and Advanced Demos for learn.cantrill.io courses</description>
+  <link>https://github.com/acantril/learn-cantrill-io-labs</link>
+  <guid isPermaLink="false">5671</guid>
+  <pubDate>Sun, 26 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>jerryjliu / llama_index</title>
+  <description>LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.</description>
+  <link>https://github.com/jerryjliu/llama_index</link>
+  <guid isPermaLink="false">5670</guid>
+  <pubDate>Sun, 26 Mar 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>MarsX-dev / floatui</title>
+  <description>Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.</description>
+  <link>https://github.com/MarsX-dev/floatui</link>
+  <guid isPermaLink="false">5669</guid>
+  <pubDate>Sun, 26 Mar 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>sahil280114 / codealpaca</title>
+  <description></description>
+  <link>https://github.com/sahil280114/codealpaca</link>
+  <guid isPermaLink="false">5668</guid>
+  <pubDate>Sun, 26 Mar 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>showlab / Tune-A-Video</title>
+  <description>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</description>
+  <link>https://github.com/showlab/Tune-A-Video</link>
+  <guid isPermaLink="false">5667</guid>
+  <pubDate>Sun, 26 Mar 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>binary-husky / chatgpt_academic</title>
+  <description>中科院科研工作专用ChatGPT，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能</description>
+  <link>https://github.com/binary-husky/chatgpt_academic</link>
+  <guid isPermaLink="false">5666</guid>
+  <pubDate>Sun, 26 Mar 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>databrickslabs / dolly</title>
+  <description></description>
+  <link>https://github.com/databrickslabs/dolly</link>
+  <guid isPermaLink="false">5665</guid>
+  <pubDate>Sun, 26 Mar 2023 10:00:03 -0700</pubDate>
+ </item>
  <item>
   <title>t3dotgg / chirp</title>
   <description></description>
@@ -192,104 +290,6 @@
   <link>https://github.com/htr-tech/zphisher</link>
   <guid isPermaLink="false">5531</guid>
   <pubDate>Thu, 23 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>junegunn / fzf</title>
-  <description>🌸 A command-line fuzzy finder</description>
-  <link>https://github.com/junegunn/fzf</link>
-  <guid isPermaLink="false">5530</guid>
-  <pubDate>Thu, 23 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>pittcsc / Summer2023-Internships</title>
-  <description>Collection of Summer 2023 tech internships!</description>
-  <link>https://github.com/pittcsc/Summer2023-Internships</link>
-  <guid isPermaLink="false">5529</guid>
-  <pubDate>Thu, 23 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>madawei2699 / myGPTReader</title>
-  <description>myGPTReader is a slack bot that can read any webpage, ebook or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.</description>
-  <link>https://github.com/madawei2699/myGPTReader</link>
-  <guid isPermaLink="false">5528</guid>
-  <pubDate>Thu, 23 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>labmlai / annotated_deep_learning_paper_implementations</title>
-  <description>🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠</description>
-  <link>https://github.com/labmlai/annotated_deep_learning_paper_implementations</link>
-  <guid isPermaLink="false">5527</guid>
-  <pubDate>Thu, 23 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>fauxpilot / fauxpilot</title>
-  <description>FauxPilot - an open-source GitHub Copilot server</description>
-  <link>https://github.com/fauxpilot/fauxpilot</link>
-  <guid isPermaLink="false">5526</guid>
-  <pubDate>Thu, 23 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>ryh04x / CEH-Exam-Questions</title>
-  <description>Planning To Take Certified Ethical Hacker (CEH)? Here are github repo with 125 questions and answers to help you prep for the test</description>
-  <link>https://github.com/ryh04x/CEH-Exam-Questions</link>
-  <guid isPermaLink="false">5525</guid>
-  <pubDate>Thu, 23 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>typst / typst</title>
-  <description>A new markup-based typesetting system that is powerful and easy to learn.</description>
-  <link>https://github.com/typst/typst</link>
-  <guid isPermaLink="false">5524</guid>
-  <pubDate>Thu, 23 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>LianjiaTech / BELLE</title>
-  <description>BELLE: Bloom-Enhanced Large Language model Engine（开源中文对话大模型-70亿参数）</description>
-  <link>https://github.com/LianjiaTech/BELLE</link>
-  <guid isPermaLink="false">5523</guid>
-  <pubDate>Thu, 23 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>GerevAI / gerev</title>
-  <description>🧠 ChatGPT search engine for your organization. 🔎</description>
-  <link>https://github.com/GerevAI/gerev</link>
-  <guid isPermaLink="false">5522</guid>
-  <pubDate>Thu, 23 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>NVIDIAGameWorks / Path-Tracing-SDK</title>
-  <description>Real-time path tracing library and sample</description>
-  <link>https://github.com/NVIDIAGameWorks/Path-Tracing-SDK</link>
-  <guid isPermaLink="false">5521</guid>
-  <pubDate>Thu, 23 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>GaiZhenbiao / ChuanhuChatGPT</title>
-  <description>GUI for ChatGPT API</description>
-  <link>https://github.com/GaiZhenbiao/ChuanhuChatGPT</link>
-  <guid isPermaLink="false">5520</guid>
-  <pubDate>Thu, 23 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>Beomi / KoAlpaca</title>
-  <description>KoAlpaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)</description>
-  <link>https://github.com/Beomi/KoAlpaca</link>
-  <guid isPermaLink="false">5475</guid>
-  <pubDate>Wed, 22 Mar 2023 10:00:08 -0700</pubDate>
- </item>
- <item>
-  <title>Ciphey / Ciphey</title>
-  <description>⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡</description>
-  <link>https://github.com/Ciphey/Ciphey</link>
-  <guid isPermaLink="false">5474</guid>
-  <pubDate>Wed, 22 Mar 2023 10:00:08 -0700</pubDate>
- </item>
- <item>
-  <title>chidiwilliams / buzz</title>
-  <description>Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.</description>
-  <link>https://github.com/chidiwilliams/buzz</link>
-  <guid isPermaLink="false">5473</guid>
-  <pubDate>Wed, 22 Mar 2023 10:00:08 -0700</pubDate>
  </item>
 
 </channel>

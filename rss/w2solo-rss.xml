@@ -8,9 +8,16 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 25 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Sat, 25 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Sun, 26 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Sun, 26 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>小白问个关于税的问题</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3810</link>
+  <pubDate>Sun, 26 Mar 2023 08:18:47 -0700</pubDate>
+  <guid isPermaLink="false">5702</guid>
+ </item>
  <item>
   <title>一个戒色的应用，为什么要写这个 App 呢，因为我有一个朋友...</title>
   <description></description>
@@ -283,13 +290,6 @@
   <link>https://w2solo.com/topics/3787</link>
   <pubDate>Thu, 16 Mar 2023 02:19:03 -0700</pubDate>
   <guid isPermaLink="false">5240</guid>
- </item>
- <item>
-  <title>有没有擅长设计的小伙伴合作实现一个图片处理小程序？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3790</link>
-  <pubDate>Wed, 15 Mar 2023 18:27:43 -0700</pubDate>
-  <guid isPermaLink="false">5241</guid>
  </item>
 
 </channel>

@@ -8,9 +8,170 @@
  <title>v2ex creating RSS</title>
  <description>v2ex creating RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 25 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Sat, 25 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Sun, 26 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Sun, 26 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>炒股：技术分析学派的进来</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/926954#reply20</link>
+  <pubDate>Sun, 26 Mar 2023 09:44:49 -0700</pubDate>
+  <guid isPermaLink="false">5692</guid>
+ </item>
+ <item>
+  <title>我的 AI 阅读助手</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/927319#reply1</link>
+  <pubDate>Sun, 26 Mar 2023 09:03:41 -0700</pubDate>
+  <guid isPermaLink="false">5679</guid>
+ </item>
+ <item>
+  <title>📝 xLog - 链上开源博客社区和创作者激励计划</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/925034#reply104</link>
+  <pubDate>Sun, 26 Mar 2023 08:40:20 -0700</pubDate>
+  <guid isPermaLink="false">5693</guid>
+ </item>
+ <item>
+  <title>AskGPT: 在任意窗口让 ChatGPT 代替你进行输入</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/927205#reply4</link>
+  <pubDate>Sun, 26 Mar 2023 08:15:25 -0700</pubDate>
+  <guid isPermaLink="false">5685</guid>
+ </item>
+ <item>
+  <title>玩了玩 ChatGPT，勾起了多年前的一个设想，似乎可以试试落地了。。。有兴趣的一起玩试试么</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/927145#reply15</link>
+  <pubDate>Sun, 26 Mar 2023 08:09:03 -0700</pubDate>
+  <guid isPermaLink="false">5688</guid>
+ </item>
+ <item>
+  <title>给编程语言依赖包搜索结果添加 Github star 和 fork 数量，让效率更高一点！</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/927214#reply5</link>
+  <pubDate>Sun, 26 Mar 2023 07:29:35 -0700</pubDate>
+  <guid isPermaLink="false">5683</guid>
+ </item>
+ <item>
+  <title>一个 99%由 ChatGPT 开发的项目， GPT 向量搜索服务</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/927311#reply2</link>
+  <pubDate>Sun, 26 Mar 2023 07:09:14 -0700</pubDate>
+  <guid isPermaLink="false">5700</guid>
+ </item>
+ <item>
+  <title>轻量开源日志监控平台 frostmourne 1.0 发布</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/927194#reply2</link>
+  <pubDate>Sun, 26 Mar 2023 06:13:06 -0700</pubDate>
+  <guid isPermaLink="false">5690</guid>
+ </item>
+ <item>
+  <title>未注册的单词 dev 域名，需要自取</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/927333#reply0</link>
+  <pubDate>Sun, 26 Mar 2023 05:36:29 -0700</pubDate>
+  <guid isPermaLink="false">5686</guid>
+ </item>
+ <item>
+  <title>Botastic：一个自用 LLMs AI 框架，支持类似 ChatGPT 的 Plugin 的模式引入外部数据</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/926953#reply8</link>
+  <pubDate>Sun, 26 Mar 2023 04:52:58 -0700</pubDate>
+  <guid isPermaLink="false">5696</guid>
+ </item>
+ <item>
+  <title>重新设计快递单</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/927301#reply8</link>
+  <pubDate>Sun, 26 Mar 2023 04:50:31 -0700</pubDate>
+  <guid isPermaLink="false">5680</guid>
+ </item>
+ <item>
+  <title>有谁爬取过工商部或者天眼查， Boss, 拉钩之类的数据</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/927163#reply24</link>
+  <pubDate>Sun, 26 Mar 2023 04:46:39 -0700</pubDate>
+  <guid isPermaLink="false">5689</guid>
+ </item>
+ <item>
+  <title>有需要云同步 PDF 阅读进度的需求吗？实现了一个。</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/927193#reply8</link>
+  <pubDate>Sun, 26 Mar 2023 04:43:07 -0700</pubDate>
+  <guid isPermaLink="false">5684</guid>
+ </item>
+ <item>
+  <title>可观测的前端应用-一个开源产品实验</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/927318#reply0</link>
+  <pubDate>Sun, 26 Mar 2023 04:32:21 -0700</pubDate>
+  <guid isPermaLink="false">5681</guid>
+ </item>
+ <item>
+  <title>Portal 是一款传输工具，旨在将 ChatGPT 的能力整合到用户的工作流程中。</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/927316#reply0</link>
+  <pubDate>Sun, 26 Mar 2023 04:19:19 -0700</pubDate>
+  <guid isPermaLink="false">5682</guid>
+ </item>
+ <item>
+  <title>Breezy.chat - 又一款基于 Web 的 ChatGPT 客户端</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/927155#reply10</link>
+  <pubDate>Sun, 26 Mar 2023 04:08:51 -0700</pubDate>
+  <guid isPermaLink="false">5691</guid>
+ </item>
+ <item>
+  <title>PixStory AI：图片、漫画、电子书神器 for iOS</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/927082#reply25</link>
+  <pubDate>Sun, 26 Mar 2023 03:54:50 -0700</pubDate>
+  <guid isPermaLink="false">5687</guid>
+ </item>
+ <item>
+  <title>耗时一个月，做了一个可在微信安全使用的 gpt 个人助手，求下一步开发建议</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/926866#reply16</link>
+  <pubDate>Sun, 26 Mar 2023 01:54:18 -0700</pubDate>
+  <guid isPermaLink="false">5697</guid>
+ </item>
+ <item>
+  <title>前端不可不看的项目 生产级别 react like 项目 看到就是学到 芜湖</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/926490#reply12</link>
+  <pubDate>Sun, 26 Mar 2023 01:42:21 -0700</pubDate>
+  <guid isPermaLink="false">5701</guid>
+ </item>
+ <item>
+  <title>《淋浴时，我们看一只蚊子》</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/926938#reply12</link>
+  <pubDate>Sun, 26 Mar 2023 01:00:21 -0700</pubDate>
+  <guid isPermaLink="false">5699</guid>
+ </item>
+ <item>
+  <title>十余行代码实现 Chat with PDF</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/927069#reply4</link>
+  <pubDate>Sat, 25 Mar 2023 23:57:27 -0700</pubDate>
+  <guid isPermaLink="false">5695</guid>
+ </item>
+ <item>
+  <title>我开发的浏览器扩展似乎误打误撞的解决了 Chromium 系列浏览器容易被扫描 Cookies 的问题？</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/927142#reply3</link>
+  <pubDate>Sat, 25 Mar 2023 22:51:54 -0700</pubDate>
+  <guid isPermaLink="false">5694</guid>
+ </item>
+ <item>
+  <title>搞了个域名。做点什么好？</title>
+  <description></description>
+  <link>https://www.v2ex.com/t/927192#reply2</link>
+  <pubDate>Sat, 25 Mar 2023 21:17:38 -0700</pubDate>
+  <guid isPermaLink="false">5698</guid>
+ </item>
  <item>
   <title>有谁爬取过工商部或者天眼查， Boss, 拉钩之类的数据</title>
   <description></description>
@@ -129,167 +290,6 @@
   <link>https://www.v2ex.com/t/927063#reply2</link>
   <pubDate>Sat, 25 Mar 2023 01:16:32 -0700</pubDate>
   <guid isPermaLink="false">5642</guid>
- </item>
- <item>
-  <title>一个简约的个人博客，含 2009 至今约 200 篇文章</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926401#reply50</link>
-  <pubDate>Sat, 25 Mar 2023 00:00:21 -0700</pubDate>
-  <guid isPermaLink="false">5657</guid>
- </item>
- <item>
-  <title>我做了一个极致安全的消息分享网站</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926699#reply19</link>
-  <pubDate>Fri, 24 Mar 2023 23:28:31 -0700</pubDate>
-  <guid isPermaLink="false">5654</guid>
- </item>
- <item>
-  <title>老哥们，这两天写了个 vitepress 的博客主题</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/927060#reply1</link>
-  <pubDate>Fri, 24 Mar 2023 23:04:13 -0700</pubDate>
-  <guid isPermaLink="false">5644</guid>
- </item>
- <item>
-  <title>📝 xLog - 链上开源博客社区和创作者激励计划</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/925034#reply99</link>
-  <pubDate>Fri, 24 Mar 2023 21:21:46 -0700</pubDate>
-  <guid isPermaLink="false">5656</guid>
- </item>
- <item>
-  <title>基于 chatGPT 的文章阅读助手 # myGPTReader</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/923438#reply43</link>
-  <pubDate>Fri, 24 Mar 2023 21:06:14 -0700</pubDate>
-  <guid isPermaLink="false">5655</guid>
- </item>
- <item>
-  <title>如何增强企业数字敏捷性？｜身份云研究院</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926535#reply2</link>
-  <pubDate>Fri, 24 Mar 2023 18:20:56 -0700</pubDate>
-  <guid isPermaLink="false">5658</guid>
- </item>
- <item>
-  <title>开源了一个不使用任何后端框架纯 PHP 实现流式调用 OpenAI gpt 接口的项目</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926824#reply14</link>
-  <pubDate>Fri, 24 Mar 2023 17:54:49 -0700</pubDate>
-  <guid isPermaLink="false">5645</guid>
- </item>
- <item>
-  <title>🔍展示个人，帮你展示你没地儿放的、自个做的项目、产品、APP 等</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926770#reply12</link>
-  <pubDate>Fri, 24 Mar 2023 17:44:49 -0700</pubDate>
-  <guid isPermaLink="false">5652</guid>
- </item>
- <item>
-  <title>去年卖掉了自己的创业 10 年的 SaaS 项目，一些思考和准备二次折腾</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926373#reply25</link>
-  <pubDate>Fri, 24 Mar 2023 15:06:02 -0700</pubDate>
-  <guid isPermaLink="false">5659</guid>
- </item>
- <item>
-  <title>开源一个简单实时会议系统，用 Rust 和 WASM 实现</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926812#reply3</link>
-  <pubDate>Fri, 24 Mar 2023 10:51:29 -0700</pubDate>
-  <guid isPermaLink="false">5653</guid>
- </item>
- <item>
-  <title>炒股：技术分析学派的进来</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926954#reply7</link>
-  <pubDate>Fri, 24 Mar 2023 09:22:35 -0700</pubDate>
-  <guid isPermaLink="false">5584</guid>
- </item>
- <item>
-  <title>看到 chatgpt 有些想法，感觉中国信息行业 10 年内会离某大国越来越远，而且有可能影响到其他行业</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926977#reply6</link>
-  <pubDate>Fri, 24 Mar 2023 09:13:05 -0700</pubDate>
-  <guid isPermaLink="false">5585</guid>
- </item>
- <item>
-  <title>耗时一个月，做了一个可在微信安全使用的 gpt 个人助手，求下一步开发建议</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926866#reply14</link>
-  <pubDate>Fri, 24 Mar 2023 08:54:10 -0700</pubDate>
-  <guid isPermaLink="false">5589</guid>
- </item>
- <item>
-  <title>AI 信息聚合站: www.aitoolist.cn</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926835#reply3</link>
-  <pubDate>Fri, 24 Mar 2023 08:33:11 -0700</pubDate>
-  <guid isPermaLink="false">5600</guid>
- </item>
- <item>
-  <title>开源一个简单实时会议系统，用 Rust 和 WASM 实现</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926812#reply1</link>
-  <pubDate>Fri, 24 Mar 2023 08:02:14 -0700</pubDate>
-  <guid isPermaLink="false">5595</guid>
- </item>
- <item>
-  <title>《淋浴时，我们看一只蚊子》</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926938#reply4</link>
-  <pubDate>Fri, 24 Mar 2023 08:00:25 -0700</pubDate>
-  <guid isPermaLink="false">5587</guid>
- </item>
- <item>
-  <title>Casdoor: 具有 Web UI 界面的开源身份认证、单点登录平台，支持 GitHub、Gitee、QQ、微信、钉钉登录等</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/803669#reply235</link>
-  <pubDate>Fri, 24 Mar 2023 06:34:41 -0700</pubDate>
-  <guid isPermaLink="false">5602</guid>
- </item>
- <item>
-  <title>基于 chatGPT 的文章阅读助手 # myGPTReader</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/923438#reply41</link>
-  <pubDate>Fri, 24 Mar 2023 06:23:53 -0700</pubDate>
-  <guid isPermaLink="false">5597</guid>
- </item>
- <item>
-  <title>ChatGPT + Google Search Plugin &gt; New Bing ？</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926854#reply2</link>
-  <pubDate>Fri, 24 Mar 2023 06:13:56 -0700</pubDate>
-  <guid isPermaLink="false">5596</guid>
- </item>
- <item>
-  <title>Botastic：一个自用 LLMs AI 框架，支持类似 ChatGPT 的 Plugin 的模式引入外部数据</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926953#reply1</link>
-  <pubDate>Fri, 24 Mar 2023 05:04:59 -0700</pubDate>
-  <guid isPermaLink="false">5586</guid>
- </item>
- <item>
-  <title>搭了个查询足球比赛胜负平概率的网站</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926379#reply10</link>
-  <pubDate>Fri, 24 Mar 2023 04:39:01 -0700</pubDate>
-  <guid isPermaLink="false">5605</guid>
- </item>
- <item>
-  <title>一个简约的个人博客，含 2009 至今约 200 篇文章</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926401#reply49</link>
-  <pubDate>Fri, 24 Mar 2023 04:24:24 -0700</pubDate>
-  <guid isPermaLink="false">5606</guid>
- </item>
- <item>
-  <title>🔍展示个人，帮你展示你没地儿放的、自个做的项目、产品、APP 等</title>
-  <description></description>
-  <link>https://www.v2ex.com/t/926770#reply11</link>
-  <pubDate>Fri, 24 Mar 2023 02:33:03 -0700</pubDate>
-  <guid isPermaLink="false">5588</guid>
  </item>
 
 </channel>
