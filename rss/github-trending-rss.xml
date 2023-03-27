@@ -8,9 +8,107 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 26 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Sun, 26 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Mon, 27 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Mon, 27 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>ruffle-rs / ruffle</title>
+  <description>A Flash Player emulator written in Rust</description>
+  <link>https://github.com/ruffle-rs/ruffle</link>
+  <guid isPermaLink="false">5735</guid>
+  <pubDate>Mon, 27 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>dice2o / BingGPT</title>
+  <description>Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)</description>
+  <link>https://github.com/dice2o/BingGPT</link>
+  <guid isPermaLink="false">5734</guid>
+  <pubDate>Mon, 27 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>files-community / Files</title>
+  <description>Building the best file manager experience for Windows</description>
+  <link>https://github.com/files-community/Files</link>
+  <guid isPermaLink="false">5733</guid>
+  <pubDate>Mon, 27 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>n3d1117 / chatgpt-telegram-bot</title>
+  <description>🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python</description>
+  <link>https://github.com/n3d1117/chatgpt-telegram-bot</link>
+  <guid isPermaLink="false">5732</guid>
+  <pubDate>Mon, 27 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>gd3kr / BlenderGPT</title>
+  <description>Use commands in English to control Blender with OpenAI's GPT-4</description>
+  <link>https://github.com/gd3kr/BlenderGPT</link>
+  <guid isPermaLink="false">5731</guid>
+  <pubDate>Mon, 27 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>liyupi / yu-auto-reply</title>
+  <description>AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答</description>
+  <link>https://github.com/liyupi/yu-auto-reply</link>
+  <guid isPermaLink="false">5730</guid>
+  <pubDate>Mon, 27 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>rust-lang / rust</title>
+  <description>Empowering everyone to build reliable and efficient software.</description>
+  <link>https://github.com/rust-lang/rust</link>
+  <guid isPermaLink="false">5729</guid>
+  <pubDate>Mon, 27 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>ggerganov / whisper.cpp</title>
+  <description>Port of OpenAI's Whisper model in C/C++</description>
+  <link>https://github.com/ggerganov/whisper.cpp</link>
+  <guid isPermaLink="false">5728</guid>
+  <pubDate>Mon, 27 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>motifland / markprompt</title>
+  <description>Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics</description>
+  <link>https://github.com/motifland/markprompt</link>
+  <guid isPermaLink="false">5727</guid>
+  <pubDate>Mon, 27 Mar 2023 10:00:09 -0700</pubDate>
+ </item>
+ <item>
+  <title>openai / chatgpt-retrieval-plugin</title>
+  <description>The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.</description>
+  <link>https://github.com/openai/chatgpt-retrieval-plugin</link>
+  <guid isPermaLink="false">5726</guid>
+  <pubDate>Mon, 27 Mar 2023 10:00:09 -0700</pubDate>
+ </item>
+ <item>
+  <title>vincanger / coverlettergpt</title>
+  <description>Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.</description>
+  <link>https://github.com/vincanger/coverlettergpt</link>
+  <guid isPermaLink="false">5725</guid>
+  <pubDate>Mon, 27 Mar 2023 10:00:09 -0700</pubDate>
+ </item>
+ <item>
+  <title>binary-husky / chatgpt_academic</title>
+  <description>科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能</description>
+  <link>https://github.com/binary-husky/chatgpt_academic</link>
+  <guid isPermaLink="false">5724</guid>
+  <pubDate>Mon, 27 Mar 2023 10:00:09 -0700</pubDate>
+ </item>
+ <item>
+  <title>Yidadaa / ChatGPT-Next-Web</title>
+  <description>一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.</description>
+  <link>https://github.com/Yidadaa/ChatGPT-Next-Web</link>
+  <guid isPermaLink="false">5723</guid>
+  <pubDate>Mon, 27 Mar 2023 10:00:09 -0700</pubDate>
+ </item>
+ <item>
+  <title>haoel / haoel.github.io</title>
+  <description></description>
+  <link>https://github.com/haoel/haoel.github.io</link>
+  <guid isPermaLink="false">5722</guid>
+  <pubDate>Mon, 27 Mar 2023 10:00:09 -0700</pubDate>
+ </item>
  <item>
   <title>matter-labs / zksync-era</title>
   <description>zkSync era</description>
@@ -192,104 +290,6 @@
   <link>https://github.com/getcursor/cursor</link>
   <guid isPermaLink="false">5621</guid>
   <pubDate>Sat, 25 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>openai / chatgpt-retrieval-plugin</title>
-  <description></description>
-  <link>https://github.com/openai/chatgpt-retrieval-plugin</link>
-  <guid isPermaLink="false">5620</guid>
-  <pubDate>Sat, 25 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>lukasHoel / text2room</title>
-  <description>Text2Room generates textured 3D meshes from a given text prompt using 2D text-to-image models.</description>
-  <link>https://github.com/lukasHoel/text2room</link>
-  <guid isPermaLink="false">5583</guid>
-  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
- </item>
- <item>
-  <title>BlinkDL / ChatRWKV</title>
-  <description>ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.</description>
-  <link>https://github.com/BlinkDL/ChatRWKV</link>
-  <guid isPermaLink="false">5582</guid>
-  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
- </item>
- <item>
-  <title>ddobokki / chatgpt_stock_report</title>
-  <description>그날의 증권사 리포트를 챗 gpt를 활용해 요약하는 레포</description>
-  <link>https://github.com/ddobokki/chatgpt_stock_report</link>
-  <guid isPermaLink="false">5581</guid>
-  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
- </item>
- <item>
-  <title>evanw / thumbhash</title>
-  <description>A very compact representation of an image placeholder</description>
-  <link>https://github.com/evanw/thumbhash</link>
-  <guid isPermaLink="false">5580</guid>
-  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
- </item>
- <item>
-  <title>programthink / books</title>
-  <description>【编程随想】收藏的电子书清单（多个学科，含下载链接）</description>
-  <link>https://github.com/programthink/books</link>
-  <guid isPermaLink="false">5579</guid>
-  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
- </item>
- <item>
-  <title>codebdy / rxdrag</title>
-  <description>Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计</description>
-  <link>https://github.com/codebdy/rxdrag</link>
-  <guid isPermaLink="false">5578</guid>
-  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
- </item>
- <item>
-  <title>dragonflydb / dragonfly</title>
-  <description>A modern replacement for Redis and Memcached</description>
-  <link>https://github.com/dragonflydb/dragonfly</link>
-  <guid isPermaLink="false">5577</guid>
-  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
- </item>
- <item>
-  <title>LC1332 / Chinese-alpaca-lora</title>
-  <description>骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 &amp; 李鲁鲁 @ 商汤科技 &amp; 冷子昂 @ 商汤科技</description>
-  <link>https://github.com/LC1332/Chinese-alpaca-lora</link>
-  <guid isPermaLink="false">5576</guid>
-  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
- </item>
- <item>
-  <title>BlinkDL / RWKV-LM</title>
-  <description>RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.</description>
-  <link>https://github.com/BlinkDL/RWKV-LM</link>
-  <guid isPermaLink="false">5575</guid>
-  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
- </item>
- <item>
-  <title>programthink / zhao</title>
-  <description>【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵</description>
-  <link>https://github.com/programthink/zhao</link>
-  <guid isPermaLink="false">5574</guid>
-  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
- </item>
- <item>
-  <title>mrsked / mrsk</title>
-  <description>Deploy web apps anywhere.</description>
-  <link>https://github.com/mrsked/mrsk</link>
-  <guid isPermaLink="false">5573</guid>
-  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
- </item>
- <item>
-  <title>nsarrazin / serge</title>
-  <description>A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.</description>
-  <link>https://github.com/nsarrazin/serge</link>
-  <guid isPermaLink="false">5572</guid>
-  <pubDate>Fri, 24 Mar 2023 10:00:08 -0700</pubDate>
- </item>
- <item>
-  <title>htr-tech / zphisher</title>
-  <description>An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !</description>
-  <link>https://github.com/htr-tech/zphisher</link>
-  <guid isPermaLink="false">5531</guid>
-  <pubDate>Thu, 23 Mar 2023 10:00:04 -0700</pubDate>
  </item>
 
 </channel>
