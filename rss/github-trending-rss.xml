@@ -8,9 +8,107 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 28 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Tue, 28 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Wed, 29 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Wed, 29 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>dalinvip / Awesome-ChatGPT</title>
+  <description>ChatGPT资料汇总学习，持续更新......</description>
+  <link>https://github.com/dalinvip/Awesome-ChatGPT</link>
+  <guid isPermaLink="false">5846</guid>
+  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>openai / openai-cookbook</title>
+  <description>Examples and guides for using the OpenAI API</description>
+  <link>https://github.com/openai/openai-cookbook</link>
+  <guid isPermaLink="false">5845</guid>
+  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>KeXueShangWangkexue / KeXueShangWang_Google_Facebook_Twitter_VPN_VPS_Proxy</title>
+  <description>科学上网🟢🟢科学上网🔴🔴科学上网🟡🟡科学上网</description>
+  <link>https://github.com/KeXueShangWangkexue/KeXueShangWang_Google_Facebook_Twitter_VPN_VPS_Proxy</link>
+  <guid isPermaLink="false">5844</guid>
+  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>getsentry / sentry</title>
+  <description>Developer-first error tracking and performance monitoring</description>
+  <link>https://github.com/getsentry/sentry</link>
+  <guid isPermaLink="false">5843</guid>
+  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>immersive-translate / immersive-translate</title>
+  <description>Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展</description>
+  <link>https://github.com/immersive-translate/immersive-translate</link>
+  <guid isPermaLink="false">5842</guid>
+  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>clue-ai / ChatYuan</title>
+  <description>ChatYuan: Large Language Model for Dialogue in Chinese and English</description>
+  <link>https://github.com/clue-ai/ChatYuan</link>
+  <guid isPermaLink="false">5841</guid>
+  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>PhoebusSi / Alpaca-CoT</title>
+  <description>We extend CoT data to Alpaca to boost its reasoning ability. We are constantly expanding our collection of instruction-tuning data. The instruction collection can be found at https://huggingface.co/datasets/QingyiSi/Alpaca-CoT/tree/main （我们将CoT数据扩展到Alpaca以提高其推理能力，同时我们将不断收集更多的instruction-tuning数据集。）</description>
+  <link>https://github.com/PhoebusSi/Alpaca-CoT</link>
+  <guid isPermaLink="false">5840</guid>
+  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>di-sukharev / opencommit</title>
+  <description>GPT CLI to auto-generate impressive commits in 1 second 🤯🔫</description>
+  <link>https://github.com/di-sukharev/opencommit</link>
+  <guid isPermaLink="false">5839</guid>
+  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>davinci1010 / pinduoduo_backdoor</title>
+  <description>拼多多apk内嵌提权代码，及动态下发dex分析</description>
+  <link>https://github.com/davinci1010/pinduoduo_backdoor</link>
+  <guid isPermaLink="false">5838</guid>
+  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>lxfater / Portal</title>
+  <description></description>
+  <link>https://github.com/lxfater/Portal</link>
+  <guid isPermaLink="false">5837</guid>
+  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>tailwindlabs / tailwindcss</title>
+  <description>A utility-first CSS framework for rapid UI development.</description>
+  <link>https://github.com/tailwindlabs/tailwindcss</link>
+  <guid isPermaLink="false">5836</guid>
+  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>snipe / snipe-it</title>
+  <description>A free open source IT asset/license management system</description>
+  <link>https://github.com/snipe/snipe-it</link>
+  <guid isPermaLink="false">5835</guid>
+  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>visual-openllm / visual-openllm</title>
+  <description>something like visual-chatgpt, 文心一言的开源版</description>
+  <link>https://github.com/visual-openllm/visual-openllm</link>
+  <guid isPermaLink="false">5834</guid>
+  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>Kent0n-Li / ChatDoctor</title>
+  <description></description>
+  <link>https://github.com/Kent0n-Li/ChatDoctor</link>
+  <guid isPermaLink="false">5833</guid>
+  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
+ </item>
  <item>
   <title>fastfire / deepdarkCTI</title>
   <description>Collection of Cyber Threat Intelligence sources from the deep and dark web</description>
@@ -192,104 +290,6 @@
   <link>https://github.com/Yidadaa/ChatGPT-Next-Web</link>
   <guid isPermaLink="false">5723</guid>
   <pubDate>Mon, 27 Mar 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>haoel / haoel.github.io</title>
-  <description></description>
-  <link>https://github.com/haoel/haoel.github.io</link>
-  <guid isPermaLink="false">5722</guid>
-  <pubDate>Mon, 27 Mar 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>matter-labs / zksync-era</title>
-  <description>zkSync era</description>
-  <link>https://github.com/matter-labs/zksync-era</link>
-  <guid isPermaLink="false">5678</guid>
-  <pubDate>Sun, 26 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>neonbjb / tortoise-tts</title>
-  <description>A multi-voice TTS system trained with an emphasis on quality</description>
-  <link>https://github.com/neonbjb/tortoise-tts</link>
-  <guid isPermaLink="false">5677</guid>
-  <pubDate>Sun, 26 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>excalidraw / excalidraw</title>
-  <description>Virtual whiteboard for sketching hand-drawn like diagrams</description>
-  <link>https://github.com/excalidraw/excalidraw</link>
-  <guid isPermaLink="false">5676</guid>
-  <pubDate>Sun, 26 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>Picsart-AI-Research / Text2Video-Zero</title>
-  <description>Text-to-Image Diffusion Models are Zero-Shot Video Generators</description>
-  <link>https://github.com/Picsart-AI-Research/Text2Video-Zero</link>
-  <guid isPermaLink="false">5675</guid>
-  <pubDate>Sun, 26 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>codecrafters-io / build-your-own-x</title>
-  <description>Master programming by recreating your favorite technologies from scratch.</description>
-  <link>https://github.com/codecrafters-io/build-your-own-x</link>
-  <guid isPermaLink="false">5674</guid>
-  <pubDate>Sun, 26 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>matter-labs / zksync-web-era-docs</title>
-  <description>zkSync Era Documentation</description>
-  <link>https://github.com/matter-labs/zksync-web-era-docs</link>
-  <guid isPermaLink="false">5673</guid>
-  <pubDate>Sun, 26 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>flipperdevices / flipperzero-firmware</title>
-  <description>Flipper Zero firmware source code</description>
-  <link>https://github.com/flipperdevices/flipperzero-firmware</link>
-  <guid isPermaLink="false">5672</guid>
-  <pubDate>Sun, 26 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>acantril / learn-cantrill-io-labs</title>
-  <description>Standard and Advanced Demos for learn.cantrill.io courses</description>
-  <link>https://github.com/acantril/learn-cantrill-io-labs</link>
-  <guid isPermaLink="false">5671</guid>
-  <pubDate>Sun, 26 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>jerryjliu / llama_index</title>
-  <description>LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.</description>
-  <link>https://github.com/jerryjliu/llama_index</link>
-  <guid isPermaLink="false">5670</guid>
-  <pubDate>Sun, 26 Mar 2023 10:00:03 -0700</pubDate>
- </item>
- <item>
-  <title>MarsX-dev / floatui</title>
-  <description>Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.</description>
-  <link>https://github.com/MarsX-dev/floatui</link>
-  <guid isPermaLink="false">5669</guid>
-  <pubDate>Sun, 26 Mar 2023 10:00:03 -0700</pubDate>
- </item>
- <item>
-  <title>sahil280114 / codealpaca</title>
-  <description></description>
-  <link>https://github.com/sahil280114/codealpaca</link>
-  <guid isPermaLink="false">5668</guid>
-  <pubDate>Sun, 26 Mar 2023 10:00:03 -0700</pubDate>
- </item>
- <item>
-  <title>showlab / Tune-A-Video</title>
-  <description>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</description>
-  <link>https://github.com/showlab/Tune-A-Video</link>
-  <guid isPermaLink="false">5667</guid>
-  <pubDate>Sun, 26 Mar 2023 10:00:03 -0700</pubDate>
- </item>
- <item>
-  <title>binary-husky / chatgpt_academic</title>
-  <description>中科院科研工作专用ChatGPT，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能</description>
-  <link>https://github.com/binary-husky/chatgpt_academic</link>
-  <guid isPermaLink="false">5666</guid>
-  <pubDate>Sun, 26 Mar 2023 10:00:03 -0700</pubDate>
  </item>
 
 </channel>
