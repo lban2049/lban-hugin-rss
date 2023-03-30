@@ -8,9 +8,121 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 29 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Wed, 29 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Thu, 30 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Thu, 30 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>coral-xyz / backpack</title>
+  <description>🎒 Next level crypto wallet</description>
+  <link>https://github.com/coral-xyz/backpack</link>
+  <guid isPermaLink="false">5893</guid>
+  <pubDate>Thu, 30 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>arialdomartini / Back-End-Developer-Interview-Questions</title>
+  <description>A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore</description>
+  <link>https://github.com/arialdomartini/Back-End-Developer-Interview-Questions</link>
+  <guid isPermaLink="false">5892</guid>
+  <pubDate>Thu, 30 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>yzfly / awesome-chatgpt-zh</title>
+  <description>ChatGPT 中文指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!</description>
+  <link>https://github.com/yzfly/awesome-chatgpt-zh</link>
+  <guid isPermaLink="false">5891</guid>
+  <pubDate>Thu, 30 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>ryanmcdermott / clean-code-javascript</title>
+  <description>🛁 Clean Code concepts adapted for JavaScript</description>
+  <link>https://github.com/ryanmcdermott/clean-code-javascript</link>
+  <guid isPermaLink="false">5890</guid>
+  <pubDate>Thu, 30 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Kamilahsantos / Java-week-LinuxTips</title>
+  <description>Repositório com o conteúdo da Java Week da LinuxTips</description>
+  <link>https://github.com/Kamilahsantos/Java-week-LinuxTips</link>
+  <guid isPermaLink="false">5889</guid>
+  <pubDate>Thu, 30 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>mouredev / Hello-Python</title>
+  <description>Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos y más...</description>
+  <link>https://github.com/mouredev/Hello-Python</link>
+  <guid isPermaLink="false">5888</guid>
+  <pubDate>Thu, 30 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>NafisiAslH / KnowledgeSharing</title>
+  <description></description>
+  <link>https://github.com/NafisiAslH/KnowledgeSharing</link>
+  <guid isPermaLink="false">5887</guid>
+  <pubDate>Thu, 30 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>ymcui / Chinese-LLaMA-Alpaca</title>
+  <description>中文LLaMA&amp;Alpaca大语言模型+本地部署 (Chinese LLaMA &amp; Alpaca LLMs)</description>
+  <link>https://github.com/ymcui/Chinese-LLaMA-Alpaca</link>
+  <guid isPermaLink="false">5886</guid>
+  <pubDate>Thu, 30 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>ZrrSkywalker / LLaMA-Adapter</title>
+  <description>Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters</description>
+  <link>https://github.com/ZrrSkywalker/LLaMA-Adapter</link>
+  <guid isPermaLink="false">5885</guid>
+  <pubDate>Thu, 30 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>TaxyAI / browser-extension</title>
+  <description>Automate your browser with GPT-4</description>
+  <link>https://github.com/TaxyAI/browser-extension</link>
+  <guid isPermaLink="false">5884</guid>
+  <pubDate>Thu, 30 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>nomic-ai / gpt4all</title>
+  <description>gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue</description>
+  <link>https://github.com/nomic-ai/gpt4all</link>
+  <guid isPermaLink="false">5883</guid>
+  <pubDate>Thu, 30 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>davinci1012 / pinduoduo_backdoor_unpacker</title>
+  <description>Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo</description>
+  <link>https://github.com/davinci1012/pinduoduo_backdoor_unpacker</link>
+  <guid isPermaLink="false">5882</guid>
+  <pubDate>Thu, 30 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>davincifans101 / pinduoduo_backdoor_detailed_report</title>
+  <description>Maybe the most detailed analysis of pdd backdoors</description>
+  <link>https://github.com/davincifans101/pinduoduo_backdoor_detailed_report</link>
+  <guid isPermaLink="false">5881</guid>
+  <pubDate>Thu, 30 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Bin-Huang / chatbox</title>
+  <description>A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac &amp; Linux. 开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用</description>
+  <link>https://github.com/Bin-Huang/chatbox</link>
+  <guid isPermaLink="false">5880</guid>
+  <pubDate>Thu, 30 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>Lightning-AI / lit-llama</title>
+  <description>Implementation of the LLaMA language model based on nanoGPT. Supports quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed.</description>
+  <link>https://github.com/Lightning-AI/lit-llama</link>
+  <guid isPermaLink="false">5879</guid>
+  <pubDate>Thu, 30 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
+ <item>
+  <title>hpcaitech / ColossalAI</title>
+  <description>Making large AI models cheaper, faster and more accessible</description>
+  <link>https://github.com/hpcaitech/ColossalAI</link>
+  <guid isPermaLink="false">5878</guid>
+  <pubDate>Thu, 30 Mar 2023 10:00:04 -0700</pubDate>
+ </item>
  <item>
   <title>dalinvip / Awesome-ChatGPT</title>
   <description>ChatGPT资料汇总学习，持续更新......</description>
@@ -178,118 +290,6 @@
   <link>https://github.com/ventoy/Ventoy</link>
   <guid isPermaLink="false">5769</guid>
   <pubDate>Tue, 28 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>keijiro / UnityMLStableDiffusion</title>
-  <description>Core ML Stable Diffusion on Unity</description>
-  <link>https://github.com/keijiro/UnityMLStableDiffusion</link>
-  <guid isPermaLink="false">5768</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>m1guelpf / browser-agent</title>
-  <description>A browser AI agent, using GPT-4</description>
-  <link>https://github.com/m1guelpf/browser-agent</link>
-  <guid isPermaLink="false">5767</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>databrickslabs / dolly</title>
-  <description>Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform</description>
-  <link>https://github.com/databrickslabs/dolly</link>
-  <guid isPermaLink="false">5766</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:04 -0700</pubDate>
- </item>
- <item>
-  <title>ruffle-rs / ruffle</title>
-  <description>A Flash Player emulator written in Rust</description>
-  <link>https://github.com/ruffle-rs/ruffle</link>
-  <guid isPermaLink="false">5735</guid>
-  <pubDate>Mon, 27 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>dice2o / BingGPT</title>
-  <description>Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)</description>
-  <link>https://github.com/dice2o/BingGPT</link>
-  <guid isPermaLink="false">5734</guid>
-  <pubDate>Mon, 27 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>files-community / Files</title>
-  <description>Building the best file manager experience for Windows</description>
-  <link>https://github.com/files-community/Files</link>
-  <guid isPermaLink="false">5733</guid>
-  <pubDate>Mon, 27 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>n3d1117 / chatgpt-telegram-bot</title>
-  <description>🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python</description>
-  <link>https://github.com/n3d1117/chatgpt-telegram-bot</link>
-  <guid isPermaLink="false">5732</guid>
-  <pubDate>Mon, 27 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>gd3kr / BlenderGPT</title>
-  <description>Use commands in English to control Blender with OpenAI's GPT-4</description>
-  <link>https://github.com/gd3kr/BlenderGPT</link>
-  <guid isPermaLink="false">5731</guid>
-  <pubDate>Mon, 27 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>liyupi / yu-auto-reply</title>
-  <description>AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答</description>
-  <link>https://github.com/liyupi/yu-auto-reply</link>
-  <guid isPermaLink="false">5730</guid>
-  <pubDate>Mon, 27 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>rust-lang / rust</title>
-  <description>Empowering everyone to build reliable and efficient software.</description>
-  <link>https://github.com/rust-lang/rust</link>
-  <guid isPermaLink="false">5729</guid>
-  <pubDate>Mon, 27 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>ggerganov / whisper.cpp</title>
-  <description>Port of OpenAI's Whisper model in C/C++</description>
-  <link>https://github.com/ggerganov/whisper.cpp</link>
-  <guid isPermaLink="false">5728</guid>
-  <pubDate>Mon, 27 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>motifland / markprompt</title>
-  <description>Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics</description>
-  <link>https://github.com/motifland/markprompt</link>
-  <guid isPermaLink="false">5727</guid>
-  <pubDate>Mon, 27 Mar 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>openai / chatgpt-retrieval-plugin</title>
-  <description>The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.</description>
-  <link>https://github.com/openai/chatgpt-retrieval-plugin</link>
-  <guid isPermaLink="false">5726</guid>
-  <pubDate>Mon, 27 Mar 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>vincanger / coverlettergpt</title>
-  <description>Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.</description>
-  <link>https://github.com/vincanger/coverlettergpt</link>
-  <guid isPermaLink="false">5725</guid>
-  <pubDate>Mon, 27 Mar 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>binary-husky / chatgpt_academic</title>
-  <description>科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能</description>
-  <link>https://github.com/binary-husky/chatgpt_academic</link>
-  <guid isPermaLink="false">5724</guid>
-  <pubDate>Mon, 27 Mar 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>Yidadaa / ChatGPT-Next-Web</title>
-  <description>一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.</description>
-  <link>https://github.com/Yidadaa/ChatGPT-Next-Web</link>
-  <guid isPermaLink="false">5723</guid>
-  <pubDate>Mon, 27 Mar 2023 10:00:09 -0700</pubDate>
  </item>
 
 </channel>

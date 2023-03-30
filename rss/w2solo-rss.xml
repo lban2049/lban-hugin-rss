@@ -8,9 +8,58 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 29 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Wed, 29 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Thu, 30 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Thu, 30 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>不懂代码，不懂技术，我创建了我自己的小程序/个人网站</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3822</link>
+  <pubDate>Thu, 30 Mar 2023 07:15:01 -0700</pubDate>
+  <guid isPermaLink="false">5931</guid>
+ </item>
+ <item>
+  <title>ChatGPT 微信小程序上线</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3813</link>
+  <pubDate>Thu, 30 Mar 2023 06:40:51 -0700</pubDate>
+  <guid isPermaLink="false">5932</guid>
+ </item>
+ <item>
+  <title>独立开发 30 天，我们想要为异地情侣做一款产品</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3793</link>
+  <pubDate>Wed, 29 Mar 2023 22:39:40 -0700</pubDate>
+  <guid isPermaLink="false">5933</guid>
+ </item>
+ <item>
+  <title>我的目标是做出好的工具软件</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3821</link>
+  <pubDate>Wed, 29 Mar 2023 21:32:02 -0700</pubDate>
+  <guid isPermaLink="false">5934</guid>
+ </item>
+ <item>
+  <title>开发了一个 macos 应用，因为无法上架，请问怎么集成付费功能？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3817</link>
+  <pubDate>Wed, 29 Mar 2023 20:27:43 -0700</pubDate>
+  <guid isPermaLink="false">5935</guid>
+ </item>
+ <item>
+  <title>新人报道，在往独立开发的道路上努力</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3819</link>
+  <pubDate>Wed, 29 Mar 2023 20:27:38 -0700</pubDate>
+  <guid isPermaLink="false">5936</guid>
+ </item>
+ <item>
+  <title>2023.3.26 独立开发者线上聚会记录</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3820</link>
+  <pubDate>Wed, 29 Mar 2023 20:09:04 -0700</pubDate>
+  <guid isPermaLink="false">5937</guid>
+ </item>
  <item>
   <title>新人报道，在往独立开发的道路上努力</title>
   <description></description>
@@ -241,55 +290,6 @@
   <link>https://w2solo.com/topics/3805</link>
   <pubDate>Wed, 22 Mar 2023 18:25:35 -0700</pubDate>
   <guid isPermaLink="false">5559</guid>
- </item>
- <item>
-  <title>日记应用寻找靠谱的运营</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3805</link>
-  <pubDate>Wed, 22 Mar 2023 07:40:39 -0700</pubDate>
-  <guid isPermaLink="false">5504</guid>
- </item>
- <item>
-  <title>《安全评估报告》有了解的吗？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3802</link>
-  <pubDate>Wed, 22 Mar 2023 01:40:27 -0700</pubDate>
-  <guid isPermaLink="false">5505</guid>
- </item>
- <item>
-  <title>我的成本 300 元的在线 Excel 翻译产品 - 批量翻译功能上线</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3804</link>
-  <pubDate>Wed, 22 Mar 2023 00:59:11 -0700</pubDate>
-  <guid isPermaLink="false">5506</guid>
- </item>
- <item>
-  <title>面向开发者的多合一工具箱</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3803</link>
-  <pubDate>Tue, 21 Mar 2023 20:56:45 -0700</pubDate>
-  <guid isPermaLink="false">5507</guid>
- </item>
- <item>
-  <title>请教下大家，在独立开发中遇到素材插画一般都是从哪里获取到的呢？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3801</link>
-  <pubDate>Tue, 21 Mar 2023 05:03:11 -0700</pubDate>
-  <guid isPermaLink="false">5449</guid>
- </item>
- <item>
-  <title>《安全评估报告》有了解的吗？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3802</link>
-  <pubDate>Tue, 21 Mar 2023 03:47:25 -0700</pubDate>
-  <guid isPermaLink="false">5450</guid>
- </item>
- <item>
-  <title>请教下大家，在独立开发中遇到素材插画一般都是从哪里获取到的呢？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3801</link>
-  <pubDate>Mon, 20 Mar 2023 07:07:35 -0700</pubDate>
-  <guid isPermaLink="false">5387</guid>
  </item>
 
 </channel>
