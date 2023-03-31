@@ -8,9 +8,72 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 30 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Thu, 30 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Fri, 31 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Fri, 31 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>vfarid / cf-ip-scanner-py</title>
+  <description>Cloudflare's IP Scanner in Python</description>
+  <link>https://github.com/vfarid/cf-ip-scanner-py</link>
+  <guid isPermaLink="false">5964</guid>
+  <pubDate>Fri, 31 Mar 2023 10:00:09 -0700</pubDate>
+ </item>
+ <item>
+  <title>mlfoundations / open_flamingo</title>
+  <description>An open-source framework for training large multimodal models</description>
+  <link>https://github.com/mlfoundations/open_flamingo</link>
+  <guid isPermaLink="false">5963</guid>
+  <pubDate>Fri, 31 Mar 2023 10:00:09 -0700</pubDate>
+ </item>
+ <item>
+  <title>hashicorp / vault</title>
+  <description>A tool for secrets management, encryption as a service, and privileged access management</description>
+  <link>https://github.com/hashicorp/vault</link>
+  <guid isPermaLink="false">5962</guid>
+  <pubDate>Fri, 31 Mar 2023 10:00:09 -0700</pubDate>
+ </item>
+ <item>
+  <title>osanseviero / ml_timeline</title>
+  <description></description>
+  <link>https://github.com/osanseviero/ml_timeline</link>
+  <guid isPermaLink="false">5961</guid>
+  <pubDate>Fri, 31 Mar 2023 10:00:09 -0700</pubDate>
+ </item>
+ <item>
+  <title>microsoft / visual-chatgpt</title>
+  <description>Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models</description>
+  <link>https://github.com/microsoft/visual-chatgpt</link>
+  <guid isPermaLink="false">5960</guid>
+  <pubDate>Fri, 31 Mar 2023 10:00:09 -0700</pubDate>
+ </item>
+ <item>
+  <title>vocodedev / vocode-python</title>
+  <description>🤖 Build voice-based LLM agents. Modular + open source.</description>
+  <link>https://github.com/vocodedev/vocode-python</link>
+  <guid isPermaLink="false">5959</guid>
+  <pubDate>Fri, 31 Mar 2023 10:00:09 -0700</pubDate>
+ </item>
+ <item>
+  <title>gkamradt / langchain-tutorials</title>
+  <description>Overview and tutorial of the LangChain Library</description>
+  <link>https://github.com/gkamradt/langchain-tutorials</link>
+  <guid isPermaLink="false">5958</guid>
+  <pubDate>Fri, 31 Mar 2023 10:00:09 -0700</pubDate>
+ </item>
+ <item>
+  <title>karpathy / minGPT</title>
+  <description>A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training</description>
+  <link>https://github.com/karpathy/minGPT</link>
+  <guid isPermaLink="false">5957</guid>
+  <pubDate>Fri, 31 Mar 2023 10:00:09 -0700</pubDate>
+ </item>
+ <item>
+  <title>PaperMC / Folia</title>
+  <description>Fork of Paper which adds regionised multithreading to the dedicated server.</description>
+  <link>https://github.com/PaperMC/Folia</link>
+  <guid isPermaLink="false">5956</guid>
+  <pubDate>Fri, 31 Mar 2023 10:00:09 -0700</pubDate>
+ </item>
  <item>
   <title>coral-xyz / backpack</title>
   <description>🎒 Next level crypto wallet</description>
@@ -226,69 +289,6 @@
   <description>Collection of Cyber Threat Intelligence sources from the deep and dark web</description>
   <link>https://github.com/fastfire/deepdarkCTI</link>
   <guid isPermaLink="false">5778</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>Chanzhaoyu / chatgpt-web</title>
-  <description>用 Express 和 Vue3 搭建的 ChatGPT 演示网页</description>
-  <link>https://github.com/Chanzhaoyu/chatgpt-web</link>
-  <guid isPermaLink="false">5777</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>libAudioFlux / audioFlux</title>
-  <description>A library for audio and music analysis, feature extraction.</description>
-  <link>https://github.com/libAudioFlux/audioFlux</link>
-  <guid isPermaLink="false">5776</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>codebdy / rxdrag</title>
-  <description>Design anything based on HTML, 可视化编辑， 设计一切基于HTML的东西，模块化设计</description>
-  <link>https://github.com/codebdy/rxdrag</link>
-  <guid isPermaLink="false">5775</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>huggingface / peft</title>
-  <description>🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.</description>
-  <link>https://github.com/huggingface/peft</link>
-  <guid isPermaLink="false">5774</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>jiep / offensive-ai-compilation</title>
-  <description>A curated list of useful resources that cover Offensive AI.</description>
-  <link>https://github.com/jiep/offensive-ai-compilation</link>
-  <guid isPermaLink="false">5773</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>dani-garcia / vaultwarden</title>
-  <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
-  <link>https://github.com/dani-garcia/vaultwarden</link>
-  <guid isPermaLink="false">5772</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>requarks / wiki</title>
-  <description>Wiki.js | A modern and powerful wiki app built on Node.js</description>
-  <link>https://github.com/requarks/wiki</link>
-  <guid isPermaLink="false">5771</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>yuanzhoulvpi2017 / zero_nlp</title>
-  <description>中文nlp应用(数据、模型、训练、推理) chatglm6b</description>
-  <link>https://github.com/yuanzhoulvpi2017/zero_nlp</link>
-  <guid isPermaLink="false">5770</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:05 -0700</pubDate>
- </item>
- <item>
-  <title>ventoy / Ventoy</title>
-  <description>A new bootable USB solution.</description>
-  <link>https://github.com/ventoy/Ventoy</link>
-  <guid isPermaLink="false">5769</guid>
   <pubDate>Tue, 28 Mar 2023 10:00:05 -0700</pubDate>
  </item>
 

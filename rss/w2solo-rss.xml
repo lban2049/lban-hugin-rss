@@ -8,9 +8,37 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 30 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Thu, 30 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Fri, 31 Mar 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Fri, 31 Mar 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>不懂代码，不懂技术，我创建了我自己的小程序/个人网站</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3822</link>
+  <pubDate>Fri, 31 Mar 2023 05:06:15 -0700</pubDate>
+  <guid isPermaLink="false">5994</guid>
+ </item>
+ <item>
+  <title>刚上线的浏览器插件 --- TinySearch，大佬们进来瞅瞅～</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3815</link>
+  <pubDate>Fri, 31 Mar 2023 05:03:41 -0700</pubDate>
+  <guid isPermaLink="false">5995</guid>
+ </item>
+ <item>
+  <title>我是一位普通程序员，但我想要找寻到程序员的自由</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3823</link>
+  <pubDate>Fri, 31 Mar 2023 04:04:27 -0700</pubDate>
+  <guid isPermaLink="false">5996</guid>
+ </item>
+ <item>
+  <title>独立开发 30 天，我们想要为异地情侣做一款产品</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3793</link>
+  <pubDate>Thu, 30 Mar 2023 18:21:01 -0700</pubDate>
+  <guid isPermaLink="false">5997</guid>
+ </item>
  <item>
   <title>不懂代码，不懂技术，我创建了我自己的小程序/个人网站</title>
   <description></description>
@@ -262,34 +290,6 @@
   <link>https://w2solo.com/topics/3802</link>
   <pubDate>Fri, 24 Mar 2023 00:39:44 -0700</pubDate>
   <guid isPermaLink="false">5617</guid>
- </item>
- <item>
-  <title>有没有擅长设计的小伙伴合作实现一个图片处理小程序？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3790</link>
-  <pubDate>Thu, 23 Mar 2023 22:59:50 -0700</pubDate>
-  <guid isPermaLink="false">5618</guid>
- </item>
- <item>
-  <title>用 ChatGpt 的 api 写了一个操作表格的助手叫 AiExcel，打打字操作表格</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3806</link>
-  <pubDate>Thu, 23 Mar 2023 22:56:57 -0700</pubDate>
-  <guid isPermaLink="false">5619</guid>
- </item>
- <item>
-  <title>用 ChatGpt 的 api 写了一个操作表格的助手叫 AiExcel，打打字操作表格</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3806</link>
-  <pubDate>Thu, 23 Mar 2023 02:32:24 -0700</pubDate>
-  <guid isPermaLink="false">5558</guid>
- </item>
- <item>
-  <title>日记应用寻找靠谱的运营</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3805</link>
-  <pubDate>Wed, 22 Mar 2023 18:25:35 -0700</pubDate>
-  <guid isPermaLink="false">5559</guid>
  </item>
 
 </channel>
