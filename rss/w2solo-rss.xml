@@ -8,9 +8,30 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 31 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Fri, 31 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Sat, 01 Apr 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Sat, 01 Apr 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>新人报道，在往独立开发的道路上努力</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3819</link>
+  <pubDate>Fri, 31 Mar 2023 12:27:27 -0700</pubDate>
+  <guid isPermaLink="false">6036</guid>
+ </item>
+ <item>
+  <title>我的目标是做出好的工具软件</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3821</link>
+  <pubDate>Fri, 31 Mar 2023 12:27:09 -0700</pubDate>
+  <guid isPermaLink="false">6037</guid>
+ </item>
+ <item>
+  <title>我是一位普通程序员，但我想要找寻到程序员的自由</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3823</link>
+  <pubDate>Fri, 31 Mar 2023 12:23:54 -0700</pubDate>
+  <guid isPermaLink="false">6038</guid>
+ </item>
  <item>
   <title>不懂代码，不懂技术，我创建了我自己的小程序/个人网站</title>
   <description></description>
@@ -269,27 +290,6 @@
   <link>https://w2solo.com/topics/3807</link>
   <pubDate>Fri, 24 Mar 2023 03:50:31 -0700</pubDate>
   <guid isPermaLink="false">5615</guid>
- </item>
- <item>
-  <title>我的成本 300 元的在线翻译产品 Sheetrans- 批量翻译功能上线（beta）</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3804</link>
-  <pubDate>Fri, 24 Mar 2023 02:53:14 -0700</pubDate>
-  <guid isPermaLink="false">5813</guid>
- </item>
- <item>
-  <title>我的成本 300 元的在线 Excel 翻译产品 - 批量翻译功能上线</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3804</link>
-  <pubDate>Fri, 24 Mar 2023 02:53:14 -0700</pubDate>
-  <guid isPermaLink="false">5616</guid>
- </item>
- <item>
-  <title>《安全评估报告》有了解的吗？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3802</link>
-  <pubDate>Fri, 24 Mar 2023 00:39:44 -0700</pubDate>
-  <guid isPermaLink="false">5617</guid>
  </item>
 
 </channel>

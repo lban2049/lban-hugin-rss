@@ -8,9 +8,107 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 31 Mar 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Fri, 31 Mar 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Sat, 01 Apr 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Sat, 01 Apr 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>lencx / nofwl</title>
+  <description>NoFWL Desktop Application</description>
+  <link>https://github.com/lencx/nofwl</link>
+  <guid isPermaLink="false">6011</guid>
+  <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>johnlui / PPHC</title>
+  <description>📙《高并发的哲学原理》开源图书（CC BY-NC-ND）</description>
+  <link>https://github.com/johnlui/PPHC</link>
+  <guid isPermaLink="false">6010</guid>
+  <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>twitter / twemoji</title>
+  <description>Emoji for everyone. https://twemoji.twitter.com/</description>
+  <link>https://github.com/twitter/twemoji</link>
+  <guid isPermaLink="false">6009</guid>
+  <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>sqlchat / sqlchat</title>
+  <description>Chat-based SQL client for the next decade</description>
+  <link>https://github.com/sqlchat/sqlchat</link>
+  <guid isPermaLink="false">6008</guid>
+  <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>mckaywrigley / chatbot-ui</title>
+  <description>An open source ChatGPT UI.</description>
+  <link>https://github.com/mckaywrigley/chatbot-ui</link>
+  <guid isPermaLink="false">6007</guid>
+  <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>thinkingjimmy / Learning-Prompt</title>
+  <description>免费 Prompt Engineering 教程</description>
+  <link>https://github.com/thinkingjimmy/Learning-Prompt</link>
+  <guid isPermaLink="false">6006</guid>
+  <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>nomic-ai / nomic</title>
+  <description>Interact with Massive Embedding and Text Datasets in Your Web Browser</description>
+  <link>https://github.com/nomic-ai/nomic</link>
+  <guid isPermaLink="false">6005</guid>
+  <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>new-ai-company / ide</title>
+  <description>$NAME is an AI-powered IDE. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.</description>
+  <link>https://github.com/new-ai-company/ide</link>
+  <guid isPermaLink="false">6004</guid>
+  <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>yakGPT / yakGPT</title>
+  <description>Locally running, hands-free ChatGPT</description>
+  <link>https://github.com/yakGPT/yakGPT</link>
+  <guid isPermaLink="false">6003</guid>
+  <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>PrefectHQ / marvin</title>
+  <description>🤖🪄 A batteries-included library for GPT-powered bots and AI functions</description>
+  <link>https://github.com/PrefectHQ/marvin</link>
+  <guid isPermaLink="false">6002</guid>
+  <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>helix-editor / helix</title>
+  <description>A post-modern modal text editor.</description>
+  <link>https://github.com/helix-editor/helix</link>
+  <guid isPermaLink="false">6001</guid>
+  <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>hahahumble / speechgpt</title>
+  <description>SpeechGPT is a web application that enables you to converse with ChatGPT.</description>
+  <link>https://github.com/hahahumble/speechgpt</link>
+  <guid isPermaLink="false">6000</guid>
+  <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>Synaptrix / ChatGPT-Desktop</title>
+  <description>ChatGPT 跨平台客户端，快捷键快速唤醒窗口，问答快人一步！</description>
+  <link>https://github.com/Synaptrix/ChatGPT-Desktop</link>
+  <guid isPermaLink="false">5999</guid>
+  <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>RosettaCommons / RFdiffusion</title>
+  <description>Code for running RFdiffusion</description>
+  <link>https://github.com/RosettaCommons/RFdiffusion</link>
+  <guid isPermaLink="false">5998</guid>
+  <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
  <item>
   <title>vfarid / cf-ip-scanner-py</title>
   <description>Cloudflare's IP Scanner in Python</description>
@@ -192,104 +290,6 @@
   <link>https://github.com/dalinvip/Awesome-ChatGPT</link>
   <guid isPermaLink="false">5846</guid>
   <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>openai / openai-cookbook</title>
-  <description>Examples and guides for using the OpenAI API</description>
-  <link>https://github.com/openai/openai-cookbook</link>
-  <guid isPermaLink="false">5845</guid>
-  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>KeXueShangWangkexue / KeXueShangWang_Google_Facebook_Twitter_VPN_VPS_Proxy</title>
-  <description>科学上网🟢🟢科学上网🔴🔴科学上网🟡🟡科学上网</description>
-  <link>https://github.com/KeXueShangWangkexue/KeXueShangWang_Google_Facebook_Twitter_VPN_VPS_Proxy</link>
-  <guid isPermaLink="false">5844</guid>
-  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>getsentry / sentry</title>
-  <description>Developer-first error tracking and performance monitoring</description>
-  <link>https://github.com/getsentry/sentry</link>
-  <guid isPermaLink="false">5843</guid>
-  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>immersive-translate / immersive-translate</title>
-  <description>Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展</description>
-  <link>https://github.com/immersive-translate/immersive-translate</link>
-  <guid isPermaLink="false">5842</guid>
-  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>clue-ai / ChatYuan</title>
-  <description>ChatYuan: Large Language Model for Dialogue in Chinese and English</description>
-  <link>https://github.com/clue-ai/ChatYuan</link>
-  <guid isPermaLink="false">5841</guid>
-  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>PhoebusSi / Alpaca-CoT</title>
-  <description>We extend CoT data to Alpaca to boost its reasoning ability. We are constantly expanding our collection of instruction-tuning data. The instruction collection can be found at https://huggingface.co/datasets/QingyiSi/Alpaca-CoT/tree/main （我们将CoT数据扩展到Alpaca以提高其推理能力，同时我们将不断收集更多的instruction-tuning数据集。）</description>
-  <link>https://github.com/PhoebusSi/Alpaca-CoT</link>
-  <guid isPermaLink="false">5840</guid>
-  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>di-sukharev / opencommit</title>
-  <description>GPT CLI to auto-generate impressive commits in 1 second 🤯🔫</description>
-  <link>https://github.com/di-sukharev/opencommit</link>
-  <guid isPermaLink="false">5839</guid>
-  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>davinci1010 / pinduoduo_backdoor</title>
-  <description>拼多多apk内嵌提权代码，及动态下发dex分析</description>
-  <link>https://github.com/davinci1010/pinduoduo_backdoor</link>
-  <guid isPermaLink="false">5838</guid>
-  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>lxfater / Portal</title>
-  <description></description>
-  <link>https://github.com/lxfater/Portal</link>
-  <guid isPermaLink="false">5837</guid>
-  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>tailwindlabs / tailwindcss</title>
-  <description>A utility-first CSS framework for rapid UI development.</description>
-  <link>https://github.com/tailwindlabs/tailwindcss</link>
-  <guid isPermaLink="false">5836</guid>
-  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>snipe / snipe-it</title>
-  <description>A free open source IT asset/license management system</description>
-  <link>https://github.com/snipe/snipe-it</link>
-  <guid isPermaLink="false">5835</guid>
-  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>visual-openllm / visual-openllm</title>
-  <description>something like visual-chatgpt, 文心一言的开源版</description>
-  <link>https://github.com/visual-openllm/visual-openllm</link>
-  <guid isPermaLink="false">5834</guid>
-  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>Kent0n-Li / ChatDoctor</title>
-  <description></description>
-  <link>https://github.com/Kent0n-Li/ChatDoctor</link>
-  <guid isPermaLink="false">5833</guid>
-  <pubDate>Wed, 29 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>fastfire / deepdarkCTI</title>
-  <description>Collection of Cyber Threat Intelligence sources from the deep and dark web</description>
-  <link>https://github.com/fastfire/deepdarkCTI</link>
-  <guid isPermaLink="false">5778</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:05 -0700</pubDate>
  </item>
 
 </channel>
