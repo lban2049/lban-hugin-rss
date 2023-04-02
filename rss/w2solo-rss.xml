@@ -8,9 +8,23 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 01 Apr 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Sat, 01 Apr 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Sun, 02 Apr 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Sun, 02 Apr 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>新人求关照</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3824</link>
+  <pubDate>Sun, 02 Apr 2023 01:31:38 -0700</pubDate>
+  <guid isPermaLink="false">6076</guid>
+ </item>
+ <item>
+  <title>我的目标是做出好的工具软件</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3821</link>
+  <pubDate>Sat, 01 Apr 2023 21:05:52 -0700</pubDate>
+  <guid isPermaLink="false">6077</guid>
+ </item>
  <item>
   <title>新人报道，在往独立开发的道路上努力</title>
   <description></description>
@@ -276,20 +290,6 @@
   <link>https://w2solo.com/topics/3805</link>
   <pubDate>Fri, 24 Mar 2023 06:02:56 -0700</pubDate>
   <guid isPermaLink="false">5613</guid>
- </item>
- <item>
-  <title>关于软著及商标问题</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3796</link>
-  <pubDate>Fri, 24 Mar 2023 04:25:45 -0700</pubDate>
-  <guid isPermaLink="false">5614</guid>
- </item>
- <item>
-  <title>独立开发者线上聚会 2023-03-26（周日）</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3807</link>
-  <pubDate>Fri, 24 Mar 2023 03:50:31 -0700</pubDate>
-  <guid isPermaLink="false">5615</guid>
  </item>
 
 </channel>
