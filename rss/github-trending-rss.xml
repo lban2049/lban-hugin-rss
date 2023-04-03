@@ -8,9 +8,86 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 02 Apr 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Sun, 02 Apr 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Mon, 03 Apr 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Mon, 03 Apr 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>terrastruct / d2</title>
+  <description>D2 is a modern diagram scripting language that turns text to diagrams.</description>
+  <link>https://github.com/terrastruct/d2</link>
+  <guid isPermaLink="false">6105</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>DeSinc / SallyBot</title>
+  <description>AI Chatbot coded in Discord.net C#</description>
+  <link>https://github.com/DeSinc/SallyBot</link>
+  <guid isPermaLink="false">6104</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>OptimalScale / LMFlow</title>
+  <description>An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All. 共建大模型社区，让每个人都训得起大模型。</description>
+  <link>https://github.com/OptimalScale/LMFlow</link>
+  <guid isPermaLink="false">6103</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>DarkFlippers / unleashed-firmware</title>
+  <description>Flipper Zero Unleashed Firmware</description>
+  <link>https://github.com/DarkFlippers/unleashed-firmware</link>
+  <guid isPermaLink="false">6102</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>gothinkster / realworld</title>
+  <description>"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more</description>
+  <link>https://github.com/gothinkster/realworld</link>
+  <guid isPermaLink="false">6101</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>rustformers / llama-rs</title>
+  <description>Run LLaMA inference on CPU, with Rust 🦀🚀🦙</description>
+  <link>https://github.com/rustformers/llama-rs</link>
+  <guid isPermaLink="false">6100</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>stochasticai / xturing</title>
+  <description>Build and control your own LLMs</description>
+  <link>https://github.com/stochasticai/xturing</link>
+  <guid isPermaLink="false">6099</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>topjohnwu / Magisk</title>
+  <description>The Magic Mask for Android</description>
+  <link>https://github.com/topjohnwu/Magisk</link>
+  <guid isPermaLink="false">6098</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>EbookFoundation / free-programming-books</title>
+  <description>📚 Freely available programming books</description>
+  <link>https://github.com/EbookFoundation/free-programming-books</link>
+  <guid isPermaLink="false">6097</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>sindresorhus / awesome</title>
+  <description>😎 Awesome lists about all kinds of interesting topics</description>
+  <link>https://github.com/sindresorhus/awesome</link>
+  <guid isPermaLink="false">6096</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>apple / ml-stable-diffusion</title>
+  <description>Stable Diffusion with Core ML on Apple Silicon</description>
+  <link>https://github.com/apple/ml-stable-diffusion</link>
+  <guid isPermaLink="false">6095</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
  <item>
   <title>microsoft / ML-For-Beginners</title>
   <description>12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all</description>
@@ -213,83 +290,6 @@
   <link>https://github.com/helix-editor/helix</link>
   <guid isPermaLink="false">6001</guid>
   <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>hahahumble / speechgpt</title>
-  <description>SpeechGPT is a web application that enables you to converse with ChatGPT.</description>
-  <link>https://github.com/hahahumble/speechgpt</link>
-  <guid isPermaLink="false">6000</guid>
-  <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>Synaptrix / ChatGPT-Desktop</title>
-  <description>ChatGPT 跨平台客户端，快捷键快速唤醒窗口，问答快人一步！</description>
-  <link>https://github.com/Synaptrix/ChatGPT-Desktop</link>
-  <guid isPermaLink="false">5999</guid>
-  <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>RosettaCommons / RFdiffusion</title>
-  <description>Code for running RFdiffusion</description>
-  <link>https://github.com/RosettaCommons/RFdiffusion</link>
-  <guid isPermaLink="false">5998</guid>
-  <pubDate>Sat, 01 Apr 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>vfarid / cf-ip-scanner-py</title>
-  <description>Cloudflare's IP Scanner in Python</description>
-  <link>https://github.com/vfarid/cf-ip-scanner-py</link>
-  <guid isPermaLink="false">5964</guid>
-  <pubDate>Fri, 31 Mar 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>mlfoundations / open_flamingo</title>
-  <description>An open-source framework for training large multimodal models</description>
-  <link>https://github.com/mlfoundations/open_flamingo</link>
-  <guid isPermaLink="false">5963</guid>
-  <pubDate>Fri, 31 Mar 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>hashicorp / vault</title>
-  <description>A tool for secrets management, encryption as a service, and privileged access management</description>
-  <link>https://github.com/hashicorp/vault</link>
-  <guid isPermaLink="false">5962</guid>
-  <pubDate>Fri, 31 Mar 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>osanseviero / ml_timeline</title>
-  <description></description>
-  <link>https://github.com/osanseviero/ml_timeline</link>
-  <guid isPermaLink="false">5961</guid>
-  <pubDate>Fri, 31 Mar 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>microsoft / visual-chatgpt</title>
-  <description>Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models</description>
-  <link>https://github.com/microsoft/visual-chatgpt</link>
-  <guid isPermaLink="false">5960</guid>
-  <pubDate>Fri, 31 Mar 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>vocodedev / vocode-python</title>
-  <description>🤖 Build voice-based LLM agents. Modular + open source.</description>
-  <link>https://github.com/vocodedev/vocode-python</link>
-  <guid isPermaLink="false">5959</guid>
-  <pubDate>Fri, 31 Mar 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>gkamradt / langchain-tutorials</title>
-  <description>Overview and tutorial of the LangChain Library</description>
-  <link>https://github.com/gkamradt/langchain-tutorials</link>
-  <guid isPermaLink="false">5958</guid>
-  <pubDate>Fri, 31 Mar 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>karpathy / minGPT</title>
-  <description>A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training</description>
-  <link>https://github.com/karpathy/minGPT</link>
-  <guid isPermaLink="false">5957</guid>
-  <pubDate>Fri, 31 Mar 2023 10:00:09 -0700</pubDate>
  </item>
 
 </channel>

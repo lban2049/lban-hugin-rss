@@ -8,9 +8,30 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 02 Apr 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Sun, 02 Apr 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Mon, 03 Apr 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Mon, 03 Apr 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>小小里程碑，独立开发的作品简单简历 easycv.cn 月收入达到 2000 元</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3799</link>
+  <pubDate>Mon, 03 Apr 2023 07:04:28 -0700</pubDate>
+  <guid isPermaLink="false">6139</guid>
+ </item>
+ <item>
+  <title>独立开发周报 #7: 3 月总结</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3825</link>
+  <pubDate>Sun, 02 Apr 2023 22:29:02 -0700</pubDate>
+  <guid isPermaLink="false">6140</guid>
+ </item>
+ <item>
+  <title>我的目标是做出好的工具软件</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3821</link>
+  <pubDate>Sun, 02 Apr 2023 18:23:39 -0700</pubDate>
+  <guid isPermaLink="false">6141</guid>
+ </item>
  <item>
   <title>新人求关照</title>
   <description></description>
@@ -269,27 +290,6 @@
   <link>https://w2solo.com/topics/3802</link>
   <pubDate>Fri, 24 Mar 2023 21:56:12 -0700</pubDate>
   <guid isPermaLink="false">5662</guid>
- </item>
- <item>
-  <title>能帮上架安卓吗？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3808</link>
-  <pubDate>Fri, 24 Mar 2023 20:08:42 -0700</pubDate>
-  <guid isPermaLink="false">5663</guid>
- </item>
- <item>
-  <title>关于软著及商标问题</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3796</link>
-  <pubDate>Fri, 24 Mar 2023 18:00:18 -0700</pubDate>
-  <guid isPermaLink="false">5664</guid>
- </item>
- <item>
-  <title>日记应用寻找靠谱的运营</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3805</link>
-  <pubDate>Fri, 24 Mar 2023 06:02:56 -0700</pubDate>
-  <guid isPermaLink="false">5613</guid>
  </item>
 
 </channel>

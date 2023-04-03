@@ -8,9 +8,100 @@
  <title>Indie Hackers Popular RSS</title>
  <description>Indie Hackers Popular RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 02 Apr 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Sun, 02 Apr 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Mon, 03 Apr 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Mon, 03 Apr 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>What is the Future of Authentication</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/what-is-the-future-of-authentication-759394bbe4</link>
+  <guid isPermaLink="false">6154</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Travel Newsletter Feedback</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/travel-newsletter-feedback-7c1e5dc8a2</link>
+  <guid isPermaLink="false">6153</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Roast my landing page 🙏</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/roast-my-landing-page-3cc0fa2c6c</link>
+  <guid isPermaLink="false">6152</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Landing Page Tips</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/landing-page-tips-1312391746</link>
+  <guid isPermaLink="false">6151</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>I’m done with job searching, here’s what I’ll spend my time on from now on.</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/i-m-done-with-job-searching-here-s-what-i-ll-spend-my-time-on-from-now-on-b89afec1b5</link>
+  <guid isPermaLink="false">6150</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Where can I find tech recruiters?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/where-can-i-find-tech-recruiters-700b2bda58</link>
+  <guid isPermaLink="false">6149</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Is Pinterest dead?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/is-pinterest-dead-d3c3ff39c2</link>
+  <guid isPermaLink="false">6148</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Just launched Source: Talent Newsletters on Product Hunt 🦄</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/just-launched-source-talent-newsletters-on-product-hunt-d88d8b353b</link>
+  <guid isPermaLink="false">6147</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Free Guide: Ad Sizes and Specs 📐</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/free-guide-ad-sizes-and-specs-d0f1e446c1</link>
+  <guid isPermaLink="false">6146</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Early feedback on landing page - Of Many Minds</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/early-feedback-on-landing-page-of-many-minds-7353b2298c</link>
+  <guid isPermaLink="false">6145</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>How to add ratings &amp; reviews functionality to my website?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/how-to-add-ratings-reviews-functionality-to-my-website-a43f1fc4fe</link>
+  <guid isPermaLink="false">6144</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>Hey API devs, how do you decide what API to create?</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/hey-api-devs-how-do-you-decide-what-api-to-create-5bf1725e85</link>
+  <guid isPermaLink="false">6143</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:12 -0700</pubDate>
+ </item>
+ <item>
+  <title>One Year Of Indie Hacking: How I quit my job and built my own app business</title>
+  <description></description>
+  <link>https://www.indiehackers.com/post/one-year-of-indie-hacking-how-i-quit-my-job-and-built-my-own-app-business-f7e2e3a1b6</link>
+  <guid isPermaLink="false">6142</guid>
+  <pubDate>Mon, 03 Apr 2023 10:00:12 -0700</pubDate>
+ </item>
  <item>
   <title>I built something I wouldn't use myself</title>
   <description></description>
@@ -199,97 +290,6 @@
   <link>https://www.indiehackers.com/post/after-60-issues-13-months-and-13-mrr-i-shut-down-my-paid-newsletter-7-hard-lessons-i-learned-3dafdbaddf</link>
   <guid isPermaLink="false">5946</guid>
   <pubDate>Thu, 30 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>It's not easy to build a product that's not AI related nowadays</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/its-not-easy-to-build-a-product-that-s-not-ai-related-nowadays-61166b07bc</link>
-  <guid isPermaLink="false">5945</guid>
-  <pubDate>Thu, 30 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>Troubleshooting CNC Machine Problems</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/troubleshooting-cnc-machine-problems-174f42229a</link>
-  <guid isPermaLink="false">5944</guid>
-  <pubDate>Thu, 30 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>🚀 How did successful SaaS founders leverage free resources to skyrocket their startups? 🤫</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-did-successful-saas-founders-leverage-free-resources-to-skyrocket-their-startups-7fef40a838</link>
-  <guid isPermaLink="false">5943</guid>
-  <pubDate>Thu, 30 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>How to grow faster on Twitter without fancy tools?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/how-to-grow-faster-on-twitter-without-fancy-tools-b42ae2c89d</link>
-  <guid isPermaLink="false">5942</guid>
-  <pubDate>Thu, 30 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>Looking for advice on what to do with my new side project 💡</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/looking-for-advice-on-what-to-do-with-my-new-side-project-45a3edd844</link>
-  <guid isPermaLink="false">5941</guid>
-  <pubDate>Thu, 30 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>I Spent $35,000 on a “Typo Domain.” Good or Bad Investment?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/i-spent-35-000-on-a-typo-domain-good-or-bad-investment-a78dcf41c8</link>
-  <guid isPermaLink="false">5940</guid>
-  <pubDate>Thu, 30 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>Show IH: I created a tool to help me reduce my anxiety as an Indie Hacker</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/show-ih-i-created-a-tool-to-help-me-reduce-my-anxiety-as-an-indie-hacker-50880f0b37</link>
-  <guid isPermaLink="false">5939</guid>
-  <pubDate>Thu, 30 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>SEO Hack to get competitor's users and grow your traffic</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/seo-hack-to-get-competitors-users-and-grow-your-traffic-f2123eaba7</link>
-  <guid isPermaLink="false">5938</guid>
-  <pubDate>Thu, 30 Mar 2023 10:00:10 -0700</pubDate>
- </item>
- <item>
-  <title>Collaborative Upskill: Share feedback on new idea</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/collaborative-upskill-share-feedback-on-new-idea-e4ed785b21</link>
-  <guid isPermaLink="false">5832</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>My failure to build a school for entrepreneurs</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/my-failure-to-build-a-school-for-entrepreneurs-d1421f4d21</link>
-  <guid isPermaLink="false">5831</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>This week in Micro SaaS - This Tool hits $1K MRR in 5 Months</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/this-week-in-micro-saas-this-tool-hits-1k-mrr-in-5-months-b0d537f736</link>
-  <guid isPermaLink="false">5830</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>What do you think of this idea?</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/what-do-you-think-of-this-idea-def51a7ae8</link>
-  <guid isPermaLink="false">5829</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>I Open-Sourced my Stripe Pricing Strategy for CoverLetterGPT</title>
-  <description></description>
-  <link>https://www.indiehackers.com/post/i-open-sourced-my-stripe-pricing-strategy-for-coverlettergpt-a8b886d92f</link>
-  <guid isPermaLink="false">5828</guid>
-  <pubDate>Tue, 28 Mar 2023 10:00:11 -0700</pubDate>
  </item>
 
 </channel>
