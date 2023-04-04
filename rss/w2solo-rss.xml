@@ -8,9 +8,37 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Mon, 03 Apr 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Mon, 03 Apr 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Tue, 04 Apr 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Tue, 04 Apr 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>程序员的压力太大了，你们都是怎么去寻找它的快乐？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3826</link>
+  <pubDate>Tue, 04 Apr 2023 05:30:02 -0700</pubDate>
+  <guid isPermaLink="false">6169</guid>
+ </item>
+ <item>
+  <title>新人求关照</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3824</link>
+  <pubDate>Tue, 04 Apr 2023 02:53:28 -0700</pubDate>
+  <guid isPermaLink="false">6170</guid>
+ </item>
+ <item>
+  <title>小小里程碑，独立开发的作品简单简历 easycv.cn 月收入达到 2000 元</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3799</link>
+  <pubDate>Mon, 03 Apr 2023 19:16:49 -0700</pubDate>
+  <guid isPermaLink="false">6171</guid>
+ </item>
+ <item>
+  <title>我是一位普通程序员，但我想要找寻到程序员的自由</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3823</link>
+  <pubDate>Mon, 03 Apr 2023 17:21:09 -0700</pubDate>
+  <guid isPermaLink="false">6172</guid>
+ </item>
  <item>
   <title>小小里程碑，独立开发的作品简单简历 easycv.cn 月收入达到 2000 元</title>
   <description></description>
@@ -262,34 +290,6 @@
   <link>https://w2solo.com/topics/3806</link>
   <pubDate>Sun, 26 Mar 2023 19:46:32 -0700</pubDate>
   <guid isPermaLink="false">5764</guid>
- </item>
- <item>
-  <title>能帮上架安卓吗？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3808</link>
-  <pubDate>Sun, 26 Mar 2023 19:45:15 -0700</pubDate>
-  <guid isPermaLink="false">5765</guid>
- </item>
- <item>
-  <title>小白问个关于税的问题</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3810</link>
-  <pubDate>Sun, 26 Mar 2023 08:18:47 -0700</pubDate>
-  <guid isPermaLink="false">5702</guid>
- </item>
- <item>
-  <title>一个戒色的应用，为什么要写这个 App 呢，因为我有一个朋友...</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3809</link>
-  <pubDate>Sat, 25 Mar 2023 08:43:30 -0700</pubDate>
-  <guid isPermaLink="false">5661</guid>
- </item>
- <item>
-  <title>《安全评估报告》有了解的吗？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3802</link>
-  <pubDate>Fri, 24 Mar 2023 21:56:12 -0700</pubDate>
-  <guid isPermaLink="false">5662</guid>
  </item>
 
 </channel>
