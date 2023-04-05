@@ -8,9 +8,23 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Tue, 04 Apr 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Tue, 04 Apr 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Wed, 05 Apr 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Wed, 05 Apr 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Apple 个人开发者名称只能是中文姓名吗？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3827</link>
+  <pubDate>Wed, 05 Apr 2023 08:44:05 -0700</pubDate>
+  <guid isPermaLink="false">6232</guid>
+ </item>
+ <item>
+  <title>程序员的压力太大了，你们都是怎么去寻找它的快乐？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3826</link>
+  <pubDate>Tue, 04 Apr 2023 19:08:12 -0700</pubDate>
+  <guid isPermaLink="false">6233</guid>
+ </item>
  <item>
   <title>程序员的压力太大了，你们都是怎么去寻找它的快乐？</title>
   <description></description>
@@ -276,20 +290,6 @@
   <link>https://w2solo.com/topics/3811</link>
   <pubDate>Mon, 27 Mar 2023 04:45:31 -0700</pubDate>
   <guid isPermaLink="false">5762</guid>
- </item>
- <item>
-  <title>写了一个白噪音应用，25.2 FM</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3812</link>
-  <pubDate>Sun, 26 Mar 2023 23:38:08 -0700</pubDate>
-  <guid isPermaLink="false">5763</guid>
- </item>
- <item>
-  <title>用 ChatGpt 的 api 写了一个操作表格的助手叫 AiExcel，打打字操作表格</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3806</link>
-  <pubDate>Sun, 26 Mar 2023 19:46:32 -0700</pubDate>
-  <guid isPermaLink="false">5764</guid>
  </item>
 
 </channel>
