@@ -8,9 +8,37 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 05 Apr 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Wed, 05 Apr 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Thu, 06 Apr 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Thu, 06 Apr 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>刚上线的浏览器插件 --- TinySearch，大佬们进来瞅瞅～</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3815</link>
+  <pubDate>Thu, 06 Apr 2023 04:42:26 -0700</pubDate>
+  <guid isPermaLink="false">6272</guid>
+ </item>
+ <item>
+  <title>请教下大家，在独立开发中遇到素材插画一般都是从哪里获取到的呢？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3801</link>
+  <pubDate>Thu, 06 Apr 2023 03:16:25 -0700</pubDate>
+  <guid isPermaLink="false">6273</guid>
+ </item>
+ <item>
+  <title>Apple 个人开发者名称只能是中文姓名吗？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3827</link>
+  <pubDate>Wed, 05 Apr 2023 23:14:06 -0700</pubDate>
+  <guid isPermaLink="false">6274</guid>
+ </item>
+ <item>
+  <title>程序员的压力太大了，你们都是怎么去寻找它的快乐？</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3826</link>
+  <pubDate>Wed, 05 Apr 2023 22:11:24 -0700</pubDate>
+  <guid isPermaLink="false">6275</guid>
+ </item>
  <item>
   <title>Apple 个人开发者名称只能是中文姓名吗？</title>
   <description></description>
@@ -262,34 +290,6 @@
   <link>https://w2solo.com/topics/3800</link>
   <pubDate>Mon, 27 Mar 2023 21:21:59 -0700</pubDate>
   <guid isPermaLink="false">5810</guid>
- </item>
- <item>
-  <title>我的成本 300 元的在线翻译产品 Sheetrans- JSON 翻译功能上线（beta）</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3814</link>
-  <pubDate>Mon, 27 Mar 2023 20:31:50 -0700</pubDate>
-  <guid isPermaLink="false">5811</guid>
- </item>
- <item>
-  <title>ChatGPT 微信小程序上线</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3813</link>
-  <pubDate>Mon, 27 Mar 2023 17:55:08 -0700</pubDate>
-  <guid isPermaLink="false">5812</guid>
- </item>
- <item>
-  <title>ChatGPT 微信小程序上线</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3813</link>
-  <pubDate>Mon, 27 Mar 2023 09:58:16 -0700</pubDate>
-  <guid isPermaLink="false">5761</guid>
- </item>
- <item>
-  <title># 独立开发周报 #6：国内安卓不值得</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3811</link>
-  <pubDate>Mon, 27 Mar 2023 04:45:31 -0700</pubDate>
-  <guid isPermaLink="false">5762</guid>
  </item>
 
 </channel>

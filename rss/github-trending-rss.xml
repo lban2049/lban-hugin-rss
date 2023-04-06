@@ -8,9 +8,72 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Wed, 05 Apr 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Wed, 05 Apr 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Thu, 06 Apr 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Thu, 06 Apr 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>Torantulino / AI-Functions</title>
+  <description>AI-Powered Function Magic: Never code again with GPT models!</description>
+  <link>https://github.com/Torantulino/AI-Functions</link>
+  <guid isPermaLink="false">6242</guid>
+  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>finos / perspective</title>
+  <description>A data visualization and analytics component, especially well-suited for large and/or streaming datasets.</description>
+  <link>https://github.com/finos/perspective</link>
+  <guid isPermaLink="false">6241</guid>
+  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>project-baize / baize-chatbot</title>
+  <description>Let ChatGPT teach your own chatbot in hours with a single GPU!</description>
+  <link>https://github.com/project-baize/baize-chatbot</link>
+  <guid isPermaLink="false">6240</guid>
+  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>emcf / engshell</title>
+  <description>An English-language shell for any OS, powered by LLMs</description>
+  <link>https://github.com/emcf/engshell</link>
+  <guid isPermaLink="false">6239</guid>
+  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>easychen / chatchan-dist</title>
+  <description>Chat酱独立部署版</description>
+  <link>https://github.com/easychen/chatchan-dist</link>
+  <guid isPermaLink="false">6238</guid>
+  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>justjavac / free-programming-books-zh_CN</title>
+  <description>📚 免费的计算机编程类中文书籍，欢迎投稿</description>
+  <link>https://github.com/justjavac/free-programming-books-zh_CN</link>
+  <guid isPermaLink="false">6237</guid>
+  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>nat / openplayground</title>
+  <description>An LLM playground you can run on your laptop</description>
+  <link>https://github.com/nat/openplayground</link>
+  <guid isPermaLink="false">6236</guid>
+  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>serverless-stack / sst</title>
+  <description>💥 SST makes it easy to build full-stack serverless apps.</description>
+  <link>https://github.com/serverless-stack/sst</link>
+  <guid isPermaLink="false">6235</guid>
+  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>ai-forever / Kandinsky-2</title>
+  <description>Kandinsky 2 — multilingual text2image latent diffusion model</description>
+  <link>https://github.com/ai-forever/Kandinsky-2</link>
+  <guid isPermaLink="false">6234</guid>
+  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
  <item>
   <title>l15y / wenda</title>
   <description>闻达：一个大型语言模型调用平台。目前支持chatGLM-6B、chatRWKV、chatYuan和chatGLM-6B模型下的chatPDF（自建知识库查找）</description>
@@ -227,69 +290,6 @@
   <link>https://github.com/rustformers/llama-rs</link>
   <guid isPermaLink="false">6100</guid>
   <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>stochasticai / xturing</title>
-  <description>Build and control your own LLMs</description>
-  <link>https://github.com/stochasticai/xturing</link>
-  <guid isPermaLink="false">6099</guid>
-  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>topjohnwu / Magisk</title>
-  <description>The Magic Mask for Android</description>
-  <link>https://github.com/topjohnwu/Magisk</link>
-  <guid isPermaLink="false">6098</guid>
-  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>EbookFoundation / free-programming-books</title>
-  <description>📚 Freely available programming books</description>
-  <link>https://github.com/EbookFoundation/free-programming-books</link>
-  <guid isPermaLink="false">6097</guid>
-  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>sindresorhus / awesome</title>
-  <description>😎 Awesome lists about all kinds of interesting topics</description>
-  <link>https://github.com/sindresorhus/awesome</link>
-  <guid isPermaLink="false">6096</guid>
-  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>apple / ml-stable-diffusion</title>
-  <description>Stable Diffusion with Core ML on Apple Silicon</description>
-  <link>https://github.com/apple/ml-stable-diffusion</link>
-  <guid isPermaLink="false">6095</guid>
-  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>microsoft / ML-For-Beginners</title>
-  <description>12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all</description>
-  <link>https://github.com/microsoft/ML-For-Beginners</link>
-  <guid isPermaLink="false">6056</guid>
-  <pubDate>Sun, 02 Apr 2023 10:00:02 -0700</pubDate>
- </item>
- <item>
-  <title>curl / urler</title>
-  <description>command line tool for URL parsing and manipulation</description>
-  <link>https://github.com/curl/urler</link>
-  <guid isPermaLink="false">6055</guid>
-  <pubDate>Sun, 02 Apr 2023 10:00:02 -0700</pubDate>
- </item>
- <item>
-  <title>twitter / finagle</title>
-  <description>A fault tolerant, protocol-agnostic RPC system</description>
-  <link>https://github.com/twitter/finagle</link>
-  <guid isPermaLink="false">6054</guid>
-  <pubDate>Sun, 02 Apr 2023 10:00:02 -0700</pubDate>
- </item>
- <item>
-  <title>new-ai-company / ide</title>
-  <description>$NAME is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.</description>
-  <link>https://github.com/new-ai-company/ide</link>
-  <guid isPermaLink="false">6053</guid>
-  <pubDate>Sun, 02 Apr 2023 10:00:02 -0700</pubDate>
  </item>
 
 </channel>
