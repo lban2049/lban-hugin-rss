@@ -8,9 +8,93 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Thu, 06 Apr 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Thu, 06 Apr 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Fri, 07 Apr 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Fri, 07 Apr 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>c121914yu / FastGPT</title>
+  <description>一个快速使用chatGPT的平台。支持自定义 prompt 管理。支持构建专属知识库</description>
+  <link>https://github.com/c121914yu/FastGPT</link>
+  <guid isPermaLink="false">6305</guid>
+  <pubDate>Fri, 07 Apr 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>f / awesome-chatgpt-prompts</title>
+  <description>This repo includes ChatGPT prompt curation to use ChatGPT better.</description>
+  <link>https://github.com/f/awesome-chatgpt-prompts</link>
+  <guid isPermaLink="false">6304</guid>
+  <pubDate>Fri, 07 Apr 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>corca-ai / EVAL</title>
+  <description>[Corca / DEV] EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method!</description>
+  <link>https://github.com/corca-ai/EVAL</link>
+  <guid isPermaLink="false">6303</guid>
+  <pubDate>Fri, 07 Apr 2023 10:00:08 -0700</pubDate>
+ </item>
+ <item>
+  <title>young-geng / EasyLM</title>
+  <description>Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax.</description>
+  <link>https://github.com/young-geng/EasyLM</link>
+  <guid isPermaLink="false">6302</guid>
+  <pubDate>Fri, 07 Apr 2023 10:00:07 -0700</pubDate>
+ </item>
+ <item>
+  <title>slint-ui / slint</title>
+  <description>Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or JavaScript.</description>
+  <link>https://github.com/slint-ui/slint</link>
+  <guid isPermaLink="false">6301</guid>
+  <pubDate>Fri, 07 Apr 2023 10:00:07 -0700</pubDate>
+ </item>
+ <item>
+  <title>vcheckzen / KeepAliveE5</title>
+  <description></description>
+  <link>https://github.com/vcheckzen/KeepAliveE5</link>
+  <guid isPermaLink="false">6300</guid>
+  <pubDate>Fri, 07 Apr 2023 10:00:07 -0700</pubDate>
+ </item>
+ <item>
+  <title>ViperX7 / Alpaca-Turbo</title>
+  <description>Web UI to run alpaca model locally</description>
+  <link>https://github.com/ViperX7/Alpaca-Turbo</link>
+  <guid isPermaLink="false">6299</guid>
+  <pubDate>Fri, 07 Apr 2023 10:00:07 -0700</pubDate>
+ </item>
+ <item>
+  <title>microsoft / JARVIS</title>
+  <description>JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf</description>
+  <link>https://github.com/microsoft/JARVIS</link>
+  <guid isPermaLink="false">6298</guid>
+  <pubDate>Fri, 07 Apr 2023 10:00:07 -0700</pubDate>
+ </item>
+ <item>
+  <title>VideoCrafter / VideoCrafter</title>
+  <description>A Toolkit for Text-to-Video Generation and Editing</description>
+  <link>https://github.com/VideoCrafter/VideoCrafter</link>
+  <guid isPermaLink="false">6297</guid>
+  <pubDate>Fri, 07 Apr 2023 10:00:07 -0700</pubDate>
+ </item>
+ <item>
+  <title>ArroyoSystems / arroyo</title>
+  <description>Arroyo is a distributed stream processing engine written in Rust</description>
+  <link>https://github.com/ArroyoSystems/arroyo</link>
+  <guid isPermaLink="false">6296</guid>
+  <pubDate>Fri, 07 Apr 2023 10:00:07 -0700</pubDate>
+ </item>
+ <item>
+  <title>bitloops / ddd-hexagonal-cqrs-es-eda</title>
+  <description>Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS. Like what you see? Don't forget to star! ⭐ ^^^</description>
+  <link>https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda</link>
+  <guid isPermaLink="false">6295</guid>
+  <pubDate>Fri, 07 Apr 2023 10:00:07 -0700</pubDate>
+ </item>
+ <item>
+  <title>facebookresearch / segment-anything</title>
+  <description>The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</description>
+  <link>https://github.com/facebookresearch/segment-anything</link>
+  <guid isPermaLink="false">6294</guid>
+  <pubDate>Fri, 07 Apr 2023 10:00:07 -0700</pubDate>
+ </item>
  <item>
   <title>Torantulino / AI-Functions</title>
   <description>AI-Powered Function Magic: Never code again with GPT models!</description>
@@ -206,90 +290,6 @@
   <link>https://github.com/dair-ai/ML-Papers-of-the-Week</link>
   <guid isPermaLink="false">6161</guid>
   <pubDate>Tue, 04 Apr 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>bradtraversy / design-resources-for-developers</title>
-  <description>Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more</description>
-  <link>https://github.com/bradtraversy/design-resources-for-developers</link>
-  <guid isPermaLink="false">6160</guid>
-  <pubDate>Tue, 04 Apr 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>GammaTauAI / reflexion-human-eval</title>
-  <description>An implementation of a Reflexion agent for SOTA Human-Eval Python results.</description>
-  <link>https://github.com/GammaTauAI/reflexion-human-eval</link>
-  <guid isPermaLink="false">6159</guid>
-  <pubDate>Tue, 04 Apr 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>goldbergyoni / nodebestpractices</title>
-  <description>✅ The Node.js best practices list (March 2023)</description>
-  <link>https://github.com/goldbergyoni/nodebestpractices</link>
-  <guid isPermaLink="false">6158</guid>
-  <pubDate>Tue, 04 Apr 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>godly-devotion / MochiDiffusion</title>
-  <description>Run Stable Diffusion on Mac natively</description>
-  <link>https://github.com/godly-devotion/MochiDiffusion</link>
-  <guid isPermaLink="false">6157</guid>
-  <pubDate>Tue, 04 Apr 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>curl / trurl</title>
-  <description>trurl is a command line tool for URL parsing and manipulation.</description>
-  <link>https://github.com/curl/trurl</link>
-  <guid isPermaLink="false">6156</guid>
-  <pubDate>Tue, 04 Apr 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>OptimalScale / LMFlow</title>
-  <description>An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All.</description>
-  <link>https://github.com/OptimalScale/LMFlow</link>
-  <guid isPermaLink="false">6155</guid>
-  <pubDate>Tue, 04 Apr 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>terrastruct / d2</title>
-  <description>D2 is a modern diagram scripting language that turns text to diagrams.</description>
-  <link>https://github.com/terrastruct/d2</link>
-  <guid isPermaLink="false">6105</guid>
-  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>DeSinc / SallyBot</title>
-  <description>AI Chatbot coded in Discord.net C#</description>
-  <link>https://github.com/DeSinc/SallyBot</link>
-  <guid isPermaLink="false">6104</guid>
-  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>OptimalScale / LMFlow</title>
-  <description>An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All. 共建大模型社区，让每个人都训得起大模型。</description>
-  <link>https://github.com/OptimalScale/LMFlow</link>
-  <guid isPermaLink="false">6103</guid>
-  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>DarkFlippers / unleashed-firmware</title>
-  <description>Flipper Zero Unleashed Firmware</description>
-  <link>https://github.com/DarkFlippers/unleashed-firmware</link>
-  <guid isPermaLink="false">6102</guid>
-  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>gothinkster / realworld</title>
-  <description>"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more</description>
-  <link>https://github.com/gothinkster/realworld</link>
-  <guid isPermaLink="false">6101</guid>
-  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
- </item>
- <item>
-  <title>rustformers / llama-rs</title>
-  <description>Run LLaMA inference on CPU, with Rust 🦀🚀🦙</description>
-  <link>https://github.com/rustformers/llama-rs</link>
-  <guid isPermaLink="false">6100</guid>
-  <pubDate>Mon, 03 Apr 2023 10:00:06 -0700</pubDate>
  </item>
 
 </channel>
