@@ -8,9 +8,23 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 07 Apr 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Fri, 07 Apr 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Sat, 08 Apr 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Sat, 08 Apr 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>独立开发出海往事 #1</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3849</link>
+  <pubDate>Sat, 08 Apr 2023 06:58:28 -0700</pubDate>
+  <guid isPermaLink="false">6396</guid>
+ </item>
+ <item>
+  <title>金橘记账 v2.2.4 更新，全新投资账户详情页，投资账户支持沪深、港、美股</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3829</link>
+  <pubDate>Fri, 07 Apr 2023 18:18:12 -0700</pubDate>
+  <guid isPermaLink="false">6397</guid>
+ </item>
  <item>
   <title>带人回血成功的导师叫什么 (中国) 维基百科</title>
   <description></description>
@@ -276,20 +290,6 @@
   <link>https://w2solo.com/topics/3817</link>
   <pubDate>Tue, 28 Mar 2023 20:43:08 -0700</pubDate>
   <guid isPermaLink="false">5876</guid>
- </item>
- <item>
-  <title>找北京 AIGC 相关领域感兴趣的小伙伴创业交流</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3818</link>
-  <pubDate>Tue, 28 Mar 2023 19:31:23 -0700</pubDate>
-  <guid isPermaLink="false">5877</guid>
- </item>
- <item>
-  <title>开发了一个 macos 应用，因为无法上架，请问怎么集成付费功能？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3817</link>
-  <pubDate>Tue, 28 Mar 2023 08:35:49 -0700</pubDate>
-  <guid isPermaLink="false">5803</guid>
  </item>
 
 </channel>

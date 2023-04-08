@@ -8,9 +8,107 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Fri, 07 Apr 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Fri, 07 Apr 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Sat, 08 Apr 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Sat, 08 Apr 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>chroma-core / chroma</title>
+  <description>the open source embedding database</description>
+  <link>https://github.com/chroma-core/chroma</link>
+  <guid isPermaLink="false">6368</guid>
+  <pubDate>Sat, 08 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>lvwerra / trl</title>
+  <description>Train transformer language models with reinforcement learning.</description>
+  <link>https://github.com/lvwerra/trl</link>
+  <guid isPermaLink="false">6367</guid>
+  <pubDate>Sat, 08 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>AUTOMATIC1111 / stable-diffusion-webui</title>
+  <description>Stable Diffusion web UI</description>
+  <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
+  <guid isPermaLink="false">6366</guid>
+  <pubDate>Sat, 08 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>oobabooga / text-generation-webui</title>
+  <description>A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.</description>
+  <link>https://github.com/oobabooga/text-generation-webui</link>
+  <guid isPermaLink="false">6365</guid>
+  <pubDate>Sat, 08 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>NARKOZ / hacker-scripts</title>
+  <description>Based on a true story</description>
+  <link>https://github.com/NARKOZ/hacker-scripts</link>
+  <guid isPermaLink="false">6364</guid>
+  <pubDate>Sat, 08 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>jackfrued / Python-100-Days</title>
+  <description>Python - 100天从新手到大师</description>
+  <link>https://github.com/jackfrued/Python-100-Days</link>
+  <guid isPermaLink="false">6363</guid>
+  <pubDate>Sat, 08 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>LAION-AI / Open-Assistant</title>
+  <description>OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.</description>
+  <link>https://github.com/LAION-AI/Open-Assistant</link>
+  <guid isPermaLink="false">6362</guid>
+  <pubDate>Sat, 08 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>TabbyML / tabby</title>
+  <description>Self-hosted AI coding assistant</description>
+  <link>https://github.com/TabbyML/tabby</link>
+  <guid isPermaLink="false">6361</guid>
+  <pubDate>Sat, 08 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>Winfredy / SadTalker</title>
+  <description>（CVPR 2023）SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation</description>
+  <link>https://github.com/Winfredy/SadTalker</link>
+  <guid isPermaLink="false">6360</guid>
+  <pubDate>Sat, 08 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>flutter / flutter</title>
+  <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
+  <link>https://github.com/flutter/flutter</link>
+  <guid isPermaLink="false">6359</guid>
+  <pubDate>Sat, 08 Apr 2023 10:00:03 -0700</pubDate>
+ </item>
+ <item>
+  <title>microsoft / PowerToys</title>
+  <description>Windows system utilities to maximize productivity</description>
+  <link>https://github.com/microsoft/PowerToys</link>
+  <guid isPermaLink="false">6358</guid>
+  <pubDate>Sat, 08 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>guangzhengli / ChatFiles</title>
+  <description>Have a conversation with files ｜与你的文件对话</description>
+  <link>https://github.com/guangzhengli/ChatFiles</link>
+  <guid isPermaLink="false">6357</guid>
+  <pubDate>Sat, 08 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>trekhleb / javascript-algorithms</title>
+  <description>📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings</description>
+  <link>https://github.com/trekhleb/javascript-algorithms</link>
+  <guid isPermaLink="false">6356</guid>
+  <pubDate>Sat, 08 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>facebook / buck2</title>
+  <description>Build system, successor to Buck</description>
+  <link>https://github.com/facebook/buck2</link>
+  <guid isPermaLink="false">6355</guid>
+  <pubDate>Sat, 08 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
  <item>
   <title>c121914yu / FastGPT</title>
   <description>一个快速使用chatGPT的平台。支持自定义 prompt 管理。支持构建专属知识库</description>
@@ -192,104 +290,6 @@
   <link>https://github.com/barretlee/cloudflare-proxy</link>
   <guid isPermaLink="false">6192</guid>
   <pubDate>Wed, 05 Apr 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>e2b-dev / e2b</title>
-  <description>e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.</description>
-  <link>https://github.com/e2b-dev/e2b</link>
-  <guid isPermaLink="false">6191</guid>
-  <pubDate>Wed, 05 Apr 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>emcf / engshell</title>
-  <description>An English-language shell powered by LLMs</description>
-  <link>https://github.com/emcf/engshell</link>
-  <guid isPermaLink="false">6190</guid>
-  <pubDate>Wed, 05 Apr 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>imClumsyPanda / langchain-ChatGLM</title>
-  <description>langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识的 ChatGLM</description>
-  <link>https://github.com/imClumsyPanda/langchain-ChatGLM</link>
-  <guid isPermaLink="false">6189</guid>
-  <pubDate>Wed, 05 Apr 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>iDvel / rime-ice</title>
-  <description>Rime 配置：雾凇拼音 | 长期维护的简体词库</description>
-  <link>https://github.com/iDvel/rime-ice</link>
-  <guid isPermaLink="false">6188</guid>
-  <pubDate>Wed, 05 Apr 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>pandas-dev / pandas</title>
-  <description>Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more</description>
-  <link>https://github.com/pandas-dev/pandas</link>
-  <guid isPermaLink="false">6187</guid>
-  <pubDate>Wed, 05 Apr 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>yoheinakajima / babyagi</title>
-  <description></description>
-  <link>https://github.com/yoheinakajima/babyagi</link>
-  <guid isPermaLink="false">6186</guid>
-  <pubDate>Wed, 05 Apr 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>Facico / Chinese-Vicuna</title>
-  <description>Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca</description>
-  <link>https://github.com/Facico/Chinese-Vicuna</link>
-  <guid isPermaLink="false">6168</guid>
-  <pubDate>Tue, 04 Apr 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>teknium1 / GPTeacher</title>
-  <description>A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer</description>
-  <link>https://github.com/teknium1/GPTeacher</link>
-  <guid isPermaLink="false">6167</guid>
-  <pubDate>Tue, 04 Apr 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>THUDM / ChatGLM-6B</title>
-  <description>ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model</description>
-  <link>https://github.com/THUDM/ChatGLM-6B</link>
-  <guid isPermaLink="false">6166</guid>
-  <pubDate>Tue, 04 Apr 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>igorbrigadir / awesome-twitter-algo</title>
-  <description>The release of the Twitter algorithm, annotated for recsys</description>
-  <link>https://github.com/igorbrigadir/awesome-twitter-algo</link>
-  <guid isPermaLink="false">6165</guid>
-  <pubDate>Tue, 04 Apr 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>public-apis / public-apis</title>
-  <description>A collective list of free APIs</description>
-  <link>https://github.com/public-apis/public-apis</link>
-  <guid isPermaLink="false">6164</guid>
-  <pubDate>Tue, 04 Apr 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>exaloop / codon</title>
-  <description>A high-performance, zero-overhead, extensible Python compiler using LLVM</description>
-  <link>https://github.com/exaloop/codon</link>
-  <guid isPermaLink="false">6163</guid>
-  <pubDate>Tue, 04 Apr 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>mayooear / gpt4-pdf-chatbot-langchain</title>
-  <description>GPT4 &amp; LangChain Chatbot for large PDF docs</description>
-  <link>https://github.com/mayooear/gpt4-pdf-chatbot-langchain</link>
-  <guid isPermaLink="false">6162</guid>
-  <pubDate>Tue, 04 Apr 2023 10:00:09 -0700</pubDate>
- </item>
- <item>
-  <title>dair-ai / ML-Papers-of-the-Week</title>
-  <description>🔥Highlighting the top ML papers every week.</description>
-  <link>https://github.com/dair-ai/ML-Papers-of-the-Week</link>
-  <guid isPermaLink="false">6161</guid>
-  <pubDate>Tue, 04 Apr 2023 10:00:09 -0700</pubDate>
  </item>
 
 </channel>
