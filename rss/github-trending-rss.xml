@@ -8,9 +8,72 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 08 Apr 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Sat, 08 Apr 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Sun, 09 Apr 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Sun, 09 Apr 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>vinta / awesome-python</title>
+  <description>A curated list of awesome Python frameworks, libraries, software and resources</description>
+  <link>https://github.com/vinta/awesome-python</link>
+  <guid isPermaLink="false">6418</guid>
+  <pubDate>Sun, 09 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>BuilderIO / ai-shell</title>
+  <description>A CLI that converts natural language to shell commands.</description>
+  <link>https://github.com/BuilderIO/ai-shell</link>
+  <guid isPermaLink="false">6417</guid>
+  <pubDate>Sun, 09 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>TheAlgorithms / Python</title>
+  <description>All Algorithms implemented in Python</description>
+  <link>https://github.com/TheAlgorithms/Python</link>
+  <guid isPermaLink="false">6416</guid>
+  <pubDate>Sun, 09 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>l15y / wenda</title>
+  <description>闻达：一个LLM调用平台。旨在通过使用为小模型外挂知识库查找的方式，在不能涌现的前提下实现近似于大模型的生成能力</description>
+  <link>https://github.com/l15y/wenda</link>
+  <guid isPermaLink="false">6415</guid>
+  <pubDate>Sun, 09 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>oobabooga / text-generation-webui</title>
+  <description>A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.</description>
+  <link>https://github.com/oobabooga/text-generation-webui</link>
+  <guid isPermaLink="false">6414</guid>
+  <pubDate>Sun, 09 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>Akegarasu / ChatGLM-webui</title>
+  <description>A WebUI for ChatGLM-6B</description>
+  <link>https://github.com/Akegarasu/ChatGLM-webui</link>
+  <guid isPermaLink="false">6413</guid>
+  <pubDate>Sun, 09 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>Instruction-Tuning-with-GPT-4 / GPT-4-LLM</title>
+  <description></description>
+  <link>https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM</link>
+  <guid isPermaLink="false">6412</guid>
+  <pubDate>Sun, 09 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>nomic-ai / gpt4all-ui</title>
+  <description>gpt4all chatbot ui</description>
+  <link>https://github.com/nomic-ai/gpt4all-ui</link>
+  <guid isPermaLink="false">6411</guid>
+  <pubDate>Sun, 09 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>IDEA-Research / Grounded-Segment-Anything</title>
+  <description>Marrying Grounding DINO with Segment Anything &amp; Stable Diffusion &amp; BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs</description>
+  <link>https://github.com/IDEA-Research/Grounded-Segment-Anything</link>
+  <guid isPermaLink="false">6410</guid>
+  <pubDate>Sun, 09 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
  <item>
   <title>chroma-core / chroma</title>
   <description>the open source embedding database</description>
@@ -227,69 +290,6 @@
   <link>https://github.com/easychen/chatchan-dist</link>
   <guid isPermaLink="false">6238</guid>
   <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
- </item>
- <item>
-  <title>justjavac / free-programming-books-zh_CN</title>
-  <description>📚 免费的计算机编程类中文书籍，欢迎投稿</description>
-  <link>https://github.com/justjavac/free-programming-books-zh_CN</link>
-  <guid isPermaLink="false">6237</guid>
-  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
- </item>
- <item>
-  <title>nat / openplayground</title>
-  <description>An LLM playground you can run on your laptop</description>
-  <link>https://github.com/nat/openplayground</link>
-  <guid isPermaLink="false">6236</guid>
-  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
- </item>
- <item>
-  <title>serverless-stack / sst</title>
-  <description>💥 SST makes it easy to build full-stack serverless apps.</description>
-  <link>https://github.com/serverless-stack/sst</link>
-  <guid isPermaLink="false">6235</guid>
-  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
- </item>
- <item>
-  <title>ai-forever / Kandinsky-2</title>
-  <description>Kandinsky 2 — multilingual text2image latent diffusion model</description>
-  <link>https://github.com/ai-forever/Kandinsky-2</link>
-  <guid isPermaLink="false">6234</guid>
-  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
- </item>
- <item>
-  <title>l15y / wenda</title>
-  <description>闻达：一个大型语言模型调用平台。目前支持chatGLM-6B、chatRWKV、chatYuan和chatGLM-6B模型下的chatPDF（自建知识库查找）</description>
-  <link>https://github.com/l15y/wenda</link>
-  <guid isPermaLink="false">6196</guid>
-  <pubDate>Wed, 05 Apr 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>misskey-dev / misskey</title>
-  <description>🌎 An interplanetary microblogging platform 🚀</description>
-  <link>https://github.com/misskey-dev/misskey</link>
-  <guid isPermaLink="false">6195</guid>
-  <pubDate>Wed, 05 Apr 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>alibaba / COLA</title>
-  <description>🥤 COLA: Clean Object-oriented &amp; Layered Architecture</description>
-  <link>https://github.com/alibaba/COLA</link>
-  <guid isPermaLink="false">6194</guid>
-  <pubDate>Wed, 05 Apr 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>SkalskiP / courses</title>
-  <description>This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)</description>
-  <link>https://github.com/SkalskiP/courses</link>
-  <guid isPermaLink="false">6193</guid>
-  <pubDate>Wed, 05 Apr 2023 10:00:11 -0700</pubDate>
- </item>
- <item>
-  <title>barretlee / cloudflare-proxy</title>
-  <description>Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出</description>
-  <link>https://github.com/barretlee/cloudflare-proxy</link>
-  <guid isPermaLink="false">6192</guid>
-  <pubDate>Wed, 05 Apr 2023 10:00:11 -0700</pubDate>
  </item>
 
 </channel>

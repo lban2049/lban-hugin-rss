@@ -8,9 +8,16 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sat, 08 Apr 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Sat, 08 Apr 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Sun, 09 Apr 2023 14:00:03 -0700</lastBuildDate>
+ <pubDate>Sun, 09 Apr 2023 14:00:03 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>尝试做付费社交 # 七日恋人</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3850</link>
+  <pubDate>Sun, 09 Apr 2023 09:13:23 -0700</pubDate>
+  <guid isPermaLink="false">6443</guid>
+ </item>
  <item>
   <title>独立开发出海往事 #1</title>
   <description></description>
@@ -283,13 +290,6 @@
   <link>https://w2solo.com/topics/3819</link>
   <pubDate>Wed, 29 Mar 2023 00:49:59 -0700</pubDate>
   <guid isPermaLink="false">5875</guid>
- </item>
- <item>
-  <title>开发了一个 macos 应用，因为无法上架，请问怎么集成付费功能？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3817</link>
-  <pubDate>Tue, 28 Mar 2023 20:43:08 -0700</pubDate>
-  <guid isPermaLink="false">5876</guid>
  </item>
 
 </channel>
