@@ -8,9 +8,72 @@
  <title>github Trending RSS</title>
  <description>github Trending RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 09 Apr 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Sun, 09 Apr 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Mon, 10 Apr 2023 14:00:02 -0700</lastBuildDate>
+ <pubDate>Mon, 10 Apr 2023 14:00:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>prophesier / diff-svc</title>
+  <description>Singing Voice Conversion via diffusion model</description>
+  <link>https://github.com/prophesier/diff-svc</link>
+  <guid isPermaLink="false">6463</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>base-org / node</title>
+  <description>Everything required to run your own Base node</description>
+  <link>https://github.com/base-org/node</link>
+  <guid isPermaLink="false">6462</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>BlinkDL / ChatRWKV</title>
+  <description>ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.</description>
+  <link>https://github.com/BlinkDL/ChatRWKV</link>
+  <guid isPermaLink="false">6461</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>jpmorganchase / python-training</title>
+  <description>Python training for business analysts and traders</description>
+  <link>https://github.com/jpmorganchase/python-training</link>
+  <guid isPermaLink="false">6460</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>abetlen / llama-cpp-python</title>
+  <description>Python bindings for llama.cpp</description>
+  <link>https://github.com/abetlen/llama-cpp-python</link>
+  <guid isPermaLink="false">6459</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>WerWolv / ImHex</title>
+  <description>🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</description>
+  <link>https://github.com/WerWolv/ImHex</link>
+  <guid isPermaLink="false">6458</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>ziglang / zig</title>
+  <description>General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.</description>
+  <link>https://github.com/ziglang/zig</link>
+  <guid isPermaLink="false">6457</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>Mikubill / sd-webui-controlnet</title>
+  <description>WebUI extension for ControlNet</description>
+  <link>https://github.com/Mikubill/sd-webui-controlnet</link>
+  <guid isPermaLink="false">6456</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>Moonvy / OpenPromptStudio</title>
+  <description>🥣 AIGC 提示词可视化编辑器</description>
+  <link>https://github.com/Moonvy/OpenPromptStudio</link>
+  <guid isPermaLink="false">6455</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
  <item>
   <title>vinta / awesome-python</title>
   <description>A curated list of awesome Python frameworks, libraries, software and resources</description>
@@ -227,69 +290,6 @@
   <link>https://github.com/microsoft/JARVIS</link>
   <guid isPermaLink="false">6298</guid>
   <pubDate>Fri, 07 Apr 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>VideoCrafter / VideoCrafter</title>
-  <description>A Toolkit for Text-to-Video Generation and Editing</description>
-  <link>https://github.com/VideoCrafter/VideoCrafter</link>
-  <guid isPermaLink="false">6297</guid>
-  <pubDate>Fri, 07 Apr 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>ArroyoSystems / arroyo</title>
-  <description>Arroyo is a distributed stream processing engine written in Rust</description>
-  <link>https://github.com/ArroyoSystems/arroyo</link>
-  <guid isPermaLink="false">6296</guid>
-  <pubDate>Fri, 07 Apr 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>bitloops / ddd-hexagonal-cqrs-es-eda</title>
-  <description>Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS. Like what you see? Don't forget to star! ⭐ ^^^</description>
-  <link>https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda</link>
-  <guid isPermaLink="false">6295</guid>
-  <pubDate>Fri, 07 Apr 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>facebookresearch / segment-anything</title>
-  <description>The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</description>
-  <link>https://github.com/facebookresearch/segment-anything</link>
-  <guid isPermaLink="false">6294</guid>
-  <pubDate>Fri, 07 Apr 2023 10:00:07 -0700</pubDate>
- </item>
- <item>
-  <title>Torantulino / AI-Functions</title>
-  <description>AI-Powered Function Magic: Never code again with GPT models!</description>
-  <link>https://github.com/Torantulino/AI-Functions</link>
-  <guid isPermaLink="false">6242</guid>
-  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
- </item>
- <item>
-  <title>finos / perspective</title>
-  <description>A data visualization and analytics component, especially well-suited for large and/or streaming datasets.</description>
-  <link>https://github.com/finos/perspective</link>
-  <guid isPermaLink="false">6241</guid>
-  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
- </item>
- <item>
-  <title>project-baize / baize-chatbot</title>
-  <description>Let ChatGPT teach your own chatbot in hours with a single GPU!</description>
-  <link>https://github.com/project-baize/baize-chatbot</link>
-  <guid isPermaLink="false">6240</guid>
-  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
- </item>
- <item>
-  <title>emcf / engshell</title>
-  <description>An English-language shell for any OS, powered by LLMs</description>
-  <link>https://github.com/emcf/engshell</link>
-  <guid isPermaLink="false">6239</guid>
-  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
- </item>
- <item>
-  <title>easychen / chatchan-dist</title>
-  <description>Chat酱独立部署版</description>
-  <link>https://github.com/easychen/chatchan-dist</link>
-  <guid isPermaLink="false">6238</guid>
-  <pubDate>Thu, 06 Apr 2023 10:00:03 -0700</pubDate>
  </item>
 
 </channel>

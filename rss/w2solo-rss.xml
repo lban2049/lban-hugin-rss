@@ -8,9 +8,44 @@
  <title>w2solo RSS</title>
  <description>w2solo RSS</description>
  <link>https://hrss.lban.xyz</link>
- <lastBuildDate>Sun, 09 Apr 2023 14:00:03 -0700</lastBuildDate>
- <pubDate>Sun, 09 Apr 2023 14:00:03 -0700</pubDate>
+ <lastBuildDate>Mon, 10 Apr 2023 14:00:02 -0700</lastBuildDate>
+ <pubDate>Mon, 10 Apr 2023 14:00:02 -0700</pubDate>
  <ttl>60</ttl>
+ <item>
+  <title>有小伙伴对我的项目有兴趣吗</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3854</link>
+  <pubDate>Mon, 10 Apr 2023 09:09:09 -0700</pubDate>
+  <guid isPermaLink="false">6496</guid>
+ </item>
+ <item>
+  <title>日记应用寻找靠谱的运营</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3805</link>
+  <pubDate>Mon, 10 Apr 2023 08:54:04 -0700</pubDate>
+  <guid isPermaLink="false">6497</guid>
+ </item>
+ <item>
+  <title>独立开发周报 #8：开始运动</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3852</link>
+  <pubDate>Mon, 10 Apr 2023 08:13:28 -0700</pubDate>
+  <guid isPermaLink="false">6498</guid>
+ </item>
+ <item>
+  <title>稳定免费的 pc 电脑梯子 Westworld 全面测评，免费科学上网软件，支持手机电脑多开</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3853</link>
+  <pubDate>Mon, 10 Apr 2023 00:39:00 -0700</pubDate>
+  <guid isPermaLink="false">6499</guid>
+ </item>
+ <item>
+  <title>产品经理转独立开发者，在路上</title>
+  <description></description>
+  <link>https://w2solo.com/topics/3851</link>
+  <pubDate>Sun, 09 Apr 2023 23:01:54 -0700</pubDate>
+  <guid isPermaLink="false">6500</guid>
+ </item>
  <item>
   <title>尝试做付费社交 # 七日恋人</title>
   <description></description>
@@ -255,41 +290,6 @@
   <link>https://w2solo.com/topics/3793</link>
   <pubDate>Wed, 29 Mar 2023 22:39:40 -0700</pubDate>
   <guid isPermaLink="false">5933</guid>
- </item>
- <item>
-  <title>我的目标是做出好的工具软件</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3821</link>
-  <pubDate>Wed, 29 Mar 2023 21:32:02 -0700</pubDate>
-  <guid isPermaLink="false">5934</guid>
- </item>
- <item>
-  <title>开发了一个 macos 应用，因为无法上架，请问怎么集成付费功能？</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3817</link>
-  <pubDate>Wed, 29 Mar 2023 20:27:43 -0700</pubDate>
-  <guid isPermaLink="false">5935</guid>
- </item>
- <item>
-  <title>新人报道，在往独立开发的道路上努力</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3819</link>
-  <pubDate>Wed, 29 Mar 2023 20:27:38 -0700</pubDate>
-  <guid isPermaLink="false">5936</guid>
- </item>
- <item>
-  <title>2023.3.26 独立开发者线上聚会记录</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3820</link>
-  <pubDate>Wed, 29 Mar 2023 20:09:04 -0700</pubDate>
-  <guid isPermaLink="false">5937</guid>
- </item>
- <item>
-  <title>新人报道，在往独立开发的道路上努力</title>
-  <description></description>
-  <link>https://w2solo.com/topics/3819</link>
-  <pubDate>Wed, 29 Mar 2023 00:49:59 -0700</pubDate>
-  <guid isPermaLink="false">5875</guid>
  </item>
 
 </channel>
