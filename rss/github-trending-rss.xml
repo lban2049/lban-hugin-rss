@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <atom:link href="https://hrss.lban.xyz/users/1/web_requests/9/github-trending-rss.xml" rel="self" type="application/rss+xml" />
+ <atom:icon>https://hrss.lban.xyz/favicon.ico</atom:icon>
+ 
+
+ <title>github Trending RSS</title>
+ <description>github Trending RSS</description>
+ <link>https://hrss.lban.xyz</link>
+ <lastBuildDate>Wed, 19 Apr 2023 19:54:30 -0700</lastBuildDate>
+ <pubDate>Wed, 19 Apr 2023 19:54:30 -0700</pubDate>
+ <ttl>60</ttl>
+ <item>
+  <title></title>
+  <description>Inference code for LLaMA models</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6551</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>Investment Research for Everyone, Anywhere.</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6550</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>Plugins for Auto-GPT</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6549</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>Auto-GPT on the browser</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6548</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识的 ChatGLM 问答</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6547</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6546</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6545</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>潘多拉，一个不只是命令行的ChatGPT。</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6544</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>gpt4all-j chat</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6543</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>Design System with Web Components</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6542</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>Bypass Paywalls web browser extension for Chrome and Firefox.</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6541</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6540</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>贺师俊与360的劳动争议诉讼</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6539</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>This is an AI agent for Street Fighter II Champion Edition.</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6538</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6537</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>🤖️ 桌面端AI语言练习应用</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6536</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6535</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>Beautifully designed components built with Radix UI and Tailwind CSS.</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6534</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>GPTCache is a library for creating semantic cache to store responses from LLM queries.</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6533</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>The RedPajama-Data repository contains code for preparing large datasets for training large language models.</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6532</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>Inpaint anything using Segment Anything and inpainting models.</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6531</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>Stable Diffusion Painting</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6530</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6529</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>PyTorch code and models for the DINOv2 self-supervised learning method.</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6528</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title></title>
+  <description>MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models</description>
+  <link>https://github.com</link>
+  <guid isPermaLink="false">6527</guid>
+  <pubDate>Wed, 19 Apr 2023 10:00:02 -0700</pubDate>
+ </item>
+ <item>
+  <title>prophesier / diff-svc</title>
+  <description>Singing Voice Conversion via diffusion model</description>
+  <link>https://github.com/prophesier/diff-svc</link>
+  <guid isPermaLink="false">6463</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>base-org / node</title>
+  <description>Everything required to run your own Base node</description>
+  <link>https://github.com/base-org/node</link>
+  <guid isPermaLink="false">6462</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>BlinkDL / ChatRWKV</title>
+  <description>ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.</description>
+  <link>https://github.com/BlinkDL/ChatRWKV</link>
+  <guid isPermaLink="false">6461</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>jpmorganchase / python-training</title>
+  <description>Python training for business analysts and traders</description>
+  <link>https://github.com/jpmorganchase/python-training</link>
+  <guid isPermaLink="false">6460</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>abetlen / llama-cpp-python</title>
+  <description>Python bindings for llama.cpp</description>
+  <link>https://github.com/abetlen/llama-cpp-python</link>
+  <guid isPermaLink="false">6459</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>WerWolv / ImHex</title>
+  <description>🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</description>
+  <link>https://github.com/WerWolv/ImHex</link>
+  <guid isPermaLink="false">6458</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>ziglang / zig</title>
+  <description>General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.</description>
+  <link>https://github.com/ziglang/zig</link>
+  <guid isPermaLink="false">6457</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>Mikubill / sd-webui-controlnet</title>
+  <description>WebUI extension for ControlNet</description>
+  <link>https://github.com/Mikubill/sd-webui-controlnet</link>
+  <guid isPermaLink="false">6456</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>Moonvy / OpenPromptStudio</title>
+  <description>🥣 AIGC 提示词可视化编辑器</description>
+  <link>https://github.com/Moonvy/OpenPromptStudio</link>
+  <guid isPermaLink="false">6455</guid>
+  <pubDate>Mon, 10 Apr 2023 10:00:10 -0700</pubDate>
+ </item>
+ <item>
+  <title>vinta / awesome-python</title>
+  <description>A curated list of awesome Python frameworks, libraries, software and resources</description>
+  <link>https://github.com/vinta/awesome-python</link>
+  <guid isPermaLink="false">6418</guid>
+  <pubDate>Sun, 09 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>BuilderIO / ai-shell</title>
+  <description>A CLI that converts natural language to shell commands.</description>
+  <link>https://github.com/BuilderIO/ai-shell</link>
+  <guid isPermaLink="false">6417</guid>
+  <pubDate>Sun, 09 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>TheAlgorithms / Python</title>
+  <description>All Algorithms implemented in Python</description>
+  <link>https://github.com/TheAlgorithms/Python</link>
+  <guid isPermaLink="false">6416</guid>
+  <pubDate>Sun, 09 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>l15y / wenda</title>
+  <description>闻达：一个LLM调用平台。旨在通过使用为小模型外挂知识库查找的方式，在不能涌现的前提下实现近似于大模型的生成能力</description>
+  <link>https://github.com/l15y/wenda</link>
+  <guid isPermaLink="false">6415</guid>
+  <pubDate>Sun, 09 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>oobabooga / text-generation-webui</title>
+  <description>A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.</description>
+  <link>https://github.com/oobabooga/text-generation-webui</link>
+  <guid isPermaLink="false">6414</guid>
+  <pubDate>Sun, 09 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+ <item>
+  <title>Akegarasu / ChatGLM-webui</title>
+  <description>A WebUI for ChatGLM-6B</description>
+  <link>https://github.com/Akegarasu/ChatGLM-webui</link>
+  <guid isPermaLink="false">6413</guid>
+  <pubDate>Sun, 09 Apr 2023 10:00:06 -0700</pubDate>
+ </item>
+
+</channel>
+</rss>
